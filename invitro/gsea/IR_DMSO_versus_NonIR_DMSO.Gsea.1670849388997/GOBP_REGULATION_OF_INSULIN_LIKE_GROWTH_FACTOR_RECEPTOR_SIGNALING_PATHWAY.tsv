@@ -1,0 +1,18 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	IGFBP3	insulin like growth factor binding protein 3 [Source:HGNC Symbol;Acc:HGNC:5472]	54	2.7369589805603027	0.16824411	Yes	
+row_1	BMP2	bone morphogenetic protein 2 [Source:HGNC Symbol;Acc:HGNC:1069]	61	2.6806225776672363	0.33577132	Yes	
+row_2	IGFBP5	insulin like growth factor binding protein 5 [Source:HGNC Symbol;Acc:HGNC:5474]	214	2.071312665939331	0.45658845	Yes	
+row_3	CILP	cartilage intermediate layer protein [Source:HGNC Symbol;Acc:HGNC:1980]	353	1.8170863389968872	0.56230414	Yes	
+row_4	IGFBP6	insulin like growth factor binding protein 6 [Source:HGNC Symbol;Acc:HGNC:5475]	589	1.5138120651245117	0.64334565	Yes	
+row_5	IGFBP2	insulin like growth factor binding protein 2 [Source:HGNC Symbol;Acc:HGNC:5471]	1030	1.1974209547042847	0.69256604	Yes	
+row_6	IGFBP4	insulin like growth factor binding protein 4 [Source:HGNC Symbol;Acc:HGNC:5473]	1127	1.1401928663253784	0.75835	Yes	
+row_7	IGF1	insulin like growth factor 1 [Source:HGNC Symbol;Acc:HGNC:5464]	3079	0.6334280967712402	0.68375224	No	
+row_8	IGFBP1	insulin like growth factor binding protein 1 [Source:HGNC Symbol;Acc:HGNC:5469]	3545	0.5549723505973816	0.6912739	No	
+row_9	AR	androgen receptor [Source:HGNC Symbol;Acc:HGNC:644]	6623	0.20263008773326874	0.52374846	No	
+row_10	INPPL1	inositol polyphosphate phosphatase like 1 [Source:HGNC Symbol;Acc:HGNC:6080]	8608	0.008623245172202587	0.40808845	No	
+row_11	ZFAND2B	zinc finger AN1-type containing 2B [Source:HGNC Symbol;Acc:HGNC:25206]	9576	-0.07237706333398819	0.35598537	No	
+row_12	PHIP	pleckstrin homology domain interacting protein [Source:HGNC Symbol;Acc:HGNC:15673]	10777	-0.19707722961902618	0.29804537	No	
+row_13	TRIM72	tripartite motif containing 72 [Source:HGNC Symbol;Acc:HGNC:32671]	11265	-0.2472924441099167	0.2850096	No	
+row_14	MYORG	myogenesis regulating glycosidase (putative) [Source:HGNC Symbol;Acc:HGNC:19918]	11284	-0.2489447146654129	0.29954594	No	
+row_15	NKX3-1	NK3 homeobox 1 [Source:HGNC Symbol;Acc:HGNC:7838]	11625	-0.28992730379104614	0.2977898	No	
+row_16	CDH3	cadherin 3 [Source:HGNC Symbol;Acc:HGNC:1762]	12181	-0.35494446754455566	0.2875133	No	

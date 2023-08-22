@@ -1,0 +1,25 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SST	somatostatin [Source:HGNC Symbol;Acc:HGNC:11329]	18	2.8100762367248535	0.16673057	Yes	
+row_1	ASIC2	acid sensing ion channel subunit 2 [Source:HGNC Symbol;Acc:HGNC:99]	25	2.7008867263793945	0.3276447	Yes	
+row_2	KCNE1	potassium voltage-gated channel subfamily E regulatory subunit 1 [Source:HGNC Symbol;Acc:HGNC:6240]	466	1.386111855506897	0.3846265	Yes	
+row_3	ASIC1	acid sensing ion channel subunit 1 [Source:HGNC Symbol;Acc:HGNC:100]	595	1.2488336563110352	0.45169255	Yes	
+row_4	GPR65	G protein-coupled receptor 65 [Source:HGNC Symbol;Acc:HGNC:4517]	841	1.0659606456756592	0.5009842	Yes	
+row_5	SLC38A3	solute carrier family 38 member 3 [Source:HGNC Symbol;Acc:HGNC:18044]	982	0.9862827658653259	0.5516706	Yes	
+row_6	LGMN	legumain [Source:HGNC Symbol;Acc:HGNC:9472]	1446	0.809312105178833	0.572865	Yes	
+row_7	SERPINF1	serpin family F member 1 [Source:HGNC Symbol;Acc:HGNC:8824]	1704	0.7337517738342285	0.6016179	Yes	
+row_8	SCNN1D	sodium channel epithelial 1 subunit delta [Source:HGNC Symbol;Acc:HGNC:10601]	1910	0.6783840656280518	0.63011163	Yes	
+row_9	NOX1	NADPH oxidase 1 [Source:HGNC Symbol;Acc:HGNC:7889]	2777	0.5020722150802612	0.60934836	No	
+row_10	PCK1	phosphoenolpyruvate carboxykinase 1 [Source:HGNC Symbol;Acc:HGNC:8724]	2992	0.4722334146499634	0.6250059	No	
+row_11	CHP1	calcineurin like EF-hand protein 1 [Source:HGNC Symbol;Acc:HGNC:17433]	3681	0.3879794180393219	0.6078598	No	
+row_12	CTSS	cathepsin S [Source:HGNC Symbol;Acc:HGNC:2545]	4167	0.32965826988220215	0.59912574	No	
+row_13	AQP10	aquaporin 10 [Source:HGNC Symbol;Acc:HGNC:16029]	4576	0.2833402454853058	0.59213775	No	
+row_14	SRC	SRC proto-oncogene, non-receptor tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:11283]	4601	0.2812136113643646	0.60752237	No	
+row_15	RAB11B	RAB11B, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9761]	5413	0.19744904339313507	0.57179314	No	
+row_16	ASIC3	acid sensing ion channel subunit 3 [Source:HGNC Symbol;Acc:HGNC:101]	5815	0.16164079308509827	0.5579488	No	
+row_17	RAB11FIP5	RAB11 family interacting protein 5 [Source:HGNC Symbol;Acc:HGNC:24845]	5900	0.15426884591579437	0.5622382	No	
+row_18	GIP	gastric inhibitory polypeptide [Source:HGNC Symbol;Acc:HGNC:4270]	6355	0.11543307453393936	0.54252946	No	
+row_19	GPR4	G protein-coupled receptor 4 [Source:HGNC Symbol;Acc:HGNC:4497]	7501	0.024311264976859093	0.47689253	No	
+row_20	TRPV1	transient receptor potential cation channel subfamily V member 1 [Source:HGNC Symbol;Acc:HGNC:12716]	8176	-0.010910045355558395	0.43805254	No	
+row_21	SCNN1A	sodium channel epithelial 1 subunit alpha [Source:HGNC Symbol;Acc:HGNC:10599]	11145	-0.22444140911102295	0.27755073	No	
+row_22	IMPACT	impact RWD domain protein [Source:HGNC Symbol;Acc:HGNC:20387]	14396	-0.5148040056228638	0.1178629	No	
+row_23	SLC9A1	solute carrier family 9 member A1 [Source:HGNC Symbol;Acc:HGNC:11071]	15367	-0.6686989068984985	0.10095503	No	

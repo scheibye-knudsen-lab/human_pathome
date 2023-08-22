@@ -1,0 +1,19 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SEMA3F	semaphorin 3F [Source:HGNC Symbol;Acc:HGNC:10728]	31	3.335118532180786	0.17050676	Yes	
+row_1	SOX4	SRY-box transcription factor 4 [Source:HGNC Symbol;Acc:HGNC:11200]	62	2.9471075534820557	0.32102394	Yes	
+row_2	NRP2	neuropilin 2 [Source:HGNC Symbol;Acc:HGNC:8005]	131	2.512573719024658	0.4468634	Yes	
+row_3	HAND2	heart and neural crest derivatives expressed 2 [Source:HGNC Symbol;Acc:HGNC:4808]	357	1.8524162769317627	0.52939737	Yes	
+row_4	SOX11	SRY-box transcription factor 11 [Source:HGNC Symbol;Acc:HGNC:11191]	677	1.4565751552581787	0.5859728	Yes	
+row_5	EDNRA	endothelin receptor type A [Source:HGNC Symbol;Acc:HGNC:3179]	1492	0.9849506616592407	0.5891866	Yes	
+row_6	PLXNA4	plexin A4 [Source:HGNC Symbol;Acc:HGNC:9102]	1638	0.9327020049095154	0.62888557	Yes	
+row_7	FZD3	frizzled class receptor 3 [Source:HGNC Symbol;Acc:HGNC:4041]	2113	0.799161434173584	0.64241433	Yes	
+row_8	CTNNB1	catenin beta 1 [Source:HGNC Symbol;Acc:HGNC:2514]	3615	0.5126413106918335	0.5809854	No	
+row_9	PHOX2A	paired like homeobox 2A [Source:HGNC Symbol;Acc:HGNC:691]	8554	0.0	0.29175684	No	
+row_10	INSM1	INSM transcriptional repressor 1 [Source:HGNC Symbol;Acc:HGNC:6090]	8678	0.0	0.28455248	No	
+row_11	GATA3	GATA binding protein 3 [Source:HGNC Symbol;Acc:HGNC:4172]	8938	-0.01739461161196232	0.2702811	No	
+row_12	NRP1	neuropilin 1 [Source:HGNC Symbol;Acc:HGNC:8004]	13376	-0.4602694511413574	0.03417876	No	
+row_13	GFRA3	GDNF family receptor alpha 3 [Source:HGNC Symbol;Acc:HGNC:4245]	13488	-0.47189635038375854	0.052059717	No	
+row_14	NF1	neurofibromin 1 [Source:HGNC Symbol;Acc:HGNC:7765]	13995	-0.5398135185241699	0.050313946	No	
+row_15	NTRK1	neurotrophic receptor tyrosine kinase 1 [Source:HGNC Symbol;Acc:HGNC:8031]	15154	-0.7722620964050293	0.022389622	No	
+row_16	GDNF	glial cell derived neurotrophic factor [Source:HGNC Symbol;Acc:HGNC:4232]	15556	-0.8679179549217224	0.043746762	No	
+row_17	SEMA3A	semaphorin 3A [Source:HGNC Symbol;Acc:HGNC:10723]	15626	-0.8911354541778564	0.08574944	No	

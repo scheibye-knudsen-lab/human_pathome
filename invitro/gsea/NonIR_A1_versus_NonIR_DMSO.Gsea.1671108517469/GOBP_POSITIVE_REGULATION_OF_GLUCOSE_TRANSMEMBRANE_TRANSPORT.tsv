@@ -1,0 +1,36 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SORBS1	sorbin and SH3 domain containing 1 [Source:HGNC Symbol;Acc:HGNC:14565]	5	3.1772382259368896	0.1662241	Yes	
+row_1	IGF1	insulin like growth factor 1 [Source:HGNC Symbol;Acc:HGNC:5464]	79	2.066556692123413	0.27025115	Yes	
+row_2	CLTCL1	clathrin heavy chain like 1 [Source:HGNC Symbol;Acc:HGNC:2093]	390	1.355696439743042	0.32312703	Yes	
+row_3	OCLN	occludin [Source:HGNC Symbol;Acc:HGNC:8104]	422	1.3242233991622925	0.39071128	Yes	
+row_4	PRKCI	protein kinase C iota [Source:HGNC Symbol;Acc:HGNC:9404]	642	1.1541677713394165	0.4383605	Yes	
+row_5	MEF2A	myocyte enhancer factor 2A [Source:HGNC Symbol;Acc:HGNC:6993]	712	1.1075340509414673	0.49236023	Yes	
+row_6	NR4A3	nuclear receptor subfamily 4 group A member 3 [Source:HGNC Symbol;Acc:HGNC:7982]	817	1.0584968328475952	0.5417379	Yes	
+row_7	RHOQ	ras homolog family member Q [Source:HGNC Symbol;Acc:HGNC:17736]	1508	0.8039770722389221	0.5434189	Yes	
+row_8	CLIP3	CAP-Gly domain containing linker protein 3 [Source:HGNC Symbol;Acc:HGNC:24314]	1700	0.7500005960464478	0.5715276	Yes	
+row_9	OPN3	opsin 3 [Source:HGNC Symbol;Acc:HGNC:14007]	2152	0.6519955396652222	0.579256	Yes	
+row_10	C3	complement C3 [Source:HGNC Symbol;Acc:HGNC:1318]	2457	0.5927152633666992	0.5924963	Yes	
+row_11	IRS2	insulin receptor substrate 2 [Source:HGNC Symbol;Acc:HGNC:6126]	2867	0.5249156951904297	0.59602696	Yes	
+row_12	GIP	gastric inhibitory polypeptide [Source:HGNC Symbol;Acc:HGNC:4270]	3312	0.4656498432159424	0.5943995	Yes	
+row_13	INSR	insulin receptor [Source:HGNC Symbol;Acc:HGNC:6091]	3904	0.4022095799446106	0.58082855	Yes	
+row_14	CREBL2	cAMP responsive element binding protein like 2 [Source:HGNC Symbol;Acc:HGNC:2350]	3993	0.3922225832939148	0.5962252	Yes	
+row_15	IRS1	insulin receptor substrate 1 [Source:HGNC Symbol;Acc:HGNC:6125]	4537	0.3321805000305176	0.5817983	No	
+row_16	APPL1	adaptor protein, phosphotyrosine interacting with PH domain and leucine zipper 1 [Source:HGNC Symbol;Acc:HGNC:24035]	5795	0.2046177089214325	0.5188238	No	
+row_17	BRAF	B-Raf proto-oncogene, serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:1097]	6011	0.18541219830513	0.5159356	No	
+row_18	OSBPL8	oxysterol binding protein like 8 [Source:HGNC Symbol;Acc:HGNC:16396]	6013	0.18529626727104187	0.5255883	No	
+row_19	MAPK14	mitogen-activated protein kinase 14 [Source:HGNC Symbol;Acc:HGNC:6876]	6546	0.1326896846294403	0.50135106	No	
+row_20	NFE2L2	NFE2 like bZIP transcription factor 2 [Source:HGNC Symbol;Acc:HGNC:7782]	7550	0.0442364439368248	0.4448632	No	
+row_21	ARPP19	cAMP regulated phosphoprotein 19 [Source:HGNC Symbol;Acc:HGNC:16967]	7836	0.021093597635626793	0.42925903	No	
+row_22	FGF19	fibroblast growth factor 19 [Source:HGNC Symbol;Acc:HGNC:3675]	8304	0.0	0.40187865	No	
+row_23	ERFE	erythroferrone [Source:HGNC Symbol;Acc:HGNC:26727]	8529	-0.007821343839168549	0.38915536	No	
+row_24	RNASEL	ribonuclease L [Source:HGNC Symbol;Acc:HGNC:10050]	8701	-0.021608350798487663	0.38026202	No	
+row_25	CAPN10	calpain 10 [Source:HGNC Symbol;Acc:HGNC:1477]	8967	-0.044292788952589035	0.36704633	No	
+row_26	PIK3R1	phosphoinositide-3-kinase regulatory subunit 1 [Source:HGNC Symbol;Acc:HGNC:8979]	9007	-0.04767018184065819	0.3672581	No	
+row_27	AKT2	AKT serine/threonine kinase 2 [Source:HGNC Symbol;Acc:HGNC:392]	9166	-0.062207598239183426	0.36125478	No	
+row_28	PTPN11	protein tyrosine phosphatase non-receptor type 11 [Source:HGNC Symbol;Acc:HGNC:9644]	9500	-0.09045105427503586	0.34647134	No	
+row_29	GPC3	glypican 3 [Source:HGNC Symbol;Acc:HGNC:4451]	10627	-0.18350760638713837	0.29007104	No	
+row_30	C1QTNF12	C1q and TNF related 12 [Source:HGNC Symbol;Acc:HGNC:32308]	10908	-0.20874303579330444	0.28459466	No	
+row_31	C2CD5	C2 calcium dependent domain containing 5 [Source:HGNC Symbol;Acc:HGNC:29062]	11179	-0.23286646604537964	0.28096884	No	
+row_32	KLF15	Kruppel like factor 15 [Source:HGNC Symbol;Acc:HGNC:14536]	11912	-0.3006357252597809	0.25380754	No	
+row_33	AKT1	AKT serine/threonine kinase 1 [Source:HGNC Symbol;Acc:HGNC:391]	12283	-0.34056994318962097	0.24996337	No	
+row_34	SLC1A2	solute carrier family 1 member 2 [Source:HGNC Symbol;Acc:HGNC:10940]	14540	-0.6070349216461182	0.14950757	No	

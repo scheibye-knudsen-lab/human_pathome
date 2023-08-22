@@ -1,0 +1,151 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	HMCN1	hemicentin 1 [Source:HGNC Symbol;Acc:HGNC:19194]	104	1.8472280502319336	0.016810786	Yes	
+row_1	PCDHA9	protocadherin alpha 9 [Source:HGNC Symbol;Acc:HGNC:8675]	128	1.7526421546936035	0.037227746	Yes	
+row_2	FAT2	FAT atypical cadherin 2 [Source:HGNC Symbol;Acc:HGNC:3596]	159	1.6491730213165283	0.055946022	Yes	
+row_3	FAT4	FAT atypical cadherin 4 [Source:HGNC Symbol;Acc:HGNC:23109]	178	1.6106059551239014	0.07489348	Yes	
+row_4	DCHS1	dachsous cadherin-related 1 [Source:HGNC Symbol;Acc:HGNC:13681]	368	1.2436968088150024	0.07918866	Yes	
+row_5	SDK1	sidekick cell adhesion molecule 1 [Source:HGNC Symbol;Acc:HGNC:19307]	606	1.0128092765808105	0.077781945	Yes	
+row_6	NECTIN4	nectin cell adhesion molecule 4 [Source:HGNC Symbol;Acc:HGNC:19688]	620	1.0054948329925537	0.08950672	Yes	
+row_7	CELSR2	cadherin EGF LAG seven-pass G-type receptor 2 [Source:HGNC Symbol;Acc:HGNC:3231]	621	1.0040004253387451	0.101980306	Yes	
+row_8	PKD1	polycystin 1, transient receptor potential channel interacting [Source:HGNC Symbol;Acc:HGNC:9008]	701	0.973127543926239	0.10940708	Yes	
+row_9	PCDHGA5	protocadherin gamma subfamily A, 5 [Source:HGNC Symbol;Acc:HGNC:8703]	755	0.9470316171646118	0.118044384	Yes	
+row_10	CDH11	cadherin 11 [Source:HGNC Symbol;Acc:HGNC:1750]	756	0.9465199112892151	0.12980384	Yes	
+row_11	PCDHGB7	protocadherin gamma subfamily B, 7 [Source:HGNC Symbol;Acc:HGNC:8714]	769	0.94016432762146	0.14077598	Yes	
+row_12	IGSF9	immunoglobulin superfamily member 9 [Source:HGNC Symbol;Acc:HGNC:18132]	799	0.9263474345207214	0.15057299	Yes	
+row_13	PTPRT	protein tyrosine phosphatase receptor type T [Source:HGNC Symbol;Acc:HGNC:9682]	821	0.9168357253074646	0.16072404	Yes	
+row_14	PCDHGA7	protocadherin gamma subfamily A, 7 [Source:HGNC Symbol;Acc:HGNC:8705]	860	0.9013366103172302	0.16967906	Yes	
+row_15	PCDH7	protocadherin 7 [Source:HGNC Symbol;Acc:HGNC:8659]	865	0.9004502892494202	0.18063004	Yes	
+row_16	CDH2	cadherin 2 [Source:HGNC Symbol;Acc:HGNC:1759]	885	0.8938162326812744	0.19061317	Yes	
+row_17	PCDHGB3	protocadherin gamma subfamily B, 3 [Source:HGNC Symbol;Acc:HGNC:8710]	889	0.8914801478385925	0.20151171	Yes	
+row_18	PCDHB12	protocadherin beta 12 [Source:HGNC Symbol;Acc:HGNC:8683]	918	0.8824236989021301	0.21082205	Yes	
+row_19	PCDHB10	protocadherin beta 10 [Source:HGNC Symbol;Acc:HGNC:8681]	936	0.8772724866867065	0.2207177	Yes	
+row_20	PCDH18	protocadherin 18 [Source:HGNC Symbol;Acc:HGNC:14268]	938	0.876872181892395	0.23155282	Yes	
+row_21	PCDHGA8	protocadherin gamma subfamily A, 8 [Source:HGNC Symbol;Acc:HGNC:8706]	939	0.8765465617179871	0.24244292	Yes	
+row_22	PCDHB14	protocadherin beta 14 [Source:HGNC Symbol;Acc:HGNC:8685]	958	0.8714292049407959	0.25220695	Yes	
+row_23	PCDHGA10	protocadherin gamma subfamily A, 10 [Source:HGNC Symbol;Acc:HGNC:8697]	1066	0.8408937454223633	0.25633806	Yes	
+row_24	PCDHGB1	protocadherin gamma subfamily B, 1 [Source:HGNC Symbol;Acc:HGNC:8708]	1070	0.8401480317115784	0.26659888	Yes	
+row_25	PALLD	palladin, cytoskeletal associated protein [Source:HGNC Symbol;Acc:HGNC:17068]	1171	0.8120087385177612	0.27078435	Yes	
+row_26	FAT1	FAT atypical cadherin 1 [Source:HGNC Symbol;Acc:HGNC:3595]	1274	0.781068742275238	0.27446735	Yes	
+row_27	CNTN4	contactin 4 [Source:HGNC Symbol;Acc:HGNC:2174]	1304	0.7721558809280396	0.2823487	Yes	
+row_28	PCDHB11	protocadherin beta 11 [Source:HGNC Symbol;Acc:HGNC:8682]	1357	0.7555957436561584	0.28866667	Yes	
+row_29	PCDHA2	protocadherin alpha 2 [Source:HGNC Symbol;Acc:HGNC:8668]	1384	0.7491930723190308	0.2964398	Yes	
+row_30	PCDH15	protocadherin related 15 [Source:HGNC Symbol;Acc:HGNC:14674]	1569	0.7097207903862	0.29439607	Yes	
+row_31	PCDH10	protocadherin 10 [Source:HGNC Symbol;Acc:HGNC:13404]	1716	0.6737146377563477	0.29414806	Yes	
+row_32	PCDHB13	protocadherin beta 13 [Source:HGNC Symbol;Acc:HGNC:8684]	1721	0.6730712652206421	0.3022741	Yes	
+row_33	CDH8	cadherin 8 [Source:HGNC Symbol;Acc:HGNC:1767]	1750	0.6676927208900452	0.30891666	Yes	
+row_34	PCDHGB2	protocadherin gamma subfamily B, 2 [Source:HGNC Symbol;Acc:HGNC:8709]	1786	0.6572535634040833	0.3150163	Yes	
+row_35	PCDHGB6	protocadherin gamma subfamily B, 6 [Source:HGNC Symbol;Acc:HGNC:8713]	1880	0.6378390192985535	0.3174511	Yes	
+row_36	ESAM	endothelial cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:17474]	1884	0.6372042298316956	0.32519054	Yes	
+row_37	CDH6	cadherin 6 [Source:HGNC Symbol;Acc:HGNC:1765]	1910	0.6321748495101929	0.3315689	Yes	
+row_38	PCDHGA9	protocadherin gamma subfamily A, 9 [Source:HGNC Symbol;Acc:HGNC:8707]	1943	0.6279641389846802	0.33748174	Yes	
+row_39	PCDHAC1	protocadherin alpha subfamily C, 1 [Source:HGNC Symbol;Acc:HGNC:8676]	1946	0.6275900602340698	0.34516078	Yes	
+row_40	PCDHB18P	protocadherin beta 18 pseudogene [Source:HGNC Symbol;Acc:HGNC:14548]	1970	0.622967004776001	0.3515428	Yes	
+row_41	PCDHB5	protocadherin beta 5 [Source:HGNC Symbol;Acc:HGNC:8690]	2024	0.6144804358482361	0.35604852	Yes	
+row_42	PCDHGB4	protocadherin gamma subfamily B, 4 [Source:HGNC Symbol;Acc:HGNC:8711]	2055	0.6107682585716248	0.3618658	Yes	
+row_43	PCDHB16	protocadherin beta 16 [Source:HGNC Symbol;Acc:HGNC:14546]	2119	0.6015646457672119	0.36562076	Yes	
+row_44	PCDHA10	protocadherin alpha 10 [Source:HGNC Symbol;Acc:HGNC:8664]	2150	0.5951367020606995	0.37124383	Yes	
+row_45	PCDHA12	protocadherin alpha 12 [Source:HGNC Symbol;Acc:HGNC:8666]	2156	0.5941101312637329	0.37832984	Yes	
+row_46	CDH1	cadherin 1 [Source:HGNC Symbol;Acc:HGNC:1748]	2216	0.5851519107818604	0.382117	Yes	
+row_47	NPTN	neuroplastin [Source:HGNC Symbol;Acc:HGNC:17867]	2331	0.5668299794197083	0.38243002	Yes	
+row_48	PCDH12	protocadherin 12 [Source:HGNC Symbol;Acc:HGNC:8657]	2332	0.5667468905448914	0.3894712	Yes	
+row_49	FAT3	FAT atypical cadherin 3 [Source:HGNC Symbol;Acc:HGNC:23112]	2361	0.5617495179176331	0.3947975	Yes	
+row_50	NEXN	nexilin F-actin binding protein [Source:HGNC Symbol;Acc:HGNC:29557]	2412	0.5530970096588135	0.3987177	Yes	
+row_51	PCDHGA6	protocadherin gamma subfamily A, 6 [Source:HGNC Symbol;Acc:HGNC:8704]	2617	0.521521270275116	0.39315522	Yes	
+row_52	PCDHGA2	protocadherin gamma subfamily A, 2 [Source:HGNC Symbol;Acc:HGNC:8700]	2622	0.5209242701530457	0.39939103	Yes	
+row_53	PCDHA4	protocadherin alpha 4 [Source:HGNC Symbol;Acc:HGNC:8670]	2649	0.5164228677749634	0.40427226	Yes	
+row_54	PCDHB7	protocadherin beta 7 [Source:HGNC Symbol;Acc:HGNC:8692]	2820	0.4968760907649994	0.40041056	Yes	
+row_55	CADM1	cell adhesion molecule 1 [Source:HGNC Symbol;Acc:HGNC:5951]	2904	0.4878620207309723	0.40157235	Yes	
+row_56	ROBO3	roundabout guidance receptor 3 [Source:HGNC Symbol;Acc:HGNC:13433]	2943	0.48331090807914734	0.40533385	Yes	
+row_57	PCDHGA4	protocadherin gamma subfamily A, 4 [Source:HGNC Symbol;Acc:HGNC:8702]	3089	0.4643104076385498	0.40254328	Yes	
+row_58	TENM3	teneurin transmembrane protein 3 [Source:HGNC Symbol;Acc:HGNC:29944]	3108	0.46206098794937134	0.40722135	Yes	
+row_59	PLXNB2	plexin B2 [Source:HGNC Symbol;Acc:HGNC:9104]	3207	0.4483737051486969	0.4070071	Yes	
+row_60	PCDHB9	protocadherin beta 9 [Source:HGNC Symbol;Acc:HGNC:8694]	3266	0.44203153252601624	0.4090752	Yes	
+row_61	NECTIN1	nectin cell adhesion molecule 1 [Source:HGNC Symbol;Acc:HGNC:9706]	3380	0.4354262948036194	0.40781468	Yes	
+row_62	PCDH1	protocadherin 1 [Source:HGNC Symbol;Acc:HGNC:8655]	3521	0.42264753580093384	0.40480164	Yes	
+row_63	CDH26	cadherin 26 [Source:HGNC Symbol;Acc:HGNC:15902]	3547	0.420491099357605	0.40855005	Yes	
+row_64	PCDHGA11	protocadherin gamma subfamily A, 11 [Source:HGNC Symbol;Acc:HGNC:8698]	3642	0.41033831238746643	0.40809938	Yes	
+row_65	PCDHGC4	protocadherin gamma subfamily C, 4 [Source:HGNC Symbol;Acc:HGNC:8717]	3666	0.40807363390922546	0.4118116	Yes	
+row_66	TRO	trophinin [Source:HGNC Symbol;Acc:HGNC:12326]	3703	0.4050509035587311	0.41471887	Yes	
+row_67	DSC3	desmocollin 3 [Source:HGNC Symbol;Acc:HGNC:3037]	3723	0.40304502844810486	0.4186047	Yes	
+row_68	PCDHA5	protocadherin alpha 5 [Source:HGNC Symbol;Acc:HGNC:8671]	3724	0.4027549624443054	0.42360848	Yes	
+row_69	PCDHGB5	protocadherin gamma subfamily B, 5 [Source:HGNC Symbol;Acc:HGNC:8712]	3737	0.4004741907119751	0.42787558	Yes	
+row_70	PCDHB8	protocadherin beta 8 [Source:HGNC Symbol;Acc:HGNC:8693]	3819	0.3911203444004059	0.4279535	Yes	
+row_71	CLSTN2	calsyntenin 2 [Source:HGNC Symbol;Acc:HGNC:17448]	3901	0.3827170133590698	0.42792705	Yes	
+row_72	PTPRM	protein tyrosine phosphatase receptor type M [Source:HGNC Symbol;Acc:HGNC:9675]	3919	0.3807658553123474	0.43165416	Yes	
+row_73	PCDHB15	protocadherin beta 15 [Source:HGNC Symbol;Acc:HGNC:8686]	3967	0.3742634654045105	0.43352962	Yes	
+row_74	PCDHB6	protocadherin beta 6 [Source:HGNC Symbol;Acc:HGNC:8691]	4052	0.3650793135166168	0.43310693	Yes	
+row_75	CDH3	cadherin 3 [Source:HGNC Symbol;Acc:HGNC:1762]	4117	0.3582238554954529	0.43377966	Yes	
+row_76	PTPRG	protein tyrosine phosphatase receptor type G [Source:HGNC Symbol;Acc:HGNC:9671]	4226	0.34725654125213623	0.43171886	Yes	
+row_77	OBSL1	obscurin like cytoskeletal adaptor 1 [Source:HGNC Symbol;Acc:HGNC:29092]	4239	0.3460841178894043	0.4353102	Yes	
+row_78	ROBO2	roundabout guidance receptor 2 [Source:HGNC Symbol;Acc:HGNC:10250]	4249	0.3453093469142914	0.43906906	Yes	
+row_79	PCDHA6	protocadherin alpha 6 [Source:HGNC Symbol;Acc:HGNC:8672]	4609	0.31246280670166016	0.42175987	No	
+row_80	PCDH19	protocadherin 19 [Source:HGNC Symbol;Acc:HGNC:14270]	4715	0.30439063906669617	0.4193436	No	
+row_81	CLSTN1	calsyntenin 1 [Source:HGNC Symbol;Acc:HGNC:17447]	4822	0.29707902669906616	0.41677746	No	
+row_82	CADM4	cell adhesion molecule 4 [Source:HGNC Symbol;Acc:HGNC:30825]	4943	0.28674453496932983	0.41325653	No	
+row_83	PCDH17	protocadherin 17 [Source:HGNC Symbol;Acc:HGNC:14267]	5084	0.2761191427707672	0.40842304	No	
+row_84	CDHR4	cadherin related family member 4 [Source:HGNC Symbol;Acc:HGNC:34527]	5132	0.27010276913642883	0.40900442	No	
+row_85	PCDHA3	protocadherin alpha 3 [Source:HGNC Symbol;Acc:HGNC:8669]	5185	0.2648753225803375	0.4092257	No	
+row_86	PCDHB3	protocadherin beta 3 [Source:HGNC Symbol;Acc:HGNC:8688]	5901	0.20248040556907654	0.369536	No	
+row_87	CLSTN3	calsyntenin 3 [Source:HGNC Symbol;Acc:HGNC:18371]	5985	0.19540737569332123	0.36706436	No	
+row_88	L1CAM	L1 cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:6470]	6358	0.16525539755821228	0.3471589	No	
+row_89	AMIGO1	adhesion molecule with Ig like domain 1 [Source:HGNC Symbol;Acc:HGNC:20824]	6523	0.1532931923866272	0.33938277	No	
+row_90	PCDHB2	protocadherin beta 2 [Source:HGNC Symbol;Acc:HGNC:8687]	7216	0.09436840564012527	0.29970753	No	
+row_91	CELSR3	cadherin EGF LAG seven-pass G-type receptor 3 [Source:HGNC Symbol;Acc:HGNC:3230]	7285	0.08827711641788483	0.29679036	No	
+row_92	PCDHGA1	protocadherin gamma subfamily A, 1 [Source:HGNC Symbol;Acc:HGNC:8696]	7321	0.08496624231338501	0.29577997	No	
+row_93	PCDH9	protocadherin 9 [Source:HGNC Symbol;Acc:HGNC:8661]	7331	0.08456261456012726	0.2962993	No	
+row_94	PCDHGA3	protocadherin gamma subfamily A, 3 [Source:HGNC Symbol;Acc:HGNC:8701]	7388	0.07948093116283417	0.29398116	No	
+row_95	PLXNB3	plexin B3 [Source:HGNC Symbol;Acc:HGNC:9105]	7446	0.07406279444694519	0.29153672	No	
+row_96	PCDHA7	protocadherin alpha 7 [Source:HGNC Symbol;Acc:HGNC:8673]	7524	0.06849686801433563	0.2878425	No	
+row_97	ROBO1	roundabout guidance receptor 1 [Source:HGNC Symbol;Acc:HGNC:10249]	7686	0.0554564893245697	0.27902794	No	
+row_98	PCDHA1	protocadherin alpha 1 [Source:HGNC Symbol;Acc:HGNC:8663]	7840	0.04392234981060028	0.27054226	No	
+row_99	PCDH11Y	protocadherin 11 Y-linked [Source:HGNC Symbol;Acc:HGNC:15813]	7904	0.039018623530864716	0.26730824	No	
+row_100	PCDHA8	protocadherin alpha 8 [Source:HGNC Symbol;Acc:HGNC:8674]	8015	0.03199538215994835	0.26121262	No	
+row_101	CADM2	cell adhesion molecule 2 [Source:HGNC Symbol;Acc:HGNC:29849]	8286	0.013826136477291584	0.24544674	No	
+row_102	CDH17	cadherin 17 [Source:HGNC Symbol;Acc:HGNC:1756]	8438	0.003492567455396056	0.23657684	No	
+row_103	CDH16	cadherin 16 [Source:HGNC Symbol;Acc:HGNC:1755]	8536	0.0	0.23085108	No	
+row_104	IGSF11	immunoglobulin superfamily member 11 [Source:HGNC Symbol;Acc:HGNC:16669]	8709	-0.004590789321810007	0.22075523	No	
+row_105	CDH13	cadherin 13 [Source:HGNC Symbol;Acc:HGNC:1753]	8710	-0.004630389157682657	0.22081277	No	
+row_106	KIRREL3	kirre like nephrin family adhesion molecule 3 [Source:HGNC Symbol;Acc:HGNC:23204]	8793	-0.00941198319196701	0.21608937	No	
+row_107	NECTIN3	nectin cell adhesion molecule 3 [Source:HGNC Symbol;Acc:HGNC:17664]	8821	-0.011726077646017075	0.21464129	No	
+row_108	PIK3CB	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta [Source:HGNC Symbol;Acc:HGNC:8976]	8903	-0.017474204301834106	0.21007709	No	
+row_109	CDH24	cadherin 24 [Source:HGNC Symbol;Acc:HGNC:14265]	9321	-0.04982666298747063	0.18608129	No	
+row_110	PTPN23	protein tyrosine phosphatase non-receptor type 23 [Source:HGNC Symbol;Acc:HGNC:14406]	9384	-0.05445625260472298	0.18309808	No	
+row_111	PCDHB4	protocadherin beta 4 [Source:HGNC Symbol;Acc:HGNC:8689]	9486	-0.06054636463522911	0.17788844	No	
+row_112	DCHS2	dachsous cadherin-related 2 [Source:HGNC Symbol;Acc:HGNC:23111]	9532	-0.06479430943727493	0.17603716	No	
+row_113	PCDHA11	protocadherin alpha 11 [Source:HGNC Symbol;Acc:HGNC:8665]	9578	-0.06782364100217819	0.17422351	No	
+row_114	CNTN2	contactin 2 [Source:HGNC Symbol;Acc:HGNC:2172]	9722	-0.07913827151060104	0.16676566	No	
+row_115	PCDHGA12	protocadherin gamma subfamily A, 12 [Source:HGNC Symbol;Acc:HGNC:8699]	10064	-0.10600879788398743	0.14795402	No	
+row_116	PCDHAC2	protocadherin alpha subfamily C, 2 [Source:HGNC Symbol;Acc:HGNC:8677]	10324	-0.12702852487564087	0.13424385	No	
+row_117	PECAM1	platelet and endothelial cell adhesion molecule 1 [Source:HGNC Symbol;Acc:HGNC:8823]	10331	-0.12808504700660706	0.13548099	No	
+row_118	CELSR1	cadherin EGF LAG seven-pass G-type receptor 1 [Source:HGNC Symbol;Acc:HGNC:1850]	10416	-0.13470932841300964	0.13219622	No	
+row_119	CADM3	cell adhesion molecule 3 [Source:HGNC Symbol;Acc:HGNC:17601]	10613	-0.14933602511882782	0.12248199	No	
+row_120	NECTIN2	nectin cell adhesion molecule 2 [Source:HGNC Symbol;Acc:HGNC:9707]	10879	-0.16888420283794403	0.10893766	No	
+row_121	CDHR5	cadherin related family member 5 [Source:HGNC Symbol;Acc:HGNC:7521]	10995	-0.17820078134536743	0.10436334	No	
+row_122	DSCAM	DS cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:3039]	11117	-0.18644945323467255	0.09953733	No	
+row_123	CDHR3	cadherin related family member 3 [Source:HGNC Symbol;Acc:HGNC:26308]	11543	-0.2220001518726349	0.07720836	No	
+row_124	ITGB1	integrin subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:6153]	11546	-0.22232645750045776	0.07985246	No	
+row_125	BSG	basigin (Ok blood group) [Source:HGNC Symbol;Acc:HGNC:1116]	11775	-0.2414415031671524	0.06939363	No	
+row_126	EMB	embigin [Source:HGNC Symbol;Acc:HGNC:30465]	12129	-0.27133888006210327	0.05192769	No	
+row_127	RET	ret proto-oncogene [Source:HGNC Symbol;Acc:HGNC:9967]	12624	-0.3122138977050781	0.026646571	No	
+row_128	CDH10	cadherin 10 [Source:HGNC Symbol;Acc:HGNC:1749]	12766	-0.32619136571884155	0.02237613	No	
+row_129	VSTM2L	V-set and transmembrane domain containing 2 like [Source:HGNC Symbol;Acc:HGNC:16096]	12817	-0.3307625949382782	0.023534065	No	
+row_130	DSG2	desmoglein 2 [Source:HGNC Symbol;Acc:HGNC:3049]	13304	-0.38014858961105347	-4.308136E-4	No	
+row_131	PCDH8	protocadherin 8 [Source:HGNC Symbol;Acc:HGNC:8660]	13611	-0.41378873586654663	-0.01335264	No	
+row_132	IGFN1	immunoglobulin like and fibronectin type III domain containing 1 [Source:HGNC Symbol;Acc:HGNC:24607]	13937	-0.4448801279067993	-0.027009731	No	
+row_133	CDH15	cadherin 15 [Source:HGNC Symbol;Acc:HGNC:1754]	14234	-0.47377079725265503	-0.038596064	No	
+row_134	PCDHA13	protocadherin alpha 13 [Source:HGNC Symbol;Acc:HGNC:8667]	14295	-0.4812578856945038	-0.036158677	No	
+row_135	ROBO4	roundabout guidance receptor 4 [Source:HGNC Symbol;Acc:HGNC:17985]	14465	-0.5011976957321167	-0.039907657	No	
+row_136	AMIGO2	adhesion molecule with Ig like domain 2 [Source:HGNC Symbol;Acc:HGNC:24073]	14568	-0.5156442523002625	-0.03952225	No	
+row_137	CDH4	cadherin 4 [Source:HGNC Symbol;Acc:HGNC:1763]	14611	-0.5217056274414062	-0.035519835	No	
+row_138	CDHR1	cadherin related family member 1 [Source:HGNC Symbol;Acc:HGNC:14550]	14857	-0.5545508861541748	-0.043092117	No	
+row_139	CDH18	cadherin 18 [Source:HGNC Symbol;Acc:HGNC:1757]	15286	-0.6235682368278503	-0.060609132	No	
+row_140	CDH23	cadherin related 23 [Source:HGNC Symbol;Acc:HGNC:13733]	15366	-0.6367003321647644	-0.057362087	No	
+row_141	DSG3	desmoglein 3 [Source:HGNC Symbol;Acc:HGNC:3050]	15495	-0.6636014580726624	-0.056673218	No	
+row_142	PCDHGC5	protocadherin gamma subfamily C, 5 [Source:HGNC Symbol;Acc:HGNC:8718]	15900	-0.7567971348762512	-0.07111833	No	
+row_143	CDHR2	cadherin related family member 2 [Source:HGNC Symbol;Acc:HGNC:18231]	16190	-0.8394527435302734	-0.07774828	No	
+row_144	PVR	PVR cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:9705]	16210	-0.8446813225746155	-0.0683756	No	
+row_145	PCDHGC3	protocadherin gamma subfamily C, 3 [Source:HGNC Symbol;Acc:HGNC:8716]	16646	-1.0718997716903687	-0.080735795	No	
+row_146	SDK2	sidekick cell adhesion molecule 2 [Source:HGNC Symbol;Acc:HGNC:19308]	16937	-1.5439327955245972	-0.078672394	No	
+row_147	CEACAM1	CEA cell adhesion molecule 1 [Source:HGNC Symbol;Acc:HGNC:1814]	16995	-1.786987543106079	-0.0598357	No	
+row_148	PTPRR	protein tyrosine phosphatase receptor type R [Source:HGNC Symbol;Acc:HGNC:9680]	17021	-1.930984377861023	-0.03732109	No	
+row_149	MYPN	myopalladin [Source:HGNC Symbol;Acc:HGNC:23246]	17086	-3.3270623683929443	2.3611212E-4	No	

@@ -1,0 +1,38 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CLU	clusterin [Source:HGNC Symbol;Acc:HGNC:2095]	53	3.6031742095947266	0.08430251	Yes	
+row_1	TLR9	toll like receptor 9 [Source:HGNC Symbol;Acc:HGNC:15633]	225	2.6538705825805664	0.13865644	Yes	
+row_2	SYT11	synaptotagmin 11 [Source:HGNC Symbol;Acc:HGNC:19239]	349	2.383185863494873	0.18925835	Yes	
+row_3	IFNGR1	interferon gamma receptor 1 [Source:HGNC Symbol;Acc:HGNC:5439]	487	2.1670775413513184	0.2337967	Yes	
+row_4	TLR3	toll like receptor 3 [Source:HGNC Symbol;Acc:HGNC:11849]	574	2.047727108001709	0.27843022	Yes	
+row_5	NR1D1	nuclear receptor subfamily 1 group D member 1 [Source:HGNC Symbol;Acc:HGNC:7962]	698	1.9053388833999634	0.3174399	Yes	
+row_6	TLR2	toll like receptor 2 [Source:HGNC Symbol;Acc:HGNC:11848]	810	1.798924446105957	0.35457173	Yes	
+row_7	IL6	interleukin 6 [Source:HGNC Symbol;Acc:HGNC:6018]	1046	1.6037243604660034	0.3796971	Yes	
+row_8	TTBK1	tau tubulin kinase 1 [Source:HGNC Symbol;Acc:HGNC:19140]	1147	1.5413389205932617	0.4112251	Yes	
+row_9	TAFA3	TAFA chemokine like family member 3 [Source:HGNC Symbol;Acc:HGNC:21590]	1162	1.5346589088439941	0.44763386	Yes	
+row_10	IL33	interleukin 33 [Source:HGNC Symbol;Acc:HGNC:16028]	1271	1.4568328857421875	0.4766427	Yes	
+row_11	SPHK1	sphingosine kinase 1 [Source:HGNC Symbol;Acc:HGNC:11240]	1307	1.4398260116577148	0.50951946	Yes	
+row_12	LRRK2	leucine rich repeat kinase 2 [Source:HGNC Symbol;Acc:HGNC:18618]	1358	1.4119789600372314	0.54084116	Yes	
+row_13	MAPT	microtubule associated protein tau [Source:HGNC Symbol;Acc:HGNC:6893]	1604	1.2899894714355469	0.5577692	Yes	
+row_14	APP	amyloid beta precursor protein [Source:HGNC Symbol;Acc:HGNC:620]	1888	1.1754993200302124	0.5696916	Yes	
+row_15	GRN	granulin precursor [Source:HGNC Symbol;Acc:HGNC:4601]	2072	1.1162933111190796	0.5860414	Yes	
+row_16	CCL3	C-C motif chemokine ligand 3 [Source:HGNC Symbol;Acc:HGNC:10627]	2222	1.0737563371658325	0.60335296	Yes	
+row_17	CX3CL1	C-X3-C motif chemokine ligand 1 [Source:HGNC Symbol;Acc:HGNC:10647]	3052	0.8677187561988831	0.57579285	Yes	
+row_18	CX3CR1	C-X3-C motif chemokine receptor 1 [Source:HGNC Symbol;Acc:HGNC:2558]	3068	0.8651836514472961	0.595902	Yes	
+row_19	SNCA	synuclein alpha [Source:HGNC Symbol;Acc:HGNC:11138]	3426	0.7993484139442444	0.5943601	Yes	
+row_20	TRPV1	transient receptor potential cation channel subfamily V member 1 [Source:HGNC Symbol;Acc:HGNC:12716]	3452	0.7964228391647339	0.61221474	Yes	
+row_21	AZU1	azurocidin 1 [Source:HGNC Symbol;Acc:HGNC:913]	3627	0.7663933634757996	0.62060404	Yes	
+row_22	LDLR	low density lipoprotein receptor [Source:HGNC Symbol;Acc:HGNC:6547]	6031	0.4195725619792938	0.48987716	No	
+row_23	C5AR1	complement C5a receptor 1 [Source:HGNC Symbol;Acc:HGNC:1338]	6268	0.3925185203552246	0.48556098	No	
+row_24	TNF	tumor necrosis factor [Source:HGNC Symbol;Acc:HGNC:11892]	6314	0.3854301869869232	0.49227256	No	
+row_25	ITGB2	integrin subunit beta 2 [Source:HGNC Symbol;Acc:HGNC:6155]	6465	0.36407315731048584	0.4923091	No	
+row_26	TRAF3IP2	TRAF3 interacting protein 2 [Source:HGNC Symbol;Acc:HGNC:1343]	6825	0.31361863017082214	0.47886646	No	
+row_27	IFNGR2	interferon gamma receptor 2 [Source:HGNC Symbol;Acc:HGNC:5440]	7101	0.2730415165424347	0.469365	No	
+row_28	JAK2	Janus kinase 2 [Source:HGNC Symbol;Acc:HGNC:6192]	7724	0.19248616695404053	0.4375622	No	
+row_29	TREM2	triggering receptor expressed on myeloid cells 2 [Source:HGNC Symbol;Acc:HGNC:17761]	9134	0.0	0.35494226	No	
+row_30	ITGAM	integrin subunit alpha M [Source:HGNC Symbol;Acc:HGNC:6149]	9245	0.0	0.34849218	No	
+row_31	ATM	ATM serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:795]	9323	-0.007258180994540453	0.34415317	No	
+row_32	JUN	Jun proto-oncogene, AP-1 transcription factor subunit [Source:HGNC Symbol;Acc:HGNC:6204]	9970	-0.08938188850879669	0.30844185	No	
+row_33	MYD88	MYD88 innate immune signal transduction adaptor [Source:HGNC Symbol;Acc:HGNC:7562]	11770	-0.37749284505844116	0.21211109	No	
+row_34	PTPRC	protein tyrosine phosphatase receptor type C [Source:HGNC Symbol;Acc:HGNC:9666]	12508	-0.48879173398017883	0.18075313	No	
+row_35	AGER	advanced glycosylation end-product specific receptor [Source:HGNC Symbol;Acc:HGNC:320]	14853	-1.0520761013031006	0.068829946	No	
+row_36	CTSC	cathepsin C [Source:HGNC Symbol;Acc:HGNC:2528]	16782	-2.5673954486846924	0.018060366	No	

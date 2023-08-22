@@ -1,0 +1,20 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PLN	phospholamban [Source:HGNC Symbol;Acc:HGNC:9080]	70	2.1207776069641113	0.17098863	Yes	
+row_1	ADRA2A	adrenoceptor alpha 2A [Source:HGNC Symbol;Acc:HGNC:281]	127	1.757434606552124	0.31280014	Yes	
+row_2	ADRA1B	adrenoceptor alpha 1B [Source:HGNC Symbol;Acc:HGNC:278]	210	1.546934962272644	0.4357101	Yes	
+row_3	ADRB2	adrenoceptor beta 2 [Source:HGNC Symbol;Acc:HGNC:286]	1029	0.8542036414146423	0.45831743	Yes	
+row_4	ADRA2B	adrenoceptor alpha 2B [Source:HGNC Symbol;Acc:HGNC:282]	1327	0.7646999955177307	0.50405324	Yes	
+row_5	ADCY9	adenylate cyclase 9 [Source:HGNC Symbol;Acc:HGNC:240]	1544	0.7150603532791138	0.5504355	Yes	
+row_6	RAPGEF2	Rap guanine nucleotide exchange factor 2 [Source:HGNC Symbol;Acc:HGNC:16854]	1862	0.6415681838989258	0.5848342	Yes	
+row_7	CRTC3	CREB regulated transcription coactivator 3 [Source:HGNC Symbol;Acc:HGNC:26148]	2398	0.5551733374595642	0.5993308	Yes	
+row_8	AKAP13	A-kinase anchoring protein 13 [Source:HGNC Symbol;Acc:HGNC:371]	2773	0.4999055862426758	0.6186952	Yes	
+row_9	PDE4B	phosphodiesterase 4B [Source:HGNC Symbol;Acc:HGNC:8781]	2932	0.4842996597290039	0.6494235	Yes	
+row_10	DRD1	dopamine receptor D1 [Source:HGNC Symbol;Acc:HGNC:3020]	5744	0.21637322008609772	0.5026314	No	
+row_11	ADRA2C	adrenoceptor alpha 2C [Source:HGNC Symbol;Acc:HGNC:283]	6556	0.14987371861934662	0.46750012	No	
+row_12	PDE4D	phosphodiesterase 4D [Source:HGNC Symbol;Acc:HGNC:8783]	8094	0.027284523472189903	0.37972224	No	
+row_13	DRD2	dopamine receptor D2 [Source:HGNC Symbol;Acc:HGNC:3023]	8531	0.0	0.35418335	No	
+row_14	ARRDC3	arrestin domain containing 3 [Source:HGNC Symbol;Acc:HGNC:29263]	10351	-0.1294914335012436	0.25832528	No	
+row_15	ATP2B4	ATPase plasma membrane Ca2+ transporting 4 [Source:HGNC Symbol;Acc:HGNC:817]	10923	-0.17224572598934174	0.2390991	No	
+row_16	GNAI2	G protein subunit alpha i2 [Source:HGNC Symbol;Acc:HGNC:4385]	12718	-0.3211236596107483	0.16052635	No	
+row_17	ADRB1	adrenoceptor beta 1 [Source:HGNC Symbol;Acc:HGNC:285]	13992	-0.4490177631378174	0.123030186	No	
+row_18	ADRA1D	adrenoceptor alpha 1D [Source:HGNC Symbol;Acc:HGNC:280]	15687	-0.7071077227592468	0.08218136	No	

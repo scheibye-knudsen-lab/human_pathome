@@ -1,0 +1,23 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	APOC1	apolipoprotein C1 [Source:HGNC Symbol;Acc:HGNC:607]	6	3.155672311782837	0.17652728	Yes	
+row_1	APOE	apolipoprotein E [Source:HGNC Symbol;Acc:HGNC:613]	12	2.898200273513794	0.33868158	Yes	
+row_2	LIPC	lipase C, hepatic type [Source:HGNC Symbol;Acc:HGNC:6619]	198	1.8494770526885986	0.43150836	Yes	
+row_3	ABCA5	ATP binding cassette subfamily A member 5 [Source:HGNC Symbol;Acc:HGNC:35]	463	1.3873547315597534	0.49380445	Yes	
+row_4	PLTP	phospholipid transfer protein [Source:HGNC Symbol;Acc:HGNC:9093]	1487	0.8004741072654724	0.47873867	Yes	
+row_5	MPO	myeloperoxidase [Source:HGNC Symbol;Acc:HGNC:7218]	1662	0.74546879529953	0.51032907	Yes	
+row_6	AGTR1	angiotensin II receptor type 1 [Source:HGNC Symbol;Acc:HGNC:336]	1816	0.7036368250846863	0.54080504	Yes	
+row_7	AGT	angiotensinogen [Source:HGNC Symbol;Acc:HGNC:333]	1904	0.6798796057701111	0.57381606	Yes	
+row_8	CETP	cholesteryl ester transfer protein [Source:HGNC Symbol;Acc:HGNC:1869]	2009	0.6529397964477539	0.6043211	Yes	
+row_9	MTTP	microsomal triglyceride transfer protein [Source:HGNC Symbol;Acc:HGNC:7467]	2323	0.5851449966430664	0.61878175	Yes	
+row_10	PLA2G10	phospholipase A2 group X [Source:HGNC Symbol;Acc:HGNC:9029]	2845	0.4937710165977478	0.61593497	Yes	
+row_11	SCARB1	scavenger receptor class B member 1 [Source:HGNC Symbol;Acc:HGNC:1664]	2871	0.49007949233055115	0.6419398	Yes	
+row_12	GTF2E1	general transcription factor IIE subunit 1 [Source:HGNC Symbol;Acc:HGNC:4650]	4641	0.2780260443687439	0.5538853	No	
+row_13	APOM	apolipoprotein M [Source:HGNC Symbol;Acc:HGNC:13916]	5219	0.213334858417511	0.532039	No	
+row_14	APOB	apolipoprotein B [Source:HGNC Symbol;Acc:HGNC:603]	5227	0.21257340908050537	0.5435438	No	
+row_15	TAF8	TATA-box binding protein associated factor 8 [Source:HGNC Symbol;Acc:HGNC:17300]	6821	0.07832609862089157	0.454607	No	
+row_16	LCAT	lecithin-cholesterol acyltransferase [Source:HGNC Symbol;Acc:HGNC:6522]	9584	-0.10526911914348602	0.29869366	No	
+row_17	APOA1	apolipoprotein A1 [Source:HGNC Symbol;Acc:HGNC:600]	12259	-0.3141249120235443	0.15964241	No	
+row_18	ABCG1	ATP binding cassette subfamily G member 1 [Source:HGNC Symbol;Acc:HGNC:73]	12332	-0.31977713108062744	0.17334808	No	
+row_19	APOA2	apolipoprotein A2 [Source:HGNC Symbol;Acc:HGNC:601]	14127	-0.4832448959350586	0.095331654	No	
+row_20	PLA2G3	phospholipase A2 group III [Source:HGNC Symbol;Acc:HGNC:17934]	14240	-0.4952792823314667	0.116530985	No	
+row_21	LIPG	lipase G, endothelial type [Source:HGNC Symbol;Acc:HGNC:6623]	16183	-0.8988189101219177	0.05313723	No	

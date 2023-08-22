@@ -1,0 +1,84 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SLC9A9	solute carrier family 9 member A9 [Source:HGNC Symbol;Acc:HGNC:20653]	99	3.232203483581543	0.039106797	Yes	
+row_1	CA2	carbonic anhydrase 2 [Source:HGNC Symbol;Acc:HGNC:1373]	146	3.0247185230255127	0.07844573	Yes	
+row_2	PDK4	pyruvate dehydrogenase kinase 4 [Source:HGNC Symbol;Acc:HGNC:8812]	152	3.0037128925323486	0.119903326	Yes	
+row_3	ATP6V0A1	ATPase H+ transporting V0 subunit a1 [Source:HGNC Symbol;Acc:HGNC:865]	325	2.4214797019958496	0.14344898	Yes	
+row_4	RAB20	RAB20, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:18260]	333	2.4009206295013428	0.17641017	Yes	
+row_5	EDNRB	endothelin receptor type B [Source:HGNC Symbol;Acc:HGNC:3180]	544	2.0859978199005127	0.19305839	Yes	
+row_6	MAFG	MAF bZIP transcription factor G [Source:HGNC Symbol;Acc:HGNC:6781]	549	2.0750861167907715	0.22166687	Yes	
+row_7	ATP6V0E2	ATPase H+ transporting V0 subunit e2 [Source:HGNC Symbol;Acc:HGNC:21723]	610	2.008939504623413	0.24606335	Yes	
+row_8	LACC1	laccase domain containing 1 [Source:HGNC Symbol;Acc:HGNC:26789]	674	1.9319449663162231	0.26921323	Yes	
+row_9	RAB38	RAB38, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9776]	801	1.8043172359466553	0.28688493	Yes	
+row_10	ATP6V1A	ATPase H+ transporting V1 subunit A [Source:HGNC Symbol;Acc:HGNC:851]	858	1.746098518371582	0.30786312	Yes	
+row_11	SLC9A8	solute carrier family 9 member A8 [Source:HGNC Symbol;Acc:HGNC:20728]	1020	1.6199514865875244	0.32091427	Yes	
+row_12	SLC12A5	solute carrier family 12 member 5 [Source:HGNC Symbol;Acc:HGNC:13818]	1108	1.5639792680740356	0.33753833	Yes	
+row_13	ATP6AP2	ATPase H+ transporting accessory protein 2 [Source:HGNC Symbol;Acc:HGNC:18305]	1237	1.4785845279693604	0.35056478	Yes	
+row_14	LRRK2	leucine rich repeat kinase 2 [Source:HGNC Symbol;Acc:HGNC:18618]	1358	1.4119789600372314	0.36313576	Yes	
+row_15	ATP6V1H	ATPase H+ transporting V1 subunit H [Source:HGNC Symbol;Acc:HGNC:18303]	1628	1.2798038721084595	0.36510894	Yes	
+row_16	ATP6V0B	ATPase H+ transporting V0 subunit b [Source:HGNC Symbol;Acc:HGNC:861]	1637	1.2763917446136475	0.3823804	Yes	
+row_17	CLN5	CLN5 intracellular trafficking protein [Source:HGNC Symbol;Acc:HGNC:2076]	1707	1.2463481426239014	0.3956477	Yes	
+row_18	AQP11	aquaporin 11 [Source:HGNC Symbol;Acc:HGNC:19940]	2009	1.1376785039901733	0.39376387	Yes	
+row_19	GRN	granulin precursor [Source:HGNC Symbol;Acc:HGNC:4601]	2072	1.1162933111190796	0.40563497	Yes	
+row_20	SLC9A5	solute carrier family 9 member A5 [Source:HGNC Symbol;Acc:HGNC:11078]	2135	1.0979726314544678	0.41725144	Yes	
+row_21	ATP6V0E1	ATPase H+ transporting V0 subunit e1 [Source:HGNC Symbol;Acc:HGNC:863]	2227	1.0712814331054688	0.42679182	Yes	
+row_22	CLN3	CLN3 lysosomal/endosomal transmembrane protein, battenin [Source:HGNC Symbol;Acc:HGNC:2074]	2275	1.0589754581451416	0.43874815	Yes	
+row_23	CLCN3	chloride voltage-gated channel 3 [Source:HGNC Symbol;Acc:HGNC:2021]	2386	1.0273557901382446	0.44656083	Yes	
+row_24	NOX1	NADPH oxidase 1 [Source:HGNC Symbol;Acc:HGNC:7889]	2520	0.9887655973434448	0.45248482	Yes	
+row_25	HVCN1	hydrogen voltage gated channel 1 [Source:HGNC Symbol;Acc:HGNC:28240]	2598	0.9697568416595459	0.46143714	Yes	
+row_26	RNASEK	ribonuclease K [Source:HGNC Symbol;Acc:HGNC:33911]	2688	0.9527432322502136	0.46944743	Yes	
+row_27	SLC4A5	solute carrier family 4 member 5 [Source:HGNC Symbol;Acc:HGNC:18168]	2694	0.9508453011512756	0.4823702	Yes	
+row_28	GPR89B	G protein-coupled receptor 89B [Source:HGNC Symbol;Acc:HGNC:13840]	2895	0.8987784385681152	0.48310402	Yes	
+row_29	DMXL1	Dmx like 1 [Source:HGNC Symbol;Acc:HGNC:2937]	2907	0.8960857391357422	0.49491286	Yes	
+row_30	ATP6V1F	ATPase H+ transporting V1 subunit F [Source:HGNC Symbol;Acc:HGNC:16832]	2912	0.8952963948249817	0.5071223	Yes	
+row_31	CCDC115	coiled-coil domain containing 115 [Source:HGNC Symbol;Acc:HGNC:28178]	2975	0.8812376856803894	0.51572615	Yes	
+row_32	TMEM106B	transmembrane protein 106B [Source:HGNC Symbol;Acc:HGNC:22407]	3415	0.8009014129638672	0.50104725	No	
+row_33	ATP6V0D2	ATPase H+ transporting V0 subunit d2 [Source:HGNC Symbol;Acc:HGNC:18266]	3547	0.7812725305557251	0.5042047	No	
+row_34	SLC9B1	solute carrier family 9 member B1 [Source:HGNC Symbol;Acc:HGNC:24244]	3783	0.737408459186554	0.50063765	No	
+row_35	EDN1	endothelin 1 [Source:HGNC Symbol;Acc:HGNC:3176]	3937	0.7142540216445923	0.50157	No	
+row_36	ATP6AP1	ATPase H+ transporting accessory protein 1 [Source:HGNC Symbol;Acc:HGNC:868]	4128	0.68317049741745	0.49989483	No	
+row_37	RAB7A	RAB7A, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9788]	4161	0.6791926622390747	0.50745416	No	
+row_38	TMEM9	transmembrane protein 9 [Source:HGNC Symbol;Acc:HGNC:18823]	4562	0.6169579029083252	0.4925115	No	
+row_39	SLC4A7	solute carrier family 4 member 7 [Source:HGNC Symbol;Acc:HGNC:11033]	4600	0.6105579733848572	0.4988228	No	
+row_40	DMXL2	Dmx like 2 [Source:HGNC Symbol;Acc:HGNC:2938]	4961	0.5536625385284424	0.4853522	No	
+row_41	SLAMF8	SLAM family member 8 [Source:HGNC Symbol;Acc:HGNC:21391]	5161	0.5243139266967773	0.48093978	No	
+row_42	CA7	carbonic anhydrase 7 [Source:HGNC Symbol;Acc:HGNC:1381]	5245	0.5145806074142456	0.48321238	No	
+row_43	RHCG	Rh family C glycoprotein [Source:HGNC Symbol;Acc:HGNC:18140]	5311	0.507529079914093	0.4864453	No	
+row_44	ATP6V0D1	ATPase H+ transporting V0 subunit d1 [Source:HGNC Symbol;Acc:HGNC:13724]	6019	0.42060586810112	0.45072305	No	
+row_45	ATP6V0A2	ATPase H+ transporting V0 subunit a2 [Source:HGNC Symbol;Acc:HGNC:18481]	6029	0.41981303691864014	0.45602927	No	
+row_46	CCKBR	cholecystokinin B receptor [Source:HGNC Symbol;Acc:HGNC:1571]	6075	0.4146575629711151	0.45914719	No	
+row_47	PPT1	palmitoyl-protein thioesterase 1 [Source:HGNC Symbol;Acc:HGNC:9325]	6600	0.3440242409706116	0.4331201	No	
+row_48	ATP6V0C	ATPase H+ transporting V0 subunit c [Source:HGNC Symbol;Acc:HGNC:855]	6646	0.3381496071815491	0.43517455	No	
+row_49	SLC4A3	solute carrier family 4 member 3 [Source:HGNC Symbol;Acc:HGNC:11029]	6660	0.33457502722740173	0.4390608	No	
+row_50	SLC26A6	solute carrier family 26 member 6 [Source:HGNC Symbol;Acc:HGNC:14472]	6772	0.3196437656879425	0.4369775	No	
+row_51	GPR89A	G protein-coupled receptor 89A [Source:HGNC Symbol;Acc:HGNC:31984]	6783	0.31797802448272705	0.44080943	No	
+row_52	SLC9A3	solute carrier family 9 member A3 [Source:HGNC Symbol;Acc:HGNC:11073]	6967	0.2913394570350647	0.4340994	No	
+row_53	SLC9A1	solute carrier family 9 member A1 [Source:HGNC Symbol;Acc:HGNC:11071]	7091	0.2751457989215851	0.43069205	No	
+row_54	ATP6V1B2	ATPase H+ transporting V1 subunit B2 [Source:HGNC Symbol;Acc:HGNC:854]	7138	0.2683078348636627	0.4317169	No	
+row_55	TMEM165	transmembrane protein 165 [Source:HGNC Symbol;Acc:HGNC:30760]	7186	0.26268270611763	0.4326048	No	
+row_56	TMEM199	transmembrane protein 199 [Source:HGNC Symbol;Acc:HGNC:18085]	7295	0.2490048110485077	0.429716	No	
+row_57	ATP6V1B1	ATPase H+ transporting V1 subunit B1 [Source:HGNC Symbol;Acc:HGNC:853]	7317	0.24647055566310883	0.4319072	No	
+row_58	SLC11A1	solute carrier family 11 member 1 [Source:HGNC Symbol;Acc:HGNC:10907]	7708	0.194850355386734	0.41168526	No	
+row_59	ATP6V0A4	ATPase H+ transporting V0 subunit a4 [Source:HGNC Symbol;Acc:HGNC:866]	7877	0.17379820346832275	0.40422335	No	
+row_60	VPS33A	VPS33A core subunit of CORVET and HOPS complexes [Source:HGNC Symbol;Acc:HGNC:18179]	8051	0.15126872062683105	0.39615428	No	
+row_61	BCL2	BCL2 apoptosis regulator [Source:HGNC Symbol;Acc:HGNC:990]	8279	0.11952365189790726	0.384469	No	
+row_62	UBE3A	ubiquitin protein ligase E3A [Source:HGNC Symbol;Acc:HGNC:12496]	8298	0.11716925352811813	0.38503933	No	
+row_63	SLC26A4	solute carrier family 26 member 4 [Source:HGNC Symbol;Acc:HGNC:8818]	8324	0.11311681568622589	0.38514176	No	
+row_64	CHP1	calcineurin like EF-hand protein 1 [Source:HGNC Symbol;Acc:HGNC:17433]	8545	0.0796457976102829	0.37331375	No	
+row_65	TM9SF4	transmembrane 9 superfamily member 4 [Source:HGNC Symbol;Acc:HGNC:30797]	8725	0.056425340473651886	0.3635736	No	
+row_66	SLC4A2	solute carrier family 4 member 2 [Source:HGNC Symbol;Acc:HGNC:11028]	9489	-0.025508146733045578	0.3190669	No	
+row_67	PDK2	pyruvate dehydrogenase kinase 2 [Source:HGNC Symbol;Acc:HGNC:8810]	9602	-0.04140980541706085	0.31305736	No	
+row_68	TCIRG1	T cell immune regulator 1, ATPase H+ transporting V0 subunit a3 [Source:HGNC Symbol;Acc:HGNC:11647]	9817	-0.06965423375368118	0.30144325	No	
+row_69	SLC9A4	solute carrier family 9 member A4 [Source:HGNC Symbol;Acc:HGNC:11077]	10524	-0.1795564889907837	0.2624292	No	
+row_70	CFTR	CF transmembrane conductance regulator [Source:HGNC Symbol;Acc:HGNC:1884]	10816	-0.22825393080711365	0.24849235	No	
+row_71	MAPK3	mitogen-activated protein kinase 3 [Source:HGNC Symbol;Acc:HGNC:6877]	11472	-0.3271651566028595	0.21452865	No	
+row_72	ATP6V1D	ATPase H+ transporting V1 subunit D [Source:HGNC Symbol;Acc:HGNC:13527]	12081	-0.42473065853118896	0.18468451	No	
+row_73	TMEM175	transmembrane protein 175 [Source:HGNC Symbol;Acc:HGNC:28709]	12145	-0.4315165877342224	0.18697844	No	
+row_74	CLIC4	chloride intracellular channel 4 [Source:HGNC Symbol;Acc:HGNC:13518]	12319	-0.45955023169517517	0.1831945	No	
+row_75	SLC9A6	solute carrier family 9 member A6 [Source:HGNC Symbol;Acc:HGNC:11079]	12325	-0.4600520133972168	0.18929525	No	
+row_76	CLN6	CLN6 transmembrane ER protein [Source:HGNC Symbol;Acc:HGNC:2077]	12644	-0.5113663673400879	0.17770615	No	
+row_77	SNAPIN	SNAP associated protein [Source:HGNC Symbol;Acc:HGNC:17145]	13573	-0.7224217653274536	0.13318524	No	
+row_78	MAPK1	mitogen-activated protein kinase 1 [Source:HGNC Symbol;Acc:HGNC:6871]	14272	-0.8806697726249695	0.10438703	No	
+row_79	SLC4A4	solute carrier family 4 member 4 [Source:HGNC Symbol;Acc:HGNC:11030]	14354	-0.8987722992897034	0.11211749	No	
+row_80	SLC9A7	solute carrier family 9 member A7 [Source:HGNC Symbol;Acc:HGNC:17123]	14817	-1.041995882987976	0.09943753	No	
+row_81	SLC4A8	solute carrier family 4 member 8 [Source:HGNC Symbol;Acc:HGNC:11034]	15023	-1.1055346727371216	0.1027513	No	
+row_82	ATP5F1B	ATP synthase F1 subunit beta [Source:HGNC Symbol;Acc:HGNC:830]	15602	-1.346835732460022	0.087488286	No	

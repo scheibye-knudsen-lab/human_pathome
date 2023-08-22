@@ -1,0 +1,35 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	EPHB3	EPH receptor B3 [Source:HGNC Symbol;Acc:HGNC:3394]	103	1.8506345748901367	0.08409289	Yes	
+row_1	EPHB6	EPH receptor B6 [Source:HGNC Symbol;Acc:HGNC:3396]	125	1.7692606449127197	0.16903004	Yes	
+row_2	EPHA4	EPH receptor A4 [Source:HGNC Symbol;Acc:HGNC:3388]	282	1.3834142684936523	0.22726066	Yes	
+row_3	SLIT2	slit guidance ligand 2 [Source:HGNC Symbol;Acc:HGNC:11086]	378	1.2280138731002808	0.2814991	Yes	
+row_4	PLXNA4	plexin A4 [Source:HGNC Symbol;Acc:HGNC:9102]	513	1.1004925966262817	0.32724035	Yes	
+row_5	ADARB1	adenosine deaminase RNA specific B1 [Source:HGNC Symbol;Acc:HGNC:226]	602	1.0140589475631714	0.3714689	Yes	
+row_6	CDH11	cadherin 11 [Source:HGNC Symbol;Acc:HGNC:1750]	756	0.9465199112892151	0.40859735	Yes	
+row_7	GLI2	GLI family zinc finger 2 [Source:HGNC Symbol;Acc:HGNC:4318]	887	0.892494797706604	0.44444302	Yes	
+row_8	TCTN1	tectonic family member 1 [Source:HGNC Symbol;Acc:HGNC:26113]	932	0.8780836462974548	0.48462874	Yes	
+row_9	MYCBP2	MYC binding protein 2 [Source:HGNC Symbol;Acc:HGNC:23386]	1626	0.6947318911552429	0.4778358	Yes	
+row_10	SZT2	SZT2 subunit of KICSTOR complex [Source:HGNC Symbol;Acc:HGNC:29040]	1998	0.6194543838500977	0.48625448	Yes	
+row_11	SPG11	SPG11 vesicle trafficking associated, spatacsin [Source:HGNC Symbol;Acc:HGNC:11226]	2134	0.5975762605667114	0.5074436	Yes	
+row_12	TSKU	tsukushi, small leucine rich proteoglycan [Source:HGNC Symbol;Acc:HGNC:28850]	2343	0.5652133226394653	0.5227768	Yes	
+row_13	ARHGAP35	Rho GTPase activating protein 35 [Source:HGNC Symbol;Acc:HGNC:4591]	2716	0.5079786777496338	0.52570766	Yes	
+row_14	DCC	DCC netrin 1 receptor [Source:HGNC Symbol;Acc:HGNC:2701]	2747	0.5035935044288635	0.5484754	Yes	
+row_15	B4GALT6	beta-1,4-galactosyltransferase 6 [Source:HGNC Symbol;Acc:HGNC:929]	3033	0.4711048901081085	0.5547109	Yes	
+row_16	FBXO45	F-box protein 45 [Source:HGNC Symbol;Acc:HGNC:29148]	4069	0.3626673221588135	0.51169497	No	
+row_17	B4GALT5	beta-1,4-galactosyltransferase 5 [Source:HGNC Symbol;Acc:HGNC:928]	5232	0.25940126180648804	0.4562041	No	
+row_18	SPTBN4	spectrin beta, non-erythrocytic 4 [Source:HGNC Symbol;Acc:HGNC:14896]	5267	0.25537845492362976	0.46664846	No	
+row_19	PTEN	phosphatase and tensin homolog [Source:HGNC Symbol;Acc:HGNC:9588]	5605	0.22570176422595978	0.45788354	No	
+row_20	EPHB1	EPH receptor B1 [Source:HGNC Symbol;Acc:HGNC:3392]	5942	0.19832439720630646	0.44784388	No	
+row_21	NDEL1	nudE neurodevelopment protein 1 like 1 [Source:HGNC Symbol;Acc:HGNC:17620]	5959	0.1970619261264801	0.45650336	No	
+row_22	CHRNB2	cholinergic receptor nicotinic beta 2 subunit [Source:HGNC Symbol;Acc:HGNC:1962]	6771	0.13046374917030334	0.41531086	No	
+row_23	NFIB	nuclear factor I B [Source:HGNC Symbol;Acc:HGNC:7785]	6772	0.1304558515548706	0.42166445	No	
+row_24	PAFAH1B1	platelet activating factor acetylhydrolase 1b regulatory subunit 1 [Source:HGNC Symbol;Acc:HGNC:8574]	7243	0.09223231673240662	0.39860177	No	
+row_25	DCLK1	doublecortin like kinase 1 [Source:HGNC Symbol;Acc:HGNC:2700]	10816	-0.16414853930473328	0.19718082	No	
+row_26	NR4A2	nuclear receptor subfamily 4 group A member 2 [Source:HGNC Symbol;Acc:HGNC:7981]	10967	-0.17559728026390076	0.19693889	No	
+row_27	KIFBP	kinesin family binding protein [Source:HGNC Symbol;Acc:HGNC:23419]	11355	-0.2045976221561432	0.18421477	No	
+row_28	NIN	ninein [Source:HGNC Symbol;Acc:HGNC:14906]	13081	-0.35491520166397095	0.100368716	No	
+row_29	EPHB2	EPH receptor B2 [Source:HGNC Symbol;Acc:HGNC:3393]	13111	-0.35888829827308655	0.11614747	No	
+row_30	DRAXIN	dorsal inhibitory axon guidance protein [Source:HGNC Symbol;Acc:HGNC:25054]	13406	-0.3903330862522125	0.11792154	No	
+row_31	HSP90AB1	heat shock protein 90 alpha family class B member 1 [Source:HGNC Symbol;Acc:HGNC:5258]	13720	-0.42608335614204407	0.120322846	No	
+row_32	HSP90AA1	heat shock protein 90 alpha family class A member 1 [Source:HGNC Symbol;Acc:HGNC:5253]	15734	-0.7178391218185425	0.037267704	No	
+row_33	SCN1B	sodium voltage-gated channel beta subunit 1 [Source:HGNC Symbol;Acc:HGNC:10586]	16297	-0.8658978343009949	0.046491183	No	

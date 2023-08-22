@@ -1,0 +1,163 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TRMT61B	tRNA methyltransferase 61B [Source:HGNC Symbol;Acc:HGNC:26070]	2580	0.5261691808700562	-0.14480054	No	
+row_1	SARS2	seryl-tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:17697]	3570	0.41804543137550354	-0.19718221	No	
+row_2	NSUN3	NOP2/Sun RNA methyltransferase 3 [Source:HGNC Symbol;Acc:HGNC:26208]	3610	0.41297319531440735	-0.19352044	No	
+row_3	THAP11	THAP domain containing 11 [Source:HGNC Symbol;Acc:HGNC:23194]	3639	0.41073137521743774	-0.18924128	No	
+row_4	FOXO3	forkhead box O3 [Source:HGNC Symbol;Acc:HGNC:3821]	3711	0.4040748178958893	-0.18759829	No	
+row_5	FASTKD3	FAST kinase domains 3 [Source:HGNC Symbol;Acc:HGNC:28758]	4058	0.3645072877407074	-0.20277117	No	
+row_6	METTL4	methyltransferase 4, N6-adenosine [Source:HGNC Symbol;Acc:HGNC:24726]	4566	0.3155827522277832	-0.2281611	No	
+row_7	RMND1	required for meiotic nuclear division 1 homolog [Source:HGNC Symbol;Acc:HGNC:21176]	4679	0.30645543336868286	-0.23035012	No	
+row_8	MTIF2	mitochondrial translational initiation factor 2 [Source:HGNC Symbol;Acc:HGNC:7441]	4774	0.30079081654548645	-0.23155773	No	
+row_9	NOA1	nitric oxide associated 1 [Source:HGNC Symbol;Acc:HGNC:28473]	4827	0.2964222729206085	-0.23034747	No	
+row_10	PTCD3	pentatricopeptide repeat domain 3 [Source:HGNC Symbol;Acc:HGNC:24717]	5318	0.24990645051002502	-0.2556819	No	
+row_11	MRPS27	mitochondrial ribosomal protein S27 [Source:HGNC Symbol;Acc:HGNC:14512]	5362	0.24564678966999054	-0.2546735	No	
+row_12	GFM1	G elongation factor mitochondrial 1 [Source:HGNC Symbol;Acc:HGNC:13780]	5783	0.2121865600347519	-0.2764179	No	
+row_13	TRNT1	tRNA nucleotidyl transferase 1 [Source:HGNC Symbol;Acc:HGNC:17341]	6011	0.1934143304824829	-0.28703293	No	
+row_14	MRPS30	mitochondrial ribosomal protein S30 [Source:HGNC Symbol;Acc:HGNC:8769]	6017	0.19289632141590118	-0.28454182	No	
+row_15	QRSL1	glutaminyl-tRNA amidotransferase subunit QRSL1 [Source:HGNC Symbol;Acc:HGNC:21020]	6119	0.18443992733955383	-0.28784364	No	
+row_16	MTERF2	mitochondrial transcription termination factor 2 [Source:HGNC Symbol;Acc:HGNC:30779]	7008	0.11138306558132172	-0.33868903	No	
+row_17	SUPV3L1	Suv3 like RNA helicase [Source:HGNC Symbol;Acc:HGNC:11471]	7085	0.10579811036586761	-0.3416501	No	
+row_18	MTERF4	mitochondrial transcription termination factor 4 [Source:HGNC Symbol;Acc:HGNC:28785]	7334	0.0843745693564415	-0.3550807	No	
+row_19	WARS2	tryptophanyl tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:12730]	7380	0.07995971292257309	-0.3565838	No	
+row_20	MRPL49	mitochondrial ribosomal protein L49 [Source:HGNC Symbol;Acc:HGNC:1176]	7414	0.07641386985778809	-0.35742933	No	
+row_21	METTL8	methyltransferase 8, methylcytidine [Source:HGNC Symbol;Acc:HGNC:25856]	7478	0.0716484785079956	-0.36011577	No	
+row_22	AARS2	alanyl-tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:21022]	7633	0.059839632362127304	-0.36834818	No	
+row_23	MRPL45	mitochondrial ribosomal protein L45 [Source:HGNC Symbol;Acc:HGNC:16651]	7730	0.052468325942754745	-0.373261	No	
+row_24	GARS1	glycyl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:4162]	7805	0.046838246285915375	-0.3769556	No	
+row_25	PPARGC1B	PPARG coactivator 1 beta [Source:HGNC Symbol;Acc:HGNC:30022]	7811	0.046560753136873245	-0.37657836	No	
+row_26	MTERF1	mitochondrial transcription termination factor 1 [Source:HGNC Symbol;Acc:HGNC:21463]	7923	0.03731798380613327	-0.3825961	No	
+row_27	MRPL44	mitochondrial ribosomal protein L44 [Source:HGNC Symbol;Acc:HGNC:16650]	8394	0.005855878349393606	-0.4102745	No	
+row_28	IARS2	isoleucyl-tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:29685]	8396	0.005781059619039297	-0.41025007	No	
+row_29	MRPS31	mitochondrial ribosomal protein S31 [Source:HGNC Symbol;Acc:HGNC:16632]	8680	-0.002147020073607564	-0.42693594	No	
+row_30	FASTKD2	FAST kinase domains 2 [Source:HGNC Symbol;Acc:HGNC:29160]	9053	-0.027796173468232155	-0.44850853	No	
+row_31	MRPL48	mitochondrial ribosomal protein L48 [Source:HGNC Symbol;Acc:HGNC:16653]	9168	-0.03765042498707771	-0.45469868	No	
+row_32	MRPL10	mitochondrial ribosomal protein L10 [Source:HGNC Symbol;Acc:HGNC:14055]	9302	-0.04871173948049545	-0.46185136	No	
+row_33	MALSU1	mitochondrial assembly of ribosomal large subunit 1 [Source:HGNC Symbol;Acc:HGNC:21721]	9363	-0.05349127575755119	-0.46462288	No	
+row_34	RARS2	arginyl-tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:21406]	9380	-0.05427117645740509	-0.46478403	No	
+row_35	TRIT1	tRNA isopentenyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:20286]	9538	-0.06537414342164993	-0.47311372	No	
+row_36	DARS2	aspartyl-tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:25538]	9835	-0.08920306712388992	-0.48930994	No	
+row_37	MRPS5	mitochondrial ribosomal protein S5 [Source:HGNC Symbol;Acc:HGNC:14498]	9896	-0.09360737353563309	-0.491502	No	
+row_38	TARS2	threonyl-tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:30740]	10043	-0.10456690937280655	-0.49861574	No	
+row_39	YARS2	tyrosyl-tRNA synthetase 2 [Source:HGNC Symbol;Acc:HGNC:24249]	10144	-0.11299964040517807	-0.50289047	No	
+row_40	RCC1L	RCC1 like [Source:HGNC Symbol;Acc:HGNC:14948]	10223	-0.11916183680295944	-0.5057766	No	
+row_41	GFM2	GTP dependent ribosome recycling factor mitochondrial 2 [Source:HGNC Symbol;Acc:HGNC:29682]	10691	-0.15587066113948822	-0.5311108	No	
+row_42	PRKAA1	protein kinase AMP-activated catalytic subunit alpha 1 [Source:HGNC Symbol;Acc:HGNC:9376]	10739	-0.15864017605781555	-0.53159547	No	
+row_43	TRMT5	tRNA methyltransferase 5 [Source:HGNC Symbol;Acc:HGNC:23141]	11042	-0.1813289076089859	-0.54681534	No	
+row_44	MRPS10	mitochondrial ribosomal protein S10 [Source:HGNC Symbol;Acc:HGNC:14502]	11147	-0.1883593499660492	-0.5502378	No	
+row_45	MRPS9	mitochondrial ribosomal protein S9 [Source:HGNC Symbol;Acc:HGNC:14501]	11190	-0.19250613451004028	-0.5499379	No	
+row_46	MRPL38	mitochondrial ribosomal protein L38 [Source:HGNC Symbol;Acc:HGNC:14033]	11304	-0.20151104032993317	-0.55370194	No	
+row_47	NGRN	neugrin, neurite outgrowth associated [Source:HGNC Symbol;Acc:HGNC:18077]	11403	-0.2088625282049179	-0.55647373	No	
+row_48	FASTK	Fas activated serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:24676]	11411	-0.20953957736492157	-0.55386037	No	
+row_49	SHMT2	serine hydroxymethyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:10852]	11463	-0.21440841257572174	-0.5537758	No	
+row_50	LARS2	leucyl-tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:17095]	11485	-0.2165134698152542	-0.55188864	No	
+row_51	PRORP	protein only RNase P catalytic subunit [Source:HGNC Symbol;Acc:HGNC:19958]	11491	-0.2173832654953003	-0.54904383	No	
+row_52	MRPS2	mitochondrial ribosomal protein S2 [Source:HGNC Symbol;Acc:HGNC:14495]	11498	-0.21806423366069794	-0.54624826	No	
+row_53	TWNK	twinkle mtDNA helicase [Source:HGNC Symbol;Acc:HGNC:1160]	11521	-0.22033531963825226	-0.544365	No	
+row_54	FASTKD5	FAST kinase domains 5 [Source:HGNC Symbol;Acc:HGNC:25790]	11611	-0.22770076990127563	-0.5463331	No	
+row_55	GATC	glutamyl-tRNA amidotransferase subunit C [Source:HGNC Symbol;Acc:HGNC:25068]	11622	-0.2284471094608307	-0.54362375	No	
+row_56	MTIF3	mitochondrial translational initiation factor 3 [Source:HGNC Symbol;Acc:HGNC:29788]	11709	-0.23580044507980347	-0.5452976	No	
+row_57	ELAC2	elaC ribonuclease Z 2 [Source:HGNC Symbol;Acc:HGNC:14198]	11740	-0.2388564646244049	-0.5436194	No	
+row_58	POLRMT	RNA polymerase mitochondrial [Source:HGNC Symbol;Acc:HGNC:9200]	11756	-0.24003161489963531	-0.5410381	No	
+row_59	MRPS26	mitochondrial ribosomal protein S26 [Source:HGNC Symbol;Acc:HGNC:14045]	11789	-0.24241793155670166	-0.53942657	No	
+row_60	MRPL39	mitochondrial ribosomal protein L39 [Source:HGNC Symbol;Acc:HGNC:14027]	12156	-0.2735864818096161	-0.5570942	Yes	
+row_61	TFB2M	transcription factor B2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:18559]	12162	-0.2741033136844635	-0.5534301	Yes	
+row_62	CDK5RAP1	CDK5 regulatory subunit associated protein 1 [Source:HGNC Symbol;Acc:HGNC:15880]	12181	-0.2767215371131897	-0.550496	Yes	
+row_63	TFB1M	transcription factor B1, mitochondrial [Source:HGNC Symbol;Acc:HGNC:17037]	12204	-0.2781467139720917	-0.54777765	Yes	
+row_64	TFAM	transcription factor A, mitochondrial [Source:HGNC Symbol;Acc:HGNC:11741]	12320	-0.28805816173553467	-0.5504096	Yes	
+row_65	TRMT10C	tRNA methyltransferase 10C, mitochondrial RNase P subunit [Source:HGNC Symbol;Acc:HGNC:26022]	12368	-0.29137805104255676	-0.5489769	Yes	
+row_66	RPUSD3	RNA pseudouridine synthase D3 [Source:HGNC Symbol;Acc:HGNC:28437]	12464	-0.2993413805961609	-0.5502645	Yes	
+row_67	MRPS35	mitochondrial ribosomal protein S35 [Source:HGNC Symbol;Acc:HGNC:16635]	12498	-0.30164089798927307	-0.5478565	Yes	
+row_68	GATB	glutamyl-tRNA amidotransferase subunit B [Source:HGNC Symbol;Acc:HGNC:8849]	12596	-0.3094068169593811	-0.54911685	Yes	
+row_69	LRPPRC	leucine rich pentatricopeptide repeat containing [Source:HGNC Symbol;Acc:HGNC:15714]	12610	-0.31105268001556396	-0.54539156	Yes	
+row_70	ALKBH1	alkB homolog 1, histone H2A dioxygenase [Source:HGNC Symbol;Acc:HGNC:17911]	12638	-0.3134712278842926	-0.54245824	Yes	
+row_71	MTG1	mitochondrial ribosome associated GTPase 1 [Source:HGNC Symbol;Acc:HGNC:32159]	12679	-0.31764137744903564	-0.54023266	Yes	
+row_72	MRPS18B	mitochondrial ribosomal protein S18B [Source:HGNC Symbol;Acc:HGNC:14516]	12756	-0.32564911246299744	-0.5400179	Yes	
+row_73	TSFM	Ts translation elongation factor, mitochondrial [Source:HGNC Symbol;Acc:HGNC:12367]	12838	-0.3322131931781769	-0.54000366	Yes	
+row_74	MRPL3	mitochondrial ribosomal protein L3 [Source:HGNC Symbol;Acc:HGNC:10379]	12985	-0.3454139530658722	-0.54363835	Yes	
+row_75	CHCHD10	coiled-coil-helix-coiled-coil-helix domain containing 10 [Source:HGNC Symbol;Acc:HGNC:15559]	13110	-0.358662486076355	-0.545782	Yes	
+row_76	MRPL42	mitochondrial ribosomal protein L42 [Source:HGNC Symbol;Acc:HGNC:14493]	13173	-0.36542078852653503	-0.5441658	Yes	
+row_77	MRPL51	mitochondrial ribosomal protein L51 [Source:HGNC Symbol;Acc:HGNC:14044]	13206	-0.36846470832824707	-0.54073346	Yes	
+row_78	MRPL2	mitochondrial ribosomal protein L2 [Source:HGNC Symbol;Acc:HGNC:14056]	13249	-0.3727060854434967	-0.5378306	Yes	
+row_79	MPV17L2	MPV17 mitochondrial inner membrane protein like 2 [Source:HGNC Symbol;Acc:HGNC:28177]	13251	-0.3729783892631531	-0.5325019	Yes	
+row_80	PUS1	pseudouridine synthase 1 [Source:HGNC Symbol;Acc:HGNC:15508]	13271	-0.37586653232574463	-0.5281947	Yes	
+row_81	EARS2	glutamyl-tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:29419]	13276	-0.3762325346469879	-0.5229962	Yes	
+row_82	TEFM	transcription elongation factor, mitochondrial [Source:HGNC Symbol;Acc:HGNC:26223]	13317	-0.3816106617450714	-0.5198465	Yes	
+row_83	MTRF1	mitochondrial translation release factor 1 [Source:HGNC Symbol;Acc:HGNC:7469]	13391	-0.3886861503124237	-0.51854396	Yes	
+row_84	MRPL43	mitochondrial ribosomal protein L43 [Source:HGNC Symbol;Acc:HGNC:14517]	13443	-0.39378634095191956	-0.5158682	Yes	
+row_85	MRPL34	mitochondrial ribosomal protein L34 [Source:HGNC Symbol;Acc:HGNC:14488]	13577	-0.40892794728279114	-0.51781744	Yes	
+row_86	MTG2	mitochondrial ribosome associated GTPase 2 [Source:HGNC Symbol;Acc:HGNC:16239]	13586	-0.41035741567611694	-0.5123623	Yes	
+row_87	MRPL15	mitochondrial ribosomal protein L15 [Source:HGNC Symbol;Acc:HGNC:14054]	13657	-0.41868019104003906	-0.51044923	Yes	
+row_88	MTO1	mitochondrial tRNA translation optimization 1 [Source:HGNC Symbol;Acc:HGNC:19261]	13685	-0.42269933223724365	-0.5059381	Yes	
+row_89	MRPL11	mitochondrial ribosomal protein L11 [Source:HGNC Symbol;Acc:HGNC:14042]	13837	-0.43463191390037537	-0.5085794	Yes	
+row_90	PTCD1	pentatricopeptide repeat domain 1 [Source:HGNC Symbol;Acc:HGNC:22198]	13855	-0.435956209897995	-0.50328606	Yes	
+row_91	MRPL55	mitochondrial ribosomal protein L55 [Source:HGNC Symbol;Acc:HGNC:16686]	13881	-0.4388798177242279	-0.49842307	Yes	
+row_92	CHCHD1	coiled-coil-helix-coiled-coil-helix domain containing 1 [Source:HGNC Symbol;Acc:HGNC:23518]	13894	-0.4402165114879608	-0.49277285	Yes	
+row_93	RPUSD4	RNA pseudouridine synthase D4 [Source:HGNC Symbol;Acc:HGNC:25898]	14067	-0.45597973465919495	-0.49634618	Yes	
+row_94	MRPL16	mitochondrial ribosomal protein L16 [Source:HGNC Symbol;Acc:HGNC:14476]	14088	-0.45774468779563904	-0.49091533	Yes	
+row_95	MRPL23	mitochondrial ribosomal protein L23 [Source:HGNC Symbol;Acc:HGNC:10322]	14142	-0.46339505910873413	-0.48735216	Yes	
+row_96	MRPL37	mitochondrial ribosomal protein L37 [Source:HGNC Symbol;Acc:HGNC:14034]	14154	-0.4648318588733673	-0.48128733	Yes	
+row_97	MRPS11	mitochondrial ribosomal protein S11 [Source:HGNC Symbol;Acc:HGNC:14050]	14158	-0.46516335010528564	-0.47474512	Yes	
+row_98	MRPL46	mitochondrial ribosomal protein L46 [Source:HGNC Symbol;Acc:HGNC:1192]	14199	-0.46948760747909546	-0.47032604	Yes	
+row_99	MRPS17	mitochondrial ribosomal protein S17 [Source:HGNC Symbol;Acc:HGNC:14047]	14253	-0.47593826055526733	-0.4665817	Yes	
+row_100	DAP3	death associated protein 3 [Source:HGNC Symbol;Acc:HGNC:2673]	14312	-0.4833478331565857	-0.4630257	Yes	
+row_101	MRPL35	mitochondrial ribosomal protein L35 [Source:HGNC Symbol;Acc:HGNC:14489]	14383	-0.4920811653137207	-0.46005234	Yes	
+row_102	MRPL19	mitochondrial ribosomal protein L19 [Source:HGNC Symbol;Acc:HGNC:14052]	14455	-0.5001174211502075	-0.45702198	Yes	
+row_103	MRPS21	mitochondrial ribosomal protein S21 [Source:HGNC Symbol;Acc:HGNC:14046]	14559	-0.5143322348594666	-0.45567656	Yes	
+row_104	MRPS34	mitochondrial ribosomal protein S34 [Source:HGNC Symbol;Acc:HGNC:16618]	14560	-0.5144055485725403	-0.44824582	Yes	
+row_105	MRPL21	mitochondrial ribosomal protein L21 [Source:HGNC Symbol;Acc:HGNC:14479]	14562	-0.5146990418434143	-0.4408699	Yes	
+row_106	MRPS15	mitochondrial ribosomal protein S15 [Source:HGNC Symbol;Acc:HGNC:14504]	14656	-0.527790904045105	-0.43873936	Yes	
+row_107	TBRG4	transforming growth factor beta regulator 4 [Source:HGNC Symbol;Acc:HGNC:17443]	14703	-0.5333139896392822	-0.43375272	Yes	
+row_108	TUFM	Tu translation elongation factor, mitochondrial [Source:HGNC Symbol;Acc:HGNC:12420]	14753	-0.5399066209793091	-0.42884806	Yes	
+row_109	MRPL20	mitochondrial ribosomal protein L20 [Source:HGNC Symbol;Acc:HGNC:14478]	14762	-0.5406055450439453	-0.4215114	Yes	
+row_110	COA3	cytochrome c oxidase assembly factor 3 [Source:HGNC Symbol;Acc:HGNC:24990]	14793	-0.5461053252220154	-0.41539487	Yes	
+row_111	MRPS14	mitochondrial ribosomal protein S14 [Source:HGNC Symbol;Acc:HGNC:14049]	14854	-0.5543515682220459	-0.41093132	Yes	
+row_112	TRUB2	TruB pseudouridine synthase family member 2 [Source:HGNC Symbol;Acc:HGNC:17170]	14895	-0.5586748719215393	-0.4052239	Yes	
+row_113	MRPL18	mitochondrial ribosomal protein L18 [Source:HGNC Symbol;Acc:HGNC:14477]	14901	-0.5598653554916382	-0.39743185	Yes	
+row_114	MRPS18C	mitochondrial ribosomal protein S18C [Source:HGNC Symbol;Acc:HGNC:16633]	14942	-0.5649333596229553	-0.39163405	Yes	
+row_115	MRPL50	mitochondrial ribosomal protein L50 [Source:HGNC Symbol;Acc:HGNC:16654]	14961	-0.5677395462989807	-0.38449615	Yes	
+row_116	MRPS7	mitochondrial ribosomal protein S7 [Source:HGNC Symbol;Acc:HGNC:14499]	14986	-0.5722764134407043	-0.37764713	Yes	
+row_117	MRPS6	mitochondrial ribosomal protein S6 [Source:HGNC Symbol;Acc:HGNC:14051]	15060	-0.5841660499572754	-0.37352082	Yes	
+row_118	TACO1	translational activator of cytochrome c oxidase I [Source:HGNC Symbol;Acc:HGNC:24316]	15107	-0.5896849036216736	-0.3677199	Yes	
+row_119	MRPS23	mitochondrial ribosomal protein S23 [Source:HGNC Symbol;Acc:HGNC:14509]	15113	-0.5910628437995911	-0.35947716	Yes	
+row_120	MRPS33	mitochondrial ribosomal protein S33 [Source:HGNC Symbol;Acc:HGNC:16634]	15190	-0.6048377156257629	-0.35522944	Yes	
+row_121	MRPL32	mitochondrial ribosomal protein L32 [Source:HGNC Symbol;Acc:HGNC:14035]	15223	-0.6114911437034607	-0.3482865	Yes	
+row_122	MRPS18A	mitochondrial ribosomal protein S18A [Source:HGNC Symbol;Acc:HGNC:14515]	15247	-0.6162607669830322	-0.34074306	Yes	
+row_123	MRPS25	mitochondrial ribosomal protein S25 [Source:HGNC Symbol;Acc:HGNC:14511]	15265	-0.6200631260871887	-0.3327903	Yes	
+row_124	MRPL30	mitochondrial ribosomal protein L30 [Source:HGNC Symbol;Acc:HGNC:14036]	15375	-0.6388554573059082	-0.3300005	Yes	
+row_125	MTRF1L	mitochondrial translation release factor 1 like [Source:HGNC Symbol;Acc:HGNC:21051]	15381	-0.6395503282546997	-0.32105735	Yes	
+row_126	MRPL36	mitochondrial ribosomal protein L36 [Source:HGNC Symbol;Acc:HGNC:14490]	15394	-0.6426781415939331	-0.31248254	Yes	
+row_127	MRPS16	mitochondrial ribosomal protein S16 [Source:HGNC Symbol;Acc:HGNC:14048]	15450	-0.6554506421089172	-0.3062632	Yes	
+row_128	MRPL13	mitochondrial ribosomal protein L13 [Source:HGNC Symbol;Acc:HGNC:14278]	15476	-0.6597381830215454	-0.29820988	Yes	
+row_129	MRPL9	mitochondrial ribosomal protein L9 [Source:HGNC Symbol;Acc:HGNC:14277]	15605	-0.687121570110321	-0.29584518	Yes	
+row_130	MRPS12	mitochondrial ribosomal protein S12 [Source:HGNC Symbol;Acc:HGNC:10380]	15689	-0.7071959972381592	-0.29053238	Yes	
+row_131	MRPL33	mitochondrial ribosomal protein L33 [Source:HGNC Symbol;Acc:HGNC:14487]	15746	-0.7223688364028931	-0.28340548	Yes	
+row_132	MRPL58	mitochondrial ribosomal protein L58 [Source:HGNC Symbol;Acc:HGNC:5359]	15747	-0.7230044603347778	-0.2729615	Yes	
+row_133	FASTKD1	FAST kinase domains 1 [Source:HGNC Symbol;Acc:HGNC:26150]	15768	-0.7274762988090515	-0.2636343	Yes	
+row_134	AURKAIP1	aurora kinase A interacting protein 1 [Source:HGNC Symbol;Acc:HGNC:24114]	15802	-0.7350643873214722	-0.2549654	Yes	
+row_135	HARS1	histidyl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:4816]	15803	-0.7351411581039429	-0.24434607	Yes	
+row_136	HSD17B10	hydroxysteroid 17-beta dehydrogenase 10 [Source:HGNC Symbol;Acc:HGNC:4800]	15809	-0.7378129363059998	-0.2339835	Yes	
+row_137	MRPS24	mitochondrial ribosomal protein S24 [Source:HGNC Symbol;Acc:HGNC:14510]	15827	-0.7421261072158813	-0.22426747	Yes	
+row_138	MRPL40	mitochondrial ribosomal protein L40 [Source:HGNC Symbol;Acc:HGNC:14491]	15857	-0.749068021774292	-0.21516001	Yes	
+row_139	MRPL41	mitochondrial ribosomal protein L41 [Source:HGNC Symbol;Acc:HGNC:14492]	15861	-0.7495242953300476	-0.20451012	Yes	
+row_140	MRPL1	mitochondrial ribosomal protein L1 [Source:HGNC Symbol;Acc:HGNC:14275]	15907	-0.760412871837616	-0.1961839	Yes	
+row_141	PNPT1	polyribonucleotide nucleotidyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:23166]	15969	-0.7770988941192627	-0.18856178	Yes	
+row_142	MRPL4	mitochondrial ribosomal protein L4 [Source:HGNC Symbol;Acc:HGNC:14276]	16010	-0.7863315939903259	-0.1795658	Yes	
+row_143	SLC25A33	solute carrier family 25 member 33 [Source:HGNC Symbol;Acc:HGNC:29681]	16013	-0.7875171303749084	-0.16830803	Yes	
+row_144	MRPL53	mitochondrial ribosomal protein L53 [Source:HGNC Symbol;Acc:HGNC:16684]	16038	-0.7936047911643982	-0.15826188	Yes	
+row_145	MRPS22	mitochondrial ribosomal protein S22 [Source:HGNC Symbol;Acc:HGNC:14508]	16049	-0.796638011932373	-0.14734492	Yes	
+row_146	GADD45GIP1	GADD45G interacting protein 1 [Source:HGNC Symbol;Acc:HGNC:29996]	16055	-0.7976158857345581	-0.13611847	Yes	
+row_147	MRPL54	mitochondrial ribosomal protein L54 [Source:HGNC Symbol;Acc:HGNC:16685]	16059	-0.7986473441123962	-0.124759	Yes	
+row_148	MRPL52	mitochondrial ribosomal protein L52 [Source:HGNC Symbol;Acc:HGNC:16655]	16079	-0.8027902245521545	-0.114284806	Yes	
+row_149	MRPL28	mitochondrial ribosomal protein L28 [Source:HGNC Symbol;Acc:HGNC:14484]	16105	-0.8088921904563904	-0.104076885	Yes	
+row_150	MRPS28	mitochondrial ribosomal protein S28 [Source:HGNC Symbol;Acc:HGNC:14513]	16136	-0.8215614557266235	-0.093981296	Yes	
+row_151	UQCC2	ubiquinol-cytochrome c reductase complex assembly factor 2 [Source:HGNC Symbol;Acc:HGNC:21237]	16273	-0.8611027598381042	-0.089575976	Yes	
+row_152	NDUFA7	NADH:ubiquinone oxidoreductase subunit A7 [Source:HGNC Symbol;Acc:HGNC:7691]	16311	-0.8707960844039917	-0.07918268	Yes	
+row_153	C1QBP	complement C1q binding protein [Source:HGNC Symbol;Acc:HGNC:1243]	16338	-0.8806183338165283	-0.067997724	Yes	
+row_154	MRPL57	mitochondrial ribosomal protein L57 [Source:HGNC Symbol;Acc:HGNC:14514]	16393	-0.9011451601982117	-0.058170218	Yes	
+row_155	MRPL27	mitochondrial ribosomal protein L27 [Source:HGNC Symbol;Acc:HGNC:14483]	16461	-0.9391736388206482	-0.048561294	Yes	
+row_156	MRPL47	mitochondrial ribosomal protein L47 [Source:HGNC Symbol;Acc:HGNC:16652]	16478	-0.9467739462852478	-0.03583	Yes	
+row_157	MRPL12	mitochondrial ribosomal protein L12 [Source:HGNC Symbol;Acc:HGNC:10378]	16481	-0.9489100575447083	-0.022240862	Yes	
+row_158	MRPL14	mitochondrial ribosomal protein L14 [Source:HGNC Symbol;Acc:HGNC:14279]	16489	-0.9546670913696289	-0.008863918	Yes	
+row_159	MRPL24	mitochondrial ribosomal protein L24 [Source:HGNC Symbol;Acc:HGNC:14037]	16509	-0.9689911603927612	0.004011101	Yes	
+row_160	MRPL22	mitochondrial ribosomal protein L22 [Source:HGNC Symbol;Acc:HGNC:14480]	16569	-1.0115479230880737	0.015138054	Yes	
+row_161	MRPL17	mitochondrial ribosomal protein L17 [Source:HGNC Symbol;Acc:HGNC:14053]	16654	-1.0784451961517334	0.025754603	Yes	

@@ -1,0 +1,52 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	GPNMB	glycoprotein nmb [Source:HGNC Symbol;Acc:HGNC:4462]	14	2.835036277770996	0.087193996	No	
+row_1	VEGFB	vascular endothelial growth factor B [Source:HGNC Symbol;Acc:HGNC:12681]	449	1.405825138092041	0.10536929	No	
+row_2	S1PR1	sphingosine-1-phosphate receptor 1 [Source:HGNC Symbol;Acc:HGNC:3165]	1858	0.6911698579788208	0.04419801	No	
+row_3	HMGB2	high mobility group box 2 [Source:HGNC Symbol;Acc:HGNC:5000]	2307	0.5875956416130066	0.03614923	No	
+row_4	HGF	hepatocyte growth factor [Source:HGNC Symbol;Acc:HGNC:4893]	2715	0.5136275291442871	0.028210163	No	
+row_5	NTRK3	neurotrophic receptor tyrosine kinase 3 [Source:HGNC Symbol;Acc:HGNC:8033]	3814	0.37161985039711	-0.024689272	No	
+row_6	CX3CL1	C-X3-C motif chemokine ligand 1 [Source:HGNC Symbol;Acc:HGNC:10647]	4141	0.33193257451057434	-0.03351566	No	
+row_7	PGF	placental growth factor [Source:HGNC Symbol;Acc:HGNC:8893]	4301	0.31407591700553894	-0.03309595	No	
+row_8	F7	coagulation factor VII [Source:HGNC Symbol;Acc:HGNC:3544]	4528	0.2877691090106964	-0.037424877	No	
+row_9	TSC2	TSC complex subunit 2 [Source:HGNC Symbol;Acc:HGNC:12363]	4602	0.28113019466400146	-0.032981038	No	
+row_10	SEMA5A	semaphorin 5A [Source:HGNC Symbol;Acc:HGNC:10736]	5382	0.20040468871593475	-0.07247531	No	
+row_11	AZU1	azurocidin 1 [Source:HGNC Symbol;Acc:HGNC:913]	6589	0.09586795419454575	-0.14027368	No	
+row_12	CCL3	C-C motif chemokine ligand 3 [Source:HGNC Symbol;Acc:HGNC:10627]	8026	0.0	-0.22454597	No	
+row_13	GDNF	glial cell derived neurotrophic factor [Source:HGNC Symbol;Acc:HGNC:4232]	8458	-0.028582043945789337	-0.24895205	No	
+row_14	KDR	kinase insert domain receptor [Source:HGNC Symbol;Acc:HGNC:6307]	8682	-0.04153791442513466	-0.26074934	No	
+row_15	PTPRJ	protein tyrosine phosphatase receptor type J [Source:HGNC Symbol;Acc:HGNC:9673]	8685	-0.041761986911296844	-0.25957018	No	
+row_16	NTF3	neurotrophin 3 [Source:HGNC Symbol;Acc:HGNC:8023]	8925	-0.05613064765930176	-0.2718534	No	
+row_17	SCG2	secretogranin II [Source:HGNC Symbol;Acc:HGNC:10575]	8970	-0.05901581421494484	-0.27260336	No	
+row_18	BMP4	bone morphogenetic protein 4 [Source:HGNC Symbol;Acc:HGNC:1071]	9170	-0.07306323945522308	-0.28201348	No	
+row_19	AGER	advanced glycosylation end-product specific receptor [Source:HGNC Symbol;Acc:HGNC:320]	9227	-0.07719781994819641	-0.2829032	No	
+row_20	VEGFD	vascular endothelial growth factor D [Source:HGNC Symbol;Acc:HGNC:3708]	9661	-0.10985248535871506	-0.30490354	No	
+row_21	LGALS3	galectin 3 [Source:HGNC Symbol;Acc:HGNC:6563]	9792	-0.1209765151143074	-0.30877686	No	
+row_22	FGF10	fibroblast growth factor 10 [Source:HGNC Symbol;Acc:HGNC:3666]	10270	-0.15671080350875854	-0.33190462	No	
+row_23	SCRIB	scribble planar cell polarity protein [Source:HGNC Symbol;Acc:HGNC:30377]	10357	-0.16402588784694672	-0.3318593	No	
+row_24	ARTN	artemin [Source:HGNC Symbol;Acc:HGNC:727]	10567	-0.18114572763442993	-0.33850074	No	
+row_25	WNT5A	Wnt family member 5A [Source:HGNC Symbol;Acc:HGNC:12784]	10840	-0.20127740502357483	-0.3482144	No	
+row_26	IL16	interleukin 16 [Source:HGNC Symbol;Acc:HGNC:5980]	10929	-0.2078169733285904	-0.3469269	No	
+row_27	MIF	macrophage migration inhibitory factor [Source:HGNC Symbol;Acc:HGNC:7097]	10967	-0.2099532186985016	-0.34258014	No	
+row_28	ALKBH1	alkB homolog 1, histone H2A dioxygenase [Source:HGNC Symbol;Acc:HGNC:17911]	11656	-0.2645776867866516	-0.37474173	No	
+row_29	CDH13	cadherin 13 [Source:HGNC Symbol;Acc:HGNC:1753]	11754	-0.2712007761001587	-0.3720146	No	
+row_30	HMGB1	high mobility group box 1 [Source:HGNC Symbol;Acc:HGNC:4983]	14144	-0.48536935448646545	-0.49714553	No	
+row_31	CXCL12	C-X-C motif chemokine ligand 12 [Source:HGNC Symbol;Acc:HGNC:10672]	14687	-0.5502257943153381	-0.5118709	No	
+row_32	ANGPT1	angiopoietin 1 [Source:HGNC Symbol;Acc:HGNC:484]	15195	-0.6354198455810547	-0.5218974	Yes	
+row_33	COLEC10	collectin subfamily member 10 [Source:HGNC Symbol;Acc:HGNC:2220]	15419	-0.6791051626205444	-0.513901	Yes	
+row_34	SMAD3	SMAD family member 3 [Source:HGNC Symbol;Acc:HGNC:6769]	15433	-0.6826818585395813	-0.49346957	Yes	
+row_35	FGF7	fibroblast growth factor 7 [Source:HGNC Symbol;Acc:HGNC:3685]	15691	-0.7514169812202454	-0.4852235	Yes	
+row_36	PDGFB	platelet derived growth factor subunit B [Source:HGNC Symbol;Acc:HGNC:8800]	15720	-0.7606704235076904	-0.46325117	Yes	
+row_37	PLXNB3	plexin B3 [Source:HGNC Symbol;Acc:HGNC:9105]	15895	-0.8122514486312866	-0.44824556	Yes	
+row_38	CCL5	C-C motif chemokine ligand 5 [Source:HGNC Symbol;Acc:HGNC:10632]	15948	-0.827862024307251	-0.42559567	Yes	
+row_39	CXCL10	C-X-C motif chemokine ligand 10 [Source:HGNC Symbol;Acc:HGNC:10637]	16199	-0.9050781726837158	-0.41216826	Yes	
+row_40	MET	MET proto-oncogene, receptor tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:7029]	16405	-0.9996184706687927	-0.39316496	Yes	
+row_41	CORO1A	coronin 1A [Source:HGNC Symbol;Acc:HGNC:2252]	16412	-1.001251459121704	-0.36243254	Yes	
+row_42	F2RL1	F2R like trypsin receptor 1 [Source:HGNC Symbol;Acc:HGNC:3538]	16464	-1.030793309211731	-0.33342385	Yes	
+row_43	NRP1	neuropilin 1 [Source:HGNC Symbol;Acc:HGNC:8004]	16497	-1.052392601966858	-0.30262953	Yes	
+row_44	CXCL8	C-X-C motif chemokine ligand 8 [Source:HGNC Symbol;Acc:HGNC:6025]	16606	-1.1411627531051636	-0.27353942	Yes	
+row_45	VEGFC	vascular endothelial growth factor C [Source:HGNC Symbol;Acc:HGNC:12682]	16661	-1.1861276626586914	-0.2398843	Yes	
+row_46	VEGFA	vascular endothelial growth factor A [Source:HGNC Symbol;Acc:HGNC:12680]	16708	-1.2388111352920532	-0.20412411	Yes	
+row_47	FGF2	fibroblast growth factor 2 [Source:HGNC Symbol;Acc:HGNC:3676]	16809	-1.4003548622131348	-0.1665177	Yes	
+row_48	ANGPT2	angiopoietin 2 [Source:HGNC Symbol;Acc:HGNC:485]	16866	-1.4927914142608643	-0.123459384	Yes	
+row_49	ITGA2	integrin subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:6137]	17004	-1.9400596618652344	-0.07126884	Yes	
+row_50	F3	coagulation factor III, tissue factor [Source:HGNC Symbol;Acc:HGNC:3541]	17063	-2.456286907196045	0.0015844669	Yes	

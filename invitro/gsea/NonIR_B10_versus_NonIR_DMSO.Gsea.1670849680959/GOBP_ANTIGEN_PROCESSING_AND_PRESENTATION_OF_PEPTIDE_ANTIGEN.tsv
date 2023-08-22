@@ -1,0 +1,52 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CD74	CD74 molecule [Source:HGNC Symbol;Acc:HGNC:1697]	56	3.5776405334472656	0.058609817	Yes	
+row_1	CTSD	cathepsin D [Source:HGNC Symbol;Acc:HGNC:2529]	97	3.251694679260254	0.11251946	Yes	
+row_2	B2M	beta-2-microglobulin [Source:HGNC Symbol;Acc:HGNC:914]	278	2.5155458450317383	0.14547715	Yes	
+row_3	HLA-G	major histocompatibility complex, class I, G [Source:HGNC Symbol;Acc:HGNC:4964]	285	2.5019335746765137	0.1884106	Yes	
+row_4	CTSS	cathepsin S [Source:HGNC Symbol;Acc:HGNC:2545]	444	2.222778081893921	0.21759424	Yes	
+row_5	HLA-B	major histocompatibility complex, class I, B [Source:HGNC Symbol;Acc:HGNC:4932]	489	2.1661157608032227	0.2524877	Yes	
+row_6	HLA-A	major histocompatibility complex, class I, A [Source:HGNC Symbol;Acc:HGNC:4931]	620	1.9988454580307007	0.2794403	Yes	
+row_7	TAP1	transporter 1, ATP binding cassette subfamily B member [Source:HGNC Symbol;Acc:HGNC:43]	640	1.9750337600708008	0.31249502	Yes	
+row_8	HLA-C	major histocompatibility complex, class I, C [Source:HGNC Symbol;Acc:HGNC:4933]	817	1.7894572019577026	0.33312553	Yes	
+row_9	CLEC4A	C-type lectin domain family 4 member A [Source:HGNC Symbol;Acc:HGNC:13257]	830	1.7731459140777588	0.3630982	Yes	
+row_10	CTSF	cathepsin F [Source:HGNC Symbol;Acc:HGNC:2531]	874	1.7296513319015503	0.39049917	Yes	
+row_11	HLA-H	major histocompatibility complex, class I, H (pseudogene) [Source:HGNC Symbol;Acc:HGNC:4965]	937	1.6812245845794678	0.4159473	Yes	
+row_12	HLA-DPB1	major histocompatibility complex, class II, DP beta 1 [Source:HGNC Symbol;Acc:HGNC:4940]	938	1.681208848953247	0.4450336	Yes	
+row_13	MFSD6	major facilitator superfamily domain containing 6 [Source:HGNC Symbol;Acc:HGNC:24711]	1001	1.6350914239883423	0.46968356	Yes	
+row_14	TAP2	transporter 2, ATP binding cassette subfamily B member [Source:HGNC Symbol;Acc:HGNC:44]	1178	1.522752285003662	0.48569983	Yes	
+row_15	CTSL	cathepsin L [Source:HGNC Symbol;Acc:HGNC:2537]	1301	1.4434831142425537	0.5035137	Yes	
+row_16	IFI30	IFI30 lysosomal thiol reductase [Source:HGNC Symbol;Acc:HGNC:5398]	1424	1.3773669004440308	0.5201837	Yes	
+row_17	HLA-E	major histocompatibility complex, class I, E [Source:HGNC Symbol;Acc:HGNC:4962]	1476	1.3493845462799072	0.5405362	Yes	
+row_18	HLA-F	major histocompatibility complex, class I, F [Source:HGNC Symbol;Acc:HGNC:4963]	1625	1.2800921201705933	0.55399746	Yes	
+row_19	TAPBP	TAP binding protein [Source:HGNC Symbol;Acc:HGNC:11566]	1764	1.2196009159088135	0.56699896	Yes	
+row_20	TAPBPL	TAP binding protein like [Source:HGNC Symbol;Acc:HGNC:30683]	1774	1.2133201360702515	0.58746225	Yes	
+row_21	HLA-DRB1	major histocompatibility complex, class II, DR beta 1 [Source:HGNC Symbol;Acc:HGNC:4948]	2265	1.062070608139038	0.5770811	No	
+row_22	HLA-DPA1	major histocompatibility complex, class II, DP alpha 1 [Source:HGNC Symbol;Acc:HGNC:4938]	2991	0.8785049915313721	0.54973304	No	
+row_23	HLA-DQA1	major histocompatibility complex, class II, DQ alpha 1 [Source:HGNC Symbol;Acc:HGNC:4942]	3612	0.7697675824165344	0.5266657	No	
+row_24	MARCHF8	membrane associated ring-CH-type finger 8 [Source:HGNC Symbol;Acc:HGNC:23356]	3644	0.762275755405426	0.53803444	No	
+row_25	HFE	homeostatic iron regulator [Source:HGNC Symbol;Acc:HGNC:4886]	3843	0.7292189598083496	0.53903085	No	
+row_26	ERAP2	endoplasmic reticulum aminopeptidase 2 [Source:HGNC Symbol;Acc:HGNC:29499]	3857	0.7278348207473755	0.5508601	No	
+row_27	CTSV	cathepsin V [Source:HGNC Symbol;Acc:HGNC:2538]	3899	0.7213068604469299	0.5609332	No	
+row_28	HLA-DOA	major histocompatibility complex, class II, DO alpha [Source:HGNC Symbol;Acc:HGNC:4936]	4512	0.6252906918525696	0.53583574	No	
+row_29	ERAP1	endoplasmic reticulum aminopeptidase 1 [Source:HGNC Symbol;Acc:HGNC:18173]	4558	0.6179166436195374	0.5438854	No	
+row_30	PYCARD	PYD and CARD domain containing [Source:HGNC Symbol;Acc:HGNC:16608]	4802	0.5781469941139221	0.53962725	No	
+row_31	HLA-DMA	major histocompatibility complex, class II, DM alpha [Source:HGNC Symbol;Acc:HGNC:4934]	4941	0.5557729005813599	0.541144	No	
+row_32	LGMN	legumain [Source:HGNC Symbol;Acc:HGNC:9472]	4989	0.5493529438972473	0.54789007	No	
+row_33	HLA-DMB	major histocompatibility complex, class II, DM beta [Source:HGNC Symbol;Acc:HGNC:4935]	5395	0.4972674548625946	0.53272563	No	
+row_34	PIKFYVE	phosphoinositide kinase, FYVE-type zinc finger containing [Source:HGNC Symbol;Acc:HGNC:23785]	6377	0.37590181827545166	0.4816586	No	
+row_35	IDE	insulin degrading enzyme [Source:HGNC Symbol;Acc:HGNC:5381]	6406	0.37267786264419556	0.48646304	No	
+row_36	MARCHF1	membrane associated ring-CH-type finger 1 [Source:HGNC Symbol;Acc:HGNC:26077]	7324	0.24498556554317474	0.43688694	No	
+row_37	SAR1B	secretion associated Ras related GTPase 1B [Source:HGNC Symbol;Acc:HGNC:10535]	7702	0.1956045925617218	0.41814667	No	
+row_38	SLC11A1	solute carrier family 11 member 1 [Source:HGNC Symbol;Acc:HGNC:10907]	7708	0.194850355386734	0.4212243	No	
+row_39	TRAF6	TNF receptor associated factor 6 [Source:HGNC Symbol;Acc:HGNC:12036]	7958	0.16426920890808105	0.40945363	No	
+row_40	ACE	angiotensin I converting enzyme [Source:HGNC Symbol;Acc:HGNC:2707]	8205	0.12994970381259918	0.39726526	No	
+row_41	TREM2	triggering receptor expressed on myeloid cells 2 [Source:HGNC Symbol;Acc:HGNC:17761]	9134	0.0	0.34280515	No	
+row_42	IKBKB	inhibitor of nuclear factor kappa B kinase subunit beta [Source:HGNC Symbol;Acc:HGNC:5960]	9460	-0.022356431931257248	0.32411918	No	
+row_43	FCER1G	Fc epsilon receptor Ig [Source:HGNC Symbol;Acc:HGNC:3611]	10385	-0.15707165002822876	0.2726113	No	
+row_44	FCGR1A	Fc gamma receptor Ia [Source:HGNC Symbol;Acc:HGNC:3613]	10497	-0.17431923747062683	0.26911306	No	
+row_45	LNPEP	leucyl and cystinyl aminopeptidase [Source:HGNC Symbol;Acc:HGNC:6656]	10655	-0.20098631083965302	0.26337668	No	
+row_46	MR1	major histocompatibility complex, class I-related [Source:HGNC Symbol;Acc:HGNC:4975]	11048	-0.2612423002719879	0.2448917	No	
+row_47	DNM2	dynamin 2 [Source:HGNC Symbol;Acc:HGNC:2974]	11614	-0.34962019324302673	0.21778315	No	
+row_48	ABCB9	ATP binding cassette subfamily B member 9 [Source:HGNC Symbol;Acc:HGNC:50]	15860	-1.4794340133666992	-0.005741114	No	
+row_49	PDIA3	protein disulfide isomerase family A member 3 [Source:HGNC Symbol;Acc:HGNC:4606]	16048	-1.6067476272583008	0.011082797	No	
+row_50	CALR	calreticulin [Source:HGNC Symbol;Acc:HGNC:1455]	16887	-2.8905365467071533	0.011913114	No	

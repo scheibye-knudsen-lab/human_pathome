@@ -1,0 +1,17 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	HSPA1A	heat shock protein family A (Hsp70) member 1A [Source:HGNC Symbol;Acc:HGNC:5232]	43	3.765943765640259	0.17789766	Yes	
+row_1	NOD2	nucleotide binding oligomerization domain containing 2 [Source:HGNC Symbol;Acc:HGNC:5331]	75	3.341844320297241	0.3361807	Yes	
+row_2	NFKBIA	NFKB inhibitor alpha [Source:HGNC Symbol;Acc:HGNC:7797]	175	2.8866047859191895	0.46867198	Yes	
+row_3	HSPA1B	heat shock protein family A (Hsp70) member 1B [Source:HGNC Symbol;Acc:HGNC:5233]	369	2.347571611404419	0.5698346	Yes	
+row_4	TNFAIP3	TNF alpha induced protein 3 [Source:HGNC Symbol;Acc:HGNC:11896]	505	2.1447548866271973	0.66467756	Yes	
+row_5	LACC1	laccase domain containing 1 [Source:HGNC Symbol;Acc:HGNC:26789]	674	1.9319449663162231	0.7473928	Yes	
+row_6	SLC15A3	solute carrier family 15 member 3 [Source:HGNC Symbol;Acc:HGNC:18068]	1523	1.3287029266357422	0.761384	Yes	
+row_7	SLC15A4	solute carrier family 15 member 4 [Source:HGNC Symbol;Acc:HGNC:23090]	2492	0.9961481094360352	0.75241566	No	
+row_8	PTPN22	protein tyrosine phosphatase non-receptor type 22 [Source:HGNC Symbol;Acc:HGNC:9652]	5798	0.4474174380302429	0.58029234	No	
+row_9	RELA	RELA proto-oncogene, NF-kB subunit [Source:HGNC Symbol;Acc:HGNC:9955]	5914	0.43144768476486206	0.59422684	No	
+row_10	RIPK2	receptor interacting serine/threonine kinase 2 [Source:HGNC Symbol;Acc:HGNC:10020]	7390	0.23697729408740997	0.51919615	No	
+row_11	OTULIN	OTU deubiquitinase with linear linkage specificity [Source:HGNC Symbol;Acc:HGNC:25118]	8300	0.11708113551139832	0.47156945	No	
+row_12	INAVA	innate immunity activator [Source:HGNC Symbol;Acc:HGNC:25599]	8465	0.09032399952411652	0.46629193	No	
+row_13	ERBIN	erbb2 interacting protein [Source:HGNC Symbol;Acc:HGNC:15842]	10496	-0.17394445836544037	0.35573786	No	
+row_14	TLR4	toll like receptor 4 [Source:HGNC Symbol;Acc:HGNC:11850]	10851	-0.23311805725097656	0.34617385	No	
+row_15	IRGM	immunity related GTPase M [Source:HGNC Symbol;Acc:HGNC:29597]	11899	-0.39984726905822754	0.3040117	No	

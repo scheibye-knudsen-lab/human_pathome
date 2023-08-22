@@ -1,0 +1,45 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CARS2	cysteinyl-tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:25695]	727	1.695878028869629	0.0062575247	No	
+row_1	NARS2	asparaginyl-tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:26274]	3578	0.7302549481391907	-0.13986883	No	
+row_2	WARS2	tryptophanyl tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:12730]	4017	0.6558077931404114	-0.14665087	No	
+row_3	LRRC47	leucine rich repeat containing 47 [Source:HGNC Symbol;Acc:HGNC:29207]	4106	0.6387280821800232	-0.13339394	No	
+row_4	SARS2	seryl-tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:17697]	5271	0.4588456451892853	-0.18844394	No	
+row_5	HARS2	histidyl-tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:4817]	5722	0.40563517808914185	-0.20314418	No	
+row_6	MARS2	methionyl-tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:25133]	6313	0.32700470089912415	-0.22832449	No	
+row_7	WARS1	tryptophanyl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:12729]	7129	0.22483134269714355	-0.26964998	No	
+row_8	TARS2	threonyl-tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:30740]	7407	0.1911664754152298	-0.28038648	No	
+row_9	QRSL1	glutaminyl-tRNA amidotransferase subunit QRSL1 [Source:HGNC Symbol;Acc:HGNC:21020]	7471	0.1851649135351181	-0.27874252	No	
+row_10	FARS2	phenylalanyl-tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:21062]	8610	0.051496103405952454	-0.34401414	No	
+row_11	EARS2	glutamyl-tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:29419]	8728	0.0359635166823864	-0.34984043	No	
+row_12	GATB	glutamyl-tRNA amidotransferase subunit B [Source:HGNC Symbol;Acc:HGNC:8849]	8810	0.02450009435415268	-0.35388547	No	
+row_13	YARS2	tyrosyl-tRNA synthetase 2 [Source:HGNC Symbol;Acc:HGNC:24249]	9683	-0.055906809866428375	-0.403426	No	
+row_14	KARS1	lysyl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:6215]	10304	-0.13028982281684875	-0.43603882	No	
+row_15	GATC	glutamyl-tRNA amidotransferase subunit C [Source:HGNC Symbol;Acc:HGNC:25068]	10363	-0.13838236033916473	-0.4354506	No	
+row_16	LARS2	leucyl-tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:17095]	10710	-0.18383283913135529	-0.45044625	No	
+row_17	PARS2	prolyl-tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:30563]	10923	-0.2124810814857483	-0.4567551	No	
+row_18	DARS1	aspartyl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:2678]	11310	-0.2638944983482361	-0.4717884	No	
+row_19	VARS2	valyl-tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:21642]	11543	-0.2933497130870819	-0.47693846	No	
+row_20	FARSA	phenylalanyl-tRNA synthetase subunit alpha [Source:HGNC Symbol;Acc:HGNC:3592]	11556	-0.29529812932014465	-0.46912682	No	
+row_21	TARS3	threonyl-tRNA synthetase 3 [Source:HGNC Symbol;Acc:HGNC:24728]	12411	-0.41231364011764526	-0.50733364	No	
+row_22	AARS2	alanyl-tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:21022]	12761	-0.4552857577800751	-0.51467735	No	
+row_23	IARS2	isoleucyl-tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:29685]	13114	-0.5078532695770264	-0.5206811	No	
+row_24	NARS1	asparaginyl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:7643]	14006	-0.6657707095146179	-0.5537494	No	
+row_25	RARS1	arginyl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:9870]	14538	-0.7824663519859314	-0.5623344	Yes	
+row_26	HARS1	histidyl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:4816]	14828	-0.8540904521942139	-0.554658	Yes	
+row_27	AARSD1	alanyl-tRNA synthetase domain containing 1 [Source:HGNC Symbol;Acc:HGNC:28417]	14989	-0.8903427720069885	-0.5383689	Yes	
+row_28	YARS1	tyrosyl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:12840]	15115	-0.9321030974388123	-0.5188223	Yes	
+row_29	DALRD3	DALR anticodon binding domain containing 3 [Source:HGNC Symbol;Acc:HGNC:25536]	15407	-1.0241230726242065	-0.50635993	Yes	
+row_30	AARS1	alanyl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:20]	15476	-1.0467809438705444	-0.4801627	Yes	
+row_31	EPRS1	glutamyl-prolyl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:3418]	15481	-1.0478549003601074	-0.4501802	Yes	
+row_32	AASDH	aminoadipate-semialdehyde dehydrogenase [Source:HGNC Symbol;Acc:HGNC:23993]	15488	-1.0491935014724731	-0.42027637	Yes	
+row_33	TARS1	threonyl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:11572]	15494	-1.0512903928756714	-0.39025345	Yes	
+row_34	CARS1	cysteinyl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:1493]	15890	-1.2255173921585083	-0.3780842	Yes	
+row_35	SARS1	seryl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:10537]	16115	-1.3472744226455688	-0.3523728	Yes	
+row_36	MARS1	methionyl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:6898]	16278	-1.4487193822860718	-0.32009897	Yes	
+row_37	LARS1	leucyl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:6512]	16347	-1.5009219646453857	-0.2808056	Yes	
+row_38	FARSB	phenylalanyl-tRNA synthetase subunit beta [Source:HGNC Symbol;Acc:HGNC:17800]	16372	-1.522520899772644	-0.23830825	Yes	
+row_39	RARS2	arginyl-tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:21406]	16425	-1.5742706060409546	-0.19596113	Yes	
+row_40	DARS2	aspartyl-tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:25538]	16517	-1.6772488355636597	-0.1529322	Yes	
+row_41	VARS1	valyl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:12651]	16660	-1.891453742980957	-0.10671794	Yes	
+row_42	IARS1	isoleucyl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:5330]	16863	-2.2525887489318848	-0.053609237	Yes	
+row_43	GARS1	glycyl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:4162]	16877	-2.3187708854675293	0.012494957	Yes	

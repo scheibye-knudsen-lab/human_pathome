@@ -1,0 +1,37 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	IFNLR1	interferon lambda receptor 1 [Source:HGNC Symbol;Acc:HGNC:18584]	7	4.40310001373291	0.1231263	Yes	
+row_1	MICB	MHC class I polypeptide-related sequence B [Source:HGNC Symbol;Acc:HGNC:7091]	83	3.1576168537139893	0.20732127	Yes	
+row_2	ZC3H12A	zinc finger CCCH-type containing 12A [Source:HGNC Symbol;Acc:HGNC:26259]	469	1.9530566930770874	0.2395437	Yes	
+row_3	SELENOK	selenoprotein K [Source:HGNC Symbol;Acc:HGNC:30394]	745	1.6810649633407593	0.27058464	Yes	
+row_4	IL12RB1	interleukin 12 receptor subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:5971]	939	1.5261472463607788	0.30208707	Yes	
+row_5	DTX3L	deltex E3 ubiquitin ligase 3L [Source:HGNC Symbol;Acc:HGNC:30323]	1137	1.4030121564865112	0.32990018	Yes	
+row_6	TNFAIP3	TNF alpha induced protein 3 [Source:HGNC Symbol;Acc:HGNC:11896]	1147	1.3976571559906006	0.3685862	Yes	
+row_7	PYCARD	PYD and CARD domain containing [Source:HGNC Symbol;Acc:HGNC:16608]	1240	1.3506349325180054	0.40108636	Yes	
+row_8	IL15	interleukin 15 [Source:HGNC Symbol;Acc:HGNC:5977]	1305	1.3241974115371704	0.43448648	Yes	
+row_9	IL1B	interleukin 1 beta [Source:HGNC Symbol;Acc:HGNC:5992]	1466	1.2523430585861206	0.46024176	Yes	
+row_10	PQBP1	polyglutamine binding protein 1 [Source:HGNC Symbol;Acc:HGNC:9330]	1718	1.1587779521942139	0.47803622	Yes	
+row_11	APOBEC3G	apolipoprotein B mRNA editing enzyme catalytic subunit 3G [Source:HGNC Symbol;Acc:HGNC:17357]	1726	1.1548901796340942	0.51002824	Yes	
+row_12	PARP9	poly(ADP-ribose) polymerase family member 9 [Source:HGNC Symbol;Acc:HGNC:24118]	1790	1.1333327293395996	0.538132	Yes	
+row_13	DDX58	DExD/H-box helicase 58 [Source:HGNC Symbol;Acc:HGNC:19102]	2248	1.0067205429077148	0.53958166	Yes	
+row_14	ZDHHC1	zinc finger DHHC-type containing 1 [Source:HGNC Symbol;Acc:HGNC:17916]	2738	0.9016425609588623	0.5362069	Yes	
+row_15	CGAS	cyclic GMP-AMP synthase [Source:HGNC Symbol;Acc:HGNC:21367]	3175	0.8100173473358154	0.533369	Yes	
+row_16	TRAF3IP2	TRAF3 interacting protein 2 [Source:HGNC Symbol;Acc:HGNC:1343]	3372	0.7685717940330505	0.5434404	Yes	
+row_17	TRIM6	tripartite motif containing 6 [Source:HGNC Symbol;Acc:HGNC:16277]	3401	0.7606050968170166	0.5631388	Yes	
+row_18	STAT1	signal transducer and activator of transcription 1 [Source:HGNC Symbol;Acc:HGNC:11362]	3890	0.6780076026916504	0.55354816	Yes	
+row_19	HSP90AA1	heat shock protein 90 alpha family class A member 1 [Source:HGNC Symbol;Acc:HGNC:5253]	4035	0.6526319980621338	0.56341565	Yes	
+row_20	MUL1	mitochondrial E3 ubiquitin protein ligase 1 [Source:HGNC Symbol;Acc:HGNC:25762]	4091	0.6429150104522705	0.5782289	Yes	
+row_21	APOBEC3F	apolipoprotein B mRNA editing enzyme catalytic subunit 3F [Source:HGNC Symbol;Acc:HGNC:17356]	4159	0.6302940249443054	0.59198445	Yes	
+row_22	AIM2	absent in melanoma 2 [Source:HGNC Symbol;Acc:HGNC:357]	4461	0.5769296288490295	0.5905224	No	
+row_23	STING1	stimulator of interferon response cGAMP interactor 1 [Source:HGNC Symbol;Acc:HGNC:27962]	4950	0.5044987797737122	0.5760637	No	
+row_24	IL23A	interleukin 23 subunit alpha [Source:HGNC Symbol;Acc:HGNC:15488]	7697	0.16068829596042633	0.4195636	No	
+row_25	MAVS	mitochondrial antiviral signaling protein [Source:HGNC Symbol;Acc:HGNC:29233]	8107	0.11507386714220047	0.39881095	No	
+row_26	TARBP2	TARBP2 subunit of RISC loading complex [Source:HGNC Symbol;Acc:HGNC:11569]	8324	0.08942622691392899	0.38865507	No	
+row_27	SIN3A	SIN3 transcription regulator family member A [Source:HGNC Symbol;Acc:HGNC:19353]	8953	0.008426519110798836	0.35206944	No	
+row_28	ZDHHC11	zinc finger DHHC-type containing 11 [Source:HGNC Symbol;Acc:HGNC:19158]	9017	0.0018860420677810907	0.34842843	No	
+row_29	RNF216	ring finger protein 216 [Source:HGNC Symbol;Acc:HGNC:21698]	10036	-0.09571754187345505	0.29142472	No	
+row_30	TOMM70	translocase of outer mitochondrial membrane 70 [Source:HGNC Symbol;Acc:HGNC:11985]	10708	-0.1837642788887024	0.25723726	No	
+row_31	DHX9	DExH-box helicase 9 [Source:HGNC Symbol;Acc:HGNC:2750]	11459	-0.2830089032649994	0.22120218	No	
+row_32	MMP12	matrix metallopeptidase 12 [Source:HGNC Symbol;Acc:HGNC:7158]	13001	-0.49330970644950867	0.14468813	No	
+row_33	TRIM44	tripartite motif containing 44 [Source:HGNC Symbol;Acc:HGNC:19016]	13207	-0.5225346684455872	0.14732882	No	
+row_34	EIF2AK4	eukaryotic translation initiation factor 2 alpha kinase 4 [Source:HGNC Symbol;Acc:HGNC:19687]	16235	-1.4231430292129517	0.009773	No	
+row_35	PTPN22	protein tyrosine phosphatase non-receptor type 22 [Source:HGNC Symbol;Acc:HGNC:9652]	16257	-1.4363800287246704	0.048841864	No	

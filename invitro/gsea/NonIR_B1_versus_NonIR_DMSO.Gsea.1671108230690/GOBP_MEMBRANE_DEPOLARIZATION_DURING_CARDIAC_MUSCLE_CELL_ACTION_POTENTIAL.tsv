@@ -1,0 +1,22 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	KCNJ2	potassium inwardly rectifying channel subfamily J member 2 [Source:HGNC Symbol;Acc:HGNC:6263]	39	2.668524742126465	0.14873779	Yes	
+row_1	ANK2	ankyrin 2 [Source:HGNC Symbol;Acc:HGNC:493]	80	2.342911720275879	0.27898926	Yes	
+row_2	CACNA1D	calcium voltage-gated channel subunit alpha1 D [Source:HGNC Symbol;Acc:HGNC:1391]	190	1.924776554107666	0.38153458	Yes	
+row_3	CACNA1G	calcium voltage-gated channel subunit alpha1 G [Source:HGNC Symbol;Acc:HGNC:1394]	198	1.9046850204467773	0.48891824	Yes	
+row_4	ANK3	ankyrin 3 [Source:HGNC Symbol;Acc:HGNC:494]	558	1.3799107074737549	0.5459819	Yes	
+row_5	CACNB2	calcium voltage-gated channel auxiliary subunit beta 2 [Source:HGNC Symbol;Acc:HGNC:1402]	893	1.1512210369110107	0.5915676	Yes	
+row_6	SLC8A1	solute carrier family 8 member A1 [Source:HGNC Symbol;Acc:HGNC:11068]	1433	0.9333615899085999	0.61281437	Yes	
+row_7	CACNA1C	calcium voltage-gated channel subunit alpha1 C [Source:HGNC Symbol;Acc:HGNC:1390]	1710	0.8466557860374451	0.6445613	Yes	
+row_8	ATP1A2	ATPase Na+/K+ transporting subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:800]	2320	0.7087048292160034	0.64899313	Yes	
+row_9	SCN1B	sodium voltage-gated channel beta subunit 1 [Source:HGNC Symbol;Acc:HGNC:10586]	2627	0.6407972574234009	0.66733223	Yes	
+row_10	SCN4B	sodium voltage-gated channel beta subunit 4 [Source:HGNC Symbol;Acc:HGNC:10592]	2836	0.602194607257843	0.6892277	Yes	
+row_11	TRPM4	transient receptor potential cation channel subfamily M member 4 [Source:HGNC Symbol;Acc:HGNC:17993]	2987	0.5735851526260376	0.71290183	Yes	
+row_12	HCN4	hyperpolarization activated cyclic nucleotide gated potassium channel 4 [Source:HGNC Symbol;Acc:HGNC:16882]	4031	0.4227485656738281	0.6757255	No	
+row_13	HCN2	hyperpolarization activated cyclic nucleotide gated potassium and sodium channel 2 [Source:HGNC Symbol;Acc:HGNC:4846]	4582	0.36492496728897095	0.6641578	No	
+row_14	CACNA2D1	calcium voltage-gated channel auxiliary subunit alpha2delta 1 [Source:HGNC Symbol;Acc:HGNC:1399]	5827	0.22570739686489105	0.6040551	No	
+row_15	SLMAP	sarcolemma associated protein [Source:HGNC Symbol;Acc:HGNC:16643]	7621	0.03922684118151665	0.50123703	No	
+row_16	CAV3	caveolin 3 [Source:HGNC Symbol;Acc:HGNC:1529]	7678	0.03422047570347786	0.4998931	No	
+row_17	SCN2B	sodium voltage-gated channel beta subunit 2 [Source:HGNC Symbol;Acc:HGNC:10589]	8194	0.0	0.4697232	No	
+row_18	SCN3B	sodium voltage-gated channel beta subunit 3 [Source:HGNC Symbol;Acc:HGNC:20665]	9441	-0.09464403986930847	0.40208593	No	
+row_19	RANGRF	RAN guanine nucleotide release factor [Source:HGNC Symbol;Acc:HGNC:17679]	12622	-0.3842492997646332	0.2375404	No	
+row_20	SCN5A	sodium voltage-gated channel alpha subunit 5 [Source:HGNC Symbol;Acc:HGNC:10593]	13094	-0.42666634917259216	0.23409489	No	

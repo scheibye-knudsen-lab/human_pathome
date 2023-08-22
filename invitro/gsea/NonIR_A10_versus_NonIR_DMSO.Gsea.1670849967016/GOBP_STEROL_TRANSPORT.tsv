@@ -1,0 +1,103 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TREM2	triggering receptor expressed on myeloid cells 2 [Source:HGNC Symbol;Acc:HGNC:17761]	9	3.68516206741333	0.048628937	Yes	
+row_1	CEL	carboxyl ester lipase [Source:HGNC Symbol;Acc:HGNC:1848]	54	2.9363865852355957	0.08520933	Yes	
+row_2	CLU	clusterin [Source:HGNC Symbol;Acc:HGNC:2095]	77	2.7573463916778564	0.12069636	Yes	
+row_3	ABCA12	ATP binding cassette subfamily A member 12 [Source:HGNC Symbol;Acc:HGNC:14637]	123	2.545238733291626	0.15200011	Yes	
+row_4	PLTP	phospholipid transfer protein [Source:HGNC Symbol;Acc:HGNC:9093]	131	2.510516405105591	0.18507744	Yes	
+row_5	ABCA7	ATP binding cassette subfamily A member 7 [Source:HGNC Symbol;Acc:HGNC:37]	256	2.0897412300109863	0.20565498	Yes	
+row_6	APOE	apolipoprotein E [Source:HGNC Symbol;Acc:HGNC:613]	289	2.017303466796875	0.23068148	Yes	
+row_7	ABCA2	ATP binding cassette subfamily A member 2 [Source:HGNC Symbol;Acc:HGNC:32]	448	1.7781262397766113	0.24510089	Yes	
+row_8	LRP1	LDL receptor related protein 1 [Source:HGNC Symbol;Acc:HGNC:6692]	498	1.7224410772323608	0.2651934	Yes	
+row_9	APOB	apolipoprotein B [Source:HGNC Symbol;Acc:HGNC:603]	559	1.6515530347824097	0.2836928	Yes	
+row_10	ABCA1	ATP binding cassette subfamily A member 1 [Source:HGNC Symbol;Acc:HGNC:29]	645	1.5839039087295532	0.29981825	Yes	
+row_11	ABCA5	ATP binding cassette subfamily A member 5 [Source:HGNC Symbol;Acc:HGNC:35]	655	1.5719934701919556	0.32025832	Yes	
+row_12	ABCA8	ATP binding cassette subfamily A member 8 [Source:HGNC Symbol;Acc:HGNC:38]	677	1.5541954040527344	0.3397546	Yes	
+row_13	CES1	carboxylesterase 1 [Source:HGNC Symbol;Acc:HGNC:1863]	700	1.5241870880126953	0.35879174	Yes	
+row_14	SERAC1	serine active site containing 1 [Source:HGNC Symbol;Acc:HGNC:21061]	702	1.5237072706222534	0.37905857	Yes	
+row_15	ABCA3	ATP binding cassette subfamily A member 3 [Source:HGNC Symbol;Acc:HGNC:33]	723	1.5012840032577515	0.3979079	Yes	
+row_16	TSKU	tsukushi, small leucine rich proteoglycan [Source:HGNC Symbol;Acc:HGNC:28850]	894	1.3771032094955444	0.40627146	Yes	
+row_17	OSBPL3	oxysterol binding protein like 3 [Source:HGNC Symbol;Acc:HGNC:16370]	927	1.357557773590088	0.4224972	Yes	
+row_18	ABCG4	ATP binding cassette subfamily G member 4 [Source:HGNC Symbol;Acc:HGNC:13884]	1145	1.224997639656067	0.42606527	Yes	
+row_19	NPC1L1	NPC1 like intracellular cholesterol transporter 1 [Source:HGNC Symbol;Acc:HGNC:7898]	1287	1.1613203287124634	0.43325734	Yes	
+row_20	SCARB1	scavenger receptor class B member 1 [Source:HGNC Symbol;Acc:HGNC:1664]	1333	1.1471809148788452	0.44591156	Yes	
+row_21	ABCA13	ATP binding cassette subfamily A member 13 [Source:HGNC Symbol;Acc:HGNC:14638]	1362	1.1361128091812134	0.45941874	Yes	
+row_22	OSBPL1A	oxysterol binding protein like 1A [Source:HGNC Symbol;Acc:HGNC:16398]	1380	1.1308093070983887	0.47350267	Yes	
+row_23	LEP	leptin [Source:HGNC Symbol;Acc:HGNC:6553]	1724	1.001761794090271	0.46667627	Yes	
+row_24	APOA1	apolipoprotein A1 [Source:HGNC Symbol;Acc:HGNC:600]	2218	0.8701120018959045	0.44926447	Yes	
+row_25	STAR	steroidogenic acute regulatory protein [Source:HGNC Symbol;Acc:HGNC:11359]	2370	0.8444504737854004	0.45164102	Yes	
+row_26	SPG11	SPG11 vesicle trafficking associated, spatacsin [Source:HGNC Symbol;Acc:HGNC:11226]	2587	0.7991802096366882	0.44958767	Yes	
+row_27	LIPC	lipase C, hepatic type [Source:HGNC Symbol;Acc:HGNC:6619]	2725	0.7647854685783386	0.45172557	Yes	
+row_28	RXRA	retinoid X receptor alpha [Source:HGNC Symbol;Acc:HGNC:10477]	3007	0.7050058841705322	0.44458997	Yes	
+row_29	STARD5	StAR related lipid transfer domain containing 5 [Source:HGNC Symbol;Acc:HGNC:18065]	3171	0.667784571647644	0.44390354	Yes	
+row_30	CETP	cholesteryl ester transfer protein [Source:HGNC Symbol;Acc:HGNC:1869]	3307	0.6419510245323181	0.44452062	Yes	
+row_31	STX12	syntaxin 12 [Source:HGNC Symbol;Acc:HGNC:11430]	3341	0.6350342035293579	0.4510493	Yes	
+row_32	OSBPL10	oxysterol binding protein like 10 [Source:HGNC Symbol;Acc:HGNC:16395]	3437	0.6167685985565186	0.4536849	Yes	
+row_33	SYT7	synaptotagmin 7 [Source:HGNC Symbol;Acc:HGNC:11514]	3461	0.6126556396484375	0.4605037	Yes	
+row_34	LIMA1	LIM domain and actin binding 1 [Source:HGNC Symbol;Acc:HGNC:24636]	3571	0.5907882452011108	0.46196866	Yes	
+row_35	OSBP2	oxysterol binding protein 2 [Source:HGNC Symbol;Acc:HGNC:8504]	3742	0.5624725222587585	0.45946535	Yes	
+row_36	CFTR	CF transmembrane conductance regulator [Source:HGNC Symbol;Acc:HGNC:1884]	3799	0.5526185631752014	0.46354085	Yes	
+row_37	SREBF2	sterol regulatory element binding transcription factor 2 [Source:HGNC Symbol;Acc:HGNC:11290]	3896	0.5370448231697083	0.4650541	Yes	
+row_38	OSBPL9	oxysterol binding protein like 9 [Source:HGNC Symbol;Acc:HGNC:16386]	3943	0.5299440026283264	0.46941572	Yes	
+row_39	MTTP	microsomal triglyceride transfer protein [Source:HGNC Symbol;Acc:HGNC:7467]	3980	0.5241494178771973	0.47428867	Yes	
+row_40	GRAMD1A	GRAM domain containing 1A [Source:HGNC Symbol;Acc:HGNC:29305]	4003	0.5210568904876709	0.4799444	Yes	
+row_41	ABCB4	ATP binding cassette subfamily B member 4 [Source:HGNC Symbol;Acc:HGNC:45]	4306	0.48131319880485535	0.46858874	No	
+row_42	SHH	sonic hedgehog signaling molecule [Source:HGNC Symbol;Acc:HGNC:10848]	4332	0.47833600640296936	0.47349805	No	
+row_43	LIPG	lipase G, endothelial type [Source:HGNC Symbol;Acc:HGNC:6623]	4343	0.476418673992157	0.47926468	No	
+row_44	NR1H3	nuclear receptor subfamily 1 group H member 3 [Source:HGNC Symbol;Acc:HGNC:7966]	4456	0.4633905291557312	0.4788536	No	
+row_45	CD36	CD36 molecule [Source:HGNC Symbol;Acc:HGNC:1663]	4558	0.44919124245643616	0.47890064	No	
+row_46	OSBPL2	oxysterol binding protein like 2 [Source:HGNC Symbol;Acc:HGNC:15761]	4826	0.4226781129837036	0.46882296	No	
+row_47	LCAT	lecithin-cholesterol acyltransferase [Source:HGNC Symbol;Acc:HGNC:6522]	4919	0.40979233384132385	0.46887416	No	
+row_48	TPCN2	two pore segment channel 2 [Source:HGNC Symbol;Acc:HGNC:20820]	5131	0.381982684135437	0.46154988	No	
+row_49	OSBPL5	oxysterol binding protein like 5 [Source:HGNC Symbol;Acc:HGNC:16392]	5362	0.34935101866722107	0.45267192	No	
+row_50	YJEFN3	YjeF N-terminal domain containing 3 [Source:HGNC Symbol;Acc:HGNC:24785]	5415	0.34316664934158325	0.45418882	No	
+row_51	TTC39B	tetratricopeptide repeat domain 39B [Source:HGNC Symbol;Acc:HGNC:23704]	5432	0.34174948930740356	0.45780584	No	
+row_52	NR1H2	nuclear receptor subfamily 1 group H member 2 [Source:HGNC Symbol;Acc:HGNC:7965]	5639	0.3150176405906677	0.44988257	No	
+row_53	APOM	apolipoprotein M [Source:HGNC Symbol;Acc:HGNC:13916]	6073	0.26115474104881287	0.4278792	No	
+row_54	EGF	epidermal growth factor [Source:HGNC Symbol;Acc:HGNC:3229]	6327	0.2301177829504013	0.4160569	No	
+row_55	NAXE	NAD(P)HX epimerase [Source:HGNC Symbol;Acc:HGNC:18453]	6387	0.2233099341392517	0.41556293	No	
+row_56	TSPO	translocator protein [Source:HGNC Symbol;Acc:HGNC:1158]	6496	0.21071940660476685	0.4120168	No	
+row_57	LDLRAP1	low density lipoprotein receptor adaptor protein 1 [Source:HGNC Symbol;Acc:HGNC:18640]	7125	0.13489465415477753	0.37685114	No	
+row_58	ARL8B	ADP ribosylation factor like GTPase 8B [Source:HGNC Symbol;Acc:HGNC:25564]	7141	0.13248930871486664	0.37773558	No	
+row_59	ANXA2	annexin A2 [Source:HGNC Symbol;Acc:HGNC:537]	7151	0.13113316893577576	0.3789551	No	
+row_60	APOC1	apolipoprotein C1 [Source:HGNC Symbol;Acc:HGNC:607]	7560	0.08767775446176529	0.35610914	No	
+row_61	PTCH1	patched 1 [Source:HGNC Symbol;Acc:HGNC:9585]	7759	0.07014122605323792	0.3453902	No	
+row_62	AKR1C1	aldo-keto reductase family 1 member C1 [Source:HGNC Symbol;Acc:HGNC:384]	8099	0.03629355877637863	0.32592025	No	
+row_63	ARV1	ARV1 homolog, fatty acid homeostasis modulator [Source:HGNC Symbol;Acc:HGNC:29561]	8264	0.021489342674613	0.31655362	No	
+row_64	NPC1	NPC intracellular cholesterol transporter 1 [Source:HGNC Symbol;Acc:HGNC:7897]	8284	0.01941433548927307	0.3156942	No	
+row_65	PCSK9	proprotein convertase subtilisin/kexin type 9 [Source:HGNC Symbol;Acc:HGNC:20001]	8427	0.005705224350094795	0.30741197	No	
+row_66	LRP6	LDL receptor related protein 6 [Source:HGNC Symbol;Acc:HGNC:6698]	8458	0.0016440186882391572	0.30566806	No	
+row_67	PLA2G10	phospholipase A2 group X [Source:HGNC Symbol;Acc:HGNC:9029]	8551	0.0	0.3002528	No	
+row_68	ABCG1	ATP binding cassette subfamily G member 1 [Source:HGNC Symbol;Acc:HGNC:73]	8698	0.0	0.291659	No	
+row_69	NPC2	NPC intracellular cholesterol transporter 2 [Source:HGNC Symbol;Acc:HGNC:14537]	8963	-0.029829509556293488	0.27651745	No	
+row_70	LDLR	low density lipoprotein receptor [Source:HGNC Symbol;Acc:HGNC:6547]	9011	-0.03400532156229019	0.27420455	No	
+row_71	OSBPL8	oxysterol binding protein like 8 [Source:HGNC Symbol;Acc:HGNC:16396]	9063	-0.04000190645456314	0.27173623	No	
+row_72	STARD3	StAR related lipid transfer domain containing 3 [Source:HGNC Symbol;Acc:HGNC:17579]	9261	-0.06103163957595825	0.26095465	No	
+row_73	LPCAT3	lysophosphatidylcholine acyltransferase 3 [Source:HGNC Symbol;Acc:HGNC:30244]	9526	-0.08694548904895782	0.24657498	No	
+row_74	ZDHHC8	zinc finger DHHC-type palmitoyltransferase 8 [Source:HGNC Symbol;Acc:HGNC:18474]	9620	-0.09730136394500732	0.24239883	No	
+row_75	OSBP	oxysterol binding protein [Source:HGNC Symbol;Acc:HGNC:8503]	9822	-0.11635854095220566	0.23211981	No	
+row_76	VPS4B	vacuolar protein sorting 4 homolog B [Source:HGNC Symbol;Acc:HGNC:10895]	9920	-0.12617242336273193	0.22809333	No	
+row_77	STARD4	StAR related lipid transfer domain containing 4 [Source:HGNC Symbol;Acc:HGNC:18058]	10059	-0.1424253135919571	0.22187033	No	
+row_78	OSBPL11	oxysterol binding protein like 11 [Source:HGNC Symbol;Acc:HGNC:16397]	10653	-0.20358572900295258	0.18968116	No	
+row_79	EEPD1	endonuclease/exonuclease/phosphatase family domain containing 1 [Source:HGNC Symbol;Acc:HGNC:22223]	10772	-0.21591521799564362	0.1856157	No	
+row_80	NFKBIA	NFKB inhibitor alpha [Source:HGNC Symbol;Acc:HGNC:7797]	11270	-0.27215147018432617	0.15999189	No	
+row_81	VAPA	VAMP associated protein A [Source:HGNC Symbol;Acc:HGNC:12648]	11308	-0.2754988670349121	0.16148905	No	
+row_82	SIRT1	sirtuin 1 [Source:HGNC Symbol;Acc:HGNC:14929]	11360	-0.2809147238731384	0.16223441	No	
+row_83	PIP4K2A	phosphatidylinositol-5-phosphate 4-kinase type 2 alpha [Source:HGNC Symbol;Acc:HGNC:8997]	11398	-0.2848803400993347	0.16385673	No	
+row_84	GPS2	G protein pathway suppressor 2 [Source:HGNC Symbol;Acc:HGNC:4550]	11991	-0.35208559036254883	0.13370734	No	
+row_85	SCP2	sterol carrier protein 2 [Source:HGNC Symbol;Acc:HGNC:10606]	12146	-0.36962926387786865	0.12957337	No	
+row_86	APOA2	apolipoprotein A2 [Source:HGNC Symbol;Acc:HGNC:601]	12405	-0.39856401085853577	0.11970377	No	
+row_87	CAV1	caveolin 1 [Source:HGNC Symbol;Acc:HGNC:1527]	12712	-0.42846065759658813	0.10740762	No	
+row_88	VPS4A	vacuolar protein sorting 4 homolog A [Source:HGNC Symbol;Acc:HGNC:13488]	12837	-0.4408121109008789	0.105989054	No	
+row_89	LAMTOR1	late endosomal/lysosomal adaptor, MAPK and MTOR activator 1 [Source:HGNC Symbol;Acc:HGNC:26068]	13619	-0.5499165654182434	0.067353815	No	
+row_90	RELCH	RAB11 binding and LisH domain, coiled-coil and HEAT repeat containing [Source:HGNC Symbol;Acc:HGNC:29289]	13650	-0.5545956492424011	0.07298606	No	
+row_91	FURIN	furin, paired basic amino acid cleaving enzyme [Source:HGNC Symbol;Acc:HGNC:8568]	14129	-0.6382740139961243	0.05336455	No	
+row_92	OSBPL6	oxysterol binding protein like 6 [Source:HGNC Symbol;Acc:HGNC:16388]	14145	-0.6411195993423462	0.06103392	No	
+row_93	SOAT2	sterol O-acyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:11178]	14147	-0.6415935158729553	0.069533676	No	
+row_94	SEC24A	SEC24 homolog A, COPII coat complex component [Source:HGNC Symbol;Acc:HGNC:10703]	14315	-0.6715056896209717	0.06866142	No	
+row_95	NUS1	NUS1 dehydrodolichyl diphosphate synthase subunit [Source:HGNC Symbol;Acc:HGNC:21042]	14679	-0.739525318145752	0.05715965	No	
+row_96	STARD3NL	STARD3 N-terminal like [Source:HGNC Symbol;Acc:HGNC:19169]	14848	-0.7794382572174072	0.057668313	No	
+row_97	PPARG	peroxisome proliferator activated receptor gamma [Source:HGNC Symbol;Acc:HGNC:9236]	14987	-0.8116626143455505	0.060372688	No	
+row_98	NFKB1	nuclear factor kappa B subunit 1 [Source:HGNC Symbol;Acc:HGNC:7794]	15416	-0.9211713671684265	0.047468	No	
+row_99	GRAMD1B	GRAM domain containing 1B [Source:HGNC Symbol;Acc:HGNC:29214]	16135	-1.2431516647338867	0.021788541	No	
+row_100	SOAT1	sterol O-acyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:11177]	16141	-1.2458910942077637	0.038113955	No	
+row_101	GRAMD1C	GRAM domain containing 1C [Source:HGNC Symbol;Acc:HGNC:25252]	16247	-1.3258912563323975	0.049620382	No	

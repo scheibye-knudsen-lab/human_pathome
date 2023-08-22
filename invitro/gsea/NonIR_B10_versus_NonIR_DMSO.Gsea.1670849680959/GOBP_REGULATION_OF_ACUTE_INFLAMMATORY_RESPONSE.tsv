@@ -1,0 +1,35 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PTGES	prostaglandin E synthase [Source:HGNC Symbol;Acc:HGNC:9599]	4	4.629812717437744	0.12580505	Yes	
+row_1	C3	complement C3 [Source:HGNC Symbol;Acc:HGNC:1318]	92	3.256368398666382	0.20935416	Yes	
+row_2	C2CD4B	C2 calcium dependent domain containing 4B [Source:HGNC Symbol;Acc:HGNC:33628]	375	2.3402938842773438	0.25653228	Yes	
+row_3	EDNRB	endothelin receptor type B [Source:HGNC Symbol;Acc:HGNC:3180]	544	2.0859978199005127	0.30347106	Yes	
+row_4	RHBDD3	rhomboid domain containing 3 [Source:HGNC Symbol;Acc:HGNC:1308]	694	1.909084439277649	0.34670755	Yes	
+row_5	NPY	neuropeptide Y [Source:HGNC Symbol;Acc:HGNC:7955]	777	1.8214131593704224	0.39148533	Yes	
+row_6	ZP3	zona pellucida glycoprotein 3 [Source:HGNC Symbol;Acc:HGNC:13189]	839	1.7661857604980469	0.43599078	Yes	
+row_7	IL6	interleukin 6 [Source:HGNC Symbol;Acc:HGNC:6018]	1046	1.6037243604660034	0.46757257	Yes	
+row_8	ADAM8	ADAM metallopeptidase domain 8 [Source:HGNC Symbol;Acc:HGNC:215]	1214	1.4972901344299316	0.4985433	Yes	
+row_9	C2CD4A	C2 calcium dependent domain containing 4A [Source:HGNC Symbol;Acc:HGNC:33627]	1394	1.3949499130249023	0.52602446	Yes	
+row_10	HLA-E	major histocompatibility complex, class I, E [Source:HGNC Symbol;Acc:HGNC:4962]	1476	1.3493845462799072	0.5580106	Yes	
+row_11	OSMR	oncostatin M receptor [Source:HGNC Symbol;Acc:HGNC:8507]	1589	1.2946146726608276	0.5866883	Yes	
+row_12	IL1B	interleukin 1 beta [Source:HGNC Symbol;Acc:HGNC:5992]	1801	1.2061796188354492	0.6071544	Yes	
+row_13	BTK	Bruton tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:1133]	3131	0.8542010188102722	0.5524935	No	
+row_14	PTGS2	prostaglandin-endoperoxide synthase 2 [Source:HGNC Symbol;Acc:HGNC:9605]	3491	0.7900943160057068	0.5529555	No	
+row_15	NLRP3	NLR family pyrin domain containing 3 [Source:HGNC Symbol;Acc:HGNC:16400]	4506	0.6260839104652405	0.510552	No	
+row_16	FUT7	fucosyltransferase 7 [Source:HGNC Symbol;Acc:HGNC:4018]	4979	0.5511385798454285	0.49788395	No	
+row_17	OSM	oncostatin M [Source:HGNC Symbol;Acc:HGNC:8506]	5041	0.5423739552497864	0.509073	No	
+row_18	ALOX5AP	arachidonate 5-lipoxygenase activating protein [Source:HGNC Symbol;Acc:HGNC:436]	5470	0.4880139231681824	0.4972661	No	
+row_19	DNASE1	deoxyribonuclease 1 [Source:HGNC Symbol;Acc:HGNC:2956]	5969	0.42422813177108765	0.47961885	No	
+row_20	KLKB1	kallikrein B1 [Source:HGNC Symbol;Acc:HGNC:6371]	6174	0.40303438901901245	0.47863093	No	
+row_21	TNF	tumor necrosis factor [Source:HGNC Symbol;Acc:HGNC:11892]	6314	0.3854301869869232	0.48097453	No	
+row_22	ASH1L	ASH1 like histone lysine methyltransferase [Source:HGNC Symbol;Acc:HGNC:19088]	6534	0.35502269864082336	0.4778002	No	
+row_23	F12	coagulation factor XII [Source:HGNC Symbol;Acc:HGNC:3530]	7154	0.2654593884944916	0.44873682	No	
+row_24	ADORA1	adenosine A1 receptor [Source:HGNC Symbol;Acc:HGNC:262]	7171	0.26430127024650574	0.454994	No	
+row_25	IL6ST	interleukin 6 cytokine family signal transducer [Source:HGNC Symbol;Acc:HGNC:6021]	7492	0.22600479423999786	0.442386	No	
+row_26	CCR7	C-C motif chemokine receptor 7 [Source:HGNC Symbol;Acc:HGNC:1608]	8675	0.062439773231744766	0.37478876	No	
+row_27	SELENOS	selenoprotein S [Source:HGNC Symbol;Acc:HGNC:30396]	10448	-0.16808746755123138	0.27547774	No	
+row_28	GSTP1	glutathione S-transferase pi 1 [Source:HGNC Symbol;Acc:HGNC:4638]	10492	-0.17349794507026672	0.27767998	No	
+row_29	FCGR1A	Fc gamma receptor Ia [Source:HGNC Symbol;Acc:HGNC:3613]	10497	-0.17431923747062683	0.28219104	No	
+row_30	TNFRSF11A	TNF receptor superfamily member 11a [Source:HGNC Symbol;Acc:HGNC:11908]	11321	-0.3055059015750885	0.242258	No	
+row_31	PTGER3	prostaglandin E receptor 3 [Source:HGNC Symbol;Acc:HGNC:9595]	12568	-0.4986756145954132	0.18278448	No	
+row_32	PARK7	Parkinsonism associated deglycase [Source:HGNC Symbol;Acc:HGNC:16369]	15642	-1.3638392686843872	0.039752286	No	
+row_33	IL20RB	interleukin 20 receptor subunit beta [Source:HGNC Symbol;Acc:HGNC:6004]	16125	-1.6559607982635498	0.056575093	No	

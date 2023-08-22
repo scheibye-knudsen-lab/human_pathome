@@ -1,0 +1,27 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	HSPA1A	heat shock protein family A (Hsp70) member 1A [Source:HGNC Symbol;Acc:HGNC:5232]	43	3.765943765640259	0.13803369	Yes	
+row_1	NOD2	nucleotide binding oligomerization domain containing 2 [Source:HGNC Symbol;Acc:HGNC:5331]	75	3.341844320297241	0.26094222	Yes	
+row_2	NFKBIA	NFKB inhibitor alpha [Source:HGNC Symbol;Acc:HGNC:7797]	175	2.8866047859191895	0.3628754	Yes	
+row_3	HSPA1B	heat shock protein family A (Hsp70) member 1B [Source:HGNC Symbol;Acc:HGNC:5233]	369	2.347571611404419	0.43918234	Yes	
+row_4	TNFAIP3	TNF alpha induced protein 3 [Source:HGNC Symbol;Acc:HGNC:11896]	505	2.1447548866271973	0.51131845	Yes	
+row_5	LACC1	laccase domain containing 1 [Source:HGNC Symbol;Acc:HGNC:26789]	674	1.9319449663162231	0.5735783	Yes	
+row_6	CYLD	CYLD lysine 63 deubiquitinase [Source:HGNC Symbol;Acc:HGNC:2584]	1124	1.5543103218078613	0.6052775	Yes	
+row_7	SLC15A3	solute carrier family 15 member 3 [Source:HGNC Symbol;Acc:HGNC:18068]	1523	1.3287029266357422	0.631545	Yes	
+row_8	BIRC3	baculoviral IAP repeat containing 3 [Source:HGNC Symbol;Acc:HGNC:591]	1833	1.1934541463851929	0.6579802	Yes	
+row_9	SLC15A4	solute carrier family 15 member 4 [Source:HGNC Symbol;Acc:HGNC:23090]	2492	0.9961481094360352	0.6566002	No	
+row_10	PTPN22	protein tyrosine phosphatase non-receptor type 22 [Source:HGNC Symbol;Acc:HGNC:9652]	5798	0.4474174380302429	0.47962758	No	
+row_11	RELA	RELA proto-oncogene, NF-kB subunit [Source:HGNC Symbol;Acc:HGNC:9955]	5914	0.43144768476486206	0.48899123	No	
+row_12	BIRC2	baculoviral IAP repeat containing 2 [Source:HGNC Symbol;Acc:HGNC:590]	5988	0.42233771085739136	0.50047606	No	
+row_13	XIAP	X-linked inhibitor of apoptosis [Source:HGNC Symbol;Acc:HGNC:592]	6438	0.36836957931518555	0.48791328	No	
+row_14	SLC46A2	solute carrier family 46 member 2 [Source:HGNC Symbol;Acc:HGNC:16055]	6649	0.33749669790267944	0.48820353	No	
+row_15	RIPK2	receptor interacting serine/threonine kinase 2 [Source:HGNC Symbol;Acc:HGNC:10020]	7390	0.23697729408740997	0.45368442	No	
+row_16	MAP2K6	mitogen-activated protein kinase kinase 6 [Source:HGNC Symbol;Acc:HGNC:6846]	8177	0.13308922946453094	0.41259244	No	
+row_17	OTULIN	OTU deubiquitinase with linear linkage specificity [Source:HGNC Symbol;Acc:HGNC:25118]	8300	0.11708113551139832	0.40981302	No	
+row_18	INAVA	innate immunity activator [Source:HGNC Symbol;Acc:HGNC:25599]	8465	0.09032399952411652	0.4035738	No	
+row_19	SLC15A2	solute carrier family 15 member 2 [Source:HGNC Symbol;Acc:HGNC:10921]	8691	0.0605698898434639	0.39264953	No	
+row_20	ITCH	itchy E3 ubiquitin protein ligase [Source:HGNC Symbol;Acc:HGNC:13890]	10192	-0.12571433186531067	0.30944225	No	
+row_21	ERBIN	erbb2 interacting protein [Source:HGNC Symbol;Acc:HGNC:15842]	10496	-0.17394445836544037	0.2981786	No	
+row_22	MAP3K7	mitogen-activated protein kinase kinase kinase 7 [Source:HGNC Symbol;Acc:HGNC:6859]	10646	-0.1990194469690323	0.29687515	No	
+row_23	TLR4	toll like receptor 4 [Source:HGNC Symbol;Acc:HGNC:11850]	10851	-0.23311805725097656	0.29362136	No	
+row_24	IRGM	immunity related GTPase M [Source:HGNC Symbol;Acc:HGNC:29597]	11899	-0.39984726905822754	0.2471909	No	
+row_25	RNF34	ring finger protein 34 [Source:HGNC Symbol;Acc:HGNC:17297]	15939	-1.525644302368164	0.067448094	No	

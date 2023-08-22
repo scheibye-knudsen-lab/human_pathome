@@ -1,0 +1,25 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	GCK	glucokinase [Source:HGNC Symbol;Acc:HGNC:4195]	50	3.020717144012451	0.13001369	Yes	
+row_1	IGF2	insulin like growth factor 2 [Source:HGNC Symbol;Acc:HGNC:5466]	56	2.9798853397369385	0.260867	Yes	
+row_2	SORBS1	sorbin and SH3 domain containing 1 [Source:HGNC Symbol;Acc:HGNC:14565]	206	2.230713129043579	0.35031155	Yes	
+row_3	IGF1	insulin like growth factor 1 [Source:HGNC Symbol;Acc:HGNC:5464]	227	2.15130352973938	0.44381967	Yes	
+row_4	INSR	insulin receptor [Source:HGNC Symbol;Acc:HGNC:6091]	482	1.658136248588562	0.5019126	Yes	
+row_5	PPP1R3E	protein phosphatase 1 regulatory subunit 3E [Source:HGNC Symbol;Acc:HGNC:14943]	505	1.6288574934005737	0.5723104	Yes	
+row_6	PPP1R3G	protein phosphatase 1 regulatory subunit 3G [Source:HGNC Symbol;Acc:HGNC:14945]	694	1.4404207468032837	0.6246886	Yes	
+row_7	PPP1R3B	protein phosphatase 1 regulatory subunit 3B [Source:HGNC Symbol;Acc:HGNC:14942]	1114	1.1407835483551025	0.6503448	Yes	
+row_8	PASK	PAS domain containing serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:17270]	1983	0.8328802585601807	0.6361419	No	
+row_9	INPP5K	inositol polyphosphate-5-phosphatase K [Source:HGNC Symbol;Acc:HGNC:33882]	2413	0.7286530137062073	0.6430741	No	
+row_10	PPP1R3F	protein phosphatase 1 regulatory subunit 3F [Source:HGNC Symbol;Acc:HGNC:14944]	4068	0.4525379538536072	0.5660783	No	
+row_11	PPP1R3D	protein phosphatase 1 regulatory subunit 3D [Source:HGNC Symbol;Acc:HGNC:9294]	4383	0.42060860991477966	0.56619143	No	
+row_12	DYRK2	dual specificity tyrosine phosphorylation regulated kinase 2 [Source:HGNC Symbol;Acc:HGNC:3093]	5858	0.2489684820175171	0.49078318	No	
+row_13	EPM2AIP1	EPM2A interacting protein 1 [Source:HGNC Symbol;Acc:HGNC:19735]	8409	0.01121988333761692	0.3418658	No	
+row_14	AKT2	AKT serine/threonine kinase 2 [Source:HGNC Symbol;Acc:HGNC:392]	8472	0.006328039336949587	0.3385116	No	
+row_15	GSK3B	glycogen synthase kinase 3 beta [Source:HGNC Symbol;Acc:HGNC:4617]	8695	-2.0604208111763E-4	0.3255131	No	
+row_16	IRS1	insulin receptor substrate 1 [Source:HGNC Symbol;Acc:HGNC:6125]	8842	-0.009250701405107975	0.3173657	No	
+row_17	PPP1R3C	protein phosphatase 1 regulatory subunit 3C [Source:HGNC Symbol;Acc:HGNC:9293]	10219	-0.1326722502708435	0.24258125	No	
+row_18	ENPP1	ectonucleotide pyrophosphatase/phosphodiesterase 1 [Source:HGNC Symbol;Acc:HGNC:3356]	11792	-0.28601691126823425	0.16306143	No	
+row_19	GSK3A	glycogen synthase kinase 3 alpha [Source:HGNC Symbol;Acc:HGNC:4616]	12226	-0.3355386555194855	0.15245804	No	
+row_20	AKT1	AKT serine/threonine kinase 1 [Source:HGNC Symbol;Acc:HGNC:391]	12801	-0.3992829918861389	0.13639854	No	
+row_21	SELENOS	selenoprotein S [Source:HGNC Symbol;Acc:HGNC:30396]	15054	-0.7452444434165955	0.037246585	No	
+row_22	PPP1CA	protein phosphatase 1 catalytic subunit alpha [Source:HGNC Symbol;Acc:HGNC:9281]	15543	-0.8657427430152893	0.046755172	No	
+row_23	IRS2	insulin receptor substrate 2 [Source:HGNC Symbol;Acc:HGNC:6126]	15925	-0.9958775043487549	0.06826047	No	

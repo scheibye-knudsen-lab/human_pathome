@@ -1,0 +1,24 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	DDIT3	DNA damage inducible transcript 3 [Source:HGNC Symbol;Acc:HGNC:2726]	324	1.4286975860595703	0.07120593	Yes	
+row_1	FGF9	fibroblast growth factor 9 [Source:HGNC Symbol;Acc:HGNC:3687]	376	1.366808533668518	0.15449986	Yes	
+row_2	IGFBP5	insulin like growth factor binding protein 5 [Source:HGNC Symbol;Acc:HGNC:5474]	462	1.2864142656326294	0.23072675	Yes	
+row_3	AGT	angiotensinogen [Source:HGNC Symbol;Acc:HGNC:333]	582	1.1985174417495728	0.29941297	Yes	
+row_4	PRKG1	protein kinase cGMP-dependent 1 [Source:HGNC Symbol;Acc:HGNC:9414]	633	1.157312273979187	0.3695407	Yes	
+row_5	NR4A3	nuclear receptor subfamily 4 group A member 3 [Source:HGNC Symbol;Acc:HGNC:7982]	817	1.0584968328475952	0.4256382	Yes	
+row_6	PDGFB	platelet derived growth factor subunit B [Source:HGNC Symbol;Acc:HGNC:8800]	1051	0.9464939832687378	0.47173586	Yes	
+row_7	MYOCD	myocardin [Source:HGNC Symbol;Acc:HGNC:16067]	1060	0.9430868029594421	0.530801	Yes	
+row_8	TPM1	tropomyosin 1 [Source:HGNC Symbol;Acc:HGNC:12010]	1242	0.8781926035881042	0.5756337	Yes	
+row_9	DDR2	discoidin domain receptor tyrosine kinase 2 [Source:HGNC Symbol;Acc:HGNC:2731]	1333	0.8538433909416199	0.6242609	Yes	
+row_10	GRB10	growth factor receptor bound protein 10 [Source:HGNC Symbol;Acc:HGNC:4564]	1532	0.7956589460372925	0.6628875	Yes	
+row_11	TAFA5	TAFA chemokine like family member 5 [Source:HGNC Symbol;Acc:HGNC:21592]	1843	0.7165011763572693	0.6899551	Yes	
+row_12	DOCK4	dedicator of cytokinesis 4 [Source:HGNC Symbol;Acc:HGNC:19192]	2780	0.5369268655776978	0.66901004	Yes	
+row_13	MEF2C	myocyte enhancer factor 2C [Source:HGNC Symbol;Acc:HGNC:6996]	2959	0.5124511122703552	0.6909305	Yes	
+row_14	GNA13	G protein subunit alpha 13 [Source:HGNC Symbol;Acc:HGNC:4381]	4387	0.3476889431476593	0.62927216	No	
+row_15	ATP7A	ATPase copper transporting alpha [Source:HGNC Symbol;Acc:HGNC:869]	4671	0.31860285997390747	0.63280374	No	
+row_16	RHOA	ras homolog family member A [Source:HGNC Symbol;Acc:HGNC:667]	5515	0.22978131473064423	0.5979184	No	
+row_17	GNA12	G protein subunit alpha 12 [Source:HGNC Symbol;Acc:HGNC:4380]	7036	0.08326833695173264	0.51411927	No	
+row_18	ADAMTS1	ADAM metallopeptidase with thrombospondin type 1 motif 1 [Source:HGNC Symbol;Acc:HGNC:217]	7213	0.0703703984618187	0.5082498	No	
+row_19	NFE2L2	NFE2 like bZIP transcription factor 2 [Source:HGNC Symbol;Acc:HGNC:7782]	7550	0.0442364439368248	0.49135634	No	
+row_20	DOCK7	dedicator of cytokinesis 7 [Source:HGNC Symbol;Acc:HGNC:19190]	9184	-0.06355586647987366	0.3996923	No	
+row_21	NF1	neurofibromin 1 [Source:HGNC Symbol;Acc:HGNC:7765]	11159	-0.23089657723903656	0.29861298	No	
+row_22	DOCK5	dedicator of cytokinesis 5 [Source:HGNC Symbol;Acc:HGNC:23476]	15331	-0.7733794450759888	0.10305837	No	

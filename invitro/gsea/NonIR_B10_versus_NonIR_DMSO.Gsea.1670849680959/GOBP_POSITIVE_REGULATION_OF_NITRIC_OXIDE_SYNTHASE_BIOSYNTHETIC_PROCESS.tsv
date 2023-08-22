@@ -1,0 +1,17 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	NOD2	nucleotide binding oligomerization domain containing 2 [Source:HGNC Symbol;Acc:HGNC:5331]	75	3.341844320297241	0.16444914	Yes	
+row_1	TLR9	toll like receptor 9 [Source:HGNC Symbol;Acc:HGNC:15633]	225	2.6538705825805664	0.28980565	Yes	
+row_2	AKAP12	A-kinase anchoring protein 12 [Source:HGNC Symbol;Acc:HGNC:370]	649	1.9665030241012573	0.3643871	Yes	
+row_3	TLR2	toll like receptor 2 [Source:HGNC Symbol;Acc:HGNC:11848]	810	1.798924446105957	0.44590455	Yes	
+row_4	NAMPT	nicotinamide phosphoribosyltransferase [Source:HGNC Symbol;Acc:HGNC:30092]	1164	1.531595230102539	0.50261253	Yes	
+row_5	IL33	interleukin 33 [Source:HGNC Symbol;Acc:HGNC:16028]	1271	1.4568328857421875	0.5700089	Yes	
+row_6	STAT1	signal transducer and activator of transcription 1 [Source:HGNC Symbol;Acc:HGNC:11362]	1304	1.4417160749435425	0.64097524	Yes	
+row_7	LRRK2	leucine rich repeat kinase 2 [Source:HGNC Symbol;Acc:HGNC:18618]	1358	1.4119789600372314	0.7092094	Yes	
+row_8	CCL2	C-C motif chemokine ligand 2 [Source:HGNC Symbol;Acc:HGNC:10618]	1539	1.3171782493591309	0.76521605	Yes	
+row_9	KDR	kinase insert domain receptor [Source:HGNC Symbol;Acc:HGNC:6307]	2529	0.9876078367233276	0.75719243	No	
+row_10	MAP2K3	mitogen-activated protein kinase kinase 3 [Source:HGNC Symbol;Acc:HGNC:6843]	4494	0.6275274753570557	0.67387533	No	
+row_11	JAK3	Janus kinase 3 [Source:HGNC Symbol;Acc:HGNC:6193]	4587	0.6129806041717529	0.6994572	No	
+row_12	JAK2	Janus kinase 2 [Source:HGNC Symbol;Acc:HGNC:6192]	7724	0.19248616695404053	0.525522	No	
+row_13	MAP2K6	mitogen-activated protein kinase kinase 6 [Source:HGNC Symbol;Acc:HGNC:6846]	8177	0.13308922946453094	0.5057747	No	
+row_14	MAP2K4	mitogen-activated protein kinase kinase 4 [Source:HGNC Symbol;Acc:HGNC:6844]	9934	-0.08553607761859894	0.40725583	No	
+row_15	TLR4	toll like receptor 4 [Source:HGNC Symbol;Acc:HGNC:11850]	10851	-0.23311805725097656	0.36538807	No	

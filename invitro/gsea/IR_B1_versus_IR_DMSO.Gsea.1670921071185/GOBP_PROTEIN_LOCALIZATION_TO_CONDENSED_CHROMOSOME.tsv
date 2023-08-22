@@ -1,0 +1,19 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CENPQ	centromere protein Q [Source:HGNC Symbol;Acc:HGNC:21347]	6277	0.12285187840461731	-0.35733747	No	
+row_1	MIS12	MIS12 kinetochore complex component [Source:HGNC Symbol;Acc:HGNC:24967]	6297	0.12031649798154831	-0.34834424	No	
+row_2	MTBP	MDM2 binding protein [Source:HGNC Symbol;Acc:HGNC:7417]	8506	-0.031827013939619064	-0.4749979	No	
+row_3	TRAPPC12	trafficking protein particle complex subunit 12 [Source:HGNC Symbol;Acc:HGNC:24284]	9310	-0.0822974368929863	-0.5151186	No	
+row_4	IK	IK cytokine [Source:HGNC Symbol;Acc:HGNC:5958]	10156	-0.1484326422214508	-0.5521442	No	
+row_5	CDT1	chromatin licensing and DNA replication factor 1 [Source:HGNC Symbol;Acc:HGNC:24576]	11293	-0.23562034964561462	-0.59889084	No	
+row_6	ZW10	zw10 kinetochore protein [Source:HGNC Symbol;Acc:HGNC:13194]	12548	-0.33816948533058167	-0.64393526	Yes	
+row_7	RCC2	regulator of chromosome condensation 2 [Source:HGNC Symbol;Acc:HGNC:30297]	12811	-0.36056557297706604	-0.6289951	Yes	
+row_8	BUB3	BUB3 mitotic checkpoint protein [Source:HGNC Symbol;Acc:HGNC:1151]	13120	-0.38730379939079285	-0.6145033	Yes	
+row_9	CHAMP1	chromosome alignment maintaining phosphoprotein 1 [Source:HGNC Symbol;Acc:HGNC:20311]	13206	-0.39642930030822754	-0.5861835	Yes	
+row_10	AURKB	aurora kinase B [Source:HGNC Symbol;Acc:HGNC:11390]	13855	-0.4538858234882355	-0.58601356	Yes	
+row_11	NDC80	NDC80 kinetochore complex component [Source:HGNC Symbol;Acc:HGNC:16909]	14622	-0.5420888662338257	-0.58534646	Yes	
+row_12	CDK1	cyclin dependent kinase 1 [Source:HGNC Symbol;Acc:HGNC:1722]	16419	-1.0062748193740845	-0.6060188	Yes	
+row_13	TTK	TTK protein kinase [Source:HGNC Symbol;Acc:HGNC:12401]	16760	-1.3066661357879639	-0.51617855	Yes	
+row_14	KNTC1	kinetochore associated 1 [Source:HGNC Symbol;Acc:HGNC:17255]	16826	-1.4271214008331299	-0.40011328	Yes	
+row_15	ZWILCH	zwilch kinetochore protein [Source:HGNC Symbol;Acc:HGNC:25468]	16885	-1.533267855644226	-0.27472216	Yes	
+row_16	KNL1	kinetochore scaffold 1 [Source:HGNC Symbol;Acc:HGNC:24054]	16914	-1.5786960124969482	-0.14375807	Yes	
+row_17	SPDL1	spindle apparatus coiled-coil protein 1 [Source:HGNC Symbol;Acc:HGNC:26010]	16989	-1.8335187435150146	0.0059157745	Yes	

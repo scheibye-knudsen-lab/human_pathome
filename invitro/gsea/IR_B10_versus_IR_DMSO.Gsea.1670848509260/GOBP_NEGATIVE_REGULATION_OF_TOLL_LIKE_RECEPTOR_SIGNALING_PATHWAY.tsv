@@ -1,0 +1,29 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ARRB2	arrestin beta 2 [Source:HGNC Symbol;Acc:HGNC:712]	180	2.6064369678497314	0.088183425	Yes	
+row_1	LYN	LYN proto-oncogene, Src family tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:6735]	267	2.349540948867798	0.17214456	Yes	
+row_2	DAB2IP	DAB2 interacting protein [Source:HGNC Symbol;Acc:HGNC:17294]	577	1.8334861993789673	0.22348818	Yes	
+row_3	IRAK3	interleukin 1 receptor associated kinase 3 [Source:HGNC Symbol;Acc:HGNC:17020]	743	1.6823705434799194	0.2775468	Yes	
+row_4	GRAMD4	GRAM domain containing 4 [Source:HGNC Symbol;Acc:HGNC:29113]	873	1.5817086696624756	0.32990217	Yes	
+row_5	SMPDL3B	sphingomyelin phosphodiesterase acid like 3B [Source:HGNC Symbol;Acc:HGNC:21416]	1004	1.4857826232910156	0.3785652	Yes	
+row_6	MFHAS1	multifunctional ROCO family signaling regulator 1 [Source:HGNC Symbol;Acc:HGNC:16982]	1039	1.4582346677780151	0.43181092	Yes	
+row_7	TLR9	toll like receptor 9 [Source:HGNC Symbol;Acc:HGNC:15633]	1088	1.4275856018066406	0.48307517	Yes	
+row_8	TNFAIP3	TNF alpha induced protein 3 [Source:HGNC Symbol;Acc:HGNC:11896]	1147	1.3976571559906006	0.53261966	Yes	
+row_9	TYRO3	TYRO3 protein tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:12446]	1381	1.2891809940338135	0.5677989	Yes	
+row_10	NR1D1	nuclear receptor subfamily 1 group D member 1 [Source:HGNC Symbol;Acc:HGNC:7962]	1549	1.2180646657943726	0.60415226	Yes	
+row_11	NOD2	nucleotide binding oligomerization domain containing 2 [Source:HGNC Symbol;Acc:HGNC:5331]	2496	0.9503263235092163	0.58470935	Yes	
+row_12	IRF4	interferon regulatory factor 4 [Source:HGNC Symbol;Acc:HGNC:6119]	3239	0.7960429191589355	0.57137775	Yes	
+row_13	NFKBIL1	NFKB inhibitor like 1 [Source:HGNC Symbol;Acc:HGNC:7800]	3309	0.7813867926597595	0.59693307	Yes	
+row_14	OTUD4	OTU deubiquitinase 4 [Source:HGNC Symbol;Acc:HGNC:24949]	3908	0.674590528011322	0.58744013	Yes	
+row_15	UBQLN1	ubiquilin 1 [Source:HGNC Symbol;Acc:HGNC:12508]	3936	0.6688851714134216	0.6111953	Yes	
+row_16	GPR108	G protein-coupled receptor 108 [Source:HGNC Symbol;Acc:HGNC:17829]	5830	0.39293035864830017	0.51513785	No	
+row_17	GPS2	G protein pathway suppressor 2 [Source:HGNC Symbol;Acc:HGNC:4550]	6229	0.3386768102645874	0.5046417	No	
+row_18	RAB7B	RAB7B, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:30513]	6650	0.2838555574417114	0.49077958	No	
+row_19	TLR6	toll like receptor 6 [Source:HGNC Symbol;Acc:HGNC:16711]	8035	0.12546883523464203	0.41442117	No	
+row_20	CACTIN	cactin, spliceosome C complex subunit [Source:HGNC Symbol;Acc:HGNC:29938]	8592	0.053209513425827026	0.38385165	No	
+row_21	PTPRS	protein tyrosine phosphatase receptor type S [Source:HGNC Symbol;Acc:HGNC:9681]	9452	-0.031211834400892258	0.3346911	No	
+row_22	LGR4	leucine rich repeat containing G protein-coupled receptor 4 [Source:HGNC Symbol;Acc:HGNC:13299]	9680	-0.05553175508975983	0.32349104	No	
+row_23	PDPK1	3-phosphoinositide dependent protein kinase 1 [Source:HGNC Symbol;Acc:HGNC:8816]	10056	-0.09844109416007996	0.30524263	No	
+row_24	LRRC14	leucine rich repeat containing 14 [Source:HGNC Symbol;Acc:HGNC:20419]	10456	-0.15072733163833618	0.2875683	No	
+row_25	SARM1	sterile alpha and TIR motif containing 1 [Source:HGNC Symbol;Acc:HGNC:17074]	11617	-0.30339711904525757	0.23107772	No	
+row_26	TREM2	triggering receptor expressed on myeloid cells 2 [Source:HGNC Symbol;Acc:HGNC:17761]	12640	-0.43975508213043213	0.18784009	No	
+row_27	F2RL1	F2R like trypsin receptor 1 [Source:HGNC Symbol;Acc:HGNC:3538]	16697	-1.9244710206985474	0.023032276	No	

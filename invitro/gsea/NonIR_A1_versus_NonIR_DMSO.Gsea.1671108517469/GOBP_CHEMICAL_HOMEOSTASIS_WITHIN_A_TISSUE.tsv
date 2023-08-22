@@ -1,0 +1,16 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	EPAS1	endothelial PAS domain protein 1 [Source:HGNC Symbol;Acc:HGNC:3374]	196	1.6997308731079102	0.15033491	Yes	
+row_1	ABCA12	ATP binding cassette subfamily A member 12 [Source:HGNC Symbol;Acc:HGNC:14637]	259	1.5430010557174683	0.29359654	Yes	
+row_2	VEGFA	vascular endothelial growth factor A [Source:HGNC Symbol;Acc:HGNC:12680]	264	1.5376770496368408	0.4397479	Yes	
+row_3	HOMER1	homer scaffold protein 1 [Source:HGNC Symbol;Acc:HGNC:17512]	357	1.3856056928634644	0.5662688	Yes	
+row_4	SFTPD	surfactant protein D [Source:HGNC Symbol;Acc:HGNC:10803]	1519	0.8008301854133606	0.574517	Yes	
+row_5	NKIRAS2	NFKB inhibitor interacting Ras like 2 [Source:HGNC Symbol;Acc:HGNC:17898]	1739	0.739955484867096	0.63213515	Yes	
+row_6	CTSH	cathepsin H [Source:HGNC Symbol;Acc:HGNC:2535]	1862	0.7102343440055847	0.69260436	Yes	
+row_7	ABCA3	ATP binding cassette subfamily A member 3 [Source:HGNC Symbol;Acc:HGNC:33]	1894	0.7022218108177185	0.7576399	Yes	
+row_8	NAPSA	napsin A aspartic peptidase [Source:HGNC Symbol;Acc:HGNC:13395]	5112	0.2680314779281616	0.5947632	No	
+row_9	ITGB6	integrin subunit beta 6 [Source:HGNC Symbol;Acc:HGNC:6161]	6644	0.12156929075717926	0.5166785	No	
+row_10	KDR	kinase insert domain receptor [Source:HGNC Symbol;Acc:HGNC:6307]	8201	0.0	0.42555648	No	
+row_11	RCN3	reticulocalbin 3 [Source:HGNC Symbol;Acc:HGNC:21145]	9604	-0.09909767657518387	0.35288695	No	
+row_12	NKIRAS1	NFKB inhibitor interacting Ras like 1 [Source:HGNC Symbol;Acc:HGNC:17899]	10149	-0.14203080534934998	0.3345506	No	
+row_13	HOMER2	homer scaffold protein 2 [Source:HGNC Symbol;Acc:HGNC:17513]	10902	-0.20839883387088776	0.31035158	No	
+row_14	LPCAT1	lysophosphatidylcholine acyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:25718]	14150	-0.5459064245223999	0.17217152	No	

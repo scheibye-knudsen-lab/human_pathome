@@ -1,0 +1,18 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	H4C4	H4 clustered histone 4 [Source:HGNC Symbol;Acc:HGNC:4782]	338	1.552067518234253	0.11244037	Yes	
+row_1	H4C2	H4 clustered histone 2 [Source:HGNC Symbol;Acc:HGNC:4789]	646	1.203062653541565	0.19696106	Yes	
+row_2	H4C1	H4 clustered histone 1 [Source:HGNC Symbol;Acc:HGNC:4781]	666	1.1845004558563232	0.296768	Yes	
+row_3	H4C5	H4 clustered histone 5 [Source:HGNC Symbol;Acc:HGNC:4790]	738	1.134210467338562	0.38924465	Yes	
+row_4	H4C8	H4 clustered histone 8 [Source:HGNC Symbol;Acc:HGNC:4788]	941	1.0073461532592773	0.46323994	Yes	
+row_5	H4C11	H4 clustered histone 11 [Source:HGNC Symbol;Acc:HGNC:4785]	1137	0.9149364829063416	0.5297719	Yes	
+row_6	H4C14	H4 clustered histone 14 [Source:HGNC Symbol;Acc:HGNC:4794]	1140	0.9144408702850342	0.60756534	Yes	
+row_7	H4C6	H4 clustered histone 6 [Source:HGNC Symbol;Acc:HGNC:4783]	1578	0.772330105304718	0.6477736	Yes	
+row_8	H4C3	H4 clustered histone 3 [Source:HGNC Symbol;Acc:HGNC:4787]	1937	0.6712225675582886	0.6839944	Yes	
+row_9	H4C9	H4 clustered histone 9 [Source:HGNC Symbol;Acc:HGNC:4793]	2250	0.5979889035224915	0.7166698	Yes	
+row_10	H4C13	H4 clustered histone 13 [Source:HGNC Symbol;Acc:HGNC:4791]	5353	0.20264512300491333	0.55225545	No	
+row_11	H4C15	H4 clustered histone 15 [Source:HGNC Symbol;Acc:HGNC:29607]	6368	0.1145840734243393	0.5026295	No	
+row_12	H4-16	H4 histone 16 [Source:HGNC Symbol;Acc:HGNC:20510]	9875	-0.12728266417980194	0.3081326	No	
+row_13	GABPA	GA binding protein transcription factor subunit alpha [Source:HGNC Symbol;Acc:HGNC:4071]	10154	-0.14796270430088043	0.30445698	No	
+row_14	CIB1	calcium and integrin binding 1 [Source:HGNC Symbol;Acc:HGNC:16920]	12647	-0.34662139415740967	0.1880363	No	
+row_15	PRMT1	protein arginine methyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:5187]	13242	-0.3999473452568054	0.18732217	No	
+row_16	MYB	MYB proto-oncogene, transcription factor [Source:HGNC Symbol;Acc:HGNC:7545]	13764	-0.4459023177623749	0.19479892	No	

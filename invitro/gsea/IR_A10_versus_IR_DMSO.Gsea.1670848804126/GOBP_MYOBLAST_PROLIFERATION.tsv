@@ -1,0 +1,23 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SOX15	SRY-box transcription factor 15 [Source:HGNC Symbol;Acc:HGNC:11196]	186	2.3186163902282715	0.13565543	Yes	
+row_1	FOS	Fos proto-oncogene, AP-1 transcription factor subunit [Source:HGNC Symbol;Acc:HGNC:3796]	210	2.2142550945281982	0.274264	Yes	
+row_2	IGF1	insulin like growth factor 1 [Source:HGNC Symbol;Acc:HGNC:5464]	227	2.15130352973938	0.4093037	Yes	
+row_3	GATA6	GATA binding protein 6 [Source:HGNC Symbol;Acc:HGNC:4174]	1440	1.0016520023345947	0.40160903	Yes	
+row_4	ATOH8	atonal bHLH transcription factor 8 [Source:HGNC Symbol;Acc:HGNC:24126]	1667	0.9223892092704773	0.44666997	Yes	
+row_5	KLHL41	kelch like family member 41 [Source:HGNC Symbol;Acc:HGNC:16905]	1915	0.8556428551673889	0.48628175	Yes	
+row_6	HGF	hepatocyte growth factor [Source:HGNC Symbol;Acc:HGNC:4893]	2043	0.8148660063743591	0.53034645	Yes	
+row_7	FES	FES proto-oncogene, tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:3657]	2051	0.8132044076919556	0.58133644	Yes	
+row_8	SRC	SRC proto-oncogene, non-receptor tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:11283]	2482	0.713200569152832	0.6012237	Yes	
+row_9	FGF7	fibroblast growth factor 7 [Source:HGNC Symbol;Acc:HGNC:3685]	3181	0.5792921185493469	0.59694606	Yes	
+row_10	CTNNB1	catenin beta 1 [Source:HGNC Symbol;Acc:HGNC:2514]	3615	0.5126413106918335	0.6039809	Yes	
+row_11	MEIS2	Meis homeobox 2 [Source:HGNC Symbol;Acc:HGNC:7001]	4557	0.39978787302970886	0.574121	No	
+row_12	GPX1	glutathione peroxidase 1 [Source:HGNC Symbol;Acc:HGNC:4553]	6271	0.20817436277866364	0.4869217	No	
+row_13	PAXBP1	PAX3 and PAX7 binding protein 1 [Source:HGNC Symbol;Acc:HGNC:13579]	8100	0.03727203607559204	0.3821828	No	
+row_14	ZNF609	zinc finger protein 609 [Source:HGNC Symbol;Acc:HGNC:29003]	8735	-0.002556082559749484	0.34520102	No	
+row_15	FGR	FGR proto-oncogene, Src family tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:3697]	8757	-0.003455543890595436	0.3441891	No	
+row_16	ATF2	activating transcription factor 2 [Source:HGNC Symbol;Acc:HGNC:784]	9769	-0.08646643161773682	0.2904242	No	
+row_17	MEGF10	multiple EGF like domains 10 [Source:HGNC Symbol;Acc:HGNC:29634]	10740	-0.1850961446762085	0.24529538	No	
+row_18	MSTN	myostatin [Source:HGNC Symbol;Acc:HGNC:4223]	11068	-0.21344083547592163	0.23962875	No	
+row_19	ABL1	ABL proto-oncogene 1, non-receptor tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:76]	11681	-0.2727734446525574	0.22101542	No	
+row_20	PPARD	peroxisome proliferator activated receptor delta [Source:HGNC Symbol;Acc:HGNC:9235]	14692	-0.6653225421905518	0.08672527	No	
+row_21	SIX1	SIX homeobox 1 [Source:HGNC Symbol;Acc:HGNC:10887]	15488	-0.8496663570404053	0.09385432	No	

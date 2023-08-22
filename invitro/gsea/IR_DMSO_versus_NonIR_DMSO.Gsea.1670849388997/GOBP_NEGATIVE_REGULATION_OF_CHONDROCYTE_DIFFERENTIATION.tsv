@@ -1,0 +1,24 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	LTBP3	latent transforming growth factor beta binding protein 3 [Source:HGNC Symbol;Acc:HGNC:6716]	280	1.9390166997909546	0.08336663	Yes	
+row_1	CCN4	cellular communication network factor 4 [Source:HGNC Symbol;Acc:HGNC:12769]	289	1.921044111251831	0.18174475	Yes	
+row_2	SOX9	SRY-box transcription factor 9 [Source:HGNC Symbol;Acc:HGNC:11204]	318	1.8746891021728516	0.2765659	Yes	
+row_3	PTHLH	parathyroid hormone like hormone [Source:HGNC Symbol;Acc:HGNC:9607]	398	1.7600312232971191	0.3624993	Yes	
+row_4	GDF5	growth differentiation factor 5 [Source:HGNC Symbol;Acc:HGNC:4220]	407	1.753625512123108	0.45226294	Yes	
+row_5	EFEMP1	EGF containing fibulin extracellular matrix protein 1 [Source:HGNC Symbol;Acc:HGNC:3218]	474	1.648018717765808	0.5331944	Yes	
+row_6	NKX3-2	NK3 homeobox 2 [Source:HGNC Symbol;Acc:HGNC:951]	1014	1.2066885232925415	0.5637047	Yes	
+row_7	WNT9A	Wnt family member 9A [Source:HGNC Symbol;Acc:HGNC:12778]	1122	1.144090175628662	0.6163045	Yes	
+row_8	BMP4	bone morphogenetic protein 4 [Source:HGNC Symbol;Acc:HGNC:1071]	1327	1.0516834259033203	0.65846646	Yes	
+row_9	ADAMTS12	ADAM metallopeptidase with thrombospondin type 1 motif 12 [Source:HGNC Symbol;Acc:HGNC:14605]	2076	0.8440898060798645	0.65807414	Yes	
+row_10	TGFBR1	transforming growth factor beta receptor 1 [Source:HGNC Symbol;Acc:HGNC:11772]	2518	0.7511788010597229	0.67088807	Yes	
+row_11	RFLNA	refilin A [Source:HGNC Symbol;Acc:HGNC:27051]	4608	0.4270799160003662	0.5704706	No	
+row_12	RARB	retinoic acid receptor beta [Source:HGNC Symbol;Acc:HGNC:9865]	5119	0.3732171654701233	0.5597939	No	
+row_13	PTPN11	protein tyrosine phosphatase non-receptor type 11 [Source:HGNC Symbol;Acc:HGNC:9644]	5575	0.31945374608039856	0.5495732	No	
+row_14	ADAMTS7	ADAM metallopeptidase with thrombospondin type 1 motif 7 [Source:HGNC Symbol;Acc:HGNC:223]	8214	0.044911909848451614	0.3973259	No	
+row_15	IHH	Indian hedgehog signaling molecule [Source:HGNC Symbol;Acc:HGNC:5956]	8897	-0.0018302265089005232	0.35746226	No	
+row_16	RARG	retinoic acid receptor gamma [Source:HGNC Symbol;Acc:HGNC:9866]	11055	-0.22588472068309784	0.24270825	No	
+row_17	CTNNB1	catenin beta 1 [Source:HGNC Symbol;Acc:HGNC:2514]	11156	-0.236407071352005	0.2490136	No	
+row_18	CHADL	chondroadherin like [Source:HGNC Symbol;Acc:HGNC:25165]	11178	-0.23898036777973175	0.2600799	No	
+row_19	SNAI2	snail family transcriptional repressor 2 [Source:HGNC Symbol;Acc:HGNC:11094]	11583	-0.2858242690563202	0.25111687	No	
+row_20	GLI3	GLI family zinc finger 3 [Source:HGNC Symbol;Acc:HGNC:4319]	12162	-0.3526390790939331	0.2353973	No	
+row_21	RFLNB	refilin B [Source:HGNC Symbol;Acc:HGNC:28705]	12771	-0.4200853109359741	0.22139046	No	
+row_22	GREM1	gremlin 1, DAN family BMP antagonist [Source:HGNC Symbol;Acc:HGNC:2001]	14068	-0.6140864491462708	0.17705655	No	

@@ -1,0 +1,21 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SEMA3C	semaphorin 3C [Source:HGNC Symbol;Acc:HGNC:10725]	219	2.0576107501983643	0.13589242	Yes	
+row_1	TGM2	transglutaminase 2 [Source:HGNC Symbol;Acc:HGNC:11778]	296	1.9141770601272583	0.26979443	Yes	
+row_2	FGF7	fibroblast growth factor 7 [Source:HGNC Symbol;Acc:HGNC:3685]	408	1.7506831884384155	0.38982907	Yes	
+row_3	NTN4	netrin 4 [Source:HGNC Symbol;Acc:HGNC:13658]	431	1.699721336364746	0.5113938	Yes	
+row_4	BMP7	bone morphogenetic protein 7 [Source:HGNC Symbol;Acc:HGNC:1074]	876	1.2835134267807007	0.5781553	Yes	
+row_5	LAMA5	laminin subunit alpha 5 [Source:HGNC Symbol;Acc:HGNC:6485]	1288	1.0675773620605469	0.63124233	Yes	
+row_6	FGF10	fibroblast growth factor 10 [Source:HGNC Symbol;Acc:HGNC:3666]	1619	0.9580222964286804	0.6811558	Yes	
+row_7	PLXNA1	plexin A1 [Source:HGNC Symbol;Acc:HGNC:9099]	3977	0.49849656224250793	0.579116	No	
+row_8	TNF	tumor necrosis factor [Source:HGNC Symbol;Acc:HGNC:11892]	5539	0.32383987307548523	0.51108104	No	
+row_9	PDGFA	platelet derived growth factor subunit A [Source:HGNC Symbol;Acc:HGNC:8799]	6062	0.2655971646308899	0.49969986	No	
+row_10	HGF	hepatocyte growth factor [Source:HGNC Symbol;Acc:HGNC:4893]	6419	0.22512052953243256	0.4951172	No	
+row_11	ESRP2	epithelial splicing regulatory protein 2 [Source:HGNC Symbol;Acc:HGNC:26152]	7360	0.12434082478284836	0.4490402	No	
+row_12	SHH	sonic hedgehog signaling molecule [Source:HGNC Symbol;Acc:HGNC:10848]	8333	0.033458855003118515	0.3945199	No	
+row_13	DAG1	dystroglycan 1 [Source:HGNC Symbol;Acc:HGNC:2666]	8390	0.029307285323739052	0.39335778	No	
+row_14	BTBD7	BTB domain containing 7 [Source:HGNC Symbol;Acc:HGNC:18269]	9317	-0.04592091962695122	0.34243283	No	
+row_15	LAMA1	laminin subunit alpha 1 [Source:HGNC Symbol;Acc:HGNC:6481]	10251	-0.1409376561641693	0.29796553	No	
+row_16	PLXND1	plexin D1 [Source:HGNC Symbol;Acc:HGNC:9107]	10804	-0.19947350025177002	0.28004763	No	
+row_17	SNAI2	snail family transcriptional repressor 2 [Source:HGNC Symbol;Acc:HGNC:11094]	11583	-0.2858242690563202	0.25513226	No	
+row_18	NRP1	neuropilin 1 [Source:HGNC Symbol;Acc:HGNC:8004]	12202	-0.3583155572414398	0.24482904	No	
+row_19	FGFR2	fibroblast growth factor receptor 2 [Source:HGNC Symbol;Acc:HGNC:3689]	13849	-0.5734195709228516	0.18985416	No	

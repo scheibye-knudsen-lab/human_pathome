@@ -1,0 +1,22 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PLPP2	phospholipid phosphatase 2 [Source:HGNC Symbol;Acc:HGNC:9230]	96	3.0414657592773438	0.14711952	Yes	
+row_1	ASAH1	N-acylsphingosine amidohydrolase 1 [Source:HGNC Symbol;Acc:HGNC:735]	137	2.7869584560394287	0.2847382	Yes	
+row_2	DEGS2	delta 4-desaturase, sphingolipid 2 [Source:HGNC Symbol;Acc:HGNC:20113]	511	1.8985234498977661	0.3582315	Yes	
+row_3	KDSR	3-ketodihydrosphingosine reductase [Source:HGNC Symbol;Acc:HGNC:4021]	752	1.6772730350494385	0.42840496	Yes	
+row_4	ACER2	alkaline ceramidase 2 [Source:HGNC Symbol;Acc:HGNC:23675]	769	1.6692965030670166	0.51130027	Yes	
+row_5	SPTLC3	serine palmitoyltransferase long chain base subunit 3 [Source:HGNC Symbol;Acc:HGNC:16253]	1339	1.3099393844604492	0.54375255	Yes	
+row_6	SPHK1	sphingosine kinase 1 [Source:HGNC Symbol;Acc:HGNC:11240]	1704	1.1619648933410645	0.58078283	Yes	
+row_7	PLPP1	phospholipid phosphatase 1 [Source:HGNC Symbol;Acc:HGNC:9228]	2085	1.047088384628296	0.6111067	Yes	
+row_8	ACER3	alkaline ceramidase 3 [Source:HGNC Symbol;Acc:HGNC:16066]	2442	0.9652729630470276	0.6387277	Yes	
+row_9	GBA	glucosylceramidase beta [Source:HGNC Symbol;Acc:HGNC:4177]	2480	0.9550637006759644	0.6845238	Yes	
+row_10	SPTSSA	serine palmitoyltransferase small subunit A [Source:HGNC Symbol;Acc:HGNC:20361]	6427	0.31582167744636536	0.4692187	No	
+row_11	NAAA	N-acylethanolamine acid amidase [Source:HGNC Symbol;Acc:HGNC:736]	6459	0.31062448024749756	0.4830023	No	
+row_12	ABCA2	ATP binding cassette subfamily A member 2 [Source:HGNC Symbol;Acc:HGNC:32]	6971	0.24344612658023834	0.4652927	No	
+row_13	SPHK2	sphingosine kinase 2 [Source:HGNC Symbol;Acc:HGNC:18859]	7045	0.23374229669570923	0.4727548	No	
+row_14	PLPP3	phospholipid phosphatase 3 [Source:HGNC Symbol;Acc:HGNC:9229]	8094	0.1170571893453598	0.4172392	No	
+row_15	SGPP1	sphingosine-1-phosphate phosphatase 1 [Source:HGNC Symbol;Acc:HGNC:17720]	8658	0.04518682137131691	0.38652664	No	
+row_16	ASAH2	N-acylsphingosine amidohydrolase 2 [Source:HGNC Symbol;Acc:HGNC:18860]	9702	-0.05802932381629944	0.32833955	No	
+row_17	ASAH2B	N-acylsphingosine amidohydrolase 2B [Source:HGNC Symbol;Acc:HGNC:23456]	10489	-0.15460993349552155	0.29005843	No	
+row_18	ACER1	alkaline ceramidase 1 [Source:HGNC Symbol;Acc:HGNC:18356]	11272	-0.25817209482192993	0.25721255	No	
+row_19	SPTLC1	serine palmitoyltransferase long chain base subunit 1 [Source:HGNC Symbol;Acc:HGNC:11277]	13512	-0.5709711313247681	0.15472113	No	
+row_20	SPTLC2	serine palmitoyltransferase long chain base subunit 2 [Source:HGNC Symbol;Acc:HGNC:11278]	15590	-1.0917439460754395	0.08787342	No	

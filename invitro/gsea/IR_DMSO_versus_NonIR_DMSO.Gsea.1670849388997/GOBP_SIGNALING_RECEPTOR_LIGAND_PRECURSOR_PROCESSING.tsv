@@ -1,0 +1,32 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	DPP4	dipeptidyl peptidase 4 [Source:HGNC Symbol;Acc:HGNC:3009]	106	2.4165186882019043	0.09153873	Yes	
+row_1	PCSK5	proprotein convertase subtilisin/kexin type 5 [Source:HGNC Symbol;Acc:HGNC:8747]	121	2.340489149093628	0.18539467	Yes	
+row_2	CORIN	corin, serine peptidase [Source:HGNC Symbol;Acc:HGNC:19012]	251	1.9976750612258911	0.25864232	Yes	
+row_3	ATP6AP2	ATPase H+ transporting accessory protein 2 [Source:HGNC Symbol;Acc:HGNC:18305]	279	1.939095139503479	0.3354992	Yes	
+row_4	PCSK6	proprotein convertase subtilisin/kexin type 6 [Source:HGNC Symbol;Acc:HGNC:8569]	286	1.922369360923767	0.41291046	Yes	
+row_5	CPE	carboxypeptidase E [Source:HGNC Symbol;Acc:HGNC:2303]	319	1.8714770078659058	0.486739	Yes	
+row_6	MME	membrane metalloendopeptidase [Source:HGNC Symbol;Acc:HGNC:7154]	889	1.2721079587936401	0.50484496	Yes	
+row_7	BACE2	beta-secretase 2 [Source:HGNC Symbol;Acc:HGNC:934]	906	1.2641781568527222	0.5550451	Yes	
+row_8	SCG5	secretogranin V [Source:HGNC Symbol;Acc:HGNC:10816]	1456	1.004296898841858	0.56349003	Yes	
+row_9	CTSZ	cathepsin Z [Source:HGNC Symbol;Acc:HGNC:2547]	2421	0.7689251899719238	0.53808784	Yes	
+row_10	PCSK4	proprotein convertase subtilisin/kexin type 4 [Source:HGNC Symbol;Acc:HGNC:8746]	2697	0.7126933336257935	0.5507979	Yes	
+row_11	DISP1	dispatched RND transporter family member 1 [Source:HGNC Symbol;Acc:HGNC:19711]	2784	0.6922877430915833	0.573761	Yes	
+row_12	ECE1	endothelin converting enzyme 1 [Source:HGNC Symbol;Acc:HGNC:3146]	3153	0.6215921640396118	0.57733446	Yes	
+row_13	PCSK1N	proprotein convertase subtilisin/kexin type 1 inhibitor [Source:HGNC Symbol;Acc:HGNC:17301]	3278	0.6002660393714905	0.5943478	Yes	
+row_14	ADAM10	ADAM metallopeptidase domain 10 [Source:HGNC Symbol;Acc:HGNC:188]	3513	0.5588664412498474	0.6032385	Yes	
+row_15	SLC30A5	solute carrier family 30 member 5 [Source:HGNC Symbol;Acc:HGNC:19089]	3594	0.5481107234954834	0.62072116	Yes	
+row_16	PCSK1	proprotein convertase subtilisin/kexin type 1 [Source:HGNC Symbol;Acc:HGNC:8743]	5092	0.3770759403705597	0.54822534	No	
+row_17	SLC30A6	solute carrier family 30 member 6 [Source:HGNC Symbol;Acc:HGNC:19305]	6409	0.22592265903949738	0.4802248	No	
+row_18	PCSK2	proprotein convertase subtilisin/kexin type 2 [Source:HGNC Symbol;Acc:HGNC:8744]	6421	0.22501392662525177	0.48868218	No	
+row_19	CPA3	carboxypeptidase A3 [Source:HGNC Symbol;Acc:HGNC:2298]	6640	0.20022280514240265	0.4840031	No	
+row_20	ERO1A	endoplasmic reticulum oxidoreductase 1 alpha [Source:HGNC Symbol;Acc:HGNC:13280]	7411	0.117864228785038	0.44363606	No	
+row_21	CTSL	cathepsin L [Source:HGNC Symbol;Acc:HGNC:2537]	8286	0.037831924855709076	0.39393547	No	
+row_22	YIPF5	Yip1 domain family member 5 [Source:HGNC Symbol;Acc:HGNC:24877]	8456	0.023215286433696747	0.38496837	No	
+row_23	SLC30A8	solute carrier family 30 member 8 [Source:HGNC Symbol;Acc:HGNC:20303]	8479	0.021463414654135704	0.38454702	No	
+row_24	PCSK7	proprotein convertase subtilisin/kexin type 7 [Source:HGNC Symbol;Acc:HGNC:8748]	9502	-0.06491341441869736	0.32726666	No	
+row_25	REN	renin [Source:HGNC Symbol;Acc:HGNC:9958]	9677	-0.08276250958442688	0.32041526	No	
+row_26	ACE	angiotensin I converting enzyme [Source:HGNC Symbol;Acc:HGNC:2707]	10909	-0.21063265204429626	0.2567786	No	
+row_27	MBOAT4	membrane bound O-acyltransferase domain containing 4 [Source:HGNC Symbol;Acc:HGNC:32311]	13198	-0.47529274225234985	0.14189006	No	
+row_28	FURIN	furin, paired basic amino acid cleaving enzyme [Source:HGNC Symbol;Acc:HGNC:8568]	13960	-0.5951538681983948	0.12135774	No	
+row_29	CASP1	caspase 1 [Source:HGNC Symbol;Acc:HGNC:1499]	14133	-0.6243687272071838	0.1365324	No	
+row_30	ENPEP	glutamyl aminopeptidase [Source:HGNC Symbol;Acc:HGNC:3355]	15311	-0.9082067608833313	0.10427904	No	

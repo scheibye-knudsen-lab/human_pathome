@@ -1,0 +1,25 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ABCA3	ATP binding cassette subfamily A member 3 [Source:HGNC Symbol;Acc:HGNC:33]	114	2.1596755981445312	0.11781951	Yes	
+row_1	APOE	apolipoprotein E [Source:HGNC Symbol;Acc:HGNC:613]	214	1.8784984350204468	0.22030886	Yes	
+row_2	CES1	carboxylesterase 1 [Source:HGNC Symbol;Acc:HGNC:1863]	226	1.8625072240829468	0.3270325	Yes	
+row_3	PLTP	phospholipid transfer protein [Source:HGNC Symbol;Acc:HGNC:9093]	636	1.3094396591186523	0.37855354	Yes	
+row_4	ABCG4	ATP binding cassette subfamily G member 4 [Source:HGNC Symbol;Acc:HGNC:13884]	649	1.3029839992523193	0.4529637	Yes	
+row_5	ABCG1	ATP binding cassette subfamily G member 1 [Source:HGNC Symbol;Acc:HGNC:73]	670	1.2886631488800049	0.5260796	Yes	
+row_6	ABCA1	ATP binding cassette subfamily A member 1 [Source:HGNC Symbol;Acc:HGNC:29]	827	1.1855897903442383	0.58528495	Yes	
+row_7	PPARG	peroxisome proliferator activated receptor gamma [Source:HGNC Symbol;Acc:HGNC:9236]	952	1.1242519617080688	0.64282936	Yes	
+row_8	NR1H3	nuclear receptor subfamily 1 group H member 3 [Source:HGNC Symbol;Acc:HGNC:7966]	1094	1.0545706748962402	0.6953607	Yes	
+row_9	ABCA8	ATP binding cassette subfamily A member 8 [Source:HGNC Symbol;Acc:HGNC:38]	2279	0.71889728307724	0.66742945	No	
+row_10	LRP1	LDL receptor related protein 1 [Source:HGNC Symbol;Acc:HGNC:6692]	3484	0.4863663613796234	0.62492156	No	
+row_11	ABCA7	ATP binding cassette subfamily A member 7 [Source:HGNC Symbol;Acc:HGNC:37]	3778	0.4515211582183838	0.6337828	No	
+row_12	RXRA	retinoid X receptor alpha [Source:HGNC Symbol;Acc:HGNC:10477]	4964	0.32043781876564026	0.5828229	No	
+row_13	EEPD1	endonuclease/exonuclease/phosphatase family domain containing 1 [Source:HGNC Symbol;Acc:HGNC:22223]	5809	0.22736048698425293	0.54647744	No	
+row_14	ABCA12	ATP binding cassette subfamily A member 12 [Source:HGNC Symbol;Acc:HGNC:14637]	7495	0.04842685908079147	0.45054054	No	
+row_15	SIRT1	sirtuin 1 [Source:HGNC Symbol;Acc:HGNC:14929]	7720	0.03191482648253441	0.4392556	No	
+row_16	NFKBIA	NFKB inhibitor alpha [Source:HGNC Symbol;Acc:HGNC:7797]	7876	0.016020627692341805	0.4310973	No	
+row_17	TREM2	triggering receptor expressed on myeloid cells 2 [Source:HGNC Symbol;Acc:HGNC:17761]	8104	0.0	0.41779676	No	
+row_18	NR1H2	nuclear receptor subfamily 1 group H member 2 [Source:HGNC Symbol;Acc:HGNC:7965]	8580	-0.01838914304971695	0.39102536	No	
+row_19	GPS2	G protein pathway suppressor 2 [Source:HGNC Symbol;Acc:HGNC:4550]	10592	-0.19537419080734253	0.2844584	No	
+row_20	ZDHHC8	zinc finger DHHC-type palmitoyltransferase 8 [Source:HGNC Symbol;Acc:HGNC:18474]	11529	-0.27679917216300964	0.24557239	No	
+row_21	PTCH1	patched 1 [Source:HGNC Symbol;Acc:HGNC:9585]	11627	-0.2867538034915924	0.25641942	No	
+row_22	APOA1	apolipoprotein A1 [Source:HGNC Symbol;Acc:HGNC:600]	13591	-0.4795663058757782	0.16904776	No	
+row_23	CAV1	caveolin 1 [Source:HGNC Symbol;Acc:HGNC:1527]	14631	-0.6229131817817688	0.1440792	No	

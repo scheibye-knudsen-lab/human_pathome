@@ -1,0 +1,22 @@
+{
+    "read_files": "[ F22FTSEUET0050_HOMxwviO/soapnuke/clean/222_B1_III/222_B1_III_1.fq.gz, F22FTSEUET0050_HOMxwviO/soapnuke/clean/222_B1_III/222_B1_III_2.fq.gz]",
+    "expected_format": "ISR",
+    "compatible_fragment_ratio": 1.0,
+    "num_compatible_fragments": 29959565,
+    "num_assigned_fragments": 29959565,
+    "num_frags_with_concordant_consistent_mappings": 29459910,
+    "num_frags_with_inconsistent_or_orphan_mappings": 523968,
+    "strand_mapping_bias": 0.000019619498495747933,
+    "MSF": 0,
+    "OSF": 0,
+    "ISF": 578,
+    "MSR": 0,
+    "OSR": 0,
+    "ISR": 29459910,
+    "SF": 267062,
+    "SR": 256328,
+    "MU": 0,
+    "OU": 0,
+    "IU": 0,
+    "U": 0
+}

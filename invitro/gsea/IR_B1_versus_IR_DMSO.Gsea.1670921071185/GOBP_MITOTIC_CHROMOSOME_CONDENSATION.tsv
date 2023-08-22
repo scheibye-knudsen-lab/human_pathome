@@ -1,0 +1,20 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	NCAPD2	non-SMC condensin I complex subunit D2 [Source:HGNC Symbol;Acc:HGNC:24305]	5267	0.20911045372486115	-0.28935185	No	
+row_1	TTN	titin [Source:HGNC Symbol;Acc:HGNC:12403]	5296	0.20655494928359985	-0.27206114	No	
+row_2	BAZ1B	bromodomain adjacent to zinc finger domain 1B [Source:HGNC Symbol;Acc:HGNC:961]	6428	0.1104278415441513	-0.32818922	No	
+row_3	CHMP1A	charged multivesicular body protein 1A [Source:HGNC Symbol;Acc:HGNC:8740]	6699	0.08802182227373123	-0.33593738	No	
+row_4	SMARCA5	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 5 [Source:HGNC Symbol;Acc:HGNC:11101]	7694	0.009957784786820412	-0.39324874	No	
+row_5	AKAP8L	A-kinase anchoring protein 8 like [Source:HGNC Symbol;Acc:HGNC:29857]	8694	-0.042131517082452774	-0.44790426	No	
+row_6	NCAPH2	non-SMC condensin II complex subunit H2 [Source:HGNC Symbol;Acc:HGNC:25071]	9681	-0.1109066978096962	-0.49549502	No	
+row_7	PHF13	PHD finger protein 13 [Source:HGNC Symbol;Acc:HGNC:22983]	10320	-0.1612260341644287	-0.5180897	No	
+row_8	AKAP8	A-kinase anchoring protein 8 [Source:HGNC Symbol;Acc:HGNC:378]	11532	-0.2537921369075775	-0.5657645	No	
+row_9	SMC2	structural maintenance of chromosomes 2 [Source:HGNC Symbol;Acc:HGNC:14011]	11880	-0.28240829706192017	-0.56020737	No	
+row_10	NCAPD3	non-SMC condensin II complex subunit D3 [Source:HGNC Symbol;Acc:HGNC:28952]	12045	-0.2952953577041626	-0.5427499	No	
+row_11	TENT4A	terminal nucleotidyltransferase 4A [Source:HGNC Symbol;Acc:HGNC:16705]	12809	-0.36044079065322876	-0.55440843	No	
+row_12	KMT5A	lysine methyltransferase 5A [Source:HGNC Symbol;Acc:HGNC:29489]	13267	-0.4027067720890045	-0.5442692	No	
+row_13	NUSAP1	nucleolar and spindle associated protein 1 [Source:HGNC Symbol;Acc:HGNC:18538]	16225	-0.9157605767250061	-0.6335471	Yes	
+row_14	SMC4	structural maintenance of chromosomes 4 [Source:HGNC Symbol;Acc:HGNC:14013]	16248	-0.926882803440094	-0.54988676	Yes	
+row_15	PLK1	polo like kinase 1 [Source:HGNC Symbol;Acc:HGNC:9077]	16469	-1.0341616868972778	-0.46799216	Yes	
+row_16	NCAPH	non-SMC condensin I complex subunit H [Source:HGNC Symbol;Acc:HGNC:1112]	16705	-1.2350541353225708	-0.36856437	Yes	
+row_17	CDCA5	cell division cycle associated 5 [Source:HGNC Symbol;Acc:HGNC:14626]	16900	-1.5537525415420532	-0.23752618	Yes	
+row_18	NCAPG	non-SMC condensin I complex subunit G [Source:HGNC Symbol;Acc:HGNC:24304]	17078	-2.7124526500701904	7.0294895E-4	Yes	

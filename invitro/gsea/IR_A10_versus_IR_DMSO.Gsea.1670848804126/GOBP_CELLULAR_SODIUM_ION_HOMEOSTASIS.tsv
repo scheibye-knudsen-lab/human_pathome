@@ -1,0 +1,16 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ATP1A2	ATPase Na+/K+ transporting subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:800]	26	3.3809378147125244	0.2736052	Yes	
+row_1	ATP1B1	ATPase Na+/K+ transporting subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:804]	369	1.8262487649917603	0.40219024	Yes	
+row_2	AGT	angiotensinogen [Source:HGNC Symbol;Acc:HGNC:333]	619	1.5130343437194824	0.5107333	Yes	
+row_3	SCNN1D	sodium channel epithelial 1 subunit delta [Source:HGNC Symbol;Acc:HGNC:10601]	703	1.4273475408554077	0.6220248	Yes	
+row_4	SLC8A1	solute carrier family 8 member A1 [Source:HGNC Symbol;Acc:HGNC:11068]	1090	1.1528375148773193	0.69323343	Yes	
+row_5	ATP1B2	ATPase Na+/K+ transporting subunit beta 2 [Source:HGNC Symbol;Acc:HGNC:805]	2985	0.6118590235710144	0.6321083	No	
+row_6	SCNN1A	sodium channel epithelial 1 subunit alpha [Source:HGNC Symbol;Acc:HGNC:10599]	4021	0.45815926790237427	0.60878015	No	
+row_7	ATP1B3	ATPase Na+/K+ transporting subunit beta 3 [Source:HGNC Symbol;Acc:HGNC:806]	5736	0.26219066977500916	0.52974147	No	
+row_8	ATP1A3	ATPase Na+/K+ transporting subunit alpha 3 [Source:HGNC Symbol;Acc:HGNC:801]	7975	0.04685881733894348	0.4024935	No	
+row_9	ATP4A	ATPase H+/K+ transporting subunit alpha [Source:HGNC Symbol;Acc:HGNC:819]	8658	0.0	0.3625544	No	
+row_10	SLC12A2	solute carrier family 12 member 2 [Source:HGNC Symbol;Acc:HGNC:10911]	9039	-0.023780057206749916	0.34223607	No	
+row_11	ATP1A1	ATPase Na+/K+ transporting subunit alpha 1 [Source:HGNC Symbol;Acc:HGNC:799]	11175	-0.22311334311962128	0.2353629	No	
+row_12	IL1A	interleukin 1 alpha [Source:HGNC Symbol;Acc:HGNC:5991]	12486	-0.3662185072898865	0.1884485	No	
+row_13	SLC9A1	solute carrier family 9 member A1 [Source:HGNC Symbol;Acc:HGNC:11071]	13119	-0.4332994818687439	0.18669775	No	
+row_14	SLC1A3	solute carrier family 1 member 3 [Source:HGNC Symbol;Acc:HGNC:10941]	14131	-0.562724232673645	0.1732842	No	

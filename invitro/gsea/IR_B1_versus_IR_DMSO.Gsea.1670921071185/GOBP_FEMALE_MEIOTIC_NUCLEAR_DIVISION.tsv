@@ -1,0 +1,30 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TUBB8	tubulin beta 8 class VIII [Source:HGNC Symbol;Acc:HGNC:20773]	1371	0.8400551676750183	-0.03897597	No	
+row_1	SPIRE2	spire type actin nucleation factor 2 [Source:HGNC Symbol;Acc:HGNC:30623]	1417	0.8198336958885193	-0.0012314074	No	
+row_2	HSF2BP	heat shock transcription factor 2 binding protein [Source:HGNC Symbol;Acc:HGNC:5226]	2434	0.5642880201339722	-0.032984182	No	
+row_3	MARF1	meiosis regulator and mRNA stability factor 1 [Source:HGNC Symbol;Acc:HGNC:29562]	3889	0.36219802498817444	-0.100362256	No	
+row_4	MASTL	microtubule associated serine/threonine kinase like [Source:HGNC Symbol;Acc:HGNC:19042]	4267	0.3172549903392792	-0.10683132	No	
+row_5	MEIOB	meiosis specific with OB-fold [Source:HGNC Symbol;Acc:HGNC:28569]	4470	0.2933603823184967	-0.10422064	No	
+row_6	CDC25B	cell division cycle 25B [Source:HGNC Symbol;Acc:HGNC:1726]	5330	0.2045304924249649	-0.14449202	No	
+row_7	RAD51C	RAD51 paralog C [Source:HGNC Symbol;Acc:HGNC:9820]	7350	0.03455645963549614	-0.26112303	No	
+row_8	SPIRE1	spire type actin nucleation factor 1 [Source:HGNC Symbol;Acc:HGNC:30622]	9353	-0.08648555725812912	-0.37419984	No	
+row_9	NCAPH2	non-SMC condensin II complex subunit H2 [Source:HGNC Symbol;Acc:HGNC:25071]	9681	-0.1109066978096962	-0.38790238	No	
+row_10	UBB	ubiquitin B [Source:HGNC Symbol;Acc:HGNC:12463]	9891	-0.1280663013458252	-0.39384377	No	
+row_11	PPP2R1A	protein phosphatase 2 scaffold subunit Aalpha [Source:HGNC Symbol;Acc:HGNC:9302]	10038	-0.13877834379673004	-0.39556506	No	
+row_12	WASHC5	WASH complex subunit 5 [Source:HGNC Symbol;Acc:HGNC:28984]	10475	-0.17311666905879974	-0.41259184	No	
+row_13	ATM	ATM serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:795]	12152	-0.30425596237182617	-0.4958353	No	
+row_14	MEIOC	meiosis specific with coiled-coil domain [Source:HGNC Symbol;Acc:HGNC:26670]	13556	-0.42907482385635376	-0.5569302	No	
+row_15	NDC80	NDC80 kinetochore complex component [Source:HGNC Symbol;Acc:HGNC:16909]	14622	-0.5420888662338257	-0.59264827	Yes	
+row_16	MLH1	mutL homolog 1 [Source:HGNC Symbol;Acc:HGNC:7127]	14628	-0.5426315665245056	-0.56621325	Yes	
+row_17	MLH3	mutL homolog 3 [Source:HGNC Symbol;Acc:HGNC:7128]	14660	-0.5462715029716492	-0.54112285	Yes	
+row_18	SYCP2	synaptonemal complex protein 2 [Source:HGNC Symbol;Acc:HGNC:11490]	15680	-0.7480082511901855	-0.5640021	Yes	
+row_19	FBXO5	F-box protein 5 [Source:HGNC Symbol;Acc:HGNC:13584]	16431	-1.0137271881103516	-0.5580269	Yes	
+row_20	FMN2	formin 2 [Source:HGNC Symbol;Acc:HGNC:14074]	16466	-1.0319355726242065	-0.50919026	Yes	
+row_21	PLK1	polo like kinase 1 [Source:HGNC Symbol;Acc:HGNC:9077]	16469	-1.0341616868972778	-0.4583685	Yes	
+row_22	NCAPH	non-SMC condensin I complex subunit H [Source:HGNC Symbol;Acc:HGNC:1112]	16705	-1.2350541353225708	-0.41130754	Yes	
+row_23	TRIP13	thyroid hormone receptor interactor 13 [Source:HGNC Symbol;Acc:HGNC:12307]	16748	-1.2845134735107422	-0.35049874	Yes	
+row_24	EREG	epiregulin [Source:HGNC Symbol;Acc:HGNC:3443]	16759	-1.3060057163238525	-0.2867558	Yes	
+row_25	TTK	TTK protein kinase [Source:HGNC Symbol;Acc:HGNC:12401]	16760	-1.3066661357879639	-0.22239421	Yes	
+row_26	CCNB2	cyclin B2 [Source:HGNC Symbol;Acc:HGNC:1580]	16912	-1.5771631002426147	-0.15355903	Yes	
+row_27	AURKA	aurora kinase A [Source:HGNC Symbol;Acc:HGNC:11393]	16939	-1.649057149887085	-0.073856376	Yes	
+row_28	TOP2A	DNA topoisomerase II alpha [Source:HGNC Symbol;Acc:HGNC:11989]	16946	-1.6779119968414307	0.00843976	Yes	

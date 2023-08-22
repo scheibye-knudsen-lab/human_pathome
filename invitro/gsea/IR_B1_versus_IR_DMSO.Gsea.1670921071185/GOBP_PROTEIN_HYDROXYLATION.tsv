@@ -1,0 +1,28 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CRTAP	cartilage associated protein [Source:HGNC Symbol;Acc:HGNC:2379]	2127	0.6216305494308472	-0.08763954	No	
+row_1	VPS33B	VPS33B late endosome and lysosome associated [Source:HGNC Symbol;Acc:HGNC:12712]	5256	0.20998330414295197	-0.25844803	No	
+row_2	P4HTM	prolyl 4-hydroxylase, transmembrane [Source:HGNC Symbol;Acc:HGNC:28858]	5308	0.20570968091487885	-0.24918985	No	
+row_3	EGLN2	egl-9 family hypoxia inducible factor 2 [Source:HGNC Symbol;Acc:HGNC:14660]	6162	0.1318560689687729	-0.29132807	No	
+row_4	VIPAS39	VPS33B interacting protein, apical-basolateral polarity regulator, spe-39 homolog [Source:HGNC Symbol;Acc:HGNC:20347]	6531	0.10149777680635452	-0.30685124	No	
+row_5	HIF1AN	hypoxia inducible factor 1 subunit alpha inhibitor [Source:HGNC Symbol;Acc:HGNC:17113]	8520	-0.03261743485927582	-0.42141193	No	
+row_6	EGLN1	egl-9 family hypoxia inducible factor 1 [Source:HGNC Symbol;Acc:HGNC:1232]	10207	-0.15272016823291779	-0.51112425	No	
+row_7	PRDX4	peroxiredoxin 4 [Source:HGNC Symbol;Acc:HGNC:17169]	11164	-0.22603647410869598	-0.5536915	No	
+row_8	JMJD4	jumonji domain containing 4 [Source:HGNC Symbol;Acc:HGNC:25724]	11498	-0.25071075558662415	-0.55828017	No	
+row_9	JMJD7	jumonji domain containing 7 [Source:HGNC Symbol;Acc:HGNC:34397]	12053	-0.2958601117134094	-0.5731321	No	
+row_10	EGLN3	egl-9 family hypoxia inducible factor 3 [Source:HGNC Symbol;Acc:HGNC:14661]	12655	-0.34788188338279724	-0.5876413	No	
+row_11	P3H3	prolyl 3-hydroxylase 3 [Source:HGNC Symbol;Acc:HGNC:19318]	12936	-0.3704296052455902	-0.58199656	No	
+row_12	P4HA3	prolyl 4-hydroxylase subunit alpha 3 [Source:HGNC Symbol;Acc:HGNC:30135]	14670	-0.5481955409049988	-0.6509185	Yes	
+row_13	OGFOD1	2-oxoglutarate and iron dependent oxygenase domain containing 1 [Source:HGNC Symbol;Acc:HGNC:25585]	14886	-0.5821775794029236	-0.6288581	Yes	
+row_14	P4HB	prolyl 4-hydroxylase subunit beta [Source:HGNC Symbol;Acc:HGNC:8548]	15149	-0.6265525221824646	-0.6069102	Yes	
+row_15	FKBP10	FKBP prolyl isomerase 10 [Source:HGNC Symbol;Acc:HGNC:18169]	15562	-0.7142584919929504	-0.58853114	Yes	
+row_16	PLOD1	procollagen-lysine,2-oxoglutarate 5-dioxygenase 1 [Source:HGNC Symbol;Acc:HGNC:9081]	15782	-0.7753453850746155	-0.5552049	Yes	
+row_17	PLOD3	procollagen-lysine,2-oxoglutarate 5-dioxygenase 3 [Source:HGNC Symbol;Acc:HGNC:9083]	15798	-0.779571533203125	-0.5096721	Yes	
+row_18	ERO1A	endoplasmic reticulum oxidoreductase 1 alpha [Source:HGNC Symbol;Acc:HGNC:13280]	15904	-0.8144019246101379	-0.46733987	Yes	
+row_19	ASPH	aspartate beta-hydroxylase [Source:HGNC Symbol;Acc:HGNC:757]	15996	-0.8429158329963684	-0.42248964	Yes	
+row_20	P3H1	prolyl 3-hydroxylase 1 [Source:HGNC Symbol;Acc:HGNC:19316]	16238	-0.9235748648643494	-0.38162783	Yes	
+row_21	JMJD6	jumonji domain containing 6, arginine demethylase and lysine hydroxylase [Source:HGNC Symbol;Acc:HGNC:19355]	16400	-0.9982885718345642	-0.33162966	Yes	
+row_22	P4HA2	prolyl 4-hydroxylase subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:8547]	16547	-1.0833340883255005	-0.27568927	Yes	
+row_23	P3H4	prolyl 3-hydroxylase family member 4 (inactive) [Source:HGNC Symbol;Acc:HGNC:16946]	16579	-1.1107186079025269	-0.21137923	Yes	
+row_24	P4HA1	prolyl 4-hydroxylase subunit alpha 1 [Source:HGNC Symbol;Acc:HGNC:8546]	16690	-1.2207642793655396	-0.14514722	Yes	
+row_25	P3H2	prolyl 3-hydroxylase 2 [Source:HGNC Symbol;Acc:HGNC:19317]	16719	-1.25189208984375	-0.072256565	Yes	
+row_26	PLOD2	procollagen-lysine,2-oxoglutarate 5-dioxygenase 2 [Source:HGNC Symbol;Acc:HGNC:9082]	16913	-1.577887773513794	0.0103727905	Yes	

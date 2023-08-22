@@ -1,0 +1,54 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	KAT2B	lysine acetyltransferase 2B [Source:HGNC Symbol;Acc:HGNC:8638]	2793	0.9241766929626465	-0.15355165	No	
+row_1	TEX14	testis expressed 14, intercellular bridge forming factor [Source:HGNC Symbol;Acc:HGNC:11737]	4574	0.6147658228874207	-0.25112185	No	
+row_2	KLHL22	kelch like family member 22 [Source:HGNC Symbol;Acc:HGNC:25888]	5554	0.4802940785884857	-0.30318922	No	
+row_3	USP44	ubiquitin specific peptidase 44 [Source:HGNC Symbol;Acc:HGNC:20064]	5925	0.4292595386505127	-0.32008594	No	
+row_4	KAT5	lysine acetyltransferase 5 [Source:HGNC Symbol;Acc:HGNC:5275]	6379	0.3757520318031311	-0.34245488	No	
+row_5	ATM	ATM serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:795]	9323	-0.007258180994540453	-0.51510495	No	
+row_6	PSMG2	proteasome assembly chaperone 2 [Source:HGNC Symbol;Acc:HGNC:24929]	9356	-0.010933330282568932	-0.5168603	No	
+row_7	DYNC1LI1	dynein cytoplasmic 1 light intermediate chain 1 [Source:HGNC Symbol;Acc:HGNC:18745]	10411	-0.16086557507514954	-0.576916	No	
+row_8	BECN1	beclin 1 [Source:HGNC Symbol;Acc:HGNC:1034]	10591	-0.19144798815250397	-0.58527243	No	
+row_9	NUMA1	nuclear mitotic apparatus protein 1 [Source:HGNC Symbol;Acc:HGNC:8059]	11177	-0.28203609585762024	-0.61644095	No	
+row_10	CDT1	chromatin licensing and DNA replication factor 1 [Source:HGNC Symbol;Acc:HGNC:24576]	11498	-0.3306715488433838	-0.63150996	No	
+row_11	TPR	translocated promoter region, nuclear basket protein [Source:HGNC Symbol;Acc:HGNC:12017]	11541	-0.3383648991584778	-0.63017607	No	
+row_12	APC	APC regulator of WNT signaling pathway [Source:HGNC Symbol;Acc:HGNC:583]	11970	-0.410060852766037	-0.6506925	No	
+row_13	LCMT1	leucine carboxyl methyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:17557]	12001	-0.41414791345596313	-0.6478035	No	
+row_14	IK	IK cytokine [Source:HGNC Symbol;Acc:HGNC:5958]	12360	-0.4665825068950653	-0.6635769	No	
+row_15	MAD2L1BP	MAD2L1 binding protein [Source:HGNC Symbol;Acc:HGNC:21059]	12659	-0.5143375992774963	-0.67529255	No	
+row_16	DUSP1	dual specificity phosphatase 1 [Source:HGNC Symbol;Acc:HGNC:3064]	12905	-0.5638427138328552	-0.68334174	No	
+row_17	MAD1L1	mitotic arrest deficient 1 like 1 [Source:HGNC Symbol;Acc:HGNC:6762]	13598	-0.7281825542449951	-0.7157813	No	
+row_18	MAD2L1	mitotic arrest deficient 2 like 1 [Source:HGNC Symbol;Acc:HGNC:6763]	13702	-0.7518063187599182	-0.7133858	No	
+row_19	ZNF207	zinc finger protein 207 [Source:HGNC Symbol;Acc:HGNC:12998]	14051	-0.8300620913505554	-0.72449136	No	
+row_20	RAD21	RAD21 cohesin complex component [Source:HGNC Symbol;Acc:HGNC:9811]	14095	-0.8409202098846436	-0.7175739	No	
+row_21	PCID2	PCI domain containing 2 [Source:HGNC Symbol;Acc:HGNC:25653]	14183	-0.8636999726295471	-0.7129831	No	
+row_22	ZW10	zw10 kinetochore protein [Source:HGNC Symbol;Acc:HGNC:13194]	14477	-0.9385069012641907	-0.719643	No	
+row_23	HNRNPU	heterogeneous nuclear ribonucleoprotein U [Source:HGNC Symbol;Acc:HGNC:5048]	14745	-1.0139466524124146	-0.72392994	No	
+row_24	CDK5RAP2	CDK5 regulatory subunit associated protein 2 [Source:HGNC Symbol;Acc:HGNC:18672]	15111	-1.1374270915985107	-0.7325824	Yes	
+row_25	GEN1	GEN1 Holliday junction 5' flap endonuclease [Source:HGNC Symbol;Acc:HGNC:26881]	15136	-1.1445673704147339	-0.72114056	Yes	
+row_26	SPDL1	spindle apparatus coiled-coil protein 1 [Source:HGNC Symbol;Acc:HGNC:26010]	15487	-1.2853331565856934	-0.727252	Yes	
+row_27	BUB3	BUB3 mitotic checkpoint protein [Source:HGNC Symbol;Acc:HGNC:1151]	15539	-1.3123668432235718	-0.71551096	Yes	
+row_28	ZWILCH	zwilch kinetochore protein [Source:HGNC Symbol;Acc:HGNC:25468]	15610	-1.3493543863296509	-0.7044698	Yes	
+row_29	FBXO5	F-box protein 5 [Source:HGNC Symbol;Acc:HGNC:13584]	15866	-1.4817464351654053	-0.7028003	Yes	
+row_30	CENPF	centromere protein F [Source:HGNC Symbol;Acc:HGNC:1857]	15887	-1.49276602268219	-0.6872144	Yes	
+row_31	TTK	TTK protein kinase [Source:HGNC Symbol;Acc:HGNC:12401]	15987	-1.5630416870117188	-0.67547613	Yes	
+row_32	MAD2L2	mitotic arrest deficient 2 like 2 [Source:HGNC Symbol;Acc:HGNC:6764]	16023	-1.584080457687378	-0.6597454	Yes	
+row_33	NUF2	NUF2 component of NDC80 kinetochore complex [Source:HGNC Symbol;Acc:HGNC:14621]	16140	-1.6688226461410522	-0.64781725	Yes	
+row_34	KNTC1	kinetochore associated 1 [Source:HGNC Symbol;Acc:HGNC:17255]	16190	-1.7116769552230835	-0.6314756	Yes	
+row_35	NDC80	NDC80 kinetochore complex component [Source:HGNC Symbol;Acc:HGNC:16909]	16376	-1.906596302986145	-0.62092775	Yes	
+row_36	INCENP	inner centromere protein [Source:HGNC Symbol;Acc:HGNC:6058]	16495	-2.045454502105713	-0.60488844	Yes	
+row_37	BUB1	BUB1 mitotic checkpoint serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:1148]	16537	-2.099425792694092	-0.5837239	Yes	
+row_38	XRCC3	X-ray repair cross complementing 3 [Source:HGNC Symbol;Acc:HGNC:12830]	16619	-2.2130184173583984	-0.5636317	Yes	
+row_39	SPC25	SPC25 component of NDC80 kinetochore complex [Source:HGNC Symbol;Acc:HGNC:24031]	16707	-2.391773223876953	-0.5418847	Yes	
+row_40	ANAPC15	anaphase promoting complex subunit 15 [Source:HGNC Symbol;Acc:HGNC:24531]	16726	-2.4250664710998535	-0.51571417	Yes	
+row_41	BUB1B	BUB1 mitotic checkpoint serine/threonine kinase B [Source:HGNC Symbol;Acc:HGNC:1149]	16765	-2.524199962615967	-0.48960444	Yes	
+row_42	PTTG1	PTTG1 regulator of sister chromatid separation, securin [Source:HGNC Symbol;Acc:HGNC:9690]	16981	-3.3072385787963867	-0.46509185	Yes	
+row_43	ZWINT	ZW10 interacting kinetochore protein [Source:HGNC Symbol;Acc:HGNC:13195]	17029	-3.7754135131835938	-0.4254626	Yes	
+row_44	CCNB1	cyclin B1 [Source:HGNC Symbol;Acc:HGNC:1579]	17036	-3.8547189235687256	-0.3825366	Yes	
+row_45	AURKB	aurora kinase B [Source:HGNC Symbol;Acc:HGNC:11390]	17038	-3.887592077255249	-0.338948	Yes	
+row_46	TRIP13	thyroid hormone receptor interactor 13 [Source:HGNC Symbol;Acc:HGNC:12307]	17042	-3.9475624561309814	-0.2948035	Yes	
+row_47	HASPIN	histone H3 associated protein kinase [Source:HGNC Symbol;Acc:HGNC:19682]	17062	-4.185094833374023	-0.24893124	Yes	
+row_48	CDCA8	cell division cycle associated 8 [Source:HGNC Symbol;Acc:HGNC:14629]	17067	-4.2151103019714355	-0.20184161	Yes	
+row_49	CDC20	cell division cycle 20 [Source:HGNC Symbol;Acc:HGNC:1723]	17076	-4.408013343811035	-0.15282093	Yes	
+row_50	BIRC5	baculoviral IAP repeat containing 5 [Source:HGNC Symbol;Acc:HGNC:593]	17081	-4.483266353607178	-0.10272062	Yes	
+row_51	PLK1	polo like kinase 1 [Source:HGNC Symbol;Acc:HGNC:9077]	17083	-4.541027069091797	-0.051795717	Yes	
+row_52	SPC24	SPC24 component of NDC80 kinetochore complex [Source:HGNC Symbol;Acc:HGNC:26913]	17088	-4.6447319984436035	1.1742893E-4	Yes	

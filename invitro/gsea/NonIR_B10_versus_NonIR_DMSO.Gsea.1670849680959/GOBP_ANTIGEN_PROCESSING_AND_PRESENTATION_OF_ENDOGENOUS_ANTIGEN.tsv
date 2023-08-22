@@ -1,0 +1,21 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CD74	CD74 molecule [Source:HGNC Symbol;Acc:HGNC:1697]	56	3.5776405334472656	0.119491495	Yes	
+row_1	B2M	beta-2-microglobulin [Source:HGNC Symbol;Acc:HGNC:914]	278	2.5155458450317383	0.19287015	Yes	
+row_2	HLA-G	major histocompatibility complex, class I, G [Source:HGNC Symbol;Acc:HGNC:4964]	285	2.5019335746765137	0.27837616	Yes	
+row_3	HLA-B	major histocompatibility complex, class I, B [Source:HGNC Symbol;Acc:HGNC:4932]	489	2.1661157608032227	0.34081802	Yes	
+row_4	HLA-A	major histocompatibility complex, class I, A [Source:HGNC Symbol;Acc:HGNC:4931]	620	1.9988454580307007	0.40179604	Yes	
+row_5	TAP1	transporter 1, ATP binding cassette subfamily B member [Source:HGNC Symbol;Acc:HGNC:43]	640	1.9750337600708008	0.4684592	Yes	
+row_6	HLA-C	major histocompatibility complex, class I, C [Source:HGNC Symbol;Acc:HGNC:4933]	817	1.7894572019577026	0.5195571	Yes	
+row_7	HLA-H	major histocompatibility complex, class I, H (pseudogene) [Source:HGNC Symbol;Acc:HGNC:4965]	937	1.6812245845794678	0.5702799	Yes	
+row_8	TAP2	transporter 2, ATP binding cassette subfamily B member [Source:HGNC Symbol;Acc:HGNC:44]	1178	1.522752285003662	0.6084764	Yes	
+row_9	HLA-E	major histocompatibility complex, class I, E [Source:HGNC Symbol;Acc:HGNC:4962]	1476	1.3493845462799072	0.63738453	Yes	
+row_10	HLA-F	major histocompatibility complex, class I, F [Source:HGNC Symbol;Acc:HGNC:4963]	1625	1.2800921201705933	0.67264307	Yes	
+row_11	TAPBP	TAP binding protein [Source:HGNC Symbol;Acc:HGNC:11566]	1764	1.2196009159088135	0.7064116	Yes	
+row_12	HLA-DRB1	major histocompatibility complex, class II, DR beta 1 [Source:HGNC Symbol;Acc:HGNC:4948]	2265	1.062070608139038	0.7135686	Yes	
+row_13	HFE	homeostatic iron regulator [Source:HGNC Symbol;Acc:HGNC:4886]	3843	0.7292189598083496	0.64621395	No	
+row_14	ERAP2	endoplasmic reticulum aminopeptidase 2 [Source:HGNC Symbol;Acc:HGNC:29499]	3857	0.7278348207473755	0.6704291	No	
+row_15	ERAP1	endoplasmic reticulum aminopeptidase 1 [Source:HGNC Symbol;Acc:HGNC:18173]	4558	0.6179166436195374	0.6506286	No	
+row_16	CD1D	CD1d molecule [Source:HGNC Symbol;Acc:HGNC:1637]	5054	0.5396045446395874	0.64014935	No	
+row_17	IDE	insulin degrading enzyme [Source:HGNC Symbol;Acc:HGNC:5381]	6406	0.37267786264419556	0.5737983	No	
+row_18	ATG5	autophagy related 5 [Source:HGNC Symbol;Acc:HGNC:589]	9553	-0.0341615229845047	0.39068145	No	
+row_19	ABCB9	ATP binding cassette subfamily B member 9 [Source:HGNC Symbol;Acc:HGNC:50]	15860	-1.4794340133666992	0.07205197	No	

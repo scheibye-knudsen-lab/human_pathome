@@ -1,0 +1,21 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CRB2	crumbs cell polarity complex component 2 [Source:HGNC Symbol;Acc:HGNC:18688]	33	2.460280418395996	0.2493498	Yes	
+row_1	PLPP3	phospholipid phosphatase 3 [Source:HGNC Symbol;Acc:HGNC:9229]	427	1.177789568901062	0.34662285	Yes	
+row_2	AMOT	angiomotin [Source:HGNC Symbol;Acc:HGNC:17810]	610	1.0103161334991455	0.43915102	Yes	
+row_3	ACVR2B	activin A receptor type 2B [Source:HGNC Symbol;Acc:HGNC:174]	1605	0.7004523873329163	0.45246494	Yes	
+row_4	LDB1	LIM domain binding 1 [Source:HGNC Symbol;Acc:HGNC:6532]	1850	0.6434259414672852	0.50388855	Yes	
+row_5	ACVR2A	activin A receptor type 2A [Source:HGNC Symbol;Acc:HGNC:173]	2242	0.5816017389297485	0.5403866	Yes	
+row_6	MEGF8	multiple EGF like domains 8 [Source:HGNC Symbol;Acc:HGNC:3233]	2506	0.5367046594619751	0.5797972	Yes	
+row_7	ACVR1	activin A receptor type 1 [Source:HGNC Symbol;Acc:HGNC:171]	3227	0.44559645652770996	0.5831318	Yes	
+row_8	CTNNB1	catenin beta 1 [Source:HGNC Symbol;Acc:HGNC:2514]	3648	0.4094962179660797	0.6003529	Yes	
+row_9	FRS2	fibroblast growth factor receptor substrate 2 [Source:HGNC Symbol;Acc:HGNC:16971]	3664	0.40821656584739685	0.64116776	Yes	
+row_10	SMAD4	SMAD family member 4 [Source:HGNC Symbol;Acc:HGNC:6770]	4505	0.32045692205429077	0.62469167	No	
+row_11	LRP5	LDL receptor related protein 5 [Source:HGNC Symbol;Acc:HGNC:6697]	5371	0.24472305178642273	0.59901595	No	
+row_12	RNF2	ring finger protein 2 [Source:HGNC Symbol;Acc:HGNC:10061]	6488	0.15577609837055206	0.54955226	No	
+row_13	LRP5L	LDL receptor related protein 5 like [Source:HGNC Symbol;Acc:HGNC:25323]	7213	0.09478980302810669	0.5168226	No	
+row_14	ETS2	ETS proto-oncogene 2, transcription factor [Source:HGNC Symbol;Acc:HGNC:3489]	8254	0.015918267890810966	0.45752636	No	
+row_15	UGDH	UDP-glucose 6-dehydrogenase [Source:HGNC Symbol;Acc:HGNC:12525]	9681	-0.07617727667093277	0.38177332	No	
+row_16	TENM4	teneurin transmembrane protein 4 [Source:HGNC Symbol;Acc:HGNC:29945]	9985	-0.09991202503442764	0.37422854	No	
+row_17	WNT5A	Wnt family member 5A [Source:HGNC Symbol;Acc:HGNC:12784]	10023	-0.1030125692486763	0.3825824	No	
+row_18	ZBTB17	zinc finger and BTB domain containing 17 [Source:HGNC Symbol;Acc:HGNC:12936]	10494	-0.1406601369380951	0.36941674	No	
+row_19	SRF	serum response factor [Source:HGNC Symbol;Acc:HGNC:11291]	10837	-0.16557209193706512	0.36629364	No	

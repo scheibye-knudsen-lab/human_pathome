@@ -1,0 +1,37 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	RPA4	replication protein A4 [Source:HGNC Symbol;Acc:HGNC:30305]	5713	0.23451608419418335	-0.3297562	No	
+row_1	ORC5	origin recognition complex subunit 5 [Source:HGNC Symbol;Acc:HGNC:8491]	6136	0.19072195887565613	-0.35025537	No	
+row_2	KAT7	lysine acetyltransferase 7 [Source:HGNC Symbol;Acc:HGNC:17016]	9223	-0.07606005668640137	-0.52950674	No	
+row_3	NOC3L	NOC3 like DNA replication regulator [Source:HGNC Symbol;Acc:HGNC:24034]	10009	-0.14569586515426636	-0.57229203	No	
+row_4	WRNIP1	WRN helicase interacting protein 1 [Source:HGNC Symbol;Acc:HGNC:20876]	10682	-0.20215405523777008	-0.60719526	No	
+row_5	ORC4	origin recognition complex subunit 4 [Source:HGNC Symbol;Acc:HGNC:8490]	10710	-0.20407898724079132	-0.60423684	No	
+row_6	CDC34	cell division cycle 34, ubiqiutin conjugating enzyme [Source:HGNC Symbol;Acc:HGNC:1734]	10914	-0.22183632850646973	-0.6112028	No	
+row_7	CIZ1	CDKN1A interacting zinc finger protein 1 [Source:HGNC Symbol;Acc:HGNC:16744]	11832	-0.3071400821208954	-0.658135	No	
+row_8	ORC2	origin recognition complex subunit 2 [Source:HGNC Symbol;Acc:HGNC:8488]	13948	-0.5233258008956909	-0.7704995	No	
+row_9	ORC3	origin recognition complex subunit 3 [Source:HGNC Symbol;Acc:HGNC:8489]	13955	-0.5242233276367188	-0.7591854	No	
+row_10	NBN	nibrin [Source:HGNC Symbol;Acc:HGNC:7652]	14599	-0.616524875164032	-0.7831669	No	
+row_11	TOPBP1	DNA topoisomerase II binding protein 1 [Source:HGNC Symbol;Acc:HGNC:17008]	15152	-0.7166243195533752	-0.7995851	No	
+row_12	PURA	purine rich element binding protein A [Source:HGNC Symbol;Acc:HGNC:9701]	15715	-0.8528043627738953	-0.8135591	No	
+row_13	LRWD1	leucine rich repeats and WD repeat domain containing 1 [Source:HGNC Symbol;Acc:HGNC:21769]	16096	-0.9797757267951965	-0.81403625	Yes	
+row_14	CCNE2	cyclin E2 [Source:HGNC Symbol;Acc:HGNC:1590]	16136	-0.998638927936554	-0.7940994	Yes	
+row_15	CCNE1	cyclin E1 [Source:HGNC Symbol;Acc:HGNC:1589]	16213	-1.0332386493682861	-0.77556205	Yes	
+row_16	GMNN	geminin DNA replication inhibitor [Source:HGNC Symbol;Acc:HGNC:17493]	16239	-1.0435001850128174	-0.753806	Yes	
+row_17	PRIM1	DNA primase subunit 1 [Source:HGNC Symbol;Acc:HGNC:9369]	16347	-1.1082534790039062	-0.73541695	Yes	
+row_18	PRIM2	DNA primase subunit 2 [Source:HGNC Symbol;Acc:HGNC:9370]	16607	-1.3345719575881958	-0.72090375	Yes	
+row_19	MCM6	minichromosome maintenance complex component 6 [Source:HGNC Symbol;Acc:HGNC:6949]	16667	-1.4204007387161255	-0.6927538	Yes	
+row_20	ORC6	origin recognition complex subunit 6 [Source:HGNC Symbol;Acc:HGNC:17151]	16730	-1.5050641298294067	-0.6628957	Yes	
+row_21	GINS3	GINS complex subunit 3 [Source:HGNC Symbol;Acc:HGNC:25851]	16775	-1.584933876991272	-0.6302047	Yes	
+row_22	CDK2	cyclin dependent kinase 2 [Source:HGNC Symbol;Acc:HGNC:1771]	16776	-1.5885522365570068	-0.5948533	Yes	
+row_23	POLA1	DNA polymerase alpha 1, catalytic subunit [Source:HGNC Symbol;Acc:HGNC:9173]	16811	-1.6351299285888672	-0.56045896	Yes	
+row_24	CDC6	cell division cycle 6 [Source:HGNC Symbol;Acc:HGNC:1744]	16823	-1.6745946407318115	-0.52383775	Yes	
+row_25	MCM10	minichromosome maintenance 10 replication initiation factor [Source:HGNC Symbol;Acc:HGNC:18043]	16883	-1.8600009679794312	-0.48590502	Yes	
+row_26	TICRR	TOPBP1 interacting checkpoint and replication regulator [Source:HGNC Symbol;Acc:HGNC:28704]	16884	-1.8606905937194824	-0.44449753	Yes	
+row_27	MCM3	minichromosome maintenance complex component 3 [Source:HGNC Symbol;Acc:HGNC:6945]	16940	-2.025780200958252	-0.402641	Yes	
+row_28	POLA2	DNA polymerase alpha 2, accessory subunit [Source:HGNC Symbol;Acc:HGNC:30073]	16959	-2.0851871967315674	-0.357293	Yes	
+row_29	MCM2	minichromosome maintenance complex component 2 [Source:HGNC Symbol;Acc:HGNC:6944]	16976	-2.1345341205596924	-0.31072956	Yes	
+row_30	ORC1	origin recognition complex subunit 1 [Source:HGNC Symbol;Acc:HGNC:8487]	16999	-2.2148075103759766	-0.26273155	Yes	
+row_31	MCM4	minichromosome maintenance complex component 4 [Source:HGNC Symbol;Acc:HGNC:6947]	17008	-2.259875774383545	-0.21290973	Yes	
+row_32	CDT1	chromatin licensing and DNA replication factor 1 [Source:HGNC Symbol;Acc:HGNC:24576]	17011	-2.2737908363342285	-0.16242643	Yes	
+row_33	MCM7	minichromosome maintenance complex component 7 [Source:HGNC Symbol;Acc:HGNC:6950]	17028	-2.3526828289031982	-0.11100836	Yes	
+row_34	MCM5	minichromosome maintenance complex component 5 [Source:HGNC Symbol;Acc:HGNC:6948]	17043	-2.4196484088897705	-0.057982784	Yes	
+row_35	CDC45	cell division cycle 45 [Source:HGNC Symbol;Acc:HGNC:1739]	17072	-2.7267203330993652	0.0010554536	Yes	

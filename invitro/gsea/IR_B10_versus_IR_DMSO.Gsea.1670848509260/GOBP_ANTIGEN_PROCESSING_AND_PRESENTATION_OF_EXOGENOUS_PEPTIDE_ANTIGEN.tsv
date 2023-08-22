@@ -1,0 +1,31 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	HLA-DMB	major histocompatibility complex, class II, DM beta [Source:HGNC Symbol;Acc:HGNC:4935]	470	1.953037977218628	0.04779932	Yes	
+row_1	HLA-DPB1	major histocompatibility complex, class II, DP beta 1 [Source:HGNC Symbol;Acc:HGNC:4940]	762	1.6723065376281738	0.09525988	Yes	
+row_2	TAP1	transporter 1, ATP binding cassette subfamily B member [Source:HGNC Symbol;Acc:HGNC:43]	1043	1.4569224119186401	0.13505574	Yes	
+row_3	CTSV	cathepsin V [Source:HGNC Symbol;Acc:HGNC:2538]	1083	1.4311668872833252	0.18798375	Yes	
+row_4	CD74	CD74 molecule [Source:HGNC Symbol;Acc:HGNC:1697]	1345	1.3088316917419434	0.22317997	Yes	
+row_5	MFSD6	major facilitator superfamily domain containing 6 [Source:HGNC Symbol;Acc:HGNC:24711]	1394	1.2836323976516724	0.26988864	Yes	
+row_6	HLA-E	major histocompatibility complex, class I, E [Source:HGNC Symbol;Acc:HGNC:4962]	1418	1.2739661931991577	0.3176897	Yes	
+row_7	B2M	beta-2-microglobulin [Source:HGNC Symbol;Acc:HGNC:914]	1484	1.246110200881958	0.36195433	Yes	
+row_8	CTSS	cathepsin S [Source:HGNC Symbol;Acc:HGNC:2545]	1548	1.218300223350525	0.4052633	Yes	
+row_9	CTSD	cathepsin D [Source:HGNC Symbol;Acc:HGNC:2529]	1560	1.2156832218170166	0.4515192	Yes	
+row_10	HLA-F	major histocompatibility complex, class I, F [Source:HGNC Symbol;Acc:HGNC:4963]	1580	1.206039547920227	0.49693415	Yes	
+row_11	IFI30	IFI30 lysosomal thiol reductase [Source:HGNC Symbol;Acc:HGNC:5398]	1891	1.1036405563354492	0.5213421	Yes	
+row_12	CTSF	cathepsin F [Source:HGNC Symbol;Acc:HGNC:2531]	1898	1.1015007495880127	0.563486	Yes	
+row_13	HLA-A	major histocompatibility complex, class I, A [Source:HGNC Symbol;Acc:HGNC:4931]	2420	0.9689978361129761	0.57033205	Yes	
+row_14	TAP2	transporter 2, ATP binding cassette subfamily B member [Source:HGNC Symbol;Acc:HGNC:44]	2421	0.9689306616783142	0.6077131	Yes	
+row_15	HLA-DPA1	major histocompatibility complex, class II, DP alpha 1 [Source:HGNC Symbol;Acc:HGNC:4938]	2510	0.9463058710098267	0.6390633	Yes	
+row_16	HLA-DMA	major histocompatibility complex, class II, DM alpha [Source:HGNC Symbol;Acc:HGNC:4934]	2925	0.8608108758926392	0.6480072	Yes	
+row_17	CTSL	cathepsin L [Source:HGNC Symbol;Acc:HGNC:2537]	3080	0.8286898732185364	0.6709513	Yes	
+row_18	TRAF6	TNF receptor associated factor 6 [Source:HGNC Symbol;Acc:HGNC:12036]	3348	0.7712804675102234	0.68505734	Yes	
+row_19	FCGR1A	Fc gamma receptor Ia [Source:HGNC Symbol;Acc:HGNC:3613]	4165	0.6292782425880432	0.6615063	No	
+row_20	DNM2	dynamin 2 [Source:HGNC Symbol;Acc:HGNC:2974]	4404	0.5865781307220459	0.67018634	No	
+row_21	LGMN	legumain [Source:HGNC Symbol;Acc:HGNC:9472]	5612	0.42061978578567505	0.6156675	No	
+row_22	HLA-DRB1	major histocompatibility complex, class II, DR beta 1 [Source:HGNC Symbol;Acc:HGNC:4948]	5683	0.41193830966949463	0.627457	No	
+row_23	CLEC4A	C-type lectin domain family 4 member A [Source:HGNC Symbol;Acc:HGNC:13257]	6347	0.32380595803260803	0.6010888	No	
+row_24	HLA-DQA1	major histocompatibility complex, class II, DQ alpha 1 [Source:HGNC Symbol;Acc:HGNC:4942]	6666	0.2823711633682251	0.5933436	No	
+row_25	PIKFYVE	phosphoinositide kinase, FYVE-type zinc finger containing [Source:HGNC Symbol;Acc:HGNC:23785]	8323	0.08968298137187958	0.49974006	No	
+row_26	HLA-DOA	major histocompatibility complex, class II, DO alpha [Source:HGNC Symbol;Acc:HGNC:4936]	9040	0.0	0.457773	No	
+row_27	FCER1G	Fc epsilon receptor Ig [Source:HGNC Symbol;Acc:HGNC:3611]	9613	-0.04814161732792854	0.42610353	No	
+row_28	IKBKB	inhibitor of nuclear factor kappa B kinase subunit beta [Source:HGNC Symbol;Acc:HGNC:5960]	10347	-0.13603654503822327	0.38838828	No	
+row_29	LNPEP	leucyl and cystinyl aminopeptidase [Source:HGNC Symbol;Acc:HGNC:6656]	10638	-0.17578627169132233	0.37817222	No	

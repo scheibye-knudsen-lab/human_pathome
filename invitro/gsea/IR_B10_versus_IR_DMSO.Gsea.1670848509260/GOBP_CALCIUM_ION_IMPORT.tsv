@@ -1,0 +1,42 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	GCK	glucokinase [Source:HGNC Symbol;Acc:HGNC:4195]	86	3.0928609371185303	0.0890264	Yes	
+row_1	SPINK1	serine peptidase inhibitor Kazal type 1 [Source:HGNC Symbol;Acc:HGNC:11244]	174	2.632234573364258	0.16398405	Yes	
+row_2	TRPV4	transient receptor potential cation channel subfamily V member 4 [Source:HGNC Symbol;Acc:HGNC:18083]	411	2.0400824546813965	0.2121922	Yes	
+row_3	CACNA1H	calcium voltage-gated channel subunit alpha1 H [Source:HGNC Symbol;Acc:HGNC:1395]	460	1.9731698036193848	0.26939157	Yes	
+row_4	CACNA1D	calcium voltage-gated channel subunit alpha1 D [Source:HGNC Symbol;Acc:HGNC:1391]	573	1.841614842414856	0.31883597	Yes	
+row_5	STC1	stanniocalcin 1 [Source:HGNC Symbol;Acc:HGNC:11373]	982	1.5010194778442383	0.34056038	Yes	
+row_6	TRPV3	transient receptor potential cation channel subfamily V member 3 [Source:HGNC Symbol;Acc:HGNC:18084]	990	1.4965288639068604	0.38566723	Yes	
+row_7	CXCL12	C-X-C motif chemokine ligand 12 [Source:HGNC Symbol;Acc:HGNC:10672]	1245	1.34727144241333	0.41174757	Yes	
+row_8	UCN	urocortin [Source:HGNC Symbol;Acc:HGNC:12516]	1277	1.3357288837432861	0.45055604	Yes	
+row_9	ORAI1	ORAI calcium release-activated calcium modulator 1 [Source:HGNC Symbol;Acc:HGNC:25896]	1452	1.2594966888427734	0.47865877	Yes	
+row_10	ATP2A1	ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 1 [Source:HGNC Symbol;Acc:HGNC:811]	1684	1.1687875986099243	0.50065947	Yes	
+row_11	HES1	hes family bHLH transcription factor 1 [Source:HGNC Symbol;Acc:HGNC:5192]	2113	1.0415480136871338	0.5072358	Yes	
+row_12	CACNB2	calcium voltage-gated channel auxiliary subunit beta 2 [Source:HGNC Symbol;Acc:HGNC:1402]	2569	0.9339361190795898	0.5089556	Yes	
+row_13	PDGFB	platelet derived growth factor subunit B [Source:HGNC Symbol;Acc:HGNC:8800]	2888	0.8675810694694519	0.51669234	Yes	
+row_14	SLC30A1	solute carrier family 30 member 1 [Source:HGNC Symbol;Acc:HGNC:11012]	3290	0.7850751280784607	0.5170516	Yes	
+row_15	CAV3	caveolin 3 [Source:HGNC Symbol;Acc:HGNC:1529]	3330	0.7768675088882446	0.5383929	Yes	
+row_16	SLC24A5	solute carrier family 24 member 5 [Source:HGNC Symbol;Acc:HGNC:20611]	4036	0.6525775790214539	0.51689225	Yes	
+row_17	CCL2	C-C motif chemokine ligand 2 [Source:HGNC Symbol;Acc:HGNC:10618]	4280	0.6088181138038635	0.5211575	Yes	
+row_18	LGALS3	galectin 3 [Source:HGNC Symbol;Acc:HGNC:6563]	4641	0.5487431287765503	0.51673335	Yes	
+row_19	TRPC4	transient receptor potential cation channel subfamily C member 4 [Source:HGNC Symbol;Acc:HGNC:12336]	4709	0.5403763055801392	0.5292394	Yes	
+row_20	CCL3	C-C motif chemokine ligand 3 [Source:HGNC Symbol;Acc:HGNC:10627]	4879	0.5141818523406982	0.5349664	Yes	
+row_21	PDGFRB	platelet derived growth factor receptor beta [Source:HGNC Symbol;Acc:HGNC:8804]	5059	0.4890761971473694	0.5393433	Yes	
+row_22	CACNA1G	calcium voltage-gated channel subunit alpha1 G [Source:HGNC Symbol;Acc:HGNC:1394]	5247	0.4631383419036865	0.54246205	Yes	
+row_23	CACNA1I	calcium voltage-gated channel subunit alpha1 I [Source:HGNC Symbol;Acc:HGNC:1396]	5700	0.409934937953949	0.5284201	No	
+row_24	MCUR1	mitochondrial calcium uniporter regulator 1 [Source:HGNC Symbol;Acc:HGNC:21097]	6637	0.28564804792404175	0.48221081	No	
+row_25	SPHK2	sphingosine kinase 2 [Source:HGNC Symbol;Acc:HGNC:18859]	7045	0.23374229669570923	0.4654492	No	
+row_26	PLPP4	phospholipid phosphatase 4 [Source:HGNC Symbol;Acc:HGNC:23531]	8242	0.0981675311923027	0.39828837	No	
+row_27	TRPV2	transient receptor potential cation channel subfamily V member 2 [Source:HGNC Symbol;Acc:HGNC:18082]	8472	0.07002003490924835	0.38698697	No	
+row_28	PKD2	polycystin 2, transient receptor potential cation channel [Source:HGNC Symbol;Acc:HGNC:9009]	8724	0.03617453947663307	0.37336582	No	
+row_29	CDK5	cyclin dependent kinase 5 [Source:HGNC Symbol;Acc:HGNC:1774]	8756	0.03274859860539436	0.37254372	No	
+row_30	MICU1	mitochondrial calcium uptake 1 [Source:HGNC Symbol;Acc:HGNC:1530]	9336	-0.018088361248373985	0.33913493	No	
+row_31	ACE	angiotensin I converting enzyme [Source:HGNC Symbol;Acc:HGNC:2707]	9449	-0.030714381486177444	0.3335002	No	
+row_32	CTNNB1	catenin beta 1 [Source:HGNC Symbol;Acc:HGNC:2514]	10104	-0.10490883886814117	0.29833326	No	
+row_33	WNK3	WNK lysine deficient protein kinase 3 [Source:HGNC Symbol;Acc:HGNC:14543]	10216	-0.11898797750473022	0.29544207	No	
+row_34	TRIM27	tripartite motif containing 27 [Source:HGNC Symbol;Acc:HGNC:9975]	10453	-0.15046553313732147	0.2861769	No	
+row_35	CASK	calcium/calmodulin dependent serine protein kinase [Source:HGNC Symbol;Acc:HGNC:1497]	11137	-0.24257101118564606	0.2534961	No	
+row_36	ATP2C2	ATPase secretory pathway Ca2+ transporting 2 [Source:HGNC Symbol;Acc:HGNC:29103]	11646	-0.30626821517944336	0.23301664	No	
+row_37	HOMER1	homer scaffold protein 1 [Source:HGNC Symbol;Acc:HGNC:17512]	12739	-0.45255669951438904	0.18273439	No	
+row_38	EGF	epidermal growth factor [Source:HGNC Symbol;Acc:HGNC:3229]	13133	-0.5117149949073792	0.1752485	No	
+row_39	SLC8A1	solute carrier family 8 member A1 [Source:HGNC Symbol;Acc:HGNC:11068]	13888	-0.6409388780593872	0.15052001	No	
+row_40	PLN	phospholamban [Source:HGNC Symbol;Acc:HGNC:9080]	15884	-1.2237880229949951	0.07073313	No	

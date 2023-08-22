@@ -1,0 +1,47 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	WNT2B	Wnt family member 2B [Source:HGNC Symbol;Acc:HGNC:12781]	284	1.9286022186279297	0.03951367	Yes	
+row_1	SULF1	sulfatase 1 [Source:HGNC Symbol;Acc:HGNC:20391]	298	1.9128626585006714	0.094467975	Yes	
+row_2	SOX9	SRY-box transcription factor 9 [Source:HGNC Symbol;Acc:HGNC:11204]	318	1.8746891021728516	0.14795837	Yes	
+row_3	WNT5A	Wnt family member 5A [Source:HGNC Symbol;Acc:HGNC:12784]	380	1.7831600904464722	0.19631869	Yes	
+row_4	VEGFA	vascular endothelial growth factor A [Source:HGNC Symbol;Acc:HGNC:12680]	402	1.7580349445343018	0.24629389	Yes	
+row_5	FGF7	fibroblast growth factor 7 [Source:HGNC Symbol;Acc:HGNC:3685]	408	1.7506831884384155	0.29699364	Yes	
+row_6	NTN4	netrin 4 [Source:HGNC Symbol;Acc:HGNC:13658]	431	1.699721336364746	0.34521165	Yes	
+row_7	SFRP1	secreted frizzled related protein 1 [Source:HGNC Symbol;Acc:HGNC:10776]	618	1.4870115518569946	0.37761235	Yes	
+row_8	LRRK2	leucine rich repeat kinase 2 [Source:HGNC Symbol;Acc:HGNC:18618]	678	1.4299962520599365	0.41580322	Yes	
+row_9	RTN4	reticulon 4 [Source:HGNC Symbol;Acc:HGNC:14085]	853	1.2940484285354614	0.4432874	Yes	
+row_10	BMP7	bone morphogenetic protein 7 [Source:HGNC Symbol;Acc:HGNC:1074]	876	1.2835134267807007	0.4793823	Yes	
+row_11	SIX4	SIX homeobox 4 [Source:HGNC Symbol;Acc:HGNC:10890]	1016	1.2041878700256348	0.5063024	Yes	
+row_12	BMP4	bone morphogenetic protein 4 [Source:HGNC Symbol;Acc:HGNC:1071]	1327	1.0516834259033203	0.5187482	Yes	
+row_13	WNT2	Wnt family member 2 [Source:HGNC Symbol;Acc:HGNC:12780]	1539	0.9822468757629395	0.5349797	Yes	
+row_14	AGT	angiotensinogen [Source:HGNC Symbol;Acc:HGNC:333]	1579	0.969447135925293	0.56092924	Yes	
+row_15	FGF10	fibroblast growth factor 10 [Source:HGNC Symbol;Acc:HGNC:3666]	1619	0.9580222964286804	0.586546	Yes	
+row_16	GDNF	glial cell derived neurotrophic factor [Source:HGNC Symbol;Acc:HGNC:4232]	1860	0.8885045051574707	0.5983456	Yes	
+row_17	SIX2	SIX homeobox 2 [Source:HGNC Symbol;Acc:HGNC:10888]	2486	0.7579300999641418	0.5837546	Yes	
+row_18	SOX8	SRY-box transcription factor 8 [Source:HGNC Symbol;Acc:HGNC:11203]	2546	0.7448436617851257	0.6019886	Yes	
+row_19	ESR1	estrogen receptor 1 [Source:HGNC Symbol;Acc:HGNC:3467]	3174	0.6184096932411194	0.5832164	No	
+row_20	BCL11A	BAF chromatin remodeling complex subunit BCL11A [Source:HGNC Symbol;Acc:HGNC:13221]	4336	0.4556267261505127	0.5283739	No	
+row_21	TNF	tumor necrosis factor [Source:HGNC Symbol;Acc:HGNC:11892]	5539	0.32383987307548523	0.46728733	No	
+row_22	ABL1	ABL proto-oncogene 1, non-receptor tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:76]	5652	0.30918312072753906	0.46972224	No	
+row_23	PDGFA	platelet derived growth factor subunit A [Source:HGNC Symbol;Acc:HGNC:8799]	6062	0.2655971646308899	0.4534631	No	
+row_24	HGF	hepatocyte growth factor [Source:HGNC Symbol;Acc:HGNC:4893]	6419	0.22512052953243256	0.43913442	No	
+row_25	SHOX2	short stature homeobox 2 [Source:HGNC Symbol;Acc:HGNC:10854]	6520	0.21328766644001007	0.43948016	No	
+row_26	AR	androgen receptor [Source:HGNC Symbol;Acc:HGNC:644]	6623	0.20263008773326874	0.4393981	No	
+row_27	MAGED1	MAGE family member D1 [Source:HGNC Symbol;Acc:HGNC:6813]	6892	0.17387765645980835	0.42873967	No	
+row_28	PAX8	paired box 8 [Source:HGNC Symbol;Acc:HGNC:8622]	8270	0.04033013805747032	0.34912822	No	
+row_29	SHH	sonic hedgehog signaling molecule [Source:HGNC Symbol;Acc:HGNC:10848]	8333	0.033458855003118515	0.34646535	No	
+row_30	BTBD7	BTB domain containing 7 [Source:HGNC Symbol;Acc:HGNC:18269]	9317	-0.04592091962695122	0.29013205	No	
+row_31	SMO	smoothened, frizzled class receptor [Source:HGNC Symbol;Acc:HGNC:11119]	9381	-0.05262298509478569	0.28796872	No	
+row_32	MDK	midkine [Source:HGNC Symbol;Acc:HGNC:6972]	9472	-0.062020063400268555	0.2844951	No	
+row_33	PHB2	prohibitin 2 [Source:HGNC Symbol;Acc:HGNC:30306]	9697	-0.08504036068916321	0.2738304	No	
+row_34	SIX1	SIX homeobox 1 [Source:HGNC Symbol;Acc:HGNC:10887]	9743	-0.08880987018346786	0.27377716	No	
+row_35	MAP3K13	mitogen-activated protein kinase kinase kinase 13 [Source:HGNC Symbol;Acc:HGNC:6852]	10682	-0.1870584338903427	0.22419491	No	
+row_36	CTNNB1	catenin beta 1 [Source:HGNC Symbol;Acc:HGNC:2514]	11156	-0.236407071352005	0.20333079	No	
+row_37	LGR4	leucine rich repeat containing G protein-coupled receptor 4 [Source:HGNC Symbol;Acc:HGNC:13299]	11263	-0.24708183109760284	0.20430885	No	
+row_38	SNAI2	snail family transcriptional repressor 2 [Source:HGNC Symbol;Acc:HGNC:11094]	11583	-0.2858242690563202	0.19391903	No	
+row_39	TACSTD2	tumor associated calcium signal transducer 2 [Source:HGNC Symbol;Acc:HGNC:11530]	12114	-0.34709033370018005	0.17293477	No	
+row_40	CAV3	caveolin 3 [Source:HGNC Symbol;Acc:HGNC:1529]	12468	-0.3873438537120819	0.16350725	No	
+row_41	FKBPL	FKBP prolyl isomerase like [Source:HGNC Symbol;Acc:HGNC:13949]	13468	-0.5125924348831177	0.11982825	No	
+row_42	FGFR2	fibroblast growth factor receptor 2 [Source:HGNC Symbol;Acc:HGNC:3689]	13849	-0.5734195709228516	0.11423662	No	
+row_43	GREM1	gremlin 1, DAN family BMP antagonist [Source:HGNC Symbol;Acc:HGNC:2001]	14068	-0.6140864491462708	0.11933378	No	
+row_44	NOG	noggin [Source:HGNC Symbol;Acc:HGNC:7866]	15459	-0.9580897688865662	0.06569174	No	
+row_45	HOXD13	homeobox D13 [Source:HGNC Symbol;Acc:HGNC:5136]	15646	-1.0278089046478271	0.084717	No	

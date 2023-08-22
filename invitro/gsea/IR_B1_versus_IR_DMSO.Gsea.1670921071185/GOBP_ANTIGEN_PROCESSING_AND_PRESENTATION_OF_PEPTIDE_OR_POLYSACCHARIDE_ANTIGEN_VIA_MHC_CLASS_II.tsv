@@ -1,0 +1,27 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CTSF	cathepsin F [Source:HGNC Symbol;Acc:HGNC:2531]	274	1.6330466270446777	0.08202192	Yes	
+row_1	HLA-DMA	major histocompatibility complex, class II, DM alpha [Source:HGNC Symbol;Acc:HGNC:4934]	321	1.5688217878341675	0.17354727	Yes	
+row_2	HLA-DMB	major histocompatibility complex, class II, DM beta [Source:HGNC Symbol;Acc:HGNC:4935]	371	1.494566559791565	0.2604372	Yes	
+row_3	CD74	CD74 molecule [Source:HGNC Symbol;Acc:HGNC:1697]	376	1.4887416362762451	0.34961423	Yes	
+row_4	HLA-DPB1	major histocompatibility complex, class II, DP beta 1 [Source:HGNC Symbol;Acc:HGNC:4940]	391	1.4695534706115723	0.43705288	Yes	
+row_5	HLA-DPA1	major histocompatibility complex, class II, DP alpha 1 [Source:HGNC Symbol;Acc:HGNC:4938]	884	1.0452842712402344	0.47100005	Yes	
+row_6	PYCARD	PYD and CARD domain containing [Source:HGNC Symbol;Acc:HGNC:16608]	964	0.9964553117752075	0.5262162	Yes	
+row_7	LGMN	legumain [Source:HGNC Symbol;Acc:HGNC:9472]	1446	0.809312105178833	0.54663587	Yes	
+row_8	MARCHF8	membrane associated ring-CH-type finger 8 [Source:HGNC Symbol;Acc:HGNC:23356]	1918	0.676461398601532	0.5596627	Yes	
+row_9	CTSD	cathepsin D [Source:HGNC Symbol;Acc:HGNC:2529]	2484	0.5528846383094788	0.5597593	Yes	
+row_10	HLA-DOA	major histocompatibility complex, class II, DO alpha [Source:HGNC Symbol;Acc:HGNC:4936]	2920	0.48311007022857666	0.5632834	Yes	
+row_11	IFI30	IFI30 lysosomal thiol reductase [Source:HGNC Symbol;Acc:HGNC:5398]	2924	0.48278748989105225	0.59210306	Yes	
+row_12	HLA-DRB1	major histocompatibility complex, class II, DR beta 1 [Source:HGNC Symbol;Acc:HGNC:4948]	3424	0.420030802488327	0.5880883	Yes	
+row_13	CTSL	cathepsin L [Source:HGNC Symbol;Acc:HGNC:2537]	3825	0.37017977237701416	0.5868809	Yes	
+row_14	B2M	beta-2-microglobulin [Source:HGNC Symbol;Acc:HGNC:914]	4019	0.3461974561214447	0.59636325	Yes	
+row_15	ARL8B	ADP ribosylation factor like GTPase 8B [Source:HGNC Symbol;Acc:HGNC:25564]	4079	0.3388020396232605	0.61325383	Yes	
+row_16	CTSS	cathepsin S [Source:HGNC Symbol;Acc:HGNC:2545]	4167	0.32965826988220215	0.6279544	Yes	
+row_17	DNM2	dynamin 2 [Source:HGNC Symbol;Acc:HGNC:2974]	5613	0.17985151708126068	0.5540798	No	
+row_18	MARCHF1	membrane associated ring-CH-type finger 1 [Source:HGNC Symbol;Acc:HGNC:26077]	6923	0.07039263844490051	0.48160073	No	
+row_19	PIKFYVE	phosphoinositide kinase, FYVE-type zinc finger containing [Source:HGNC Symbol;Acc:HGNC:23785]	7184	0.04854603111743927	0.46928048	No	
+row_20	CTSV	cathepsin V [Source:HGNC Symbol;Acc:HGNC:2538]	7555	0.019706513732671738	0.4487822	No	
+row_21	TREM2	triggering receptor expressed on myeloid cells 2 [Source:HGNC Symbol;Acc:HGNC:17761]	9079	-0.06637551635503769	0.3635216	No	
+row_22	TRAF6	TNF receptor associated factor 6 [Source:HGNC Symbol;Acc:HGNC:12036]	11249	-0.23209482431411743	0.2503586	No	
+row_23	FCER1G	Fc epsilon receptor Ig [Source:HGNC Symbol;Acc:HGNC:3611]	11457	-0.24752342700958252	0.25309438	No	
+row_24	THBS1	thrombospondin 1 [Source:HGNC Symbol;Acc:HGNC:11785]	14909	-0.5854139924049377	0.08602663	No	
+row_25	HLA-DQA1	major histocompatibility complex, class II, DQ alpha 1 [Source:HGNC Symbol;Acc:HGNC:4942]	15484	-0.6946619749069214	0.094110824	No	

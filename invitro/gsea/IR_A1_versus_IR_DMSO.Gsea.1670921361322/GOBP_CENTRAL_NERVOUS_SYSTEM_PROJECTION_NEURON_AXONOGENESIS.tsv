@@ -1,0 +1,27 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	EPHB3	EPH receptor B3 [Source:HGNC Symbol;Acc:HGNC:3394]	103	1.8506345748901367	0.103798375	Yes	
+row_1	EPHB6	EPH receptor B6 [Source:HGNC Symbol;Acc:HGNC:3396]	125	1.7692606449127197	0.20757242	Yes	
+row_2	EPHA4	EPH receptor A4 [Source:HGNC Symbol;Acc:HGNC:3388]	282	1.3834142684936523	0.28053576	Yes	
+row_3	SLIT2	slit guidance ligand 2 [Source:HGNC Symbol;Acc:HGNC:11086]	378	1.2280138731002808	0.34785074	Yes	
+row_4	PLXNA4	plexin A4 [Source:HGNC Symbol;Acc:HGNC:9102]	513	1.1004925966262817	0.405312	Yes	
+row_5	ADARB1	adenosine deaminase RNA specific B1 [Source:HGNC Symbol;Acc:HGNC:226]	602	1.0140589475631714	0.4603391	Yes	
+row_6	CDH11	cadherin 11 [Source:HGNC Symbol;Acc:HGNC:1750]	756	0.9465199112892151	0.5075488	Yes	
+row_7	GLI2	GLI family zinc finger 2 [Source:HGNC Symbol;Acc:HGNC:4318]	887	0.892494797706604	0.5528999	Yes	
+row_8	MYCBP2	MYC binding protein 2 [Source:HGNC Symbol;Acc:HGNC:23386]	1626	0.6947318911552429	0.55088544	Yes	
+row_9	SZT2	SZT2 subunit of KICSTOR complex [Source:HGNC Symbol;Acc:HGNC:29040]	1998	0.6194543838500977	0.5659093	Yes	
+row_10	SPG11	SPG11 vesicle trafficking associated, spatacsin [Source:HGNC Symbol;Acc:HGNC:11226]	2134	0.5975762605667114	0.5934642	Yes	
+row_11	TSKU	tsukushi, small leucine rich proteoglycan [Source:HGNC Symbol;Acc:HGNC:28850]	2343	0.5652133226394653	0.6148206	Yes	
+row_12	DCC	DCC netrin 1 receptor [Source:HGNC Symbol;Acc:HGNC:2701]	2747	0.5035935044288635	0.62109303	Yes	
+row_13	FBXO45	F-box protein 45 [Source:HGNC Symbol;Acc:HGNC:29148]	4069	0.3626673221588135	0.56520724	No	
+row_14	SPTBN4	spectrin beta, non-erythrocytic 4 [Source:HGNC Symbol;Acc:HGNC:14896]	5267	0.25537845492362976	0.5102202	No	
+row_15	EPHB1	EPH receptor B1 [Source:HGNC Symbol;Acc:HGNC:3392]	5942	0.19832439720630646	0.48249462	No	
+row_16	CHRNB2	cholinergic receptor nicotinic beta 2 subunit [Source:HGNC Symbol;Acc:HGNC:1962]	6771	0.13046374917030334	0.4417172	No	
+row_17	NFIB	nuclear factor I B [Source:HGNC Symbol;Acc:HGNC:7785]	6772	0.1304558515548706	0.44945967	No	
+row_18	PAFAH1B1	platelet activating factor acetylhydrolase 1b regulatory subunit 1 [Source:HGNC Symbol;Acc:HGNC:8574]	7243	0.09223231673240662	0.42739186	No	
+row_19	DCLK1	doublecortin like kinase 1 [Source:HGNC Symbol;Acc:HGNC:2700]	10816	-0.16414853930473328	0.22781667	No	
+row_20	NR4A2	nuclear receptor subfamily 4 group A member 2 [Source:HGNC Symbol;Acc:HGNC:7981]	10967	-0.17559728026390076	0.22944836	No	
+row_21	KIFBP	kinesin family binding protein [Source:HGNC Symbol;Acc:HGNC:23419]	11355	-0.2045976221561432	0.21891311	No	
+row_22	NIN	ninein [Source:HGNC Symbol;Acc:HGNC:14906]	13081	-0.35491520166397095	0.13889304	No	
+row_23	EPHB2	EPH receptor B2 [Source:HGNC Symbol;Acc:HGNC:3393]	13111	-0.35888829827308655	0.15849347	No	
+row_24	DRAXIN	dorsal inhibitory axon guidance protein [Source:HGNC Symbol;Acc:HGNC:25054]	13406	-0.3903330862522125	0.16443129	No	
+row_25	SCN1B	sodium voltage-gated channel beta subunit 1 [Source:HGNC Symbol;Acc:HGNC:10586]	16297	-0.8658978343009949	0.046469357	No	

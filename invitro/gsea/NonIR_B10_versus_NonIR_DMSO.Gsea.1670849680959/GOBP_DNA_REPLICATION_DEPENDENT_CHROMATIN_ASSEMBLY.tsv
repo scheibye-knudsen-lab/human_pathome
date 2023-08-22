@@ -1,0 +1,32 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ASF1A	anti-silencing function 1A histone chaperone [Source:HGNC Symbol;Acc:HGNC:20995]	7947	0.16525329649448395	-0.4633768	No	
+row_1	RBBP4	RB binding protein 4, chromatin remodeling factor [Source:HGNC Symbol;Acc:HGNC:9887]	11230	-0.2908543050289154	-0.65144503	No	
+row_2	H4C15	H4 clustered histone 15 [Source:HGNC Symbol;Acc:HGNC:29607]	11768	-0.37713193893432617	-0.67733157	No	
+row_3	H4-16	H4 histone 16 [Source:HGNC Symbol;Acc:HGNC:20510]	12002	-0.41440966725349426	-0.68484604	No	
+row_4	HAT1	histone acetyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:4821]	13128	-0.6107467412948608	-0.7417361	No	
+row_5	H4C11	H4 clustered histone 11 [Source:HGNC Symbol;Acc:HGNC:4785]	13806	-0.7780349850654602	-0.769886	No	
+row_6	H4C5	H4 clustered histone 5 [Source:HGNC Symbol;Acc:HGNC:4790]	14730	-1.0114386081695557	-0.80899566	Yes	
+row_7	H3C4	H3 clustered histone 4 [Source:HGNC Symbol;Acc:HGNC:4767]	14814	-1.0415171384811401	-0.79842144	Yes	
+row_8	H3C11	H3 clustered histone 11 [Source:HGNC Symbol;Acc:HGNC:4771]	15058	-1.1135259866714478	-0.79615843	Yes	
+row_9	IPO4	importin 4 [Source:HGNC Symbol;Acc:HGNC:19426]	15248	-1.1855522394180298	-0.7896624	Yes	
+row_10	NASP	nuclear autoantigenic sperm protein [Source:HGNC Symbol;Acc:HGNC:7644]	15533	-1.3097397089004517	-0.786894	Yes	
+row_11	H3C1	H3 clustered histone 1 [Source:HGNC Symbol;Acc:HGNC:4766]	15807	-1.4478342533111572	-0.78143376	Yes	
+row_12	H4C8	H4 clustered histone 8 [Source:HGNC Symbol;Acc:HGNC:4788]	16329	-1.8583834171295166	-0.7844244	Yes	
+row_13	H4C2	H4 clustered histone 2 [Source:HGNC Symbol;Acc:HGNC:4789]	16486	-2.035600185394287	-0.763393	Yes	
+row_14	H4C6	H4 clustered histone 6 [Source:HGNC Symbol;Acc:HGNC:4783]	16531	-2.0927984714508057	-0.7349486	Yes	
+row_15	H3C10	H3 clustered histone 10 [Source:HGNC Symbol;Acc:HGNC:4775]	16603	-2.195317029953003	-0.7065671	Yes	
+row_16	H3C6	H3 clustered histone 6 [Source:HGNC Symbol;Acc:HGNC:4769]	16630	-2.234010934829712	-0.67497426	Yes	
+row_17	H4C3	H4 clustered histone 3 [Source:HGNC Symbol;Acc:HGNC:4787]	16684	-2.324366331100464	-0.64362466	Yes	
+row_18	H4C4	H4 clustered histone 4 [Source:HGNC Symbol;Acc:HGNC:4782]	16778	-2.553467035293579	-0.6112235	Yes	
+row_19	CHAF1A	chromatin assembly factor 1 subunit A [Source:HGNC Symbol;Acc:HGNC:1910]	16802	-2.6210379600524902	-0.5737176	Yes	
+row_20	H4C1	H4 clustered histone 1 [Source:HGNC Symbol;Acc:HGNC:4781]	16923	-3.0150372982025146	-0.5360568	Yes	
+row_21	CHAF1B	chromatin assembly factor 1 subunit B [Source:HGNC Symbol;Acc:HGNC:1911]	16948	-3.1196839809417725	-0.49121758	Yes	
+row_22	H3C7	H3 clustered histone 7 [Source:HGNC Symbol;Acc:HGNC:4773]	16950	-3.1288959980010986	-0.4448936	Yes	
+row_23	H4C9	H4 clustered histone 9 [Source:HGNC Symbol;Acc:HGNC:4793]	16961	-3.19204044342041	-0.39816114	Yes	
+row_24	H4C14	H4 clustered histone 14 [Source:HGNC Symbol;Acc:HGNC:4794]	16970	-3.2639636993408203	-0.35024524	Yes	
+row_25	H4C13	H4 clustered histone 13 [Source:HGNC Symbol;Acc:HGNC:4791]	16978	-3.2895264625549316	-0.30189177	Yes	
+row_26	H3C3	H3 clustered histone 3 [Source:HGNC Symbol;Acc:HGNC:4768]	17026	-3.7162399291992188	-0.2495574	Yes	
+row_27	H3C12	H3 clustered histone 12 [Source:HGNC Symbol;Acc:HGNC:4774]	17037	-3.8813374042510986	-0.19260682	Yes	
+row_28	H3C2	H3 clustered histone 2 [Source:HGNC Symbol;Acc:HGNC:4776]	17058	-4.113251209259033	-0.13280453	Yes	
+row_29	ASF1B	anti-silencing function 1B histone chaperone [Source:HGNC Symbol;Acc:HGNC:20996]	17080	-4.479476451873779	-0.06763194	Yes	
+row_30	H3C8	H3 clustered histone 8 [Source:HGNC Symbol;Acc:HGNC:4772]	17086	-4.597923278808594	2.3436348E-4	Yes	

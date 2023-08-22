@@ -1,0 +1,39 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	FGFR2	fibroblast growth factor receptor 2 [Source:HGNC Symbol;Acc:HGNC:3689]	81	2.0126307010650635	0.07436669	Yes	
+row_1	EPHB3	EPH receptor B3 [Source:HGNC Symbol;Acc:HGNC:3394]	103	1.8506345748901367	0.14588374	Yes	
+row_2	GLI1	GLI family zinc finger 1 [Source:HGNC Symbol;Acc:HGNC:4317]	139	1.7078680992126465	0.21096767	Yes	
+row_3	SIX2	SIX homeobox 2 [Source:HGNC Symbol;Acc:HGNC:10888]	283	1.3821865320205688	0.25691587	Yes	
+row_4	DACT1	dishevelled binding antagonist of beta catenin 1 [Source:HGNC Symbol;Acc:HGNC:17748]	304	1.345893383026123	0.30865017	Yes	
+row_5	ID2	inhibitor of DNA binding 2 [Source:HGNC Symbol;Acc:HGNC:5361]	375	1.2319114208221436	0.3529718	Yes	
+row_6	WNT11	Wnt family member 11 [Source:HGNC Symbol;Acc:HGNC:12776]	616	1.0076916217803955	0.37851042	Yes	
+row_7	HOXA13	homeobox A13 [Source:HGNC Symbol;Acc:HGNC:5102]	725	0.9565359950065613	0.40977868	Yes	
+row_8	GLI2	GLI family zinc finger 2 [Source:HGNC Symbol;Acc:HGNC:4318]	887	0.892494797706604	0.43542153	Yes	
+row_9	HOXD13	homeobox D13 [Source:HGNC Symbol;Acc:HGNC:5136]	901	0.8866896033287048	0.469515	Yes	
+row_10	PDGFRA	platelet derived growth factor receptor alpha [Source:HGNC Symbol;Acc:HGNC:8803]	1472	0.7290486693382263	0.4647487	Yes	
+row_11	ACVR2B	activin A receptor type 2B [Source:HGNC Symbol;Acc:HGNC:174]	1605	0.7004523873329163	0.48454297	Yes	
+row_12	GLI3	GLI family zinc finger 3 [Source:HGNC Symbol;Acc:HGNC:4319]	1662	0.6862204074859619	0.50823444	Yes	
+row_13	SFRP2	secreted frizzled related protein 2 [Source:HGNC Symbol;Acc:HGNC:10777]	1824	0.6480427980422974	0.52426785	Yes	
+row_14	SHOX2	short stature homeobox 2 [Source:HGNC Symbol;Acc:HGNC:10854]	2708	0.5088911652565002	0.49249265	No	
+row_15	SFRP1	secreted frizzled related protein 1 [Source:HGNC Symbol;Acc:HGNC:10776]	3377	0.43602851033210754	0.47046095	No	
+row_16	SOX11	SRY-box transcription factor 11 [Source:HGNC Symbol;Acc:HGNC:11191]	3608	0.41345417499542236	0.4732265	No	
+row_17	CTNNB1	catenin beta 1 [Source:HGNC Symbol;Acc:HGNC:2514]	3648	0.4094962179660797	0.4870368	No	
+row_18	BCL2	BCL2 apoptosis regulator [Source:HGNC Symbol;Acc:HGNC:990]	3995	0.37082627415657043	0.48132432	No	
+row_19	NOTCH1	notch receptor 1 [Source:HGNC Symbol;Acc:HGNC:7881]	4011	0.3689621388912201	0.49494863	No	
+row_20	EPB41L5	erythrocyte membrane protein band 4.1 like 5 [Source:HGNC Symbol;Acc:HGNC:19819]	4845	0.2953200042247772	0.45770994	No	
+row_21	FGF10	fibroblast growth factor 10 [Source:HGNC Symbol;Acc:HGNC:3666]	4874	0.2929783761501312	0.467585	No	
+row_22	SMAD2	SMAD family member 2 [Source:HGNC Symbol;Acc:HGNC:6768]	5884	0.20357035100460052	0.41641888	No	
+row_23	EGFR	epidermal growth factor receptor [Source:HGNC Symbol;Acc:HGNC:3236]	6089	0.18654847145080566	0.4117894	No	
+row_24	IHH	Indian hedgehog signaling molecule [Source:HGNC Symbol;Acc:HGNC:5956]	6286	0.1706066131591797	0.4070024	No	
+row_25	AHI1	Abelson helper integration site 1 [Source:HGNC Symbol;Acc:HGNC:21575]	7396	0.07844240218400955	0.3450534	No	
+row_26	TCF21	transcription factor 21 [Source:HGNC Symbol;Acc:HGNC:11632]	7825	0.04530595615506172	0.32173616	No	
+row_27	NIPBL	NIPBL cohesin loading factor [Source:HGNC Symbol;Acc:HGNC:28862]	9167	-0.037605464458465576	0.24457724	No	
+row_28	WNT5A	Wnt family member 5A [Source:HGNC Symbol;Acc:HGNC:12784]	10023	-0.1030125692486763	0.19848886	No	
+row_29	RBPMS2	RNA binding protein, mRNA processing factor 2 [Source:HGNC Symbol;Acc:HGNC:19098]	11306	-0.20166873931884766	0.13123909	No	
+row_30	HIF1A	hypoxia inducible factor 1 subunit alpha [Source:HGNC Symbol;Acc:HGNC:4910]	12359	-0.2906859815120697	0.080975935	No	
+row_31	FOXF1	forkhead box F1 [Source:HGNC Symbol;Acc:HGNC:3809]	13398	-0.38966915011405945	0.035424788	No	
+row_32	SHH	sonic hedgehog signaling molecule [Source:HGNC Symbol;Acc:HGNC:10848]	13814	-0.43375852704048157	0.028139958	No	
+row_33	BBS7	Bardet-Biedl syndrome 7 [Source:HGNC Symbol;Acc:HGNC:18758]	13897	-0.4404677748680115	0.04064622	No	
+row_34	HLX	H2.0 like homeobox [Source:HGNC Symbol;Acc:HGNC:4978]	14288	-0.48010116815567017	0.03664914	No	
+row_35	SMAD3	SMAD family member 3 [Source:HGNC Symbol;Acc:HGNC:6769]	14553	-0.512245774269104	0.04130439	No	
+row_36	BMP4	bone morphogenetic protein 4 [Source:HGNC Symbol;Acc:HGNC:1071]	15134	-0.5946416258811951	0.030668164	No	
+row_37	STRA6	signaling receptor and transporter of retinol STRA6 [Source:HGNC Symbol;Acc:HGNC:30650]	17044	-2.13620924949646	0.0026975118	No	

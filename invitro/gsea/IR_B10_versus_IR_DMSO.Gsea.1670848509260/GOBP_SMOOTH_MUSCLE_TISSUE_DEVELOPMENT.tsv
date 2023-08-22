@@ -1,0 +1,23 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SMO	smoothened, frizzled class receptor [Source:HGNC Symbol;Acc:HGNC:11119]	329	2.1932573318481445	0.075404495	No	
+row_1	PROX1	prospero homeobox 1 [Source:HGNC Symbol;Acc:HGNC:9459]	4520	0.5655803680419922	-0.1456546	No	
+row_2	SIX1	SIX homeobox 1 [Source:HGNC Symbol;Acc:HGNC:10887]	7287	0.2059636414051056	-0.29881167	No	
+row_3	PKD2	polycystin 2, transient receptor potential cation channel [Source:HGNC Symbol;Acc:HGNC:9009]	8724	0.03617453947663307	-0.3813792	No	
+row_4	SHH	sonic hedgehog signaling molecule [Source:HGNC Symbol;Acc:HGNC:10848]	9437	-0.028908930718898773	-0.4218443	No	
+row_5	ZFAND5	zinc finger AN1-type containing 5 [Source:HGNC Symbol;Acc:HGNC:13008]	9629	-0.04990494251251221	-0.43087986	No	
+row_6	IHH	Indian hedgehog signaling molecule [Source:HGNC Symbol;Acc:HGNC:5956]	11719	-0.3182152509689331	-0.53952867	No	
+row_7	TNN	tenascin N [Source:HGNC Symbol;Acc:HGNC:22942]	12529	-0.42627233266830444	-0.56852305	No	
+row_8	NF1	neurofibromin 1 [Source:HGNC Symbol;Acc:HGNC:7765]	14254	-0.7151771187782288	-0.6386519	No	
+row_9	ENG	endoglin [Source:HGNC Symbol;Acc:HGNC:3349]	15281	-0.9850525856018066	-0.65623784	Yes	
+row_10	EFEMP2	EGF containing fibulin extracellular matrix protein 2 [Source:HGNC Symbol;Acc:HGNC:3219]	15499	-1.0538935661315918	-0.6234561	Yes	
+row_11	BMP4	bone morphogenetic protein 4 [Source:HGNC Symbol;Acc:HGNC:1071]	15568	-1.08356511592865	-0.5806643	Yes	
+row_12	COL3A1	collagen type III alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2201]	15756	-1.169650673866272	-0.541128	Yes	
+row_13	DLG1	discs large MAGUK scaffold protein 1 [Source:HGNC Symbol;Acc:HGNC:2900]	15771	-1.1751880645751953	-0.4912173	Yes	
+row_14	SOX9	SRY-box transcription factor 9 [Source:HGNC Symbol;Acc:HGNC:11204]	15811	-1.1905348300933838	-0.44210878	Yes	
+row_15	MYLK	myosin light chain kinase [Source:HGNC Symbol;Acc:HGNC:7590]	16021	-1.2978298664093018	-0.39832807	Yes	
+row_16	ITGA8	integrin subunit alpha 8 [Source:HGNC Symbol;Acc:HGNC:6144]	16046	-1.309510350227356	-0.34320477	Yes	
+row_17	PTCH1	patched 1 [Source:HGNC Symbol;Acc:HGNC:9585]	16259	-1.437800407409668	-0.29355755	Yes	
+row_18	SRF	serum response factor [Source:HGNC Symbol;Acc:HGNC:11291]	16280	-1.4503153562545776	-0.2321216	Yes	
+row_19	OSR1	odd-skipped related transcription factor 1 [Source:HGNC Symbol;Acc:HGNC:8111]	16386	-1.5332732200622559	-0.17208429	Yes	
+row_20	TIPARP	TCDD inducible poly(ADP-ribose) polymerase [Source:HGNC Symbol;Acc:HGNC:23696]	16525	-1.6883399486541748	-0.10728634	Yes	
+row_21	STRA6	signaling receptor and transporter of retinol STRA6 [Source:HGNC Symbol;Acc:HGNC:30650]	17044	-3.250732898712158	0.00269489	Yes	

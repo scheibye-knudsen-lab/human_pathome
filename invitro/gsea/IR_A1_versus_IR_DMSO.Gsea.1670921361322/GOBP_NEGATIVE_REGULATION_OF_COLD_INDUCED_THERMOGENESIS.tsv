@@ -1,0 +1,47 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MAP2K6	mitogen-activated protein kinase kinase 6 [Source:HGNC Symbol;Acc:HGNC:6846]	87	1.967897891998291	0.09890601	Yes	
+row_1	TLE3	TLE family member 3, transcriptional corepressor [Source:HGNC Symbol;Acc:HGNC:11839]	167	1.6393743753433228	0.18091778	Yes	
+row_2	ADAMTS5	ADAM metallopeptidase with thrombospondin type 1 motif 5 [Source:HGNC Symbol;Acc:HGNC:221]	246	1.4631192684173584	0.25367254	Yes	
+row_3	LGR4	leucine rich repeat containing G protein-coupled receptor 4 [Source:HGNC Symbol;Acc:HGNC:13299]	586	1.02688729763031	0.28805852	Yes	
+row_4	ZNF423	zinc finger protein 423 [Source:HGNC Symbol;Acc:HGNC:16762]	635	1.00072181224823	0.33813402	Yes	
+row_5	WNT10B	Wnt family member 10B [Source:HGNC Symbol;Acc:HGNC:12775]	1097	0.8305416703224182	0.35498494	Yes	
+row_6	IL15	interleukin 15 [Source:HGNC Symbol;Acc:HGNC:5977]	1386	0.749022364616394	0.37767687	Yes	
+row_7	PLCL1	phospholipase C like 1 (inactive) [Source:HGNC Symbol;Acc:HGNC:9063]	1414	0.7422056198120117	0.41532096	Yes	
+row_8	ACVR2B	activin A receptor type 2B [Source:HGNC Symbol;Acc:HGNC:174]	1605	0.7004523873329163	0.4411953	Yes	
+row_9	ACOT11	acyl-CoA thioesterase 11 [Source:HGNC Symbol;Acc:HGNC:18156]	2142	0.5962120294570923	0.441261	Yes	
+row_10	PLCL2	phospholipase C like 2 [Source:HGNC Symbol;Acc:HGNC:9064]	2188	0.5883935689926147	0.46971953	Yes	
+row_11	IL18R1	interleukin 18 receptor 1 [Source:HGNC Symbol;Acc:HGNC:5988]	2386	0.5568596720695496	0.48759383	Yes	
+row_12	ATF4	activating transcription factor 4 [Source:HGNC Symbol;Acc:HGNC:786]	2391	0.5565111041069031	0.5167727	Yes	
+row_13	ADAM17	ADAM metallopeptidase domain 17 [Source:HGNC Symbol;Acc:HGNC:195]	2964	0.4804757237434387	0.50860924	Yes	
+row_14	NOVA2	NOVA alternative splicing regulator 2 [Source:HGNC Symbol;Acc:HGNC:7887]	3175	0.4524214565753937	0.5202009	Yes	
+row_15	DDIT3	DNA damage inducible transcript 3 [Source:HGNC Symbol;Acc:HGNC:2726]	3434	0.43030664324760437	0.5278077	Yes	
+row_16	ACTN3	actinin alpha 3 [Source:HGNC Symbol;Acc:HGNC:165]	3816	0.391301691532135	0.52613676	Yes	
+row_17	NOTCH1	notch receptor 1 [Source:HGNC Symbol;Acc:HGNC:7881]	4011	0.3689621388912201	0.53425604	Yes	
+row_18	NR1D1	nuclear receptor subfamily 1 group D member 1 [Source:HGNC Symbol;Acc:HGNC:7962]	4507	0.32028278708457947	0.5221433	No	
+row_19	LAMA4	laminin subunit alpha 4 [Source:HGNC Symbol;Acc:HGNC:6484]	5243	0.2582837641239166	0.49267334	No	
+row_20	ID1	inhibitor of DNA binding 1, HLH protein [Source:HGNC Symbol;Acc:HGNC:5360]	5329	0.24911227822303772	0.50085294	No	
+row_21	STK11	serine/threonine kinase 11 [Source:HGNC Symbol;Acc:HGNC:11389]	5346	0.2472078949213028	0.51298004	No	
+row_22	NOVA1	NOVA alternative splicing regulator 1 [Source:HGNC Symbol;Acc:HGNC:7886]	5835	0.2071526199579239	0.49529868	No	
+row_23	HOXC10	homeobox C10 [Source:HGNC Symbol;Acc:HGNC:5122]	6730	0.13353382050991058	0.449907	No	
+row_24	ABHD6	abhydrolase domain containing 6, acylglycerol lipase [Source:HGNC Symbol;Acc:HGNC:21398]	7095	0.10403493791818619	0.43405038	No	
+row_25	LNPEP	leucyl and cystinyl aminopeptidase [Source:HGNC Symbol;Acc:HGNC:6656]	8032	0.030161680653691292	0.38073108	No	
+row_26	ALDH1A1	aldehyde dehydrogenase 1 family member A1 [Source:HGNC Symbol;Acc:HGNC:402]	8239	0.01651974581182003	0.36951852	No	
+row_27	DOCK7	dedicator of cytokinesis 7 [Source:HGNC Symbol;Acc:HGNC:19190]	8264	0.01516648568212986	0.3689121	No	
+row_28	NRDC	nardilysin convertase [Source:HGNC Symbol;Acc:HGNC:7995]	8329	0.010645181871950626	0.36571997	No	
+row_29	CIDEA	cell death inducing DFFA like effector a [Source:HGNC Symbol;Acc:HGNC:1976]	8612	0.0	0.3491755	No	
+row_30	FOXC2	forkhead box C2 [Source:HGNC Symbol;Acc:HGNC:3801]	8796	-0.009858156554400921	0.33896026	No	
+row_31	FLCN	folliculin [Source:HGNC Symbol;Acc:HGNC:27310]	8951	-0.020815065130591393	0.3310255	No	
+row_32	NR1H3	nuclear receptor subfamily 1 group H member 3 [Source:HGNC Symbol;Acc:HGNC:7966]	9102	-0.03153635188937187	0.3238921	No	
+row_33	ARNTL	aryl hydrocarbon receptor nuclear translocator like [Source:HGNC Symbol;Acc:HGNC:701]	9226	-0.04186803102493286	0.31888875	No	
+row_34	NPR3	natriuretic peptide receptor 3 [Source:HGNC Symbol;Acc:HGNC:7945]	9366	-0.05360874533653259	0.31356728	No	
+row_35	RHEB	Ras homolog, mTORC1 binding [Source:HGNC Symbol;Acc:HGNC:10011]	9672	-0.07581355422735214	0.29968047	No	
+row_36	TLR4	toll like receptor 4 [Source:HGNC Symbol;Acc:HGNC:11850]	9931	-0.09600041061639786	0.28961802	No	
+row_37	IP6K1	inositol hexakisphosphate kinase 1 [Source:HGNC Symbol;Acc:HGNC:18360]	10161	-0.11398463696241379	0.2822075	No	
+row_38	ARRDC3	arrestin domain containing 3 [Source:HGNC Symbol;Acc:HGNC:29263]	10351	-0.1294914335012436	0.27796325	No	
+row_39	NR1H2	nuclear receptor subfamily 1 group H member 2 [Source:HGNC Symbol;Acc:HGNC:7965]	10622	-0.15013298392295837	0.27005786	No	
+row_40	RB1	RB transcriptional corepressor 1 [Source:HGNC Symbol;Acc:HGNC:9884]	11072	-0.18330678343772888	0.25340423	No	
+row_41	TFE3	transcription factor binding to IGHM enhancer 3 [Source:HGNC Symbol;Acc:HGNC:11752]	11118	-0.18655391037464142	0.26062417	No	
+row_42	RBPJ	recombination signal binding protein for immunoglobulin kappa J region [Source:HGNC Symbol;Acc:HGNC:5724]	11801	-0.2436077743768692	0.23348793	No	
+row_43	ACOT13	acyl-CoA thioesterase 13 [Source:HGNC Symbol;Acc:HGNC:20999]	13401	-0.3898807764053345	0.16028397	No	
+row_44	PCTP	phosphatidylcholine transfer protein [Source:HGNC Symbol;Acc:HGNC:8752]	14013	-0.45064178109169006	0.14825565	No	
+row_45	PGAM5	PGAM family member 5, mitochondrial serine/threonine protein phosphatase [Source:HGNC Symbol;Acc:HGNC:28763]	15211	-0.6093769669532776	0.110237435	No	

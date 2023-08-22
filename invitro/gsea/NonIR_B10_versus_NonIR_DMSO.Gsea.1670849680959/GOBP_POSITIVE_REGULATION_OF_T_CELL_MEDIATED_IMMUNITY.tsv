@@ -1,0 +1,49 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	FZD5	frizzled class receptor 5 [Source:HGNC Symbol;Acc:HGNC:4043]	33	3.9126639366149902	0.07074378	Yes	
+row_1	B2M	beta-2-microglobulin [Source:HGNC Symbol;Acc:HGNC:914]	278	2.5155458450317383	0.10315481	Yes	
+row_2	HLA-G	major histocompatibility complex, class I, G [Source:HGNC Symbol;Acc:HGNC:4964]	285	2.5019335746765137	0.14927766	Yes	
+row_3	PRKCZ	protein kinase C zeta [Source:HGNC Symbol;Acc:HGNC:9412]	338	2.392845392227173	0.19067508	Yes	
+row_4	IL18R1	interleukin 18 receptor 1 [Source:HGNC Symbol;Acc:HGNC:5988]	440	2.2303085327148438	0.2261782	Yes	
+row_5	HLA-B	major histocompatibility complex, class I, B [Source:HGNC Symbol;Acc:HGNC:4932]	489	2.1661157608032227	0.26359868	Yes	
+row_6	HLA-A	major histocompatibility complex, class I, A [Source:HGNC Symbol;Acc:HGNC:4931]	620	1.9988454580307007	0.29310066	Yes	
+row_7	ZP3	zona pellucida glycoprotein 3 [Source:HGNC Symbol;Acc:HGNC:13189]	839	1.7661857604980469	0.3131174	Yes	
+row_8	HLA-H	major histocompatibility complex, class I, H (pseudogene) [Source:HGNC Symbol;Acc:HGNC:4965]	937	1.6812245845794678	0.33865568	Yes	
+row_9	ARID5A	AT-rich interaction domain 5A [Source:HGNC Symbol;Acc:HGNC:17361]	1013	1.6248266696929932	0.36443716	Yes	
+row_10	IL6	interleukin 6 [Source:HGNC Symbol;Acc:HGNC:6018]	1046	1.6037243604660034	0.3923497	Yes	
+row_11	CD55	CD55 molecule (Cromer blood group) [Source:HGNC Symbol;Acc:HGNC:2665]	1174	1.5266551971435547	0.4132565	Yes	
+row_12	TAP2	transporter 2, ATP binding cassette subfamily B member [Source:HGNC Symbol;Acc:HGNC:44]	1178	1.522752285003662	0.4413665	Yes	
+row_13	IL1R1	interleukin 1 receptor type 1 [Source:HGNC Symbol;Acc:HGNC:5993]	1466	1.3539131879806519	0.44967648	Yes	
+row_14	HLA-E	major histocompatibility complex, class I, E [Source:HGNC Symbol;Acc:HGNC:4962]	1476	1.3493845462799072	0.47421402	Yes	
+row_15	P2RX7	purinergic receptor P2X 7 [Source:HGNC Symbol;Acc:HGNC:8537]	1528	1.3245770931243896	0.4958264	Yes	
+row_16	IL12RB1	interleukin 12 receptor subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:5971]	1611	1.2853697538375854	0.51489156	Yes	
+row_17	RSAD2	radical S-adenosyl methionine domain containing 2 [Source:HGNC Symbol;Acc:HGNC:30908]	1623	1.280248999595642	0.5380275	Yes	
+row_18	HLA-F	major histocompatibility complex, class I, F [Source:HGNC Symbol;Acc:HGNC:4963]	1625	1.2800921201705933	0.5617473	Yes	
+row_19	IL1B	interleukin 1 beta [Source:HGNC Symbol;Acc:HGNC:5992]	1801	1.2061796188354492	0.57388467	Yes	
+row_20	TBX21	T-box transcription factor 21 [Source:HGNC Symbol;Acc:HGNC:11599]	2143	1.0944043397903442	0.57420564	Yes	
+row_21	HLA-DRB1	major histocompatibility complex, class II, DR beta 1 [Source:HGNC Symbol;Acc:HGNC:4948]	2265	1.062070608139038	0.58683455	Yes	
+row_22	ZBTB1	zinc finger and BTB domain containing 1 [Source:HGNC Symbol;Acc:HGNC:20259]	3802	0.7350987195968628	0.5103645	No	
+row_23	HSPD1	heat shock protein family D (Hsp60) member 1 [Source:HGNC Symbol;Acc:HGNC:5261]	4065	0.6922892332077026	0.50785124	No	
+row_24	NLRP3	NLR family pyrin domain containing 3 [Source:HGNC Symbol;Acc:HGNC:16400]	4506	0.6260839104652405	0.49366412	No	
+row_25	TRAF2	TNF receptor associated factor 2 [Source:HGNC Symbol;Acc:HGNC:12032]	4972	0.5524415969848633	0.4766421	No	
+row_26	CD1D	CD1d molecule [Source:HGNC Symbol;Acc:HGNC:1637]	5054	0.5396045446395874	0.48191288	No	
+row_27	XCL1	X-C motif chemokine ligand 1 [Source:HGNC Symbol;Acc:HGNC:10645]	6011	0.42168521881103516	0.43365255	No	
+row_28	IL23A	interleukin 23 subunit alpha [Source:HGNC Symbol;Acc:HGNC:15488]	6620	0.3413006067276001	0.40431792	No	
+row_29	GATA3	GATA binding protein 3 [Source:HGNC Symbol;Acc:HGNC:4172]	7381	0.23795151710510254	0.36414492	No	
+row_30	TRAF6	TNF receptor associated factor 6 [Source:HGNC Symbol;Acc:HGNC:12036]	7958	0.16426920890808105	0.33339947	No	
+row_31	FBXO38	F-box protein 38 [Source:HGNC Symbol;Acc:HGNC:28844]	8509	0.08444993942975998	0.30269685	No	
+row_32	FOXP3	forkhead box P3 [Source:HGNC Symbol;Acc:HGNC:6106]	8594	0.07355382293462753	0.29913446	No	
+row_33	STX7	syntaxin 7 [Source:HGNC Symbol;Acc:HGNC:11442]	9394	-0.014186247251927853	0.25251657	No	
+row_34	IL12A	interleukin 12A [Source:HGNC Symbol;Acc:HGNC:5969]	9411	-0.016427911818027496	0.2518829	No	
+row_35	MALT1	MALT1 paracaspase [Source:HGNC Symbol;Acc:HGNC:6819]	9663	-0.04941935837268829	0.23807345	No	
+row_36	CD81	CD81 molecule [Source:HGNC Symbol;Acc:HGNC:1701]	9873	-0.07735570520162582	0.22724728	No	
+row_37	MAP3K7	mitogen-activated protein kinase kinase kinase 7 [Source:HGNC Symbol;Acc:HGNC:6859]	10646	-0.1990194469690323	0.185647	No	
+row_38	SLC22A13	solute carrier family 22 member 13 [Source:HGNC Symbol;Acc:HGNC:8494]	10754	-0.21759065985679626	0.18341063	No	
+row_39	MR1	major histocompatibility complex, class I-related [Source:HGNC Symbol;Acc:HGNC:4975]	11048	-0.2612423002719879	0.17107156	No	
+row_40	DENND1B	DENN domain containing 1B [Source:HGNC Symbol;Acc:HGNC:28404]	11175	-0.2818692922592163	0.16891438	No	
+row_41	PTPRC	protein tyrosine phosphatase receptor type C [Source:HGNC Symbol;Acc:HGNC:9666]	12508	-0.48879173398017883	0.09983872	No	
+row_42	FADD	Fas associated via death domain [Source:HGNC Symbol;Acc:HGNC:3573]	12550	-0.4950144588947296	0.10662823	No	
+row_43	CYRIB	CYFIP related Rac1 interactor B [Source:HGNC Symbol;Acc:HGNC:25216]	14391	-0.910020112991333	0.0155701805	No	
+row_44	NECTIN2	nectin cell adhesion molecule 2 [Source:HGNC Symbol;Acc:HGNC:9707]	15415	-1.2546664476394653	-0.021148289	No	
+row_45	IL18	interleukin 18 [Source:HGNC Symbol;Acc:HGNC:5986]	16340	-1.8697179555892944	-0.040632974	No	
+row_46	TNFSF4	TNF superfamily member 4 [Source:HGNC Symbol;Acc:HGNC:11934]	16467	-2.0158283710479736	-0.01058083	No	
+row_47	PVR	PVR cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:9705]	16768	-2.534339427947998	0.018893493	No	

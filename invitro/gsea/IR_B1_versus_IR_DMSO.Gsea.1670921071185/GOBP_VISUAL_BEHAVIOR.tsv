@@ -1,0 +1,46 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ATP1A2	ATPase Na+/K+ transporting subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:800]	60	2.3644826412200928	0.08034541	Yes	
+row_1	NDRG4	NDRG family member 4 [Source:HGNC Symbol;Acc:HGNC:14466]	66	2.337578296661377	0.1629631	Yes	
+row_2	KIT	KIT proto-oncogene, receptor tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:6342]	72	2.2908477783203125	0.24392334	Yes	
+row_3	PDE8B	phosphodiesterase 8B [Source:HGNC Symbol;Acc:HGNC:8794]	181	1.8851410150527954	0.30445117	Yes	
+row_4	TTC36	tetratricopeptide repeat domain 36 [Source:HGNC Symbol;Acc:HGNC:33708]	333	1.5594403743743896	0.35090423	Yes	
+row_5	CTNS	cystinosin, lysosomal cystine transporter [Source:HGNC Symbol;Acc:HGNC:2518]	374	1.4909354448318481	0.40143928	Yes	
+row_6	ABCA7	ATP binding cassette subfamily A member 7 [Source:HGNC Symbol;Acc:HGNC:37]	468	1.3839112520217896	0.44506907	Yes	
+row_7	NOG	noggin [Source:HGNC Symbol;Acc:HGNC:7866]	662	1.1881158351898193	0.47588778	Yes	
+row_8	GRIN1	glutamate ionotropic receptor NMDA type subunit 1 [Source:HGNC Symbol;Acc:HGNC:4584]	667	1.1843644380569458	0.51766104	Yes	
+row_9	LRRN4	leucine rich repeat neuronal 4 [Source:HGNC Symbol;Acc:HGNC:16208]	1339	0.8492496013641357	0.5084188	Yes	
+row_10	RGS14	regulator of G protein signaling 14 [Source:HGNC Symbol;Acc:HGNC:9996]	1490	0.7995244860649109	0.5279772	Yes	
+row_11	APP	amyloid beta precursor protein [Source:HGNC Symbol;Acc:HGNC:620]	1498	0.7972689270973206	0.5558447	Yes	
+row_12	DRD2	dopamine receptor D2 [Source:HGNC Symbol;Acc:HGNC:3023]	2642	0.526416003704071	0.5074622	No	
+row_13	DRD1	dopamine receptor D1 [Source:HGNC Symbol;Acc:HGNC:3020]	3624	0.3956995904445648	0.46394703	No	
+row_14	SYNGAP1	synaptic Ras GTPase activating protein 1 [Source:HGNC Symbol;Acc:HGNC:11497]	3806	0.37252774834632874	0.46654183	No	
+row_15	CHRNB2	cholinergic receptor nicotinic beta 2 subunit [Source:HGNC Symbol;Acc:HGNC:1962]	3828	0.3691053092479706	0.47840157	No	
+row_16	HOXA1	homeobox A1 [Source:HGNC Symbol;Acc:HGNC:5099]	5058	0.2293601632118225	0.41443765	No	
+row_17	NPHP1	nephrocystin 1 [Source:HGNC Symbol;Acc:HGNC:7905]	5270	0.20882079005241394	0.409466	No	
+row_18	SLC1A2	solute carrier family 1 member 2 [Source:HGNC Symbol;Acc:HGNC:10940]	5623	0.17927221953868866	0.39517456	No	
+row_19	PDE1B	phosphodiesterase 1B [Source:HGNC Symbol;Acc:HGNC:8775]	5675	0.17412419617176056	0.39835864	No	
+row_20	DYNLRB1	dynein light chain roadblock-type 1 [Source:HGNC Symbol;Acc:HGNC:15468]	5706	0.17066845297813416	0.40265208	No	
+row_21	CDK5	cyclin dependent kinase 5 [Source:HGNC Symbol;Acc:HGNC:1774]	5755	0.16684368252754211	0.4057539	No	
+row_22	HMGCR	3-hydroxy-3-methylglutaryl-CoA reductase [Source:HGNC Symbol;Acc:HGNC:5006]	6404	0.1123315617442131	0.37172338	No	
+row_23	MECP2	methyl-CpG binding protein 2 [Source:HGNC Symbol;Acc:HGNC:6990]	7831	0.0015585419023409486	0.28812268	No	
+row_24	RAG1	recombination activating 1 [Source:HGNC Symbol;Acc:HGNC:9831]	8908	-0.055466145277023315	0.22696668	No	
+row_25	NPTN	neuroplastin [Source:HGNC Symbol;Acc:HGNC:17867]	9149	-0.07143369317054749	0.2154208	No	
+row_26	KRAS	KRAS proto-oncogene, GTPase [Source:HGNC Symbol;Acc:HGNC:6407]	9234	-0.07753964513540268	0.21324319	No	
+row_27	TAFA2	TAFA chemokine like family member 2 [Source:HGNC Symbol;Acc:HGNC:21589]	9240	-0.07776474207639694	0.21570809	No	
+row_28	GRIN2A	glutamate ionotropic receptor NMDA type subunit 2A [Source:HGNC Symbol;Acc:HGNC:4585]	10135	-0.1462334245443344	0.16844848	No	
+row_29	NPHP4	nephrocystin 4 [Source:HGNC Symbol;Acc:HGNC:19104]	10605	-0.1840711534023285	0.14746347	No	
+row_30	MEIS2	Meis homeobox 2 [Source:HGNC Symbol;Acc:HGNC:7001]	10645	-0.18669064342975616	0.15179724	No	
+row_31	DDHD2	DDHD domain containing 2 [Source:HGNC Symbol;Acc:HGNC:29106]	10735	-0.19330288469791412	0.15343228	No	
+row_32	RIC8A	RIC8 guanine nucleotide exchange factor A [Source:HGNC Symbol;Acc:HGNC:29550]	11013	-0.21405698359012604	0.14477447	No	
+row_33	TANC1	tetratricopeptide repeat, ankyrin repeat and coiled-coil containing 1 [Source:HGNC Symbol;Acc:HGNC:29364]	11401	-0.24349766969680786	0.13070776	No	
+row_34	IFT20	intraflagellar transport 20 [Source:HGNC Symbol;Acc:HGNC:30989]	11584	-0.2580171823501587	0.12918232	No	
+row_35	NF1	neurofibromin 1 [Source:HGNC Symbol;Acc:HGNC:7765]	11606	-0.2601969242095947	0.13717923	No	
+row_36	HRH1	histamine receptor H1 [Source:HGNC Symbol;Acc:HGNC:5182]	11813	-0.2758592367172241	0.13487867	No	
+row_37	KMT2A	lysine methyltransferase 2A [Source:HGNC Symbol;Acc:HGNC:7132]	12104	-0.29943132400512695	0.12848634	No	
+row_38	SLC7A11	solute carrier family 7 member 11 [Source:HGNC Symbol;Acc:HGNC:11059]	12305	-0.3179166615009308	0.1280295	No	
+row_39	B4GALT2	beta-1,4-galactosyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:925]	12504	-0.3340921103954315	0.1282637	No	
+row_40	PPP1R1B	protein phosphatase 1 regulatory inhibitor subunit 1B [Source:HGNC Symbol;Acc:HGNC:9287]	14770	-0.5622791647911072	0.0153313	No	
+row_41	ITGB1	integrin subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:6153]	14776	-0.5628952383995056	0.035003178	No	
+row_42	NETO1	neuropilin and tolloid like 1 [Source:HGNC Symbol;Acc:HGNC:13823]	15225	-0.6400774717330933	0.031424113	No	
+row_43	BRAF	B-Raf proto-oncogene, serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:1097]	16408	-1.0002601146697998	-0.0024396752	No	
+row_44	HIF1A	hypoxia inducible factor 1 subunit alpha [Source:HGNC Symbol;Acc:HGNC:4910]	16674	-1.1951500177383423	0.024404654	No	

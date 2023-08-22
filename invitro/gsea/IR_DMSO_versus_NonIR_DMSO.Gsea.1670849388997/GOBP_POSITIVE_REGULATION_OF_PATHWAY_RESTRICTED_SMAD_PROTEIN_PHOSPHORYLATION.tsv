@@ -1,0 +1,44 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	GDF15	growth differentiation factor 15 [Source:HGNC Symbol;Acc:HGNC:30142]	7	3.788360357284546	0.10474341	Yes	
+row_1	BMP2	bone morphogenetic protein 2 [Source:HGNC Symbol;Acc:HGNC:1069]	61	2.6806225776672363	0.17604095	Yes	
+row_2	GDF7	growth differentiation factor 7 [Source:HGNC Symbol;Acc:HGNC:4222]	176	2.160520553588867	0.2293238	Yes	
+row_3	BMP6	bone morphogenetic protein 6 [Source:HGNC Symbol;Acc:HGNC:1073]	223	2.0457212924957275	0.2834089	Yes	
+row_4	GDF9	growth differentiation factor 9 [Source:HGNC Symbol;Acc:HGNC:4224]	325	1.8587214946746826	0.32907724	Yes	
+row_5	INHBB	inhibin subunit beta B [Source:HGNC Symbol;Acc:HGNC:6067]	386	1.7726781368255615	0.3747622	Yes	
+row_6	GDF5	growth differentiation factor 5 [Source:HGNC Symbol;Acc:HGNC:4220]	407	1.753625512123108	0.42226467	Yes	
+row_7	GDF10	growth differentiation factor 10 [Source:HGNC Symbol;Acc:HGNC:4215]	643	1.4681720733642578	0.4492323	Yes	
+row_8	TGFBR2	transforming growth factor beta receptor 2 [Source:HGNC Symbol;Acc:HGNC:11773]	825	1.312265157699585	0.47503996	Yes	
+row_9	BMP7	bone morphogenetic protein 7 [Source:HGNC Symbol;Acc:HGNC:1074]	876	1.2835134267807007	0.5077337	Yes	
+row_10	BMP8B	bone morphogenetic protein 8b [Source:HGNC Symbol;Acc:HGNC:1075]	1224	1.0930626392364502	0.5177197	Yes	
+row_11	BMP4	bone morphogenetic protein 4 [Source:HGNC Symbol;Acc:HGNC:1071]	1327	1.0516834259033203	0.5409283	Yes	
+row_12	LEFTY2	left-right determination factor 2 [Source:HGNC Symbol;Acc:HGNC:3122]	1464	1.001359224319458	0.5607457	Yes	
+row_13	GDF11	growth differentiation factor 11 [Source:HGNC Symbol;Acc:HGNC:4216]	1512	0.988477885723114	0.5854261	Yes	
+row_14	INHBA	inhibin subunit beta A [Source:HGNC Symbol;Acc:HGNC:6066]	1565	0.9729731678962708	0.6093828	Yes	
+row_15	TGFBR1	transforming growth factor beta receptor 1 [Source:HGNC Symbol;Acc:HGNC:11772]	2518	0.7511788010597229	0.57439107	No	
+row_16	ACVR2A	activin A receptor type 2A [Source:HGNC Symbol;Acc:HGNC:173]	2757	0.6974988579750061	0.57979107	No	
+row_17	PPARG	peroxisome proliferator activated receptor gamma [Source:HGNC Symbol;Acc:HGNC:9236]	3334	0.5916579365730286	0.5624268	No	
+row_18	GDF1	growth differentiation factor 1 [Source:HGNC Symbol;Acc:HGNC:4214]	3439	0.573357105255127	0.5722411	No	
+row_19	DAB2	DAB adaptor protein 2 [Source:HGNC Symbol;Acc:HGNC:2662]	3476	0.5656830668449402	0.5858312	No	
+row_20	INHA	inhibin subunit alpha [Source:HGNC Symbol;Acc:HGNC:6065]	3756	0.526764452457428	0.58408713	No	
+row_21	RBPMS	RNA binding protein, mRNA processing factor [Source:HGNC Symbol;Acc:HGNC:19097]	4587	0.4293054938316345	0.5473173	No	
+row_22	ACVR1	activin A receptor type 1 [Source:HGNC Symbol;Acc:HGNC:171]	5241	0.3600228428840637	0.5190069	No	
+row_23	ENG	endoglin [Source:HGNC Symbol;Acc:HGNC:3349]	5656	0.3088608682155609	0.50329566	No	
+row_24	GDF6	growth differentiation factor 6 [Source:HGNC Symbol;Acc:HGNC:4221]	5836	0.2900063097476959	0.5008456	No	
+row_25	TWSG1	twisted gastrulation BMP signaling modulator 1 [Source:HGNC Symbol;Acc:HGNC:12429]	5935	0.2792397439479828	0.502848	No	
+row_26	BMPR2	bone morphogenetic protein receptor type 2 [Source:HGNC Symbol;Acc:HGNC:1078]	6436	0.2224043756723404	0.4796924	No	
+row_27	HFE	homeostatic iron regulator [Source:HGNC Symbol;Acc:HGNC:4886]	6465	0.2198863923549652	0.4841534	No	
+row_28	TGFB2	transforming growth factor beta 2 [Source:HGNC Symbol;Acc:HGNC:11768]	6823	0.17988231778144836	0.46820554	No	
+row_29	BMP3	bone morphogenetic protein 3 [Source:HGNC Symbol;Acc:HGNC:1070]	7276	0.1330130696296692	0.44538423	No	
+row_30	SDCBP	syndecan binding protein [Source:HGNC Symbol;Acc:HGNC:10662]	7464	0.11328025907278061	0.43755955	No	
+row_31	BMPR1A	bone morphogenetic protein receptor type 1A [Source:HGNC Symbol;Acc:HGNC:1076]	7936	0.07053006440401077	0.41188937	No	
+row_32	BMP8A	bone morphogenetic protein 8a [Source:HGNC Symbol;Acc:HGNC:21650]	8065	0.0580628365278244	0.40599284	No	
+row_33	INHBC	inhibin subunit beta C [Source:HGNC Symbol;Acc:HGNC:6068]	8304	0.03593171387910843	0.3930296	No	
+row_34	ACVRL1	activin A receptor like type 1 [Source:HGNC Symbol;Acc:HGNC:175]	9613	-0.07521697878837585	0.31839287	No	
+row_35	SMAD4	SMAD family member 4 [Source:HGNC Symbol;Acc:HGNC:6770]	9882	-0.10256495326757431	0.30551946	No	
+row_36	INHBE	inhibin subunit beta E [Source:HGNC Symbol;Acc:HGNC:24029]	10397	-0.1571064591407776	0.2797301	No	
+row_37	CSNK2B	casein kinase 2 beta [Source:HGNC Symbol;Acc:HGNC:2460]	10508	-0.1682216376066208	0.2779471	No	
+row_38	TGFB1	transforming growth factor beta 1 [Source:HGNC Symbol;Acc:HGNC:11766]	12404	-0.3797362148761749	0.17733075	No	
+row_39	MSTN	myostatin [Source:HGNC Symbol;Acc:HGNC:4223]	13046	-0.4544985890388489	0.15234661	No	
+row_40	TGFB3	transforming growth factor beta 3 [Source:HGNC Symbol;Acc:HGNC:11769]	13081	-0.4598003327846527	0.16311498	No	
+row_41	LEFTY1	left-right determination factor 1 [Source:HGNC Symbol;Acc:HGNC:6552]	14404	-0.6822165846824646	0.1045056	No	
+row_42	TTK	TTK protein kinase [Source:HGNC Symbol;Acc:HGNC:12401]	16652	-1.9090869426727295	0.025692062	No	

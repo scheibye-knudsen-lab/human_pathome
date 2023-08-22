@@ -1,0 +1,16 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	FGFR2	fibroblast growth factor receptor 2 [Source:HGNC Symbol;Acc:HGNC:3689]	113	2.5951716899871826	0.1815915	Yes	
+row_1	SIX2	SIX homeobox 2 [Source:HGNC Symbol;Acc:HGNC:10888]	125	2.554208517074585	0.36618552	Yes	
+row_2	ID2	inhibitor of DNA binding 2 [Source:HGNC Symbol;Acc:HGNC:5361]	343	1.884992003440857	0.4901824	Yes	
+row_3	IHH	Indian hedgehog signaling molecule [Source:HGNC Symbol;Acc:HGNC:5956]	471	1.6661149263381958	0.6035763	Yes	
+row_4	SOX11	SRY-box transcription factor 11 [Source:HGNC Symbol;Acc:HGNC:11191]	677	1.4565751552581787	0.69720596	Yes	
+row_5	PDGFRA	platelet derived growth factor receptor alpha [Source:HGNC Symbol;Acc:HGNC:8803]	2611	0.6833888292312622	0.6335674	No	
+row_6	RBPMS2	RNA binding protein, mRNA processing factor 2 [Source:HGNC Symbol;Acc:HGNC:19098]	5483	0.2910679578781128	0.4865457	No	
+row_7	SHOX2	short stature homeobox 2 [Source:HGNC Symbol;Acc:HGNC:10854]	5688	0.2674594521522522	0.49399602	No	
+row_8	NIPBL	NIPBL cohesin loading factor [Source:HGNC Symbol;Acc:HGNC:28862]	6951	0.14129622280597687	0.43033832	No	
+row_9	SHH	sonic hedgehog signaling molecule [Source:HGNC Symbol;Acc:HGNC:10848]	7991	0.04516608640551567	0.37276825	No	
+row_10	TCF21	transcription factor 21 [Source:HGNC Symbol;Acc:HGNC:11632]	9123	-0.02977658249437809	0.30869442	No	
+row_11	GLI3	GLI family zinc finger 3 [Source:HGNC Symbol;Acc:HGNC:4319]	10508	-0.1608104258775711	0.2393074	No	
+row_12	HLX	H2.0 like homeobox [Source:HGNC Symbol;Acc:HGNC:4978]	11190	-0.22457782924175262	0.21571387	No	
+row_13	FGF10	fibroblast growth factor 10 [Source:HGNC Symbol;Acc:HGNC:3666]	14373	-0.6063331961631775	0.07334341	No	
+row_14	FOXF1	forkhead box F1 [Source:HGNC Symbol;Acc:HGNC:3809]	16281	-1.1818389892578125	0.047376413	No	

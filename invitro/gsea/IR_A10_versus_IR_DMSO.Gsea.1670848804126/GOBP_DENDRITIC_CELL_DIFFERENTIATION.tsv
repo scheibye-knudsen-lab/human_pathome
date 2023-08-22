@@ -1,0 +1,39 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ITGB8	integrin subunit beta 8 [Source:HGNC Symbol;Acc:HGNC:6163]	1019	1.1957165002822876	-0.00457758	No	
+row_1	NOTCH2	notch receptor 2 [Source:HGNC Symbol;Acc:HGNC:7882]	1619	0.9393821358680725	0.0036451793	No	
+row_2	LGALS9	galectin 9 [Source:HGNC Symbol;Acc:HGNC:6570]	5515	0.287788987159729	-0.21148013	No	
+row_3	TRAF6	TNF receptor associated factor 6 [Source:HGNC Symbol;Acc:HGNC:12036]	5766	0.2588992714881897	-0.21419318	No	
+row_4	PSEN1	presenilin 1 [Source:HGNC Symbol;Acc:HGNC:9508]	5927	0.24208739399909973	-0.21240439	No	
+row_5	ZBTB46	zinc finger and BTB domain containing 46 [Source:HGNC Symbol;Acc:HGNC:16094]	7030	0.13371916115283966	-0.27085587	No	
+row_6	AGER	advanced glycosylation end-product specific receptor [Source:HGNC Symbol;Acc:HGNC:320]	7672	0.07377394288778305	-0.3050402	No	
+row_7	TREM2	triggering receptor expressed on myeloid cells 2 [Source:HGNC Symbol;Acc:HGNC:17761]	8032	0.04290188476443291	-0.32411247	No	
+row_8	UBD	ubiquitin D [Source:HGNC Symbol;Acc:HGNC:18795]	8631	0.0	-0.35917962	No	
+row_9	PRTN3	proteinase 3 [Source:HGNC Symbol;Acc:HGNC:9495]	8669	0.0	-0.3613493	No	
+row_10	FLT3	fms related receptor tyrosine kinase 3 [Source:HGNC Symbol;Acc:HGNC:3765]	8685	0.0	-0.36222893	No	
+row_11	HLA-G	major histocompatibility complex, class I, G [Source:HGNC Symbol;Acc:HGNC:4964]	8990	-0.02015310898423195	-0.3791257	No	
+row_12	CCR7	C-C motif chemokine receptor 7 [Source:HGNC Symbol;Acc:HGNC:1608]	9190	-0.03554197773337364	-0.38915512	No	
+row_13	CEBPB	CCAAT enhancer binding protein beta [Source:HGNC Symbol;Acc:HGNC:1834]	9220	-0.038322143256664276	-0.3890873	No	
+row_14	SPI1	Spi-1 proto-oncogene [Source:HGNC Symbol;Acc:HGNC:11241]	9349	-0.04962720349431038	-0.3943032	No	
+row_15	HMGB1	high mobility group box 1 [Source:HGNC Symbol;Acc:HGNC:4983]	9364	-0.050748176872730255	-0.39278236	No	
+row_16	TRPM2	transient receptor potential cation channel subfamily M member 2 [Source:HGNC Symbol;Acc:HGNC:12339]	9486	-0.06086774170398712	-0.3970691	No	
+row_17	AZI2	5-azacytidine induced 2 [Source:HGNC Symbol;Acc:HGNC:24002]	10110	-0.12199293822050095	-0.4279728	No	
+row_18	BATF3	basic leucine zipper ATF-like transcription factor 3 [Source:HGNC Symbol;Acc:HGNC:28915]	10887	-0.1969354897737503	-0.46439025	No	
+row_19	CAMK4	calcium/calmodulin dependent protein kinase IV [Source:HGNC Symbol;Acc:HGNC:1464]	11226	-0.22820182144641876	-0.47368023	No	
+row_20	HLA-B	major histocompatibility complex, class I, B [Source:HGNC Symbol;Acc:HGNC:4932]	11235	-0.22856254875659943	-0.46360216	No	
+row_21	ITGB6	integrin subunit beta 6 [Source:HGNC Symbol;Acc:HGNC:6161]	13419	-0.46423837542533875	-0.57019216	No	
+row_22	LYN	LYN proto-oncogene, Src family tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:6735]	13527	-0.476382851600647	-0.55448365	No	
+row_23	DHRS2	dehydrogenase/reductase 2 [Source:HGNC Symbol;Acc:HGNC:18349]	14334	-0.5992571711540222	-0.5740949	Yes	
+row_24	IRF4	interferon regulatory factor 4 [Source:HGNC Symbol;Acc:HGNC:6119]	14733	-0.6723718047142029	-0.5664067	Yes	
+row_25	RBPJ	recombination signal binding protein for immunoglobulin kappa J region [Source:HGNC Symbol;Acc:HGNC:5724]	14746	-0.6750921607017517	-0.53595775	Yes	
+row_26	LGALS1	galectin 1 [Source:HGNC Symbol;Acc:HGNC:6561]	15450	-0.8416841626167297	-0.538342	Yes	
+row_27	CSF2	colony stimulating factor 2 [Source:HGNC Symbol;Acc:HGNC:2434]	15523	-0.8596786856651306	-0.50289357	Yes	
+row_28	BATF2	basic leucine zipper ATF-like transcription factor 2 [Source:HGNC Symbol;Acc:HGNC:25163]	15608	-0.886002242565155	-0.46693408	Yes	
+row_29	LGALS3	galectin 3 [Source:HGNC Symbol;Acc:HGNC:6563]	15855	-0.9673010110855103	-0.43672282	Yes	
+row_30	DCSTAMP	dendrocyte expressed seven transmembrane protein [Source:HGNC Symbol;Acc:HGNC:18549]	16244	-1.1646268367767334	-0.40573275	Yes	
+row_31	AXL	AXL receptor tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:905]	16254	-1.1693724393844604	-0.3522989	Yes	
+row_32	RELB	RELB proto-oncogene, NF-kB subunit [Source:HGNC Symbol;Acc:HGNC:9956]	16320	-1.20790696144104	-0.3003707	Yes	
+row_33	GAS6	growth arrest specific 6 [Source:HGNC Symbol;Acc:HGNC:4168]	16321	-1.2080368995666504	-0.24462487	Yes	
+row_34	TGFBR2	transforming growth factor beta receptor 2 [Source:HGNC Symbol;Acc:HGNC:11773]	16368	-1.2451567649841309	-0.18986358	Yes	
+row_35	TMEM176B	transmembrane protein 176B [Source:HGNC Symbol;Acc:HGNC:29596]	16456	-1.3197765350341797	-0.13406317	Yes	
+row_36	TMEM176A	transmembrane protein 176A [Source:HGNC Symbol;Acc:HGNC:24930]	16562	-1.4493356943130493	-0.073339686	Yes	
+row_37	F2RL1	F2R like trypsin receptor 1 [Source:HGNC Symbol;Acc:HGNC:3538]	16941	-2.258998394012451	0.00873743	Yes	

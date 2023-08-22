@@ -1,0 +1,24 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PTN	pleiotrophin [Source:HGNC Symbol;Acc:HGNC:9630]	2838	0.638416588306427	-0.13583776	No	
+row_1	GHRL	ghrelin and obestatin prepropeptide [Source:HGNC Symbol;Acc:HGNC:18129]	3948	0.4672755300998688	-0.1785345	No	
+row_2	TPPP3	tubulin polymerization promoting protein family member 3 [Source:HGNC Symbol;Acc:HGNC:24162]	4207	0.44040176272392273	-0.17265311	No	
+row_3	EPOR	erythropoietin receptor [Source:HGNC Symbol;Acc:HGNC:3416]	5315	0.30892178416252136	-0.22278261	No	
+row_4	PARP1	poly(ADP-ribose) polymerase 1 [Source:HGNC Symbol;Acc:HGNC:270]	5743	0.26157307624816895	-0.23532896	No	
+row_5	NDP	norrin cystine knot growth factor NDP [Source:HGNC Symbol;Acc:HGNC:7678]	8018	0.04362090677022934	-0.36648098	No	
+row_6	ASH1L	ASH1 like histone lysine methyltransferase [Source:HGNC Symbol;Acc:HGNC:19088]	8512	0.0026904353871941566	-0.39523718	No	
+row_7	GJB2	gap junction protein beta 2 [Source:HGNC Symbol;Acc:HGNC:4284]	8667	0.0	-0.40425992	No	
+row_8	PARP2	poly(ADP-ribose) polymerase 2 [Source:HGNC Symbol;Acc:HGNC:272]	9211	-0.03760999068617821	-0.43428066	No	
+row_9	MEN1	menin 1 [Source:HGNC Symbol;Acc:HGNC:7010]	9244	-0.04047895595431328	-0.43422556	No	
+row_10	BSG	basigin (Ok blood group) [Source:HGNC Symbol;Acc:HGNC:1116]	9700	-0.07819616049528122	-0.45715544	No	
+row_11	DEDD	death effector domain containing [Source:HGNC Symbol;Acc:HGNC:2755]	12222	-0.33488887548446655	-0.588892	No	
+row_12	JUNB	JunB proto-oncogene, AP-1 transcription factor subunit [Source:HGNC Symbol;Acc:HGNC:6205]	14071	-0.5522602796554565	-0.6708342	No	
+row_13	PPARD	peroxisome proliferator activated receptor delta [Source:HGNC Symbol;Acc:HGNC:9235]	14692	-0.6653225421905518	-0.67543834	Yes	
+row_14	CTSB	cathepsin B [Source:HGNC Symbol;Acc:HGNC:2527]	14879	-0.7032309174537659	-0.6528075	Yes	
+row_15	CYP27B1	cytochrome P450 family 27 subfamily B member 1 [Source:HGNC Symbol;Acc:HGNC:2606]	16066	-1.0611706972122192	-0.67169994	Yes	
+row_16	LIF	LIF interleukin 6 family cytokine [Source:HGNC Symbol;Acc:HGNC:6596]	16459	-1.3244850635528564	-0.63151836	Yes	
+row_17	CITED2	Cbp/p300 interacting transactivator with Glu/Asp rich carboxy-terminal domain 2 [Source:HGNC Symbol;Acc:HGNC:1987]	16532	-1.3979647159576416	-0.5690849	Yes	
+row_18	STC2	stanniocalcin 2 [Source:HGNC Symbol;Acc:HGNC:11374]	16766	-1.725743293762207	-0.5004565	Yes	
+row_19	VDR	vitamin D receptor [Source:HGNC Symbol;Acc:HGNC:12679]	16930	-2.2026240825653076	-0.40499026	Yes	
+row_20	STC1	stanniocalcin 1 [Source:HGNC Symbol;Acc:HGNC:11373]	16986	-2.4866812229156494	-0.28965318	Yes	
+row_21	SPP1	secreted phosphoprotein 1 [Source:HGNC Symbol;Acc:HGNC:11255]	17031	-2.751556634902954	-0.16104293	Yes	
+row_22	PTGS2	prostaglandin-endoperoxide synthase 2 [Source:HGNC Symbol;Acc:HGNC:9605]	17067	-3.4490103721618652	0.0013476777	Yes	

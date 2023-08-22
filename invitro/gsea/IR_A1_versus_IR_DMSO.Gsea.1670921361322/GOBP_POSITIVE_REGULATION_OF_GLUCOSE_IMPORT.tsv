@@ -1,0 +1,30 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SORBS1	sorbin and SH3 domain containing 1 [Source:HGNC Symbol;Acc:HGNC:14565]	31	2.518193483352661	0.17596622	Yes	
+row_1	IGF1	insulin like growth factor 1 [Source:HGNC Symbol;Acc:HGNC:5464]	254	1.4386663436889648	0.26452392	Yes	
+row_2	INSR	insulin receptor [Source:HGNC Symbol;Acc:HGNC:6091]	767	0.9425159692764282	0.30105683	Yes	
+row_3	CLTCL1	clathrin heavy chain like 1 [Source:HGNC Symbol;Acc:HGNC:2093]	888	0.8920425176620483	0.3570014	Yes	
+row_4	ERFE	erythroferrone [Source:HGNC Symbol;Acc:HGNC:26727]	1131	0.8213321566581726	0.40080345	Yes	
+row_5	RNASEL	ribonuclease L [Source:HGNC Symbol;Acc:HGNC:10050]	1345	0.7580142021179199	0.44183496	Yes	
+row_6	SLC1A2	solute carrier family 1 member 2 [Source:HGNC Symbol;Acc:HGNC:10940]	1488	0.7262524366378784	0.4847854	Yes	
+row_7	PRKCI	protein kinase C iota [Source:HGNC Symbol;Acc:HGNC:9404]	1691	0.6782839298248291	0.5208327	Yes	
+row_8	OPN3	opsin 3 [Source:HGNC Symbol;Acc:HGNC:14007]	1718	0.6733910441398621	0.56684995	Yes	
+row_9	IRS1	insulin receptor substrate 1 [Source:HGNC Symbol;Acc:HGNC:6125]	2266	0.5779860615730286	0.57559586	Yes	
+row_10	MEF2A	myocyte enhancer factor 2A [Source:HGNC Symbol;Acc:HGNC:6993]	3426	0.43059688806533813	0.53806704	No	
+row_11	PIK3R1	phosphoinositide-3-kinase regulatory subunit 1 [Source:HGNC Symbol;Acc:HGNC:8979]	3656	0.40881481766700745	0.5535075	No	
+row_12	KLF15	Kruppel like factor 15 [Source:HGNC Symbol;Acc:HGNC:14536]	4464	0.32414236664772034	0.52909374	No	
+row_13	GPC3	glypican 3 [Source:HGNC Symbol;Acc:HGNC:4451]	5301	0.2512909471988678	0.49783695	No	
+row_14	C1QTNF12	C1q and TNF related 12 [Source:HGNC Symbol;Acc:HGNC:32308]	5504	0.23278804123401642	0.50243247	No	
+row_15	IRS2	insulin receptor substrate 2 [Source:HGNC Symbol;Acc:HGNC:6126]	6317	0.16876108944416046	0.46675578	No	
+row_16	OSBPL8	oxysterol binding protein like 8 [Source:HGNC Symbol;Acc:HGNC:16396]	7635	0.0596286877989769	0.39377648	No	
+row_17	APPL1	adaptor protein, phosphotyrosine interacting with PH domain and leucine zipper 1 [Source:HGNC Symbol;Acc:HGNC:24035]	7742	0.05162082985043526	0.39120823	No	
+row_18	FGF19	fibroblast growth factor 19 [Source:HGNC Symbol;Acc:HGNC:3675]	8081	0.02776440791785717	0.37335828	No	
+row_19	MAPK14	mitogen-activated protein kinase 14 [Source:HGNC Symbol;Acc:HGNC:6876]	8130	0.02490881457924843	0.37230358	No	
+row_20	CREBL2	cAMP responsive element binding protein like 2 [Source:HGNC Symbol;Acc:HGNC:2350]	8693	-0.0033588081132620573	0.339602	No	
+row_21	CAPN10	calpain 10 [Source:HGNC Symbol;Acc:HGNC:1477]	10242	-0.12029759585857391	0.257367	No	
+row_22	RHOQ	ras homolog family member Q [Source:HGNC Symbol;Acc:HGNC:17736]	10250	-0.12079612910747528	0.26548487	No	
+row_23	OCLN	occludin [Source:HGNC Symbol;Acc:HGNC:8104]	10518	-0.1422484815120697	0.25987872	No	
+row_24	AKT2	AKT serine/threonine kinase 2 [Source:HGNC Symbol;Acc:HGNC:392]	11668	-0.23277994990348816	0.20897025	No	
+row_25	ARPP19	cAMP regulated phosphoprotein 19 [Source:HGNC Symbol;Acc:HGNC:16967]	11811	-0.24475498497486115	0.21792723	No	
+row_26	PTPN11	protein tyrosine phosphatase non-receptor type 11 [Source:HGNC Symbol;Acc:HGNC:9644]	12659	-0.3152415156364441	0.19054063	No	
+row_27	AKT1	AKT serine/threonine kinase 1 [Source:HGNC Symbol;Acc:HGNC:391]	13861	-0.4369695484638214	0.15100011	No	
+row_28	NFE2L2	NFE2 like bZIP transcription factor 2 [Source:HGNC Symbol;Acc:HGNC:7782]	14767	-0.5409711599349976	0.13615054	No	

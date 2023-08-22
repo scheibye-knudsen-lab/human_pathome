@@ -1,0 +1,21 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	HLA-DMB	major histocompatibility complex, class II, DM beta [Source:HGNC Symbol;Acc:HGNC:4935]	470	1.953037977218628	0.084089234	Yes	
+row_1	HLA-DPB1	major histocompatibility complex, class II, DP beta 1 [Source:HGNC Symbol;Acc:HGNC:4940]	762	1.6723065376281738	0.16261955	Yes	
+row_2	CTSV	cathepsin V [Source:HGNC Symbol;Acc:HGNC:2538]	1083	1.4311668872833252	0.2256693	Yes	
+row_3	CD74	CD74 molecule [Source:HGNC Symbol;Acc:HGNC:1697]	1345	1.3088316917419434	0.2851834	Yes	
+row_4	B2M	beta-2-microglobulin [Source:HGNC Symbol;Acc:HGNC:914]	1484	1.246110200881958	0.348318	Yes	
+row_5	CTSS	cathepsin S [Source:HGNC Symbol;Acc:HGNC:2545]	1548	1.218300223350525	0.41425666	Yes	
+row_6	CTSD	cathepsin D [Source:HGNC Symbol;Acc:HGNC:2529]	1560	1.2156832218170166	0.4830918	Yes	
+row_7	IFI30	IFI30 lysosomal thiol reductase [Source:HGNC Symbol;Acc:HGNC:5398]	1891	1.1036405563354492	0.52683675	Yes	
+row_8	CTSF	cathepsin F [Source:HGNC Symbol;Acc:HGNC:2531]	1898	1.1015007495880127	0.589439	Yes	
+row_9	HLA-DPA1	major histocompatibility complex, class II, DP alpha 1 [Source:HGNC Symbol;Acc:HGNC:4938]	2510	0.9463058710098267	0.60773116	Yes	
+row_10	HLA-DMA	major histocompatibility complex, class II, DM alpha [Source:HGNC Symbol;Acc:HGNC:4934]	2925	0.8608108758926392	0.63267714	Yes	
+row_11	CTSL	cathepsin L [Source:HGNC Symbol;Acc:HGNC:2537]	3080	0.8286898732185364	0.6710178	Yes	
+row_12	TRAF6	TNF receptor associated factor 6 [Source:HGNC Symbol;Acc:HGNC:12036]	3348	0.7712804675102234	0.699458	Yes	
+row_13	DNM2	dynamin 2 [Source:HGNC Symbol;Acc:HGNC:2974]	4404	0.5865781307220459	0.6711818	No	
+row_14	LGMN	legumain [Source:HGNC Symbol;Acc:HGNC:9472]	5612	0.42061978578567505	0.6245166	No	
+row_15	HLA-DRB1	major histocompatibility complex, class II, DR beta 1 [Source:HGNC Symbol;Acc:HGNC:4948]	5683	0.41193830966949463	0.64395946	No	
+row_16	HLA-DQA1	major histocompatibility complex, class II, DQ alpha 1 [Source:HGNC Symbol;Acc:HGNC:4942]	6666	0.2823711633682251	0.6025733	No	
+row_17	PIKFYVE	phosphoinositide kinase, FYVE-type zinc finger containing [Source:HGNC Symbol;Acc:HGNC:23785]	8323	0.08968298137187958	0.5106923	No	
+row_18	HLA-DOA	major histocompatibility complex, class II, DO alpha [Source:HGNC Symbol;Acc:HGNC:4936]	9040	0.0	0.46874982	No	
+row_19	FCER1G	Fc epsilon receptor Ig [Source:HGNC Symbol;Acc:HGNC:3611]	9613	-0.04814161732792854	0.43799412	No	

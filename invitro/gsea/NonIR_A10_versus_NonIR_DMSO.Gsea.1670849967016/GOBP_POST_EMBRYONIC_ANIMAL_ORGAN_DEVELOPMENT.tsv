@@ -1,0 +1,18 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	KLF4	Kruppel like factor 4 [Source:HGNC Symbol;Acc:HGNC:6348]	211	2.241332769393921	0.12882906	Yes	
+row_1	FZD5	frizzled class receptor 5 [Source:HGNC Symbol;Acc:HGNC:4043]	315	1.9675447940826416	0.24673694	Yes	
+row_2	BCL2L11	BCL2 like 11 [Source:HGNC Symbol;Acc:HGNC:994]	471	1.7473397254943848	0.347728	Yes	
+row_3	BCL11B	BAF chromatin remodeling complex subunit BCL11B [Source:HGNC Symbol;Acc:HGNC:13222]	570	1.644667625427246	0.44558993	Yes	
+row_4	VEGFA	vascular endothelial growth factor A [Source:HGNC Symbol;Acc:HGNC:12680]	674	1.5593169927597046	0.53778255	Yes	
+row_5	MFAP2	microfibril associated protein 2 [Source:HGNC Symbol;Acc:HGNC:7033]	759	1.4729909896850586	0.6256501	Yes	
+row_6	BAX	BCL2 associated X, apoptosis regulator [Source:HGNC Symbol;Acc:HGNC:959]	1442	1.1057666540145874	0.65536124	Yes	
+row_7	FBN1	fibrillin 1 [Source:HGNC Symbol;Acc:HGNC:3603]	1692	1.0152075290679932	0.70472807	Yes	
+row_8	MYO1E	myosin IE [Source:HGNC Symbol;Acc:HGNC:7599]	2538	0.8103743195533752	0.7062851	Yes	
+row_9	KDR	kinase insert domain receptor [Source:HGNC Symbol;Acc:HGNC:6307]	4138	0.5037453770637512	0.6443661	No	
+row_10	MYO7A	myosin VIIA [Source:HGNC Symbol;Acc:HGNC:7606]	6839	0.16965341567993164	0.49691778	No	
+row_11	CDH23	cadherin related 23 [Source:HGNC Symbol;Acc:HGNC:13733]	7991	0.04728471860289574	0.4324839	No	
+row_12	ERCC1	ERCC excision repair 1, endonuclease non-catalytic subunit [Source:HGNC Symbol;Acc:HGNC:3433]	10437	-0.18336521089076996	0.30083436	No	
+row_13	JAK2	Janus kinase 2 [Source:HGNC Symbol;Acc:HGNC:6192]	10450	-0.18435250222682953	0.31174436	No	
+row_14	EFEMP1	EGF containing fibulin extracellular matrix protein 1 [Source:HGNC Symbol;Acc:HGNC:3218]	10479	-0.18712808191776276	0.32189208	No	
+row_15	BAK1	BCL2 antagonist/killer 1 [Source:HGNC Symbol;Acc:HGNC:949]	10691	-0.20808960497379303	0.32264218	No	
+row_16	HMGN1	high mobility group nucleosome binding domain 1 [Source:HGNC Symbol;Acc:HGNC:4984]	15060	-0.8267593383789062	0.1188942	No	

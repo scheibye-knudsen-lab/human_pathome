@@ -1,0 +1,18 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CYP1B1	cytochrome P450 family 1 subfamily B member 1 [Source:HGNC Symbol;Acc:HGNC:2597]	67	2.644937038421631	0.22335874	Yes	
+row_1	RDH10	retinol dehydrogenase 10 [Source:HGNC Symbol;Acc:HGNC:19975]	252	1.9968845844268799	0.38417697	Yes	
+row_2	ALDH1A3	aldehyde dehydrogenase 1 family member A3 [Source:HGNC Symbol;Acc:HGNC:409]	744	1.3628332614898682	0.47252983	Yes	
+row_3	AKR1C1	aldo-keto reductase family 1 member C1 [Source:HGNC Symbol;Acc:HGNC:384]	1092	1.162109613418579	0.5520681	Yes	
+row_4	ALDH8A1	aldehyde dehydrogenase 8 family member A1 [Source:HGNC Symbol;Acc:HGNC:15471]	1608	0.9619943499565125	0.6045707	Yes	
+row_5	ALDH1A2	aldehyde dehydrogenase 1 family member A2 [Source:HGNC Symbol;Acc:HGNC:15472]	1637	0.9486401081085205	0.68444866	Yes	
+row_6	ABCA4	ATP binding cassette subfamily A member 4 [Source:HGNC Symbol;Acc:HGNC:34]	1707	0.9305973649024963	0.76037484	Yes	
+row_7	BCO2	beta-carotene oxygenase 2 [Source:HGNC Symbol;Acc:HGNC:18503]	7030	0.1596394181251526	0.46239084	No	
+row_8	CYP27C1	cytochrome P450 family 27 subfamily C member 1 [Source:HGNC Symbol;Acc:HGNC:33480]	8535	0.015282471664249897	0.37561694	No	
+row_9	BCO1	beta-carotene oxygenase 1 [Source:HGNC Symbol;Acc:HGNC:13815]	8702	0.0	0.36589456	No	
+row_10	RDH11	retinol dehydrogenase 11 [Source:HGNC Symbol;Acc:HGNC:17964]	9018	-0.014419035986065865	0.3486845	No	
+row_11	RDH13	retinol dehydrogenase 13 [Source:HGNC Symbol;Acc:HGNC:19978]	9581	-0.07260364294052124	0.32200786	No	
+row_12	DHRS4	dehydrogenase/reductase 4 [Source:HGNC Symbol;Acc:HGNC:16985]	9990	-0.11334532499313354	0.3078518	No	
+row_13	DHRS4L1	dehydrogenase/reductase 4 like 1 (pseudogene) [Source:HGNC Symbol;Acc:HGNC:19732]	10210	-0.13676324486732483	0.3067775	No	
+row_14	AKR1C3	aldo-keto reductase family 1 member C3 [Source:HGNC Symbol;Acc:HGNC:386]	10436	-0.16059330105781555	0.30739957	No	
+row_15	DHRS4L2	dehydrogenase/reductase 4 like 2 [Source:HGNC Symbol;Acc:HGNC:19731]	12085	-0.34330251812934875	0.24037898	No	
+row_16	DHRS13	dehydrogenase/reductase 13 [Source:HGNC Symbol;Acc:HGNC:28326]	14062	-0.6132609844207764	0.17734575	No	

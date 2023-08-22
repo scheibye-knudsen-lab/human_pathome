@@ -1,0 +1,38 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SST	somatostatin [Source:HGNC Symbol;Acc:HGNC:11329]	18	2.8100762367248535	0.113614805	Yes	
+row_1	ASIC2	acid sensing ion channel subunit 2 [Source:HGNC Symbol;Acc:HGNC:99]	25	2.7008867263793945	0.22347759	Yes	
+row_2	HVCN1	hydrogen voltage gated channel 1 [Source:HGNC Symbol;Acc:HGNC:28240]	248	1.6921113729476929	0.2795098	Yes	
+row_3	KCNE1	potassium voltage-gated channel subfamily E regulatory subunit 1 [Source:HGNC Symbol;Acc:HGNC:6240]	466	1.386111855506897	0.32334834	Yes	
+row_4	HYAL1	hyaluronidase 1 [Source:HGNC Symbol;Acc:HGNC:5320]	489	1.3595936298370361	0.377539	Yes	
+row_5	ASIC1	acid sensing ion channel subunit 1 [Source:HGNC Symbol;Acc:HGNC:100]	595	1.2488336563110352	0.42234302	Yes	
+row_6	MCOLN1	mucolipin TRP cation channel 1 [Source:HGNC Symbol;Acc:HGNC:13356]	798	1.0956861972808838	0.45520976	Yes	
+row_7	GPR65	G protein-coupled receptor 65 [Source:HGNC Symbol;Acc:HGNC:4517]	841	1.0659606456756592	0.49624547	Yes	
+row_8	SLC38A3	solute carrier family 38 member 3 [Source:HGNC Symbol;Acc:HGNC:18044]	982	0.9862827658653259	0.5282833	Yes	
+row_9	LGMN	legumain [Source:HGNC Symbol;Acc:HGNC:9472]	1446	0.809312105178833	0.5341597	Yes	
+row_10	SERPINF1	serpin family F member 1 [Source:HGNC Symbol;Acc:HGNC:8824]	1704	0.7337517738342285	0.54903203	Yes	
+row_11	SCNN1D	sodium channel epithelial 1 subunit delta [Source:HGNC Symbol;Acc:HGNC:10601]	1910	0.6783840656280518	0.56469405	Yes	
+row_12	NOX1	NADPH oxidase 1 [Source:HGNC Symbol;Acc:HGNC:7889]	2777	0.5020722150802612	0.5344022	Yes	
+row_13	CLCN7	chloride voltage-gated channel 7 [Source:HGNC Symbol;Acc:HGNC:2025]	2794	0.4997003376483917	0.5538551	Yes	
+row_14	PCK1	phosphoenolpyruvate carboxykinase 1 [Source:HGNC Symbol;Acc:HGNC:8724]	2992	0.4722334146499634	0.5615739	Yes	
+row_15	GBA	glucosylceramidase beta [Source:HGNC Symbol;Acc:HGNC:4177]	3054	0.46200165152549744	0.5768499	Yes	
+row_16	ACER1	alkaline ceramidase 1 [Source:HGNC Symbol;Acc:HGNC:18356]	3327	0.42903631925582886	0.5784082	Yes	
+row_17	CHP1	calcineurin like EF-hand protein 1 [Source:HGNC Symbol;Acc:HGNC:17433]	3681	0.3879794180393219	0.5735414	No	
+row_18	GPLD1	glycosylphosphatidylinositol specific phospholipase D1 [Source:HGNC Symbol;Acc:HGNC:4459]	4100	0.3362346291542053	0.5627517	No	
+row_19	CTSS	cathepsin S [Source:HGNC Symbol;Acc:HGNC:2545]	4167	0.32965826988220215	0.57233393	No	
+row_20	AQP10	aquaporin 10 [Source:HGNC Symbol;Acc:HGNC:16029]	4576	0.2833402454853058	0.55997217	No	
+row_21	SRC	SRC proto-oncogene, non-receptor tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:11283]	4601	0.2812136113643646	0.5700403	No	
+row_22	ARSB	arylsulfatase B [Source:HGNC Symbol;Acc:HGNC:714]	5363	0.20215603709220886	0.5336667	No	
+row_23	RAB11B	RAB11B, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9761]	5413	0.19744904339313507	0.5388507	No	
+row_24	ASIC3	acid sensing ion channel subunit 3 [Source:HGNC Symbol;Acc:HGNC:101]	5815	0.16164079308509827	0.5219332	No	
+row_25	RAB11FIP5	RAB11 family interacting protein 5 [Source:HGNC Symbol;Acc:HGNC:24845]	5900	0.15426884591579437	0.5233029	No	
+row_26	GIP	gastric inhibitory polypeptide [Source:HGNC Symbol;Acc:HGNC:4270]	6355	0.11543307453393936	0.50139207	No	
+row_27	GPR4	G protein-coupled receptor 4 [Source:HGNC Symbol;Acc:HGNC:4497]	7501	0.024311264976859093	0.43524444	No	
+row_28	PAM	peptidylglycine alpha-amidating monooxygenase [Source:HGNC Symbol;Acc:HGNC:8596]	8088	-0.00479694502428174	0.40107876	No	
+row_29	TRPV1	transient receptor potential cation channel subfamily V member 1 [Source:HGNC Symbol;Acc:HGNC:12716]	8176	-0.010910045355558395	0.3964225	No	
+row_30	KCNK4	potassium two pore domain channel subfamily K member 4 [Source:HGNC Symbol;Acc:HGNC:6279]	8913	-0.055773962289094925	0.35554144	No	
+row_31	GNA11	G protein subunit alpha 11 [Source:HGNC Symbol;Acc:HGNC:4379]	9293	-0.08123422414064407	0.33663282	No	
+row_32	SCNN1A	sodium channel epithelial 1 subunit alpha [Source:HGNC Symbol;Acc:HGNC:10599]	11145	-0.22444140911102295	0.23725398	No	
+row_33	INSRR	insulin receptor related receptor [Source:HGNC Symbol;Acc:HGNC:6093]	13603	-0.4336237609386444	0.110877015	No	
+row_34	IMPACT	impact RWD domain protein [Source:HGNC Symbol;Acc:HGNC:20387]	14396	-0.5148040056228638	0.08544382	No	
+row_35	SLC9A1	solute carrier family 9 member A1 [Source:HGNC Symbol;Acc:HGNC:11071]	15367	-0.6686989068984985	0.05585314	No	
+row_36	GPR68	G protein-coupled receptor 68 [Source:HGNC Symbol;Acc:HGNC:4519]	16573	-1.1057039499282837	0.030315496	No	

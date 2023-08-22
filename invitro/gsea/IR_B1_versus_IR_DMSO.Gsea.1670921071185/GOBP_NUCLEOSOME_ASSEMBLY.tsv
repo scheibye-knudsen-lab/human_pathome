@@ -1,0 +1,101 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	H2BC7	H2B clustered histone 7 [Source:HGNC Symbol;Acc:HGNC:4752]	36	2.5539186000823975	0.036666468	Yes	
+row_1	H2BC9	H2B clustered histone 9 [Source:HGNC Symbol;Acc:HGNC:4755]	67	2.3292951583862305	0.07027481	Yes	
+row_2	H3C11	H3 clustered histone 11 [Source:HGNC Symbol;Acc:HGNC:4771]	82	2.2430427074432373	0.10351495	Yes	
+row_3	MCM2	minichromosome maintenance complex component 2 [Source:HGNC Symbol;Acc:HGNC:6944]	289	1.6105462312698364	0.11584954	Yes	
+row_4	H1-4	H1.4 linker histone, cluster member [Source:HGNC Symbol;Acc:HGNC:4718]	329	1.5647200345993042	0.13731693	Yes	
+row_5	H4C4	H4 clustered histone 4 [Source:HGNC Symbol;Acc:HGNC:4782]	338	1.552067518234253	0.16041665	Yes	
+row_6	H2BC6	H2B clustered histone 6 [Source:HGNC Symbol;Acc:HGNC:4753]	349	1.5313220024108887	0.18308362	Yes	
+row_7	H3C6	H3 clustered histone 6 [Source:HGNC Symbol;Acc:HGNC:4769]	417	1.438211441040039	0.20098184	Yes	
+row_8	H2BC13	H2B clustered histone 13 [Source:HGNC Symbol;Acc:HGNC:4748]	420	1.4327914714813232	0.2226233	Yes	
+row_9	H3C10	H3 clustered histone 10 [Source:HGNC Symbol;Acc:HGNC:4775]	422	1.4290423393249512	0.24426669	Yes	
+row_10	H2BC8	H2B clustered histone 8 [Source:HGNC Symbol;Acc:HGNC:4746]	544	1.306713342666626	0.25698975	Yes	
+row_11	H2BC5	H2B clustered histone 5 [Source:HGNC Symbol;Acc:HGNC:4747]	555	1.2935899496078491	0.2760464	Yes	
+row_12	H4C2	H4 clustered histone 2 [Source:HGNC Symbol;Acc:HGNC:4789]	646	1.203062653541565	0.28901985	Yes	
+row_13	H4C1	H4 clustered histone 1 [Source:HGNC Symbol;Acc:HGNC:4781]	666	1.1845004558563232	0.3058901	Yes	
+row_14	H1-1	H1.1 linker histone, cluster member [Source:HGNC Symbol;Acc:HGNC:4715]	712	1.15770423412323	0.3208232	Yes	
+row_15	H4C5	H4 clustered histone 5 [Source:HGNC Symbol;Acc:HGNC:4790]	738	1.134210467338562	0.33657658	Yes	
+row_16	H2BC14	H2B clustered histone 14 [Source:HGNC Symbol;Acc:HGNC:4750]	756	1.1198315620422363	0.35258242	Yes	
+row_17	H2BC10	H2B clustered histone 10 [Source:HGNC Symbol;Acc:HGNC:4756]	795	1.0974701642990112	0.36701274	Yes	
+row_18	H3C1	H3 clustered histone 1 [Source:HGNC Symbol;Acc:HGNC:4766]	796	1.0966565608978271	0.3836672	Yes	
+row_19	H1-3	H1.3 linker histone, cluster member [Source:HGNC Symbol;Acc:HGNC:4717]	826	1.0762287378311157	0.3983046	Yes	
+row_20	H3C12	H3 clustered histone 12 [Source:HGNC Symbol;Acc:HGNC:4774]	843	1.0651977062225342	0.41353965	Yes	
+row_21	H2BC4	H2B clustered histone 4 [Source:HGNC Symbol;Acc:HGNC:4757]	849	1.062671422958374	0.4293837	Yes	
+row_22	H4C8	H4 clustered histone 8 [Source:HGNC Symbol;Acc:HGNC:4788]	941	1.0073461532592773	0.43932605	Yes	
+row_23	H2BC3	H2B clustered histone 3 [Source:HGNC Symbol;Acc:HGNC:4751]	1082	0.9441156983375549	0.44542426	Yes	
+row_24	H4C11	H4 clustered histone 11 [Source:HGNC Symbol;Acc:HGNC:4785]	1137	0.9149364829063416	0.45614085	Yes	
+row_25	H4C14	H4 clustered histone 14 [Source:HGNC Symbol;Acc:HGNC:4794]	1140	0.9144408702850342	0.46991032	Yes	
+row_26	H1-2	H1.2 linker histone, cluster member [Source:HGNC Symbol;Acc:HGNC:4716]	1297	0.8587287664413452	0.47377014	Yes	
+row_27	H3C3	H3 clustered histone 3 [Source:HGNC Symbol;Acc:HGNC:4768]	1559	0.7791299223899841	0.47024137	Yes	
+row_28	H4C6	H4 clustered histone 6 [Source:HGNC Symbol;Acc:HGNC:4783]	1578	0.772330105304718	0.48091102	Yes	
+row_29	TSPY26P	testis specific protein Y-linked 26, pseudogene [Source:HGNC Symbol;Acc:HGNC:16256]	1640	0.7523667216300964	0.48874676	Yes	
+row_30	H4C3	H4 clustered histone 3 [Source:HGNC Symbol;Acc:HGNC:4787]	1937	0.6712225675582886	0.48151934	Yes	
+row_31	H3C7	H3 clustered histone 7 [Source:HGNC Symbol;Acc:HGNC:4773]	2031	0.6473619341850281	0.48587704	Yes	
+row_32	H2BC18	H2B clustered histone 18 [Source:HGNC Symbol;Acc:HGNC:24700]	2110	0.6255701780319214	0.49078664	Yes	
+row_33	H3C4	H3 clustered histone 4 [Source:HGNC Symbol;Acc:HGNC:4767]	2200	0.6063024997711182	0.49475622	Yes	
+row_34	H4C9	H4 clustered histone 9 [Source:HGNC Symbol;Acc:HGNC:4793]	2250	0.5979889035224915	0.50095373	Yes	
+row_35	HMGB2	high mobility group box 2 [Source:HGNC Symbol;Acc:HGNC:5000]	2307	0.5875956416130066	0.5065814	Yes	
+row_36	NAP1L5	nucleosome assembly protein 1 like 5 [Source:HGNC Symbol;Acc:HGNC:19968]	2448	0.5619359612464905	0.50687563	Yes	
+row_37	H1-10	H1.10 linker histone [Source:HGNC Symbol;Acc:HGNC:4722]	2636	0.5277522206306458	0.50388455	No	
+row_38	NAA60	N-alpha-acetyltransferase 60, NatF catalytic subunit [Source:HGNC Symbol;Acc:HGNC:25875]	2747	0.5065720081329346	0.50510365	No	
+row_39	H2BC11	H2B clustered histone 11 [Source:HGNC Symbol;Acc:HGNC:4761]	3113	0.45476827025413513	0.49052805	No	
+row_40	H2BC17	H2B clustered histone 17 [Source:HGNC Symbol;Acc:HGNC:4758]	3123	0.4523226022720337	0.49686757	No	
+row_41	H1-5	H1.5 linker histone, cluster member [Source:HGNC Symbol;Acc:HGNC:4719]	3197	0.4416041970252991	0.49927762	No	
+row_42	H3C13	H3 clustered histone 13 [Source:HGNC Symbol;Acc:HGNC:25311]	3552	0.4034191966056824	0.4845696	No	
+row_43	CHAF1B	chromatin assembly factor 1 subunit B [Source:HGNC Symbol;Acc:HGNC:1911]	3602	0.397932231426239	0.48772895	No	
+row_44	MACROH2A2	macroH2A.2 histone [Source:HGNC Symbol;Acc:HGNC:14453]	3701	0.38600507378578186	0.48782328	No	
+row_45	H2BC15	H2B clustered histone 15 [Source:HGNC Symbol;Acc:HGNC:4749]	4133	0.33259105682373047	0.46750784	No	
+row_46	NAP1L4	nucleosome assembly protein 1 like 4 [Source:HGNC Symbol;Acc:HGNC:7640]	4374	0.3047347366809845	0.45801058	No	
+row_47	TSPYL1	TSPY like 1 [Source:HGNC Symbol;Acc:HGNC:12382]	4392	0.30287429690361023	0.46160966	No	
+row_48	TSPYL4	TSPY like 4 [Source:HGNC Symbol;Acc:HGNC:21559]	4402	0.3013719320297241	0.4656568	No	
+row_49	CHRAC1	chromatin accessibility complex subunit 1 [Source:HGNC Symbol;Acc:HGNC:13544]	4692	0.2722879648208618	0.4527829	No	
+row_50	H2BU1	H2B.U histone 1 [Source:HGNC Symbol;Acc:HGNC:20514]	4709	0.2703015208244324	0.45594618	No	
+row_51	H4C13	H4 clustered histone 13 [Source:HGNC Symbol;Acc:HGNC:4791]	5353	0.20264512300491333	0.4211801	No	
+row_52	H4C15	H4 clustered histone 15 [Source:HGNC Symbol;Acc:HGNC:29607]	6368	0.1145840734243393	0.36324158	No	
+row_53	SART3	spliceosome associated factor 3, U4/U6 recycling protein [Source:HGNC Symbol;Acc:HGNC:16860]	6381	0.11371412128210068	0.36426225	No	
+row_54	SSRP1	structure specific recognition protein 1 [Source:HGNC Symbol;Acc:HGNC:11327]	6479	0.10656078159809113	0.36017165	No	
+row_55	CHAF1A	chromatin assembly factor 1 subunit A [Source:HGNC Symbol;Acc:HGNC:1910]	6547	0.09983521699905396	0.35774451	No	
+row_56	NAP1L2	nucleosome assembly protein 1 like 2 [Source:HGNC Symbol;Acc:HGNC:7638]	6681	0.08969291299581528	0.351279	No	
+row_57	SUPT16H	SPT16 homolog, facilitates chromatin remodeling subunit [Source:HGNC Symbol;Acc:HGNC:11465]	6703	0.0873289704322815	0.35136926	No	
+row_58	H2BC21	H2B clustered histone 21 [Source:HGNC Symbol;Acc:HGNC:4760]	7590	0.016983261331915855	0.29948193	No	
+row_59	KAT6B	lysine acetyltransferase 6B [Source:HGNC Symbol;Acc:HGNC:17582]	7663	0.012171090580523014	0.29542923	No	
+row_60	SMARCA5	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 5 [Source:HGNC Symbol;Acc:HGNC:11101]	7694	0.009957784786820412	0.2938148	No	
+row_61	H2AB3	H2A.B variant histone 3 [Source:HGNC Symbol;Acc:HGNC:14455]	7988	0.0	0.27657038	No	
+row_62	TSPYL5	TSPY like 5 [Source:HGNC Symbol;Acc:HGNC:29367]	8126	-0.00698117958381772	0.2686133	No	
+row_63	ANP32B	acidic nuclear phosphoprotein 32 family member B [Source:HGNC Symbol;Acc:HGNC:16677]	8619	-0.03791215270757675	0.24023256	No	
+row_64	NAP1L1	nucleosome assembly protein 1 like 1 [Source:HGNC Symbol;Acc:HGNC:7637]	8660	-0.03994975611567497	0.23848507	No	
+row_65	GRWD1	glutamate rich WD repeat containing 1 [Source:HGNC Symbol;Acc:HGNC:21270]	8778	-0.04735978692770004	0.23231831	No	
+row_66	ATRX	ATRX chromatin remodeler [Source:HGNC Symbol;Acc:HGNC:886]	9022	-0.06249207258224487	0.21896565	No	
+row_67	MACROH2A1	macroH2A.1 histone [Source:HGNC Symbol;Acc:HGNC:4740]	9241	-0.07783172279596329	0.20731734	No	
+row_68	BRD2	bromodomain containing 2 [Source:HGNC Symbol;Acc:HGNC:1103]	9333	-0.08469133079051971	0.20324773	No	
+row_69	HP1BP3	heterochromatin protein 1 binding protein 3 [Source:HGNC Symbol;Acc:HGNC:24973]	9402	-0.09081829339265823	0.20062482	No	
+row_70	H1-9P	H1.9 linker histone, pseudogene [Source:HGNC Symbol;Acc:HGNC:30616]	9728	-0.11516958475112915	0.18324608	No	
+row_71	H1-6	H1.6 linker histone, cluster member [Source:HGNC Symbol;Acc:HGNC:4720]	9864	-0.12673607468605042	0.17722538	No	
+row_72	H4-16	H4 histone 16 [Source:HGNC Symbol;Acc:HGNC:20510]	9875	-0.12728266417980194	0.17856982	No	
+row_73	KAT6A	lysine acetyltransferase 6A [Source:HGNC Symbol;Acc:HGNC:13013]	10105	-0.14396046102046967	0.16727836	No	
+row_74	H2BC19P	H2B clustered histone 19, pseudogene [Source:HGNC Symbol;Acc:HGNC:20517]	10439	-0.17072080075740814	0.15027241	No	
+row_75	DNAJC9	DnaJ heat shock protein family (Hsp40) member C9 [Source:HGNC Symbol;Acc:HGNC:19123]	10535	-0.17749296128749847	0.14737673	No	
+row_76	H3-3A	H3.3 histone A [Source:HGNC Symbol;Acc:HGNC:4764]	10756	-0.1945592314004898	0.13738339	No	
+row_77	SET	SET nuclear proto-oncogene [Source:HGNC Symbol;Acc:HGNC:10760]	10960	-0.20940567553043365	0.12861603	No	
+row_78	RSF1	remodeling and spacing factor 1 [Source:HGNC Symbol;Acc:HGNC:18118]	11542	-0.25432246923446655	0.098283745	No	
+row_79	DAXX	death domain associated protein [Source:HGNC Symbol;Acc:HGNC:2681]	11899	-0.2830766439437866	0.08163044	No	
+row_80	H2BC12	H2B clustered histone 12 [Source:HGNC Symbol;Acc:HGNC:13954]	12014	-0.2930344045162201	0.079371184	No	
+row_81	SHPRH	SNF2 histone linker PHD RING helicase [Source:HGNC Symbol;Acc:HGNC:19336]	12139	-0.30281195044517517	0.076671876	No	
+row_82	POLE3	DNA polymerase epsilon 3, accessory subunit [Source:HGNC Symbol;Acc:HGNC:13546]	12371	-0.3237438499927521	0.067993	No	
+row_83	NAP1L3	nucleosome assembly protein 1 like 3 [Source:HGNC Symbol;Acc:HGNC:7639]	12565	-0.3397844731807709	0.061794203	No	
+row_84	H3-3B	H3.3 histone B [Source:HGNC Symbol;Acc:HGNC:4765]	12718	-0.35326963663101196	0.05821324	No	
+row_85	H3C2	H3 clustered histone 2 [Source:HGNC Symbol;Acc:HGNC:4776]	12763	-0.3565443754196167	0.06103832	No	
+row_86	SMYD3	SET and MYND domain containing 3 [Source:HGNC Symbol;Acc:HGNC:15513]	14254	-0.4961376190185547	-0.01912054	No	
+row_87	H2AX	H2A.X variant histone [Source:HGNC Symbol;Acc:HGNC:4739]	14491	-0.52647465467453	-0.025014907	No	
+row_88	H2AB1	H2A.B variant histone 1 [Source:HGNC Symbol;Acc:HGNC:22516]	14656	-0.5460598468780518	-0.026374305	No	
+row_89	SPTY2D1	SPT2 chromatin protein domain containing 1 [Source:HGNC Symbol;Acc:HGNC:26818]	15035	-0.6067404747009277	-0.039407074	No	
+row_90	H1-0	H1.0 linker histone [Source:HGNC Symbol;Acc:HGNC:4714]	15062	-0.6122557520866394	-0.031639237	No	
+row_91	BAZ1A	bromodomain adjacent to zinc finger domain 1A [Source:HGNC Symbol;Acc:HGNC:960]	15236	-0.6416624784469604	-0.032076452	No	
+row_92	ASF1A	anti-silencing function 1A histone chaperone [Source:HGNC Symbol;Acc:HGNC:20995]	15461	-0.689936101436615	-0.034782145	No	
+row_93	NPM1	nucleophosmin 1 [Source:HGNC Symbol;Acc:HGNC:7910]	15524	-0.7047727108001709	-0.027728064	No	
+row_94	H3C8	H3 clustered histone 8 [Source:HGNC Symbol;Acc:HGNC:4772]	15548	-0.7109153866767883	-0.018285362	No	
+row_95	H3C14	H3 clustered histone 14 [Source:HGNC Symbol;Acc:HGNC:20503]	15587	-0.7203084826469421	-0.009582831	No	
+row_96	H2BC12L	H2B clustered histone 12 like [Source:HGNC Symbol;Acc:HGNC:4762]	16335	-0.965969443321228	-0.03887753	No	
+row_97	TSPYL2	TSPY like 2 [Source:HGNC Symbol;Acc:HGNC:24358]	16903	-1.5621659755706787	-0.04852421	No	
+row_98	SOX9	SRY-box transcription factor 9 [Source:HGNC Symbol;Acc:HGNC:11204]	16919	-1.600561499595642	-0.025100004	No	
+row_99	ASF1B	anti-silencing function 1B histone chaperone [Source:HGNC Symbol;Acc:HGNC:20996]	17050	-2.311598539352417	0.0023541194	No	

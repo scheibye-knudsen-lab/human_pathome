@@ -1,0 +1,36 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CD74	CD74 molecule [Source:HGNC Symbol;Acc:HGNC:1697]	56	3.5776405334472656	0.090642296	Yes	
+row_1	CTSD	cathepsin D [Source:HGNC Symbol;Acc:HGNC:2529]	97	3.251694679260254	0.17366545	Yes	
+row_2	B2M	beta-2-microglobulin [Source:HGNC Symbol;Acc:HGNC:914]	278	2.5155458450317383	0.22915387	Yes	
+row_3	CTSS	cathepsin S [Source:HGNC Symbol;Acc:HGNC:2545]	444	2.222778081893921	0.27783555	Yes	
+row_4	HLA-A	major histocompatibility complex, class I, A [Source:HGNC Symbol;Acc:HGNC:4931]	620	1.9988454580307007	0.32005194	Yes	
+row_5	TAP1	transporter 1, ATP binding cassette subfamily B member [Source:HGNC Symbol;Acc:HGNC:43]	640	1.9750337600708008	0.3707895	Yes	
+row_6	CLEC4A	C-type lectin domain family 4 member A [Source:HGNC Symbol;Acc:HGNC:13257]	830	1.7731459140777588	0.40625966	Yes	
+row_7	CTSF	cathepsin F [Source:HGNC Symbol;Acc:HGNC:2531]	874	1.7296513319015503	0.44914794	Yes	
+row_8	HLA-DPB1	major histocompatibility complex, class II, DP beta 1 [Source:HGNC Symbol;Acc:HGNC:4940]	938	1.681208848953247	0.48959187	Yes	
+row_9	MFSD6	major facilitator superfamily domain containing 6 [Source:HGNC Symbol;Acc:HGNC:24711]	1001	1.6350914239883423	0.52888364	Yes	
+row_10	TAP2	transporter 2, ATP binding cassette subfamily B member [Source:HGNC Symbol;Acc:HGNC:44]	1178	1.522752285003662	0.55854225	Yes	
+row_11	CTSL	cathepsin L [Source:HGNC Symbol;Acc:HGNC:2537]	1301	1.4434831142425537	0.58928585	Yes	
+row_12	IFI30	IFI30 lysosomal thiol reductase [Source:HGNC Symbol;Acc:HGNC:5398]	1424	1.3773669004440308	0.61829364	Yes	
+row_13	HLA-E	major histocompatibility complex, class I, E [Source:HGNC Symbol;Acc:HGNC:4962]	1476	1.3493845462799072	0.6507296	Yes	
+row_14	HLA-F	major histocompatibility complex, class I, F [Source:HGNC Symbol;Acc:HGNC:4963]	1625	1.2800921201705933	0.6756592	Yes	
+row_15	HLA-DRB1	major histocompatibility complex, class II, DR beta 1 [Source:HGNC Symbol;Acc:HGNC:4948]	2265	1.062070608139038	0.66607744	No	
+row_16	HLA-DPA1	major histocompatibility complex, class II, DP alpha 1 [Source:HGNC Symbol;Acc:HGNC:4938]	2991	0.8785049915313721	0.6466342	No	
+row_17	HLA-DQA1	major histocompatibility complex, class II, DQ alpha 1 [Source:HGNC Symbol;Acc:HGNC:4942]	3612	0.7697675824165344	0.63049245	No	
+row_18	CTSV	cathepsin V [Source:HGNC Symbol;Acc:HGNC:2538]	3899	0.7213068604469299	0.632661	No	
+row_19	HLA-DOA	major histocompatibility complex, class II, DO alpha [Source:HGNC Symbol;Acc:HGNC:4936]	4512	0.6252906918525696	0.6131953	No	
+row_20	HLA-DMA	major histocompatibility complex, class II, DM alpha [Source:HGNC Symbol;Acc:HGNC:4934]	4941	0.5557729005813599	0.6026925	No	
+row_21	LGMN	legumain [Source:HGNC Symbol;Acc:HGNC:9472]	4989	0.5493529438972473	0.61435926	No	
+row_22	CD1D	CD1d molecule [Source:HGNC Symbol;Acc:HGNC:1637]	5054	0.5396045446395874	0.62477344	No	
+row_23	HLA-DMB	major histocompatibility complex, class II, DM beta [Source:HGNC Symbol;Acc:HGNC:4935]	5395	0.4972674548625946	0.6178941	No	
+row_24	PSME1	proteasome activator subunit 1 [Source:HGNC Symbol;Acc:HGNC:9568]	5655	0.46621668338775635	0.6149487	No	
+row_25	PIKFYVE	phosphoinositide kinase, FYVE-type zinc finger containing [Source:HGNC Symbol;Acc:HGNC:23785]	6377	0.37590181827545166	0.58254486	No	
+row_26	TRAF6	TNF receptor associated factor 6 [Source:HGNC Symbol;Acc:HGNC:12036]	7958	0.16426920890808105	0.4942215	No	
+row_27	AP3D1	adaptor related protein complex 3 subunit delta 1 [Source:HGNC Symbol;Acc:HGNC:568]	8060	0.1500849723815918	0.4922401	No	
+row_28	IKBKB	inhibitor of nuclear factor kappa B kinase subunit beta [Source:HGNC Symbol;Acc:HGNC:5960]	9460	-0.022356431931257248	0.4108031	No	
+row_29	FCER1G	Fc epsilon receptor Ig [Source:HGNC Symbol;Acc:HGNC:3611]	10385	-0.15707165002822876	0.3607523	No	
+row_30	FCGR1A	Fc gamma receptor Ia [Source:HGNC Symbol;Acc:HGNC:3613]	10497	-0.17431923747062683	0.35882083	No	
+row_31	LNPEP	leucyl and cystinyl aminopeptidase [Source:HGNC Symbol;Acc:HGNC:6656]	10655	-0.20098631083965302	0.35489243	No	
+row_32	AP3B1	adaptor related protein complex 3 subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:566]	10866	-0.2354322373867035	0.348761	No	
+row_33	MR1	major histocompatibility complex, class I-related [Source:HGNC Symbol;Acc:HGNC:4975]	11048	-0.2612423002719879	0.3450074	No	
+row_34	DNM2	dynamin 2 [Source:HGNC Symbol;Acc:HGNC:2974]	11614	-0.34962019324302673	0.32105997	No	

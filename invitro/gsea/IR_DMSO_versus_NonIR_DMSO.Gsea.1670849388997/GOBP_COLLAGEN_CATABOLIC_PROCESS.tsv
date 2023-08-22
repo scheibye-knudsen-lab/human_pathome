@@ -1,0 +1,38 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ADAMTS14	ADAM metallopeptidase with thrombospondin type 1 motif 14 [Source:HGNC Symbol;Acc:HGNC:14899]	137	2.2965445518493652	0.07572532	Yes	
+row_1	MMP24	matrix metallopeptidase 24 [Source:HGNC Symbol;Acc:HGNC:7172]	193	2.1218199729919434	0.1498864	Yes	
+row_2	MMP12	matrix metallopeptidase 12 [Source:HGNC Symbol;Acc:HGNC:7158]	397	1.7624104022979736	0.20226094	Yes	
+row_3	FAP	fibroblast activation protein alpha [Source:HGNC Symbol;Acc:HGNC:3590]	436	1.695634126663208	0.26187518	Yes	
+row_4	CST3	cystatin C [Source:HGNC Symbol;Acc:HGNC:2475]	491	1.6200957298278809	0.31779623	Yes	
+row_5	MMP7	matrix metallopeptidase 7 [Source:HGNC Symbol;Acc:HGNC:7174]	598	1.5068638324737549	0.36653838	Yes	
+row_6	MMP10	matrix metallopeptidase 10 [Source:HGNC Symbol;Acc:HGNC:7156]	656	1.4537417888641357	0.41621634	Yes	
+row_7	CTSB	cathepsin B [Source:HGNC Symbol;Acc:HGNC:2527]	710	1.3971467018127441	0.46406472	Yes	
+row_8	VSIR	V-set immunoregulatory receptor [Source:HGNC Symbol;Acc:HGNC:30085]	863	1.2899162769317627	0.50219715	Yes	
+row_9	MMP2	matrix metallopeptidase 2 [Source:HGNC Symbol;Acc:HGNC:7166]	1292	1.0663328170776367	0.5159912	Yes	
+row_10	ADAMTS2	ADAM metallopeptidase with thrombospondin type 1 motif 2 [Source:HGNC Symbol;Acc:HGNC:218]	1466	1.0002790689468384	0.5423287	Yes	
+row_11	MMP1	matrix metallopeptidase 1 [Source:HGNC Symbol;Acc:HGNC:7155]	1658	0.9445018768310547	0.5655765	Yes	
+row_12	MMP3	matrix metallopeptidase 3 [Source:HGNC Symbol;Acc:HGNC:7173]	1858	0.8886424899101257	0.5863179	Yes	
+row_13	ITGB1	integrin subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:6153]	2255	0.803202211856842	0.5923916	Yes	
+row_14	MMP11	matrix metallopeptidase 11 [Source:HGNC Symbol;Acc:HGNC:7157]	2476	0.759227454662323	0.6071816	Yes	
+row_15	MMP28	matrix metallopeptidase 28 [Source:HGNC Symbol;Acc:HGNC:14366]	3219	0.6113163828849792	0.58596843	No	
+row_16	ADAM15	ADAM metallopeptidase domain 15 [Source:HGNC Symbol;Acc:HGNC:193]	3597	0.5476751327514648	0.5838368	No	
+row_17	MMP27	matrix metallopeptidase 27 [Source:HGNC Symbol;Acc:HGNC:14250]	3667	0.5388407707214355	0.5994432	No	
+row_18	MMP25	matrix metallopeptidase 25 [Source:HGNC Symbol;Acc:HGNC:14246]	3861	0.5140777826309204	0.6068754	No	
+row_19	MMP15	matrix metallopeptidase 15 [Source:HGNC Symbol;Acc:HGNC:7161]	4358	0.45355281233787537	0.5943331	No	
+row_20	RETREG3	reticulophagy regulator family member 3 [Source:HGNC Symbol;Acc:HGNC:27258]	5062	0.3815516233444214	0.5670269	No	
+row_21	MMP14	matrix metallopeptidase 14 [Source:HGNC Symbol;Acc:HGNC:7160]	5225	0.36201968789100647	0.5707311	No	
+row_22	CTSS	cathepsin S [Source:HGNC Symbol;Acc:HGNC:2545]	5373	0.3449406921863556	0.57469195	No	
+row_23	CTSK	cathepsin K [Source:HGNC Symbol;Acc:HGNC:2536]	6619	0.20330223441123962	0.5091033	No	
+row_24	RETREG2	reticulophagy regulator family member 2 [Source:HGNC Symbol;Acc:HGNC:28450]	6771	0.18531706929206848	0.5070079	No	
+row_25	MMP17	matrix metallopeptidase 17 [Source:HGNC Symbol;Acc:HGNC:7163]	8167	0.04947962984442711	0.4270135	No	
+row_26	CTSL	cathepsin L [Source:HGNC Symbol;Acc:HGNC:2537]	8286	0.037831924855709076	0.4214741	No	
+row_27	PRTN3	proteinase 3 [Source:HGNC Symbol;Acc:HGNC:9495]	8848	0.0	0.3885786	No	
+row_28	MMP19	matrix metallopeptidase 19 [Source:HGNC Symbol;Acc:HGNC:7165]	9368	-0.05146482214331627	0.36002284	No	
+row_29	ADAMTS3	ADAM metallopeptidase with thrombospondin type 1 motif 3 [Source:HGNC Symbol;Acc:HGNC:219]	10327	-0.14984063804149628	0.30931327	No	
+row_30	MMP23B	matrix metallopeptidase 23B [Source:HGNC Symbol;Acc:HGNC:7171]	10442	-0.16089215874671936	0.3084966	No	
+row_31	MMP16	matrix metallopeptidase 16 [Source:HGNC Symbol;Acc:HGNC:7162]	10527	-0.17012418806552887	0.30977577	No	
+row_32	PEPD	peptidase D [Source:HGNC Symbol;Acc:HGNC:8840]	11255	-0.2467164695262909	0.27614462	No	
+row_33	RETREG1	reticulophagy regulator 1 [Source:HGNC Symbol;Acc:HGNC:25964]	12348	-0.3747372627258301	0.22577998	No	
+row_34	MMP13	matrix metallopeptidase 13 [Source:HGNC Symbol;Acc:HGNC:7159]	12491	-0.3896586298942566	0.23166496	No	
+row_35	MMP21	matrix metallopeptidase 21 [Source:HGNC Symbol;Acc:HGNC:14357]	12970	-0.44375112652778625	0.21982065	No	
+row_36	FURIN	furin, paired basic amino acid cleaving enzyme [Source:HGNC Symbol;Acc:HGNC:8568]	13960	-0.5951538681983948	0.18353459	No	

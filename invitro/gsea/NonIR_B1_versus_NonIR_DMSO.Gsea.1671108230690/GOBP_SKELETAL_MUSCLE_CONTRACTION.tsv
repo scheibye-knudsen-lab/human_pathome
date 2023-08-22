@@ -1,0 +1,37 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	KCNJ2	potassium inwardly rectifying channel subfamily J member 2 [Source:HGNC Symbol;Acc:HGNC:6263]	39	2.668524742126465	0.09315663	Yes	
+row_1	TNNT1	troponin T1, slow skeletal type [Source:HGNC Symbol;Acc:HGNC:11948]	79	2.3435444831848145	0.1746899	Yes	
+row_2	STAC2	SH3 and cysteine rich domain 2 [Source:HGNC Symbol;Acc:HGNC:23990]	108	2.216013193130493	0.25230682	Yes	
+row_3	TNNC1	troponin C1, slow skeletal and cardiac type [Source:HGNC Symbol;Acc:HGNC:11943]	404	1.5513906478881836	0.2904974	Yes	
+row_4	CCDC78	coiled-coil domain containing 78 [Source:HGNC Symbol;Acc:HGNC:14153]	503	1.434921145439148	0.33607316	Yes	
+row_5	CASQ1	calsequestrin 1 [Source:HGNC Symbol;Acc:HGNC:1512]	598	1.338132381439209	0.37842166	Yes	
+row_6	GAA	alpha glucosidase [Source:HGNC Symbol;Acc:HGNC:4065]	620	1.3247145414352417	0.42457053	Yes	
+row_7	DMPK	DM1 protein kinase [Source:HGNC Symbol;Acc:HGNC:2933]	767	1.2259986400604248	0.45985946	Yes	
+row_8	CHRNB1	cholinergic receptor nicotinic beta 1 subunit [Source:HGNC Symbol;Acc:HGNC:1961]	769	1.2253515720367432	0.5036272	Yes	
+row_9	STAC	SH3 and cysteine rich domain [Source:HGNC Symbol;Acc:HGNC:11353]	1039	1.0786410570144653	0.5264337	Yes	
+row_10	ACTN3	actinin alpha 3 [Source:HGNC Symbol;Acc:HGNC:165]	1051	1.0735551118850708	0.56418586	Yes	
+row_11	GSTM2	glutathione S-transferase mu 2 [Source:HGNC Symbol;Acc:HGNC:4634]	1455	0.9268836975097656	0.57370764	Yes	
+row_12	TNNI3	troponin I3, cardiac type [Source:HGNC Symbol;Acc:HGNC:11947]	1902	0.8115500211715698	0.57658315	Yes	
+row_13	TNNC2	troponin C2, fast skeletal type [Source:HGNC Symbol;Acc:HGNC:11944]	2113	0.7593660950660706	0.59142977	Yes	
+row_14	DMD	dystrophin [Source:HGNC Symbol;Acc:HGNC:2928]	2266	0.7217113971710205	0.6083304	Yes	
+row_15	ATP8A2	ATPase phospholipid transporting 8A2 [Source:HGNC Symbol;Acc:HGNC:13533]	2654	0.6366446614265442	0.6084095	Yes	
+row_16	SYNM	synemin [Source:HGNC Symbol;Acc:HGNC:24466]	2657	0.6358572840690613	0.63103455	Yes	
+row_17	TNNI1	troponin I1, slow skeletal type [Source:HGNC Symbol;Acc:HGNC:11945]	3277	0.520264208316803	0.6133482	No	
+row_18	NR4A1	nuclear receptor subfamily 4 group A member 1 [Source:HGNC Symbol;Acc:HGNC:7980]	3603	0.472080260515213	0.6111767	No	
+row_19	TNF	tumor necrosis factor [Source:HGNC Symbol;Acc:HGNC:11892]	4032	0.42270344495773315	0.60120004	No	
+row_20	STAC3	SH3 and cysteine rich domain 3 [Source:HGNC Symbol;Acc:HGNC:28423]	4450	0.37901729345321655	0.5903058	No	
+row_21	HOMER1	homer scaffold protein 1 [Source:HGNC Symbol;Acc:HGNC:17512]	4778	0.34333762526512146	0.58341247	No	
+row_22	MYH3	myosin heavy chain 3 [Source:HGNC Symbol;Acc:HGNC:7573]	7075	0.0922119989991188	0.45208725	No	
+row_23	RPS6KB1	ribosomal protein S6 kinase B1 [Source:HGNC Symbol;Acc:HGNC:10436]	7578	0.04324760660529137	0.42419988	No	
+row_24	CAV3	caveolin 3 [Source:HGNC Symbol;Acc:HGNC:1529]	7678	0.03422047570347786	0.41961908	No	
+row_25	SCN4A	sodium voltage-gated channel alpha subunit 4 [Source:HGNC Symbol;Acc:HGNC:10591]	8568	-0.016954926773905754	0.36810002	No	
+row_26	CHRNA1	cholinergic receptor nicotinic alpha 1 subunit [Source:HGNC Symbol;Acc:HGNC:1955]	8981	-0.05297262594103813	0.3458375	No	
+row_27	TCAP	titin-cap [Source:HGNC Symbol;Acc:HGNC:11610]	9364	-0.08745273947715759	0.32656723	No	
+row_28	ATP2A1	ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 1 [Source:HGNC Symbol;Acc:HGNC:811]	10541	-0.19118627905845642	0.2644519	No	
+row_29	MYH8	myosin heavy chain 8 [Source:HGNC Symbol;Acc:HGNC:7578]	11325	-0.25775888562202454	0.22776069	No	
+row_30	JSRP1	junctional sarcoplasmic reticulum protein 1 [Source:HGNC Symbol;Acc:HGNC:24963]	11616	-0.2850112318992615	0.2209507	No	
+row_31	GSTO1	glutathione S-transferase omega 1 [Source:HGNC Symbol;Acc:HGNC:13312]	12879	-0.40587788820266724	0.16147156	No	
+row_32	SLC8A3	solute carrier family 8 member A3 [Source:HGNC Symbol;Acc:HGNC:11070]	12902	-0.4084304869174957	0.17478967	No	
+row_33	MYH14	myosin heavy chain 14 [Source:HGNC Symbol;Acc:HGNC:23212]	13722	-0.49306589365005493	0.14440373	No	
+row_34	HSP90AA1	heat shock protein 90 alpha family class A member 1 [Source:HGNC Symbol;Acc:HGNC:5253]	14592	-0.6149227619171143	0.11544446	No	
+row_35	RCSD1	RCSD domain containing 1 [Source:HGNC Symbol;Acc:HGNC:28310]	15755	-0.8657351732254028	0.07827612	No	

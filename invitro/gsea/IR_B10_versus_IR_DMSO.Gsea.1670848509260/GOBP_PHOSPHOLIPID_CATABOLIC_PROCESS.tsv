@@ -1,0 +1,45 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PLA2G4A	phospholipase A2 group IVA [Source:HGNC Symbol;Acc:HGNC:9035]	179	2.607672929763794	0.051049396	Yes	
+row_1	PLD1	phospholipase D1 [Source:HGNC Symbol;Acc:HGNC:9067]	249	2.4008169174194336	0.103669055	Yes	
+row_2	ABHD6	abhydrolase domain containing 6, acylglycerol lipase [Source:HGNC Symbol;Acc:HGNC:21398]	269	2.342682361602783	0.15784961	Yes	
+row_3	SMPD2	sphingomyelin phosphodiesterase 2 [Source:HGNC Symbol;Acc:HGNC:11121]	455	1.9782922267913818	0.19369155	Yes	
+row_4	SMPDL3A	sphingomyelin phosphodiesterase acid like 3A [Source:HGNC Symbol;Acc:HGNC:17389]	661	1.75601065158844	0.22311367	Yes	
+row_5	APOC1	apolipoprotein C1 [Source:HGNC Symbol;Acc:HGNC:607]	685	1.733796238899231	0.26268783	Yes	
+row_6	SMPDL3B	sphingomyelin phosphodiesterase acid like 3B [Source:HGNC Symbol;Acc:HGNC:21416]	1004	1.4857826232910156	0.27910295	Yes	
+row_7	LIPG	lipase G, endothelial type [Source:HGNC Symbol;Acc:HGNC:6623]	1015	1.475105881690979	0.31333375	Yes	
+row_8	PLA2G15	phospholipase A2 group XV [Source:HGNC Symbol;Acc:HGNC:17163]	1037	1.4602360725402832	0.34656832	Yes	
+row_9	PLA2G4C	phospholipase A2 group IVC [Source:HGNC Symbol;Acc:HGNC:9037]	1093	1.4268245697021484	0.37701976	Yes	
+row_10	PNPLA7	patatin like phospholipase domain containing 7 [Source:HGNC Symbol;Acc:HGNC:24768]	1122	1.4134904146194458	0.40874034	Yes	
+row_11	SCARB1	scavenger receptor class B member 1 [Source:HGNC Symbol;Acc:HGNC:1664]	1211	1.3637288808822632	0.4357667	Yes	
+row_12	PLCG1	phospholipase C gamma 1 [Source:HGNC Symbol;Acc:HGNC:9065]	1645	1.1816436052322388	0.43825704	Yes	
+row_13	GDPD1	glycerophosphodiester phosphodiesterase domain containing 1 [Source:HGNC Symbol;Acc:HGNC:20883]	1666	1.174001932144165	0.4647942	Yes	
+row_14	IDH1	isocitrate dehydrogenase (NADP(+)) 1 [Source:HGNC Symbol;Acc:HGNC:5382]	2041	1.057501196861267	0.4678154	Yes	
+row_15	PLA2G6	phospholipase A2 group VI [Source:HGNC Symbol;Acc:HGNC:9039]	2191	1.0253955125808716	0.48327762	Yes	
+row_16	LDLR	low density lipoprotein receptor [Source:HGNC Symbol;Acc:HGNC:6547]	2241	1.0093138217926025	0.5042264	Yes	
+row_17	PLCG2	phospholipase C gamma 2 [Source:HGNC Symbol;Acc:HGNC:9066]	2325	0.989688515663147	0.5227174	Yes	
+row_18	PLBD2	phospholipase B domain containing 2 [Source:HGNC Symbol;Acc:HGNC:27283]	2589	0.9292994737625122	0.52922404	Yes	
+row_19	ABHD12	abhydrolase domain containing 12, lysophospholipase [Source:HGNC Symbol;Acc:HGNC:15868]	2660	0.914973258972168	0.5467142	Yes	
+row_20	GDE1	glycerophosphodiester phosphodiesterase 1 [Source:HGNC Symbol;Acc:HGNC:29644]	3416	0.7584143280982971	0.52032596	No	
+row_21	GDPD3	glycerophosphodiester phosphodiesterase domain containing 3 [Source:HGNC Symbol;Acc:HGNC:28638]	3884	0.6786642074584961	0.5089499	No	
+row_22	PRKCD	protein kinase C delta [Source:HGNC Symbol;Acc:HGNC:9399]	5031	0.49328088760375977	0.45336702	No	
+row_23	LIPC	lipase C, hepatic type [Source:HGNC Symbol;Acc:HGNC:6619]	5244	0.463691383600235	0.4518755	No	
+row_24	PLA2G10	phospholipase A2 group X [Source:HGNC Symbol;Acc:HGNC:9029]	5973	0.3728839159011841	0.41797134	No	
+row_25	PNPLA8	patatin like phospholipase domain containing 8 [Source:HGNC Symbol;Acc:HGNC:28900]	6141	0.34753477573394775	0.41637787	No	
+row_26	ABHD16A	abhydrolase domain containing 16A, phospholipase [Source:HGNC Symbol;Acc:HGNC:13921]	6385	0.3198661506175995	0.40967306	No	
+row_27	APOA2	apolipoprotein A2 [Source:HGNC Symbol;Acc:HGNC:601]	7638	0.16684408485889435	0.34016714	No	
+row_28	PLD2	phospholipase D2 [Source:HGNC Symbol;Acc:HGNC:9068]	7660	0.1643185019493103	0.3428137	No	
+row_29	PLA2G4B	phospholipase A2 group IVB [Source:HGNC Symbol;Acc:HGNC:9036]	7828	0.14514154195785522	0.3364431	No	
+row_30	SMPD1	sphingomyelin phosphodiesterase 1 [Source:HGNC Symbol;Acc:HGNC:11120]	7883	0.13958539068698883	0.33657005	No	
+row_31	PLB1	phospholipase B1 [Source:HGNC Symbol;Acc:HGNC:30041]	8361	0.08373845368623734	0.3105651	No	
+row_32	NAPEPLD	N-acyl phosphatidylethanolamine phospholipase D [Source:HGNC Symbol;Acc:HGNC:21683]	8710	0.03834789618849754	0.2910561	No	
+row_33	PLPP6	phospholipid phosphatase 6 [Source:HGNC Symbol;Acc:HGNC:23682]	9126	-0.0014696422731503844	0.2667463	No	
+row_34	PLBD1	phospholipase B domain containing 1 [Source:HGNC Symbol;Acc:HGNC:26215]	9471	-0.03323228657245636	0.24735121	No	
+row_35	PNPLA6	patatin like phospholipase domain containing 6 [Source:HGNC Symbol;Acc:HGNC:16268]	10421	-0.1458948254585266	0.19512519	No	
+row_36	SMPD3	sphingomyelin phosphodiesterase 3 [Source:HGNC Symbol;Acc:HGNC:14240]	10982	-0.22170358896255493	0.16750778	No	
+row_37	ABHD16B	abhydrolase domain containing 16B [Source:HGNC Symbol;Acc:HGNC:16128]	11895	-0.3391285240650177	0.1220132	No	
+row_38	SMPD4	sphingomyelin phosphodiesterase 4 [Source:HGNC Symbol;Acc:HGNC:32949]	12165	-0.37726953625679016	0.11513811	No	
+row_39	ENPP2	ectonucleotide pyrophosphatase/phosphodiesterase 2 [Source:HGNC Symbol;Acc:HGNC:3357]	12933	-0.48282286524772644	0.081541084	No	
+row_40	INPP5F	inositol polyphosphate-5-phosphatase F [Source:HGNC Symbol;Acc:HGNC:17054]	15152	-0.9438755512237549	-0.026291177	No	
+row_41	PLCB1	phospholipase C beta 1 [Source:HGNC Symbol;Acc:HGNC:15917]	16304	-1.463679313659668	-0.059262678	No	
+row_42	GPCPD1	glycerophosphocholine phosphodiesterase 1 [Source:HGNC Symbol;Acc:HGNC:26957]	16515	-1.6736210584640503	-0.032078523	No	
+row_43	PRDX6	peroxiredoxin 6 [Source:HGNC Symbol;Acc:HGNC:16753]	16990	-2.7856292724609375	0.005866142	No	

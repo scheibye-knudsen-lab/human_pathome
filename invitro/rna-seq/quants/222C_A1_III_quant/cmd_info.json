@@ -1,0 +1,11 @@
+{
+    "salmon_version": "1.9.0",
+    "index": "refgenie/default",
+    "libType": "A",
+    "mates1": "F22FTSEUET0050_HOMxwviO/soapnuke/clean/222C_A1_III/222C_A1_III_1.fq.gz",
+    "mates2": "F22FTSEUET0050_HOMxwviO/soapnuke/clean/222C_A1_III/222C_A1_III_2.fq.gz",
+    "threads": "8",
+    "validateMappings": [],
+    "output": "quants/222C_A1_III_quant",
+    "auxDir": "aux_info"
+}

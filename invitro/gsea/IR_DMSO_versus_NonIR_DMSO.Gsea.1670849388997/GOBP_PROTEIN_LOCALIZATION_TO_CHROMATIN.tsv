@@ -1,0 +1,53 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	WBP2	WW domain binding protein 2 [Source:HGNC Symbol;Acc:HGNC:12738]	2402	0.7726460099220276	-0.13211994	No	
+row_1	SPI1	Spi-1 proto-oncogene [Source:HGNC Symbol;Acc:HGNC:11241]	2582	0.7369110584259033	-0.13418384	No	
+row_2	MRNIP	MRN complex interacting protein [Source:HGNC Symbol;Acc:HGNC:30817]	2610	0.7296165227890015	-0.12741058	No	
+row_3	ESR1	estrogen receptor 1 [Source:HGNC Symbol;Acc:HGNC:3467]	3174	0.6184096932411194	-0.15336846	No	
+row_4	VCPIP1	valosin containing protein interacting protein 1 [Source:HGNC Symbol;Acc:HGNC:30897]	5351	0.3481958210468292	-0.27708685	No	
+row_5	FAM47E	family with sequence similarity 47 member E [Source:HGNC Symbol;Acc:HGNC:34343]	6754	0.1876528561115265	-0.35721907	No	
+row_6	TASOR	transcription activation suppressor [Source:HGNC Symbol;Acc:HGNC:30314]	7035	0.15916752815246582	-0.37182868	No	
+row_7	PPHLN1	periphilin 1 [Source:HGNC Symbol;Acc:HGNC:19369]	7242	0.1367218792438507	-0.38235244	No	
+row_8	MAU2	MAU2 sister chromatid cohesion factor [Source:HGNC Symbol;Acc:HGNC:29140]	7791	0.08128493279218674	-0.4135828	No	
+row_9	JARID2	jumonji and AT-rich interaction domain containing 2 [Source:HGNC Symbol;Acc:HGNC:6196]	8896	-0.0017106287414208055	-0.47835574	No	
+row_10	SETD2	SET domain containing 2, histone lysine methyltransferase [Source:HGNC Symbol;Acc:HGNC:18420]	9050	-0.0179859921336174	-0.48712912	No	
+row_11	CHMP7	charged multivesicular body protein 7 [Source:HGNC Symbol;Acc:HGNC:28439]	9111	-0.02410229481756687	-0.49037436	No	
+row_12	LEMD2	LEM domain nuclear envelope protein 2 [Source:HGNC Symbol;Acc:HGNC:21244]	9497	-0.06443661451339722	-0.51223147	No	
+row_13	NIPBL	NIPBL cohesin loading factor [Source:HGNC Symbol;Acc:HGNC:28862]	9778	-0.0928964838385582	-0.52760017	No	
+row_14	WAPL	WAPL cohesin release factor [Source:HGNC Symbol;Acc:HGNC:23293]	10000	-0.11424072831869125	-0.5392618	No	
+row_15	CDK9	cyclin dependent kinase 9 [Source:HGNC Symbol;Acc:HGNC:1780]	10362	-0.15271933376789093	-0.5586991	No	
+row_16	PIH1D1	PIH1 domain containing 1 [Source:HGNC Symbol;Acc:HGNC:26075]	10463	-0.16272123157978058	-0.56270397	No	
+row_17	HDAC8	histone deacetylase 8 [Source:HGNC Symbol;Acc:HGNC:13315]	11448	-0.2665269076824188	-0.6174007	No	
+row_18	RB1	RB transcriptional corepressor 1 [Source:HGNC Symbol;Acc:HGNC:9884]	11586	-0.2859177589416504	-0.62216586	No	
+row_19	H4C15	H4 clustered histone 15 [Source:HGNC Symbol;Acc:HGNC:29607]	11642	-0.29274532198905945	-0.62204033	No	
+row_20	MCM9	minichromosome maintenance 9 homologous recombination repair factor [Source:HGNC Symbol;Acc:HGNC:21484]	11976	-0.32931315898895264	-0.6378114	No	
+row_21	RAD21	RAD21 cohesin complex component [Source:HGNC Symbol;Acc:HGNC:9811]	12855	-0.4285201132297516	-0.6844315	No	
+row_22	MACROH2A1	macroH2A.1 histone [Source:HGNC Symbol;Acc:HGNC:4740]	12955	-0.4410317540168762	-0.6851896	No	
+row_23	LRWD1	leucine rich repeats and WD repeat domain containing 1 [Source:HGNC Symbol;Acc:HGNC:21769]	13901	-0.584044873714447	-0.7339603	No	
+row_24	VCP	valosin containing protein [Source:HGNC Symbol;Acc:HGNC:12666]	14446	-0.6904606819152832	-0.7579777	No	
+row_25	SGF29	SAGA complex associated factor 29 [Source:HGNC Symbol;Acc:HGNC:25156]	15256	-0.8890306353569031	-0.79527307	No	
+row_26	MACROH2A2	macroH2A.2 histone [Source:HGNC Symbol;Acc:HGNC:14453]	15366	-0.9277058839797974	-0.79104316	No	
+row_27	MSH2	mutS homolog 2 [Source:HGNC Symbol;Acc:HGNC:7325]	15536	-0.9839445352554321	-0.7896904	No	
+row_28	MCM8	minichromosome maintenance 8 homologous recombination repair factor [Source:HGNC Symbol;Acc:HGNC:16147]	15996	-1.2022230625152588	-0.8028569	Yes	
+row_29	H4C5	H4 clustered histone 5 [Source:HGNC Symbol;Acc:HGNC:4790]	16203	-1.3425443172454834	-0.7995678	Yes	
+row_30	ESCO2	establishment of sister chromatid cohesion N-acetyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:27230]	16248	-1.391703724861145	-0.786208	Yes	
+row_31	VRK1	VRK serine/threonine kinase 1 [Source:HGNC Symbol;Acc:HGNC:12718]	16257	-1.4017643928527832	-0.77062005	Yes	
+row_32	RUVBL2	RuvB like AAA ATPase 2 [Source:HGNC Symbol;Acc:HGNC:10475]	16306	-1.4348647594451904	-0.75700057	Yes	
+row_33	H4-16	H4 histone 16 [Source:HGNC Symbol;Acc:HGNC:20510]	16379	-1.512398600578308	-0.74390143	Yes	
+row_34	H4C11	H4 clustered histone 11 [Source:HGNC Symbol;Acc:HGNC:4785]	16826	-2.4279844760894775	-0.7422638	Yes	
+row_35	H4C3	H4 clustered histone 3 [Source:HGNC Symbol;Acc:HGNC:4787]	16843	-2.516849994659424	-0.7143719	Yes	
+row_36	H4C8	H4 clustered histone 8 [Source:HGNC Symbol;Acc:HGNC:4788]	16895	-2.7956595420837402	-0.6853404	Yes	
+row_37	H4C2	H4 clustered histone 2 [Source:HGNC Symbol;Acc:HGNC:4789]	16950	-3.138495922088623	-0.6525577	Yes	
+row_38	H4C6	H4 clustered histone 6 [Source:HGNC Symbol;Acc:HGNC:4783]	16960	-3.206096649169922	-0.6163596	Yes	
+row_39	CENPA	centromere protein A [Source:HGNC Symbol;Acc:HGNC:1851]	16972	-3.3017079830169678	-0.5791837	Yes	
+row_40	EZH2	enhancer of zeste 2 polycomb repressive complex 2 subunit [Source:HGNC Symbol;Acc:HGNC:3527]	16984	-3.410034418106079	-0.54076684	Yes	
+row_41	H4C13	H4 clustered histone 13 [Source:HGNC Symbol;Acc:HGNC:4791]	17023	-3.909787654876709	-0.49820986	Yes	
+row_42	H2AC8	H2A clustered histone 8 [Source:HGNC Symbol;Acc:HGNC:4724]	17034	-4.005354881286621	-0.45291486	Yes	
+row_43	CDCA5	cell division cycle associated 5 [Source:HGNC Symbol;Acc:HGNC:14626]	17035	-4.026332378387451	-0.40679267	Yes	
+row_44	H4C4	H4 clustered histone 4 [Source:HGNC Symbol;Acc:HGNC:4782]	17041	-4.112987041473389	-0.35997128	Yes	
+row_45	H2BC11	H2B clustered histone 11 [Source:HGNC Symbol;Acc:HGNC:4761]	17050	-4.226970195770264	-0.31202027	Yes	
+row_46	H2AC4	H2A clustered histone 4 [Source:HGNC Symbol;Acc:HGNC:4734]	17057	-4.308156490325928	-0.26302186	Yes	
+row_47	H4C14	H4 clustered histone 14 [Source:HGNC Symbol;Acc:HGNC:4794]	17073	-4.464271068572998	-0.21276335	Yes	
+row_48	PLK1	polo like kinase 1 [Source:HGNC Symbol;Acc:HGNC:9077]	17075	-4.492493152618408	-0.16135992	Yes	
+row_49	H4C1	H4 clustered histone 1 [Source:HGNC Symbol;Acc:HGNC:4781]	17081	-4.645268440246582	-0.108441174	Yes	
+row_50	H1-5	H1.5 linker histone, cluster member [Source:HGNC Symbol;Acc:HGNC:4719]	17087	-4.744519233703613	-0.0543855	Yes	
+row_51	H4C9	H4 clustered histone 9 [Source:HGNC Symbol;Acc:HGNC:4793]	17089	-4.757940292358398	5.867296E-5	Yes	

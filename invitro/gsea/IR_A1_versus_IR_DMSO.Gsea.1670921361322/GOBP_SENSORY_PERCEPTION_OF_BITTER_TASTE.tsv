@@ -1,0 +1,24 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CST2	cystatin SA [Source:HGNC Symbol;Acc:HGNC:2474]	27	2.56112003326416	0.18683943	Yes	
+row_1	RTP4	receptor transporter protein 4 [Source:HGNC Symbol;Acc:HGNC:23992]	105	1.846057415008545	0.31814232	Yes	
+row_2	ITPR3	inositol 1,4,5-trisphosphate receptor type 3 [Source:HGNC Symbol;Acc:HGNC:6182]	895	0.889468252658844	0.33735353	Yes	
+row_3	TAS2R10	taste 2 receptor member 10 [Source:HGNC Symbol;Acc:HGNC:14918]	1358	0.7555660009384155	0.36587226	Yes	
+row_4	TAS2R46	taste 2 receptor member 46 [Source:HGNC Symbol;Acc:HGNC:18877]	1495	0.7253629565238953	0.411269	Yes	
+row_5	TAS2R31	taste 2 receptor member 31 [Source:HGNC Symbol;Acc:HGNC:19113]	1592	0.7044937014579773	0.45747396	Yes	
+row_6	TAS2R30	taste 2 receptor member 30 [Source:HGNC Symbol;Acc:HGNC:19112]	1857	0.6421307921409607	0.48924792	Yes	
+row_7	TAS2R20	taste 2 receptor member 20 [Source:HGNC Symbol;Acc:HGNC:19109]	2089	0.6064384579658508	0.5203295	Yes	
+row_8	TAS2R19	taste 2 receptor member 19 [Source:HGNC Symbol;Acc:HGNC:19108]	2336	0.5661975741386414	0.5475716	Yes	
+row_9	TAS2R43	taste 2 receptor member 43 [Source:HGNC Symbol;Acc:HGNC:18875]	2606	0.5226250886917114	0.5702606	Yes	
+row_10	TAS2R5	taste 2 receptor member 5 [Source:HGNC Symbol;Acc:HGNC:14912]	2757	0.5019471645355225	0.5984004	Yes	
+row_11	GNAT2	G protein subunit alpha transducin 2 [Source:HGNC Symbol;Acc:HGNC:4394]	4250	0.3453051745891571	0.53638947	Yes	
+row_12	TAS2R13	taste 2 receptor member 13 [Source:HGNC Symbol;Acc:HGNC:14919]	4287	0.3423840403556824	0.5594694	Yes	
+row_13	TAS2R4	taste 2 receptor member 4 [Source:HGNC Symbol;Acc:HGNC:14911]	4440	0.32759565114974976	0.574665	Yes	
+row_14	GNAT1	G protein subunit alpha transducin 1 [Source:HGNC Symbol;Acc:HGNC:4393]	4522	0.31878480315208435	0.5933723	Yes	
+row_15	TAS2R3	taste 2 receptor member 3 [Source:HGNC Symbol;Acc:HGNC:14910]	4743	0.30259597301483154	0.6027446	Yes	
+row_16	TAS2R50	taste 2 receptor member 50 [Source:HGNC Symbol;Acc:HGNC:18882]	6971	0.11439099162817001	0.48068225	No	
+row_17	TAS2R1	taste 2 receptor member 1 [Source:HGNC Symbol;Acc:HGNC:14909]	8520	0.0	0.38998622	No	
+row_18	CST1	cystatin SN [Source:HGNC Symbol;Acc:HGNC:2473]	8745	-0.006488547194749117	0.3773396	No	
+row_19	REEP2	receptor accessory protein 2 [Source:HGNC Symbol;Acc:HGNC:17975]	11666	-0.23256048560142517	0.22336866	No	
+row_20	TAS2R14	taste 2 receptor member 14 [Source:HGNC Symbol;Acc:HGNC:14920]	12335	-0.2891657054424286	0.20550498	No	
+row_21	CST4	cystatin S [Source:HGNC Symbol;Acc:HGNC:2476]	13470	-0.3972318172454834	0.16828917	No	
+row_22	PLCB2	phospholipase C beta 2 [Source:HGNC Symbol;Acc:HGNC:9055]	15132	-0.5946061015129089	0.11471766	No	

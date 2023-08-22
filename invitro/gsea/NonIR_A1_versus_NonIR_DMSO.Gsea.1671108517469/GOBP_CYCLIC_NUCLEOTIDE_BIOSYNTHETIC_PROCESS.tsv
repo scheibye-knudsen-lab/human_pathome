@@ -1,0 +1,21 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ADCY5	adenylate cyclase 5 [Source:HGNC Symbol;Acc:HGNC:236]	393	1.3503533601760864	0.116293274	Yes	
+row_1	NPPB	natriuretic peptide B [Source:HGNC Symbol;Acc:HGNC:7940]	456	1.292779564857483	0.2460363	Yes	
+row_2	ADCY4	adenylate cyclase 4 [Source:HGNC Symbol;Acc:HGNC:235]	1341	0.8500399589538574	0.28195047	Yes	
+row_3	NPR2	natriuretic peptide receptor 2 [Source:HGNC Symbol;Acc:HGNC:7944]	1549	0.7897502779960632	0.35130247	Yes	
+row_4	GUCY1B1	guanylate cyclase 1 soluble subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:4687]	2030	0.6759592294692993	0.39292273	Yes	
+row_5	ADCY2	adenylate cyclase 2 [Source:HGNC Symbol;Acc:HGNC:233]	2330	0.6170527338981628	0.43906844	Yes	
+row_6	ADCY10	adenylate cyclase 10 [Source:HGNC Symbol;Acc:HGNC:21285]	2697	0.5484781861305237	0.47421458	Yes	
+row_7	NPPC	natriuretic peptide C [Source:HGNC Symbol;Acc:HGNC:7941]	3208	0.4814428687095642	0.4940094	Yes	
+row_8	ADCY9	adenylate cyclase 9 [Source:HGNC Symbol;Acc:HGNC:240]	3216	0.4805547297000885	0.5431778	Yes	
+row_9	GUCY1A2	guanylate cyclase 1 soluble subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:4684]	3388	0.4565295875072479	0.5802605	Yes	
+row_10	ADCY6	adenylate cyclase 6 [Source:HGNC Symbol;Acc:HGNC:237]	3424	0.4522148668766022	0.6248649	Yes	
+row_11	GUCY2F	guanylate cyclase 2F, retinal [Source:HGNC Symbol;Acc:HGNC:4691]	3587	0.434477299451828	0.66019976	Yes	
+row_12	GUCY1A1	guanylate cyclase 1 soluble subunit alpha 1 [Source:HGNC Symbol;Acc:HGNC:4685]	6661	0.1203026995062828	0.49259838	No	
+row_13	ADCY7	adenylate cyclase 7 [Source:HGNC Symbol;Acc:HGNC:238]	7028	0.08443369716405869	0.47986946	No	
+row_14	NPR1	natriuretic peptide receptor 1 [Source:HGNC Symbol;Acc:HGNC:7943]	7941	0.013181711547076702	0.42780548	No	
+row_15	GUCY2D	guanylate cyclase 2D, retinal [Source:HGNC Symbol;Acc:HGNC:4689]	8350	0.0	0.4039053	No	
+row_16	ADCY8	adenylate cyclase 8 [Source:HGNC Symbol;Acc:HGNC:239]	8390	0.0	0.40162072	No	
+row_17	ADCY1	adenylate cyclase 1 [Source:HGNC Symbol;Acc:HGNC:232]	9530	-0.09270457178354263	0.34446362	No	
+row_18	ADCY3	adenylate cyclase 3 [Source:HGNC Symbol;Acc:HGNC:234]	13521	-0.46370771527290344	0.15857422	No	
+row_19	AMPD2	adenosine monophosphate deaminase 2 [Source:HGNC Symbol;Acc:HGNC:469]	13727	-0.4888603389263153	0.19700085	No	

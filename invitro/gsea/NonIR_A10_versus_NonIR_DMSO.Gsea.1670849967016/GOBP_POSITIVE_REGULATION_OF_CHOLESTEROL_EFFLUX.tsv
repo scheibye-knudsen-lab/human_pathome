@@ -1,0 +1,25 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TREM2	triggering receptor expressed on myeloid cells 2 [Source:HGNC Symbol;Acc:HGNC:17761]	9	3.68516206741333	0.13676798	Yes	
+row_1	ABCA12	ATP binding cassette subfamily A member 12 [Source:HGNC Symbol;Acc:HGNC:14637]	123	2.545238733291626	0.22497307	Yes	
+row_2	PLTP	phospholipid transfer protein [Source:HGNC Symbol;Acc:HGNC:9093]	131	2.510516405105591	0.31809536	Yes	
+row_3	ABCA7	ATP binding cassette subfamily A member 7 [Source:HGNC Symbol;Acc:HGNC:37]	256	2.0897412300109863	0.3886858	Yes	
+row_4	APOE	apolipoprotein E [Source:HGNC Symbol;Acc:HGNC:613]	289	2.017303466796875	0.461968	Yes	
+row_5	LRP1	LDL receptor related protein 1 [Source:HGNC Symbol;Acc:HGNC:6692]	498	1.7224410772323608	0.51395243	Yes	
+row_6	ABCA1	ATP binding cassette subfamily A member 1 [Source:HGNC Symbol;Acc:HGNC:29]	645	1.5839039087295532	0.56440824	Yes	
+row_7	ABCA8	ATP binding cassette subfamily A member 8 [Source:HGNC Symbol;Acc:HGNC:38]	677	1.5541954040527344	0.6204954	Yes	
+row_8	CES1	carboxylesterase 1 [Source:HGNC Symbol;Acc:HGNC:1863]	700	1.5241870880126953	0.67599183	Yes	
+row_9	ABCA3	ATP binding cassette subfamily A member 3 [Source:HGNC Symbol;Acc:HGNC:33]	723	1.5012840032577515	0.730635	Yes	
+row_10	ABCG4	ATP binding cassette subfamily G member 4 [Source:HGNC Symbol;Acc:HGNC:13884]	1145	1.224997639656067	0.75160635	Yes	
+row_11	APOA1	apolipoprotein A1 [Source:HGNC Symbol;Acc:HGNC:600]	2218	0.8701120018959045	0.72121215	No	
+row_12	RXRA	retinoid X receptor alpha [Source:HGNC Symbol;Acc:HGNC:10477]	3007	0.7050058841705322	0.70130706	No	
+row_13	NR1H3	nuclear receptor subfamily 1 group H member 3 [Source:HGNC Symbol;Acc:HGNC:7966]	4456	0.4633905291557312	0.63372916	No	
+row_14	NR1H2	nuclear receptor subfamily 1 group H member 2 [Source:HGNC Symbol;Acc:HGNC:7965]	5639	0.3150176405906677	0.57620907	No	
+row_15	PTCH1	patched 1 [Source:HGNC Symbol;Acc:HGNC:9585]	7759	0.07014122605323792	0.45466453	No	
+row_16	ABCG1	ATP binding cassette subfamily G member 1 [Source:HGNC Symbol;Acc:HGNC:73]	8698	0.0	0.39970466	No	
+row_17	ZDHHC8	zinc finger DHHC-type palmitoyltransferase 8 [Source:HGNC Symbol;Acc:HGNC:18474]	9620	-0.09730136394500732	0.34936598	No	
+row_18	EEPD1	endonuclease/exonuclease/phosphatase family domain containing 1 [Source:HGNC Symbol;Acc:HGNC:22223]	10772	-0.21591521799564362	0.28997007	No	
+row_19	NFKBIA	NFKB inhibitor alpha [Source:HGNC Symbol;Acc:HGNC:7797]	11270	-0.27215147018432617	0.27098888	No	
+row_20	SIRT1	sirtuin 1 [Source:HGNC Symbol;Acc:HGNC:14929]	11360	-0.2809147238731384	0.27624	No	
+row_21	GPS2	G protein pathway suppressor 2 [Source:HGNC Symbol;Acc:HGNC:4550]	11991	-0.35208559036254883	0.25244403	No	
+row_22	CAV1	caveolin 1 [Source:HGNC Symbol;Acc:HGNC:1527]	12712	-0.42846065759658813	0.22622019	No	
+row_23	PPARG	peroxisome proliferator activated receptor gamma [Source:HGNC Symbol;Acc:HGNC:9236]	14987	-0.8116626143455505	0.1232201	No	

@@ -1,0 +1,67 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	FGFR2	fibroblast growth factor receptor 2 [Source:HGNC Symbol;Acc:HGNC:3689]	81	2.0126307010650635	0.048692215	Yes	
+row_1	NOG	noggin [Source:HGNC Symbol;Acc:HGNC:7866]	91	1.939037799835205	0.09965908	Yes	
+row_2	NRP2	neuropilin 2 [Source:HGNC Symbol;Acc:HGNC:8005]	119	1.7961848974227905	0.1457749	Yes	
+row_3	SOX4	SRY-box transcription factor 4 [Source:HGNC Symbol;Acc:HGNC:11200]	145	1.6768325567245483	0.18883853	Yes	
+row_4	SMAD6	SMAD family member 6 [Source:HGNC Symbol;Acc:HGNC:6772]	213	1.5436867475509644	0.22589919	Yes	
+row_5	JAG1	jagged canonical Notch ligand 1 [Source:HGNC Symbol;Acc:HGNC:6188]	247	1.4621464014053345	0.26279145	Yes	
+row_6	FZD1	frizzled class receptor 1 [Source:HGNC Symbol;Acc:HGNC:4038]	287	1.3725833892822266	0.29695272	Yes	
+row_7	HEY1	hes related family bHLH transcription factor with YRPW motif 1 [Source:HGNC Symbol;Acc:HGNC:4880]	317	1.3238240480422974	0.33040646	Yes	
+row_8	SLIT3	slit guidance ligand 3 [Source:HGNC Symbol;Acc:HGNC:11087]	333	1.3009601831436157	0.36407533	Yes	
+row_9	SLIT2	slit guidance ligand 2 [Source:HGNC Symbol;Acc:HGNC:11086]	378	1.2280138731002808	0.39410356	Yes	
+row_10	LRP2	LDL receptor related protein 2 [Source:HGNC Symbol;Acc:HGNC:6694]	405	1.2017208337783813	0.42449078	Yes	
+row_11	WNT11	Wnt family member 11 [Source:HGNC Symbol;Acc:HGNC:12776]	616	1.0076916217803955	0.4389175	Yes	
+row_12	DHRS3	dehydrogenase/reductase 3 [Source:HGNC Symbol;Acc:HGNC:17693]	1309	0.7698937654495239	0.41871765	Yes	
+row_13	NOTCH2	notch receptor 2 [Source:HGNC Symbol;Acc:HGNC:7882]	1314	0.7682873010635376	0.43888628	Yes	
+row_14	ISL1	ISL LIM homeobox 1 [Source:HGNC Symbol;Acc:HGNC:6132]	1366	0.75469970703125	0.45593345	Yes	
+row_15	TBX5	T-box transcription factor 5 [Source:HGNC Symbol;Acc:HGNC:11604]	1460	0.7315635681152344	0.4698992	Yes	
+row_16	SMAD7	SMAD family member 7 [Source:HGNC Symbol;Acc:HGNC:6773]	1687	0.6788280010223389	0.4746524	Yes	
+row_17	SAV1	salvador family WW domain containing protein 1 [Source:HGNC Symbol;Acc:HGNC:17795]	2247	0.5808629989624023	0.45724446	Yes	
+row_18	BMP7	bone morphogenetic protein 7 [Source:HGNC Symbol;Acc:HGNC:1074]	2362	0.5614123344421387	0.46545798	Yes	
+row_19	BMPR1A	bone morphogenetic protein receptor type 1A [Source:HGNC Symbol;Acc:HGNC:1076]	2547	0.5322810411453247	0.46878627	Yes	
+row_20	ZFPM2	zinc finger protein, FOG family member 2 [Source:HGNC Symbol;Acc:HGNC:16700]	2604	0.5228045582771301	0.47938123	Yes	
+row_21	ACVR1	activin A receptor type 1 [Source:HGNC Symbol;Acc:HGNC:171]	3227	0.44559645652770996	0.45468053	No	
+row_22	HAND1	heart and neural crest derivatives expressed 1 [Source:HGNC Symbol;Acc:HGNC:4807]	3301	0.43964430689811707	0.46206847	No	
+row_23	RBM15	RNA binding motif protein 15 [Source:HGNC Symbol;Acc:HGNC:14959]	3573	0.41743984818458557	0.45723674	No	
+row_24	SOX11	SRY-box transcription factor 11 [Source:HGNC Symbol;Acc:HGNC:11191]	3608	0.41345417499542236	0.46621987	No	
+row_25	NOTCH1	notch receptor 1 [Source:HGNC Symbol;Acc:HGNC:7881]	4011	0.3689621388912201	0.45240617	No	
+row_26	GATA6	GATA binding protein 6 [Source:HGNC Symbol;Acc:HGNC:4174]	4054	0.3647160530090332	0.45962507	No	
+row_27	ROBO2	roundabout guidance receptor 2 [Source:HGNC Symbol;Acc:HGNC:10250]	4249	0.3453093469142914	0.45740053	No	
+row_28	TBX3	T-box transcription factor 3 [Source:HGNC Symbol;Acc:HGNC:11602]	4330	0.3383883237838745	0.46168822	No	
+row_29	SMO	smoothened, frizzled class receptor [Source:HGNC Symbol;Acc:HGNC:11119]	4412	0.33118051290512085	0.46572575	No	
+row_30	SMAD4	SMAD family member 4 [Source:HGNC Symbol;Acc:HGNC:6770]	4505	0.32045692205429077	0.46883237	No	
+row_31	SEMA3C	semaphorin 3C [Source:HGNC Symbol;Acc:HGNC:10725]	4662	0.3073995113372803	0.46783307	No	
+row_32	APLNR	apelin receptor [Source:HGNC Symbol;Acc:HGNC:339]	4808	0.2978878915309906	0.46722725	No	
+row_33	MKS1	MKS transition zone complex subunit 1 [Source:HGNC Symbol;Acc:HGNC:7121]	5238	0.25886785984039307	0.44890383	No	
+row_34	BMPR2	bone morphogenetic protein receptor type 2 [Source:HGNC Symbol;Acc:HGNC:1078]	5299	0.2516625225543976	0.45206308	No	
+row_35	EGLN1	egl-9 family hypoxia inducible factor 1 [Source:HGNC Symbol;Acc:HGNC:1232]	5976	0.1958780437707901	0.41755873	No	
+row_36	TGFBR1	transforming growth factor beta receptor 1 [Source:HGNC Symbol;Acc:HGNC:11772]	6086	0.18677829205989838	0.4161167	No	
+row_37	MDM2	MDM2 proto-oncogene [Source:HGNC Symbol;Acc:HGNC:6973]	6193	0.17862340807914734	0.41463432	No	
+row_38	TGFB2	transforming growth factor beta 2 [Source:HGNC Symbol;Acc:HGNC:11768]	6270	0.17187601327896118	0.41473484	No	
+row_39	TBX20	T-box transcription factor 20 [Source:HGNC Symbol;Acc:HGNC:11598]	7328	0.08473220467567444	0.35489994	No	
+row_40	TBX1	T-box transcription factor 1 [Source:HGNC Symbol;Acc:HGNC:11592]	7565	0.06499932706356049	0.34276417	No	
+row_41	ROBO1	roundabout guidance receptor 1 [Source:HGNC Symbol;Acc:HGNC:10249]	7686	0.0554564893245697	0.33718848	No	
+row_42	HEYL	hes related family bHLH transcription factor with YRPW motif like [Source:HGNC Symbol;Acc:HGNC:4882]	7697	0.05482981726527214	0.33805722	No	
+row_43	HEY2	hes related family bHLH transcription factor with YRPW motif 2 [Source:HGNC Symbol;Acc:HGNC:4881]	8201	0.01978200301527977	0.3090378	No	
+row_44	PARVA	parvin alpha [Source:HGNC Symbol;Acc:HGNC:14652]	8244	0.016317829489707947	0.3070042	No	
+row_45	FGFRL1	fibroblast growth factor receptor like 1 [Source:HGNC Symbol;Acc:HGNC:3693]	9537	-0.06526300311088562	0.232849	No	
+row_46	WNT5A	Wnt family member 5A [Source:HGNC Symbol;Acc:HGNC:12784]	10023	-0.1030125692486763	0.20709722	No	
+row_47	FZD2	frizzled class receptor 2 [Source:HGNC Symbol;Acc:HGNC:4040]	10228	-0.11953183263540268	0.19828928	No	
+row_48	NRP1	neuropilin 1 [Source:HGNC Symbol;Acc:HGNC:8004]	11536	-0.22148333489894867	0.12740181	No	
+row_49	RBPJ	recombination signal binding protein for immunoglobulin kappa J region [Source:HGNC Symbol;Acc:HGNC:5724]	11801	-0.2436077743768692	0.11836475	No	
+row_50	TP53	tumor protein p53 [Source:HGNC Symbol;Acc:HGNC:11998]	11846	-0.2479649782180786	0.12236558	No	
+row_51	ZFPM1	zinc finger protein, FOG family member 1 [Source:HGNC Symbol;Acc:HGNC:19762]	11936	-0.2553342580795288	0.12391895	No	
+row_52	MSX2	msh homeobox 2 [Source:HGNC Symbol;Acc:HGNC:7392]	12331	-0.2888443171977997	0.10844742	No	
+row_53	NOS3	nitric oxide synthase 3 [Source:HGNC Symbol;Acc:HGNC:7876]	12388	-0.2928505837917328	0.112935446	No	
+row_54	TGFBR2	transforming growth factor beta receptor 2 [Source:HGNC Symbol;Acc:HGNC:11773]	12420	-0.2958448529243469	0.118971415	No	
+row_55	CHD7	chromodomain helicase DNA binding protein 7 [Source:HGNC Symbol;Acc:HGNC:20626]	12491	-0.3012995719909668	0.122861505	No	
+row_56	NSD2	nuclear receptor binding SET domain protein 2 [Source:HGNC Symbol;Acc:HGNC:12766]	12607	-0.31093427538871765	0.12436429	No	
+row_57	HES1	hes family bHLH transcription factor 1 [Source:HGNC Symbol;Acc:HGNC:5192]	12778	-0.3279249668121338	0.12308776	No	
+row_58	CCN1	cellular communication network factor 1 [Source:HGNC Symbol;Acc:HGNC:2654]	12831	-0.3316998779773712	0.12884246	No	
+row_59	CITED2	Cbp/p300 interacting transactivator with Glu/Asp rich carboxy-terminal domain 2 [Source:HGNC Symbol;Acc:HGNC:1987]	13656	-0.41844847798347473	0.091555886	No	
+row_60	TBX2	T-box transcription factor 2 [Source:HGNC Symbol;Acc:HGNC:11597]	14242	-0.4744504392147064	0.069794744	No	
+row_61	BMP4	bone morphogenetic protein 4 [Source:HGNC Symbol;Acc:HGNC:1071]	15134	-0.5946416258811951	0.03325199	No	
+row_62	DNAH11	dynein axonemal heavy chain 11 [Source:HGNC Symbol;Acc:HGNC:2942]	15585	-0.6816007494926453	0.024921708	No	
+row_63	ENG	endoglin [Source:HGNC Symbol;Acc:HGNC:3349]	15890	-0.7549274563789368	0.027114404	No	
+row_64	TGFBR3	transforming growth factor beta receptor 3 [Source:HGNC Symbol;Acc:HGNC:11774]	15993	-0.7823763489723206	0.041900974	No	
+row_65	PROX1	prospero homeobox 1 [Source:HGNC Symbol;Acc:HGNC:9459]	16220	-0.8462816476821899	0.051101286	No	

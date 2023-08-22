@@ -1,0 +1,93 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ASIC2	acid sensing ion channel subunit 2 [Source:HGNC Symbol;Acc:HGNC:99]	5	3.0931427478790283	0.06734614	Yes	
+row_1	CST2	cystatin SA [Source:HGNC Symbol;Acc:HGNC:2474]	27	2.56112003326416	0.12211687	Yes	
+row_2	RTP4	receptor transporter protein 4 [Source:HGNC Symbol;Acc:HGNC:23992]	105	1.846057415008545	0.15795644	Yes	
+row_3	OR51E2	olfactory receptor family 51 subfamily E member 2 [Source:HGNC Symbol;Acc:HGNC:15195]	261	1.4266290664672852	0.18003552	Yes	
+row_4	SCNN1D	sodium channel epithelial 1 subunit delta [Source:HGNC Symbol;Acc:HGNC:10601]	289	1.3710767030715942	0.20842963	Yes	
+row_5	OR2A42	olfactory receptor family 2 subfamily A member 42 [Source:HGNC Symbol;Acc:HGNC:31230]	614	1.0088770389556885	0.21143162	Yes	
+row_6	ITPR3	inositol 1,4,5-trisphosphate receptor type 3 [Source:HGNC Symbol;Acc:HGNC:6182]	895	0.889468252658844	0.2144108	Yes	
+row_7	WNT10B	Wnt family member 10B [Source:HGNC Symbol;Acc:HGNC:12775]	1097	0.8305416703224182	0.22074871	Yes	
+row_8	OR4F29	olfactory receptor family 4 subfamily F member 29 [Source:HGNC Symbol;Acc:HGNC:31275]	1146	0.8188663125038147	0.23583183	Yes	
+row_9	OR4F21	olfactory receptor family 4 subfamily F member 21 [Source:HGNC Symbol;Acc:HGNC:19583]	1147	0.8187620639801025	0.25373638	Yes	
+row_10	NXNL2	nucleoredoxin like 2 [Source:HGNC Symbol;Acc:HGNC:30482]	1173	0.811509907245636	0.27001163	Yes	
+row_11	TRPV1	transient receptor potential cation channel subfamily V member 1 [Source:HGNC Symbol;Acc:HGNC:12716]	1273	0.781249463558197	0.281272	Yes	
+row_12	OR5P3	olfactory receptor family 5 subfamily P member 3 [Source:HGNC Symbol;Acc:HGNC:14784]	1310	0.7694280743598938	0.29597992	Yes	
+row_13	TAS2R10	taste 2 receptor member 10 [Source:HGNC Symbol;Acc:HGNC:14918]	1358	0.7555660009384155	0.30973762	Yes	
+row_14	ASIC1	acid sensing ion channel subunit 1 [Source:HGNC Symbol;Acc:HGNC:100]	1418	0.7415105104446411	0.32248205	Yes	
+row_15	OR2A1	olfactory receptor family 2 subfamily A member 1 [Source:HGNC Symbol;Acc:HGNC:8229]	1454	0.7336282134056091	0.33646595	Yes	
+row_16	TAS2R46	taste 2 receptor member 46 [Source:HGNC Symbol;Acc:HGNC:18877]	1495	0.7253629565238953	0.349975	Yes	
+row_17	BBS4	Bardet-Biedl syndrome 4 [Source:HGNC Symbol;Acc:HGNC:969]	1591	0.7045936584472656	0.35979435	Yes	
+row_18	TAS2R31	taste 2 receptor member 31 [Source:HGNC Symbol;Acc:HGNC:19113]	1592	0.7044937014579773	0.37520006	Yes	
+row_19	TAS1R3	taste 1 receptor member 3 [Source:HGNC Symbol;Acc:HGNC:15661]	1752	0.6672242879867554	0.3804373	Yes	
+row_20	TAS2R30	taste 2 receptor member 30 [Source:HGNC Symbol;Acc:HGNC:19112]	1857	0.6421307921409607	0.3883613	Yes	
+row_21	BBS1	Bardet-Biedl syndrome 1 [Source:HGNC Symbol;Acc:HGNC:966]	2065	0.6089417934417725	0.38950035	Yes	
+row_22	TAS2R20	taste 2 receptor member 20 [Source:HGNC Symbol;Acc:HGNC:19109]	2089	0.6064384579658508	0.40140882	Yes	
+row_23	TAS2R19	taste 2 receptor member 19 [Source:HGNC Symbol;Acc:HGNC:19108]	2336	0.5661975741386414	0.39931887	Yes	
+row_24	OR2AG2	olfactory receptor family 2 subfamily AG member 2 [Source:HGNC Symbol;Acc:HGNC:15143]	2432	0.5492851734161377	0.405742	Yes	
+row_25	PDE4A	phosphodiesterase 4A [Source:HGNC Symbol;Acc:HGNC:8780]	2446	0.5474762916564941	0.41694933	Yes	
+row_26	TAS2R43	taste 2 receptor member 43 [Source:HGNC Symbol;Acc:HGNC:18875]	2606	0.5226250886917114	0.41902453	Yes	
+row_27	TAS2R5	taste 2 receptor member 5 [Source:HGNC Symbol;Acc:HGNC:14912]	2757	0.5019471645355225	0.42117697	Yes	
+row_28	OR2A7	olfactory receptor family 2 subfamily A member 7 [Source:HGNC Symbol;Acc:HGNC:8234]	2886	0.4899471700191498	0.42436117	Yes	
+row_29	OR2D2	olfactory receptor family 2 subfamily D member 2 [Source:HGNC Symbol;Acc:HGNC:8244]	3105	0.46247851848602295	0.4216503	Yes	
+row_30	OR5P2	olfactory receptor family 5 subfamily P member 2 [Source:HGNC Symbol;Acc:HGNC:14783]	3115	0.460517555475235	0.43119135	Yes	
+row_31	OR1L8	olfactory receptor family 1 subfamily L member 8 [Source:HGNC Symbol;Acc:HGNC:15110]	3221	0.44674408435821533	0.43478385	Yes	
+row_32	OR7D2	olfactory receptor family 7 subfamily D member 2 [Source:HGNC Symbol;Acc:HGNC:8378]	3291	0.43993449211120605	0.4403452	Yes	
+row_33	LEF1	lymphoid enhancer binding factor 1 [Source:HGNC Symbol;Acc:HGNC:6551]	3422	0.43083614110946655	0.44211912	Yes	
+row_34	ASIC3	acid sensing ion channel subunit 3 [Source:HGNC Symbol;Acc:HGNC:101]	3441	0.4292772710323334	0.4504476	Yes	
+row_35	GNAT2	G protein subunit alpha transducin 2 [Source:HGNC Symbol;Acc:HGNC:4394]	4250	0.3453051745891571	0.41046646	No	
+row_36	TAS2R13	taste 2 receptor member 13 [Source:HGNC Symbol;Acc:HGNC:14919]	4287	0.3423840403556824	0.4158359	No	
+row_37	NCAM2	neural cell adhesion molecule 2 [Source:HGNC Symbol;Acc:HGNC:7657]	4314	0.33984827995300293	0.42173812	No	
+row_38	TAS2R4	taste 2 receptor member 4 [Source:HGNC Symbol;Acc:HGNC:14911]	4440	0.32759565114974976	0.42154855	No	
+row_39	GNAT1	G protein subunit alpha transducin 1 [Source:HGNC Symbol;Acc:HGNC:4393]	4522	0.31878480315208435	0.4237547	No	
+row_40	CALHM3	calcium homeostasis modulator 3 [Source:HGNC Symbol;Acc:HGNC:23458]	4727	0.3035106062889099	0.41839108	No	
+row_41	TAS2R3	taste 2 receptor member 3 [Source:HGNC Symbol;Acc:HGNC:14910]	4743	0.30259597301483154	0.4241258	No	
+row_42	OR1J2	olfactory receptor family 1 subfamily J member 2 [Source:HGNC Symbol;Acc:HGNC:8209]	4745	0.30256104469299316	0.4306833	No	
+row_43	OR2S2	olfactory receptor family 2 subfamily S member 2 [Source:HGNC Symbol;Acc:HGNC:8276]	5307	0.2506457269191742	0.40316245	No	
+row_44	OR6A2	olfactory receptor family 6 subfamily A member 2 [Source:HGNC Symbol;Acc:HGNC:15301]	5340	0.24761070311069489	0.40669468	No	
+row_45	OMP	olfactory marker protein [Source:HGNC Symbol;Acc:HGNC:8136]	5483	0.23546355962753296	0.40349033	No	
+row_46	NAV2	neuron navigator 2 [Source:HGNC Symbol;Acc:HGNC:15997]	6357	0.16532522439956665	0.35574967	No	
+row_47	BEST2	bestrophin 2 [Source:HGNC Symbol;Acc:HGNC:17107]	6458	0.1578759253025055	0.35331938	No	
+row_48	NPY	neuropeptide Y [Source:HGNC Symbol;Acc:HGNC:7955]	6590	0.1470547616481781	0.3488288	No	
+row_49	LCN1	lipocalin 1 [Source:HGNC Symbol;Acc:HGNC:6525]	6707	0.1348544806241989	0.34495384	No	
+row_50	TAS2R50	taste 2 receptor member 50 [Source:HGNC Symbol;Acc:HGNC:18882]	6971	0.11439099162817001	0.33198383	No	
+row_51	GNB1	G protein subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:4396]	7062	0.10739847272634506	0.32903796	No	
+row_52	TTC8	tetratricopeptide repeat domain 8 [Source:HGNC Symbol;Acc:HGNC:20087]	7196	0.09668276458978653	0.32332823	No	
+row_53	B3GNT2	UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:15629]	7227	0.09359487146139145	0.32361013	No	
+row_54	CD36	CD36 molecule [Source:HGNC Symbol;Acc:HGNC:1663]	7429	0.07527342438697815	0.31343198	No	
+row_55	UBR3	ubiquitin protein ligase E3 component n-recognin 3 [Source:HGNC Symbol;Acc:HGNC:30467]	7591	0.06280439347028732	0.3053342	No	
+row_56	OR2B6	olfactory receptor family 2 subfamily B member 6 [Source:HGNC Symbol;Acc:HGNC:8241]	8072	0.02787487953901291	0.27770683	No	
+row_57	OR10A3	olfactory receptor family 10 subfamily A member 3 [Source:HGNC Symbol;Acc:HGNC:8162]	8175	0.02218710258603096	0.27219164	No	
+row_58	TAS2R1	taste 2 receptor member 1 [Source:HGNC Symbol;Acc:HGNC:14909]	8520	0.0	0.25195518	No	
+row_59	DRD2	dopamine receptor D2 [Source:HGNC Symbol;Acc:HGNC:3023]	8531	0.0	0.2513669	No	
+row_60	OR2A4	olfactory receptor family 2 subfamily A member 4 [Source:HGNC Symbol;Acc:HGNC:14729]	8591	0.0	0.2478961	No	
+row_61	CST1	cystatin SN [Source:HGNC Symbol;Acc:HGNC:2473]	8745	-0.006488547194749117	0.23903747	No	
+row_62	CNGA4	cyclic nucleotide gated channel subunit alpha 4 [Source:HGNC Symbol;Acc:HGNC:2152]	8921	-0.018752556294202805	0.22915283	No	
+row_63	CFAP69	cilia and flagella associated protein 69 [Source:HGNC Symbol;Acc:HGNC:26107]	9061	-0.028085310012102127	0.22159004	No	
+row_64	C5AR1	complement C5a receptor 1 [Source:HGNC Symbol;Acc:HGNC:1338]	9104	-0.031634602695703506	0.21981108	No	
+row_65	OR1J4	olfactory receptor family 1 subfamily J member 4 [Source:HGNC Symbol;Acc:HGNC:8211]	9211	-0.0408250093460083	0.21446818	No	
+row_66	ADCY3	adenylate cyclase 3 [Source:HGNC Symbol;Acc:HGNC:234]	9759	-0.08194158226251602	0.18408169	No	
+row_67	FZD2	frizzled class receptor 2 [Source:HGNC Symbol;Acc:HGNC:4040]	10228	-0.11953183263540268	0.15916456	No	
+row_68	MKKS	MKKS centrosomal shuttling protein [Source:HGNC Symbol;Acc:HGNC:7108]	10404	-0.13359729945659637	0.15179132	No	
+row_69	VN1R1	vomeronasal 1 receptor 1 [Source:HGNC Symbol;Acc:HGNC:13548]	10603	-0.14832350611686707	0.1433871	No	
+row_70	GNAL	G protein subunit alpha L [Source:HGNC Symbol;Acc:HGNC:4388]	10804	-0.16328391432762146	0.13519235	No	
+row_71	GNAS	GNAS complex locus [Source:HGNC Symbol;Acc:HGNC:4392]	11175	-0.19089381396770477	0.1176008	No	
+row_72	REEP2	receptor accessory protein 2 [Source:HGNC Symbol;Acc:HGNC:17975]	11666	-0.23256048560142517	0.09386116	No	
+row_73	B2M	beta-2-microglobulin [Source:HGNC Symbol;Acc:HGNC:914]	11687	-0.2343168705701828	0.09780862	No	
+row_74	OR1F2P	olfactory receptor family 1 subfamily F member 2 pseudogene [Source:HGNC Symbol;Acc:HGNC:8196]	12022	-0.2630796432495117	0.083913386	No	
+row_75	TAS2R14	taste 2 receptor member 14 [Source:HGNC Symbol;Acc:HGNC:14920]	12335	-0.2891657054424286	0.071882784	No	
+row_76	OR2AE1	olfactory receptor family 2 subfamily AE member 1 [Source:HGNC Symbol;Acc:HGNC:15087]	12364	-0.2910481095314026	0.07660022	No	
+row_77	OR2L2	olfactory receptor family 2 subfamily L member 2 [Source:HGNC Symbol;Acc:HGNC:8266]	12558	-0.3058742582798004	0.07193541	No	
+row_78	SCNN1A	sodium channel epithelial 1 subunit alpha [Source:HGNC Symbol;Acc:HGNC:10599]	12912	-0.33822131156921387	0.05856564	No	
+row_79	CST4	cystatin S [Source:HGNC Symbol;Acc:HGNC:2476]	13470	-0.3972318172454834	0.034485597	No	
+row_80	OR10AC1	olfactory receptor family 10 subfamily AC member 1 (gene/pseudogene) [Source:HGNC Symbol;Acc:HGNC:14758]	13820	-0.43395501375198364	0.023444626	No	
+row_81	OR52H1	olfactory receptor family 52 subfamily H member 1 [Source:HGNC Symbol;Acc:HGNC:15218]	13836	-0.43457552790641785	0.03206544	No	
+row_82	CNGB1	cyclic nucleotide gated channel subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:2151]	13916	-0.4424503445625305	0.03709353	No	
+row_83	SLC24A4	solute carrier family 24 member 4 [Source:HGNC Symbol;Acc:HGNC:10978]	14039	-0.45363929867744446	0.03983674	No	
+row_84	OR2C1	olfactory receptor family 2 subfamily C member 1 [Source:HGNC Symbol;Acc:HGNC:8242]	14379	-0.4917643368244171	0.0306482	No	
+row_85	TAS1R1	taste 1 receptor member 1 [Source:HGNC Symbol;Acc:HGNC:14448]	14729	-0.5362823605537415	0.021844903	No	
+row_86	PLCB2	phospholipase C beta 2 [Source:HGNC Symbol;Acc:HGNC:9055]	15132	-0.5946061015129089	0.01119919	No	
+row_87	TRPA1	transient receptor potential cation channel subfamily A member 1 [Source:HGNC Symbol;Acc:HGNC:497]	15492	-0.6631629467010498	0.0045822253	No	
+row_88	OR10A6	olfactory receptor family 10 subfamily A member 6 (gene/pseudogene) [Source:HGNC Symbol;Acc:HGNC:15132]	15917	-0.7625253796577454	-0.0036856544	No	
+row_89	SLC6A3	solute carrier family 6 member 3 [Source:HGNC Symbol;Acc:HGNC:11049]	15992	-0.7823747992515564	0.009069976	No	
+row_90	OR2W6P	olfactory receptor family 2 subfamily W member 6 pseudogene [Source:HGNC Symbol;Acc:HGNC:15072]	16132	-0.8199697136878967	0.01882397	No	
+row_91	OR1F1	olfactory receptor family 1 subfamily F member 1 [Source:HGNC Symbol;Acc:HGNC:8194]	16982	-1.7136338949203491	0.006353284	No	

@@ -1,0 +1,46 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ASIC2	acid sensing ion channel subunit 2 [Source:HGNC Symbol;Acc:HGNC:99]	5	3.0931427478790283	0.1258296	Yes	
+row_1	PIEZO2	piezo type mechanosensitive ion channel component 2 [Source:HGNC Symbol;Acc:HGNC:26270]	191	1.5850070714950562	0.1796053	Yes	
+row_2	ANO3	anoctamin 3 [Source:HGNC Symbol;Acc:HGNC:14004]	196	1.571624994277954	0.24345368	Yes	
+row_3	COL11A1	collagen type XI alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2186]	321	1.317967176437378	0.28991938	Yes	
+row_4	HTR2A	5-hydroxytryptamine receptor 2A [Source:HGNC Symbol;Acc:HGNC:5293]	451	1.146952748298645	0.3291186	Yes	
+row_5	PKD1	polycystin 1, transient receptor potential channel interacting [Source:HGNC Symbol;Acc:HGNC:9008]	701	0.973127543926239	0.35419038	Yes	
+row_6	CDH2	cadherin 2 [Source:HGNC Symbol;Acc:HGNC:1759]	885	0.8938162326812744	0.3799001	Yes	
+row_7	WHRN	whirlin [Source:HGNC Symbol;Acc:HGNC:16361]	1455	0.7335154414176941	0.37642893	Yes	
+row_8	FYN	FYN proto-oncogene, Src family tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:4037]	1594	0.7037118673324585	0.39702705	Yes	
+row_9	PHF24	PHD finger protein 24 [Source:HGNC Symbol;Acc:HGNC:29180]	1677	0.6807980537414551	0.4199761	Yes	
+row_10	CHRNA9	cholinergic receptor nicotinic alpha 9 subunit [Source:HGNC Symbol;Acc:HGNC:14079]	1730	0.6704678535461426	0.44426385	Yes	
+row_11	TCAP	titin-cap [Source:HGNC Symbol;Acc:HGNC:11610]	1812	0.6508931517601013	0.46605217	Yes	
+row_12	ADGRV1	adhesion G protein-coupled receptor V1 [Source:HGNC Symbol;Acc:HGNC:17416]	2395	0.5556623935699463	0.45456642	Yes	
+row_13	TTN	titin [Source:HGNC Symbol;Acc:HGNC:12403]	2564	0.5288292765617371	0.46627375	Yes	
+row_14	JUP	junction plakoglobin [Source:HGNC Symbol;Acc:HGNC:6207]	2780	0.4993453919887543	0.4740216	Yes	
+row_15	PKD1L1	polycystin 1 like 1, transient receptor potential channel interacting [Source:HGNC Symbol;Acc:HGNC:18053]	2912	0.4867783784866333	0.48618492	Yes	
+row_16	PKD1L2	polycystin 1 like 2 (gene/pseudogene) [Source:HGNC Symbol;Acc:HGNC:21715]	3065	0.46767473220825195	0.49633732	Yes	
+row_17	BACE1	beta-secretase 1 [Source:HGNC Symbol;Acc:HGNC:933]	3138	0.45726603269577026	0.5107585	Yes	
+row_18	ASIC3	acid sensing ion channel subunit 3 [Source:HGNC Symbol;Acc:HGNC:101]	3441	0.4292772710323334	0.5105455	Yes	
+row_19	CTNNB1	catenin beta 1 [Source:HGNC Symbol;Acc:HGNC:2514]	3648	0.4094962179660797	0.51515776	Yes	
+row_20	PKD2	polycystin 2, transient receptor potential cation channel [Source:HGNC Symbol;Acc:HGNC:9009]	4051	0.36517012119293213	0.50646436	Yes	
+row_21	PKD2L2	polycystin 2 like 2, transient receptor potential cation channel [Source:HGNC Symbol;Acc:HGNC:9012]	4097	0.3604932427406311	0.5185236	Yes	
+row_22	PJVK	pejvakin [Source:HGNC Symbol;Acc:HGNC:29502]	4859	0.29404088854789734	0.48586917	No	
+row_23	PDZD7	PDZ domain containing 7 [Source:HGNC Symbol;Acc:HGNC:26257]	5512	0.2317490130662918	0.45706928	No	
+row_24	LHFPL5	LHFPL tetraspan subfamily member 5 [Source:HGNC Symbol;Acc:HGNC:21253]	6137	0.18314749002456665	0.4279303	No	
+row_25	PKDREJ	polycystin family receptor for egg jelly [Source:HGNC Symbol;Acc:HGNC:9015]	7185	0.09716428816318512	0.37047014	No	
+row_26	KCNK4	potassium two pore domain channel subfamily K member 4 [Source:HGNC Symbol;Acc:HGNC:6279]	7718	0.05344245955348015	0.34143957	No	
+row_27	KIT	KIT proto-oncogene, receptor tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:6342]	8397	0.005682648625224829	0.30189657	No	
+row_28	SCN1A	sodium voltage-gated channel alpha subunit 1 [Source:HGNC Symbol;Acc:HGNC:10585]	8570	0.0	0.29180622	No	
+row_29	CAV3	caveolin 3 [Source:HGNC Symbol;Acc:HGNC:1529]	8642	0.0	0.28764102	No	
+row_30	PTK2	protein tyrosine kinase 2 [Source:HGNC Symbol;Acc:HGNC:9611]	9502	-0.062142059206962585	0.23978181	No	
+row_31	NTRK1	neurotrophic receptor tyrosine kinase 1 [Source:HGNC Symbol;Acc:HGNC:8031]	9629	-0.07227382808923721	0.235337	No	
+row_32	MKKS	MKKS centrosomal shuttling protein [Source:HGNC Symbol;Acc:HGNC:7108]	10404	-0.13359729945659637	0.19537789	No	
+row_33	TMC1	transmembrane channel like 1 [Source:HGNC Symbol;Acc:HGNC:16513]	10782	-0.1616964042186737	0.17985444	No	
+row_34	TNF	tumor necrosis factor [Source:HGNC Symbol;Acc:HGNC:11892]	11198	-0.1931200474500656	0.16338302	No	
+row_35	STRC	stereocilin [Source:HGNC Symbol;Acc:HGNC:16035]	11341	-0.20345553755760193	0.16334853	No	
+row_36	TMEM120A	transmembrane protein 120A [Source:HGNC Symbol;Acc:HGNC:21697]	12274	-0.28442883491516113	0.12027053	No	
+row_37	PIEZO1	piezo type mechanosensitive ion channel component 1 [Source:HGNC Symbol;Acc:HGNC:28993]	12919	-0.3392643332481384	0.096323915	No	
+row_38	SERPINE2	serpin family E member 2 [Source:HGNC Symbol;Acc:HGNC:8951]	13023	-0.34929677844047546	0.10452402	No	
+row_39	CHRNA10	cholinergic receptor nicotinic alpha 10 subunit [Source:HGNC Symbol;Acc:HGNC:13800]	13263	-0.3745934069156647	0.10577718	No	
+row_40	CXCL12	C-X-C motif chemokine ligand 12 [Source:HGNC Symbol;Acc:HGNC:10672]	13772	-0.4300879240036011	0.09351231	No	
+row_41	CXCR4	C-X-C motif chemokine receptor 4 [Source:HGNC Symbol;Acc:HGNC:2561]	13887	-0.4395671784877777	0.10474788	No	
+row_42	KCNQ1	potassium voltage-gated channel subfamily Q member 1 [Source:HGNC Symbol;Acc:HGNC:6294]	14923	-0.5624731183052063	0.06696467	No	
+row_43	TRPA1	transient receptor potential cation channel subfamily A member 1 [Source:HGNC Symbol;Acc:HGNC:497]	15492	-0.6631629467010498	0.060683545	No	
+row_44	ITGA2	integrin subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:6137]	16108	-0.8094228506088257	0.05760893	No	

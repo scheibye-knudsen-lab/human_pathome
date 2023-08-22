@@ -1,0 +1,64 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CDS1	CDP-diacylglycerol synthase 1 [Source:HGNC Symbol;Acc:HGNC:1800]	5	4.432669162750244	0.07537455	Yes	
+row_1	PLAAT3	phospholipase A and acyltransferase 3 [Source:HGNC Symbol;Acc:HGNC:17825]	25	3.776869058609009	0.13873205	Yes	
+row_2	LPCAT1	lysophosphatidylcholine acyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:25718]	118	2.8868777751922607	0.18260983	Yes	
+row_3	PLA2G4A	phospholipase A2 group IVA [Source:HGNC Symbol;Acc:HGNC:9035]	179	2.607672929763794	0.22360069	Yes	
+row_4	ABHD4	abhydrolase domain containing 4, N-acyl phospholipase B [Source:HGNC Symbol;Acc:HGNC:20154]	203	2.539153814315796	0.26559478	Yes	
+row_5	RAB38	RAB38, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9776]	226	2.4777495861053467	0.30659938	Yes	
+row_6	ABCA3	ATP binding cassette subfamily A member 3 [Source:HGNC Symbol;Acc:HGNC:33]	440	2.009040355682373	0.32838604	Yes	
+row_7	CHKA	choline kinase alpha [Source:HGNC Symbol;Acc:HGNC:1937]	503	1.9109152555465698	0.35736537	Yes	
+row_8	CHPT1	choline phosphotransferase 1 [Source:HGNC Symbol;Acc:HGNC:17852]	548	1.8608167171478271	0.3865466	Yes	
+row_9	APOC1	apolipoprotein C1 [Source:HGNC Symbol;Acc:HGNC:607]	685	1.733796238899231	0.40815663	Yes	
+row_10	ACSL3	acyl-CoA synthetase long chain family member 3 [Source:HGNC Symbol;Acc:HGNC:3570]	759	1.6728403568267822	0.43242592	Yes	
+row_11	PLA2G15	phospholipase A2 group XV [Source:HGNC Symbol;Acc:HGNC:17163]	1037	1.4602360725402832	0.44108567	Yes	
+row_12	PLA2G4C	phospholipase A2 group IVC [Source:HGNC Symbol;Acc:HGNC:9037]	1093	1.4268245697021484	0.46221238	Yes	
+row_13	PNPLA7	patatin like phospholipase domain containing 7 [Source:HGNC Symbol;Acc:HGNC:24768]	1122	1.4134904146194458	0.48469713	Yes	
+row_14	SLC44A3	solute carrier family 44 member 3 [Source:HGNC Symbol;Acc:HGNC:28689]	1174	1.385566234588623	0.50535446	Yes	
+row_15	SCARB1	scavenger receptor class B member 1 [Source:HGNC Symbol;Acc:HGNC:1664]	1211	1.3637288808822632	0.52651995	Yes	
+row_16	PLAAT4	phospholipase A and acyltransferase 4 [Source:HGNC Symbol;Acc:HGNC:9869]	1395	1.2836073637008667	0.53768486	Yes	
+row_17	PCYT1B	phosphate cytidylyltransferase 1B, choline [Source:HGNC Symbol;Acc:HGNC:8755]	1413	1.275731086730957	0.55846393	Yes	
+row_18	ABHD3	abhydrolase domain containing 3, phospholipase [Source:HGNC Symbol;Acc:HGNC:18718]	1813	1.1252268552780151	0.5542402	Yes	
+row_19	PLA2G6	phospholipase A2 group VI [Source:HGNC Symbol;Acc:HGNC:9039]	2191	1.0253955125808716	0.5496043	Yes	
+row_20	LDLR	low density lipoprotein receptor [Source:HGNC Symbol;Acc:HGNC:6547]	2241	1.0093138217926025	0.56395626	Yes	
+row_21	PLA2G3	phospholipase A2 group III [Source:HGNC Symbol;Acc:HGNC:17934]	2528	0.9421785473823547	0.5632439	Yes	
+row_22	MECP2	methyl-CpG binding protein 2 [Source:HGNC Symbol;Acc:HGNC:6990]	2601	0.9265130758285522	0.57483166	Yes	
+row_23	FABP3	fatty acid binding protein 3 [Source:HGNC Symbol;Acc:HGNC:3557]	2795	0.888672947883606	0.5786676	Yes	
+row_24	DHRS7B	dehydrogenase/reductase 7B [Source:HGNC Symbol;Acc:HGNC:24547]	3132	0.8194062113761902	0.57292306	Yes	
+row_25	NR1H3	nuclear receptor subfamily 1 group H member 3 [Source:HGNC Symbol;Acc:HGNC:7966]	3278	0.7875624895095825	0.57785183	Yes	
+row_26	SLC44A4	solute carrier family 44 member 4 [Source:HGNC Symbol;Acc:HGNC:13941]	3410	0.7597812414169312	0.5831285	Yes	
+row_27	LPCAT2	lysophosphatidylcholine acyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:26032]	3634	0.7203810811042786	0.58232975	Yes	
+row_28	DBI	diazepam binding inhibitor, acyl-CoA binding protein [Source:HGNC Symbol;Acc:HGNC:2690]	3769	0.6972612142562866	0.586363	Yes	
+row_29	LCAT	lecithin-cholesterol acyltransferase [Source:HGNC Symbol;Acc:HGNC:6522]	3831	0.6868941783905029	0.5945064	Yes	
+row_30	MBOAT7	membrane bound O-acyltransferase domain containing 7 [Source:HGNC Symbol;Acc:HGNC:15505]	3858	0.6819212436676025	0.6046202	Yes	
+row_31	GDPD3	glycerophosphodiester phosphodiesterase domain containing 3 [Source:HGNC Symbol;Acc:HGNC:28638]	3884	0.6786642074584961	0.6147373	Yes	
+row_32	SLC44A5	solute carrier family 44 member 5 [Source:HGNC Symbol;Acc:HGNC:28524]	3963	0.6647575497627258	0.62150437	Yes	
+row_33	TMEM86B	transmembrane protein 86B [Source:HGNC Symbol;Acc:HGNC:28448]	4996	0.4990480840206146	0.56941736	No	
+row_34	FABP5	fatty acid binding protein 5 [Source:HGNC Symbol;Acc:HGNC:3560]	5154	0.47712311148643494	0.568342	No	
+row_35	MFSD2A	major facilitator superfamily domain containing 2A [Source:HGNC Symbol;Acc:HGNC:25897]	5181	0.4730934500694275	0.5748911	No	
+row_36	PLAAT2	phospholipase A and acyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:17824]	5214	0.4680590033531189	0.5810018	No	
+row_37	LIPC	lipase C, hepatic type [Source:HGNC Symbol;Acc:HGNC:6619]	5244	0.463691383600235	0.58721423	No	
+row_38	PLA2G10	phospholipase A2 group X [Source:HGNC Symbol;Acc:HGNC:9029]	5973	0.3728839159011841	0.5508265	No	
+row_39	GPLD1	glycosylphosphatidylinositol specific phospholipase D1 [Source:HGNC Symbol;Acc:HGNC:4459]	6068	0.36045578122138977	0.5514593	No	
+row_40	PNPLA8	patatin like phospholipase domain containing 8 [Source:HGNC Symbol;Acc:HGNC:28900]	6141	0.34753477573394775	0.5531636	No	
+row_41	GPAT4	glycerol-3-phosphate acyltransferase 4 [Source:HGNC Symbol;Acc:HGNC:20880]	6281	0.33159467577934265	0.5506611	No	
+row_42	PLA2G1B	phospholipase A2 group IB [Source:HGNC Symbol;Acc:HGNC:9030]	6425	0.3158796727657318	0.5476554	No	
+row_43	LPCAT3	lysophosphatidylcholine acyltransferase 3 [Source:HGNC Symbol;Acc:HGNC:30244]	6429	0.3157028555870056	0.5528685	No	
+row_44	NR1H2	nuclear receptor subfamily 1 group H member 2 [Source:HGNC Symbol;Acc:HGNC:7965]	6783	0.26911306381225586	0.53673184	No	
+row_45	CHKB	choline kinase beta [Source:HGNC Symbol;Acc:HGNC:1938]	6866	0.25574567914009094	0.53628194	No	
+row_46	SLC44A1	solute carrier family 44 member 1 [Source:HGNC Symbol;Acc:HGNC:18798]	7036	0.2348879724740982	0.5303668	No	
+row_47	CEPT1	choline/ethanolamine phosphotransferase 1 [Source:HGNC Symbol;Acc:HGNC:24289]	7200	0.21692107617855072	0.5244973	No	
+row_48	APOA2	apolipoprotein A2 [Source:HGNC Symbol;Acc:HGNC:601]	7638	0.16684408485889435	0.5016818	No	
+row_49	PLB1	phospholipase B1 [Source:HGNC Symbol;Acc:HGNC:30041]	8361	0.08373845368623734	0.4607105	No	
+row_50	SLC44A2	solute carrier family 44 member 2 [Source:HGNC Symbol;Acc:HGNC:17292]	8395	0.0798393189907074	0.46013543	No	
+row_51	LPCAT4	lysophosphatidylcholine acyltransferase 4 [Source:HGNC Symbol;Acc:HGNC:30059]	8986	0.0050330678932368755	0.4255725	No	
+row_52	PEMT	phosphatidylethanolamine N-methyltransferase [Source:HGNC Symbol;Acc:HGNC:8830]	8995	0.004345717374235392	0.4251769	No	
+row_53	CETP	cholesteryl ester transfer protein [Source:HGNC Symbol;Acc:HGNC:1869]	9570	-0.04469887912273407	0.39223075	No	
+row_54	PCYT1A	phosphate cytidylyltransferase 1A, choline [Source:HGNC Symbol;Acc:HGNC:8754]	10045	-0.09702017158269882	0.36605042	No	
+row_55	PNPLA6	patatin like phospholipase domain containing 6 [Source:HGNC Symbol;Acc:HGNC:16268]	10421	-0.1458948254585266	0.34651837	No	
+row_56	SLC27A1	solute carrier family 27 member 1 [Source:HGNC Symbol;Acc:HGNC:10995]	10575	-0.16666695475578308	0.34037828	No	
+row_57	MBOAT1	membrane bound O-acyltransferase domain containing 1 [Source:HGNC Symbol;Acc:HGNC:21579]	10590	-0.16923384368419647	0.34244502	No	
+row_58	MBOAT2	membrane bound O-acyltransferase domain containing 2 [Source:HGNC Symbol;Acc:HGNC:25193]	10986	-0.2225012630224228	0.32304615	No	
+row_59	APOA1	apolipoprotein A1 [Source:HGNC Symbol;Acc:HGNC:600]	11594	-0.3001885414123535	0.29252338	No	
+row_60	ENPP2	ectonucleotide pyrophosphatase/phosphodiesterase 2 [Source:HGNC Symbol;Acc:HGNC:3357]	12933	-0.48282286524772644	0.22218898	No	
+row_61	CAPN2	calpain 2 [Source:HGNC Symbol;Acc:HGNC:1479]	13761	-0.6127245426177979	0.18408147	No	
+row_62	LPGAT1	lysophosphatidylglycerol acyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:28985]	14005	-0.6655486226081848	0.18117215	No	

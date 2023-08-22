@@ -1,0 +1,19 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	IGF2	insulin like growth factor 2 [Source:HGNC Symbol;Acc:HGNC:5466]	56	2.9798853397369385	0.20975201	Yes	
+row_1	ERBB3	erb-b2 receptor tyrosine kinase 3 [Source:HGNC Symbol;Acc:HGNC:3431]	271	2.0484724044799805	0.34366292	Yes	
+row_2	CDON	cell adhesion associated, oncogene regulated [Source:HGNC Symbol;Acc:HGNC:17104]	381	1.806652307510376	0.46643615	Yes	
+row_3	ACTN3	actinin alpha 3 [Source:HGNC Symbol;Acc:HGNC:165]	611	1.5173850059509277	0.561501	Yes	
+row_4	PPARGC1A	PPARG coactivator 1 alpha [Source:HGNC Symbol;Acc:HGNC:9237]	810	1.3307920694351196	0.6450421	Yes	
+row_5	DLL1	delta like canonical Notch ligand 1 [Source:HGNC Symbol;Acc:HGNC:2908]	2078	0.8071408271789551	0.62853384	No	
+row_6	CTNNB1	catenin beta 1 [Source:HGNC Symbol;Acc:HGNC:2514]	3615	0.5126413106918335	0.575216	No	
+row_7	MEF2C	myocyte enhancer factor 2C [Source:HGNC Symbol;Acc:HGNC:6996]	4538	0.4018527865409851	0.54994106	No	
+row_8	SHOX2	short stature homeobox 2 [Source:HGNC Symbol;Acc:HGNC:10854]	5688	0.2674594521522522	0.50176245	No	
+row_9	MRTFB	myocardin related transcription factor B [Source:HGNC Symbol;Acc:HGNC:29819]	5992	0.2360827475786209	0.5008927	No	
+row_10	SHH	sonic hedgehog signaling molecule [Source:HGNC Symbol;Acc:HGNC:10848]	7991	0.04516608640551567	0.38709477	No	
+row_11	CREB1	cAMP responsive element binding protein 1 [Source:HGNC Symbol;Acc:HGNC:2345]	8422	0.010155191645026207	0.36263478	No	
+row_12	MTM1	myotubularin 1 [Source:HGNC Symbol;Acc:HGNC:7448]	9976	-0.10774095356464386	0.27937484	No	
+row_13	RPS6KB1	ribosomal protein S6 kinase B1 [Source:HGNC Symbol;Acc:HGNC:10436]	11155	-0.2212752252817154	0.22619598	No	
+row_14	NIBAN2	niban apoptosis regulator 2 [Source:HGNC Symbol;Acc:HGNC:25282]	12205	-0.3332863748073578	0.18858057	No	
+row_15	FLOT1	flotillin 1 [Source:HGNC Symbol;Acc:HGNC:3757]	12849	-0.4051126539707184	0.17988028	No	
+row_16	PRKAA1	protein kinase AMP-activated catalytic subunit alpha 1 [Source:HGNC Symbol;Acc:HGNC:9376]	13024	-0.4240727126598358	0.20000571	No	
+row_17	BCL2	BCL2 apoptosis regulator [Source:HGNC Symbol;Acc:HGNC:990]	13945	-0.5327947735786438	0.18420896	No	

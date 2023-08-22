@@ -1,0 +1,23 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	IGF2	insulin like growth factor 2 [Source:HGNC Symbol;Acc:HGNC:5466]	56	2.9798853397369385	0.18603663	Yes	
+row_1	SORBS1	sorbin and SH3 domain containing 1 [Source:HGNC Symbol;Acc:HGNC:14565]	206	2.230713129043579	0.31902856	Yes	
+row_2	ERFE	erythroferrone [Source:HGNC Symbol;Acc:HGNC:26727]	398	1.784203290939331	0.4211923	Yes	
+row_3	AGT	angiotensinogen [Source:HGNC Symbol;Acc:HGNC:333]	619	1.5130343437194824	0.5044292	Yes	
+row_4	GKAP1	G kinase anchoring protein 1 [Source:HGNC Symbol;Acc:HGNC:17496]	1356	1.036050796508789	0.5271323	Yes	
+row_5	ECHDC3	enoyl-CoA hydratase domain containing 3 [Source:HGNC Symbol;Acc:HGNC:23489]	2318	0.7475317716598511	0.5183234	Yes	
+row_6	SRC	SRC proto-oncogene, non-receptor tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:11283]	2482	0.713200569152832	0.55408484	Yes	
+row_7	PRKCZ	protein kinase C zeta [Source:HGNC Symbol;Acc:HGNC:9412]	2529	0.7018983364105225	0.59598273	Yes	
+row_8	LEP	leptin [Source:HGNC Symbol;Acc:HGNC:6553]	2794	0.6461989879608154	0.6215703	Yes	
+row_9	SORL1	sortilin related receptor 1 [Source:HGNC Symbol;Acc:HGNC:11185]	6520	0.18326090276241302	0.41498128	No	
+row_10	MYO1C	myosin IC [Source:HGNC Symbol;Acc:HGNC:7597]	6827	0.1530579775571823	0.4067781	No	
+row_11	ESRRA	estrogen related receptor alpha [Source:HGNC Symbol;Acc:HGNC:3471]	6849	0.15153132379055023	0.41517484	No	
+row_12	IRS1	insulin receptor substrate 1 [Source:HGNC Symbol;Acc:HGNC:6125]	8842	-0.009250701405107975	0.29905975	No	
+row_13	SIRT1	sirtuin 1 [Source:HGNC Symbol;Acc:HGNC:14929]	10379	-0.15049372613430023	0.2186332	No	
+row_14	SNX5	sorting nexin 5 [Source:HGNC Symbol;Acc:HGNC:14969]	10836	-0.19269388914108276	0.20416029	No	
+row_15	ADIPOR1	adiponectin receptor 1 [Source:HGNC Symbol;Acc:HGNC:24040]	11486	-0.25341230630874634	0.18223788	No	
+row_16	ZBTB7B	zinc finger and BTB domain containing 7B [Source:HGNC Symbol;Acc:HGNC:18668]	11644	-0.2691274881362915	0.19013807	No	
+row_17	NUCKS1	nuclear casein kinase and cyclin dependent kinase substrate 1 [Source:HGNC Symbol;Acc:HGNC:29923]	11688	-0.2741686999797821	0.20503731	No	
+row_18	OSBPL8	oxysterol binding protein like 8 [Source:HGNC Symbol;Acc:HGNC:16396]	12072	-0.3166239261627197	0.20271465	No	
+row_19	PTPN11	protein tyrosine phosphatase non-receptor type 11 [Source:HGNC Symbol;Acc:HGNC:9644]	13082	-0.42783236503601074	0.1707826	No	
+row_20	C1QTNF12	C1q and TNF related 12 [Source:HGNC Symbol;Acc:HGNC:32308]	13699	-0.4986545443534851	0.16637419	No	
+row_21	GNAI2	G protein subunit alpha i2 [Source:HGNC Symbol;Acc:HGNC:4385]	13762	-0.5073274374008179	0.19497329	No	

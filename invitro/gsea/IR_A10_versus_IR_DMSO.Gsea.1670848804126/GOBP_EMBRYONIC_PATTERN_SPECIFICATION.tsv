@@ -1,0 +1,57 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	FZD5	frizzled class receptor 5 [Source:HGNC Symbol;Acc:HGNC:4043]	4	4.03970193862915	0.0918956	Yes	
+row_1	SEMA3F	semaphorin 3F [Source:HGNC Symbol;Acc:HGNC:10728]	31	3.335118532180786	0.16643085	Yes	
+row_2	SMAD6	SMAD family member 6 [Source:HGNC Symbol;Acc:HGNC:6772]	79	2.758070468902588	0.22657304	Yes	
+row_3	TBX6	T-box transcription factor 6 [Source:HGNC Symbol;Acc:HGNC:11605]	105	2.611513376235962	0.28466427	Yes	
+row_4	FGFR2	fibroblast growth factor receptor 2 [Source:HGNC Symbol;Acc:HGNC:3689]	113	2.5951716899871826	0.34343946	Yes	
+row_5	NRP2	neuropilin 2 [Source:HGNC Symbol;Acc:HGNC:8005]	131	2.512573719024658	0.39974388	Yes	
+row_6	IHH	Indian hedgehog signaling molecule [Source:HGNC Symbol;Acc:HGNC:5956]	471	1.6661149263381958	0.4178415	Yes	
+row_7	LAMA5	laminin subunit alpha 5 [Source:HGNC Symbol;Acc:HGNC:6485]	474	1.6637965440750122	0.45566902	Yes	
+row_8	MESP1	mesoderm posterior bHLH transcription factor 1 [Source:HGNC Symbol;Acc:HGNC:29658]	843	1.3108229637145996	0.4639614	Yes	
+row_9	DISP1	dispatched RND transporter family member 1 [Source:HGNC Symbol;Acc:HGNC:19711]	1426	1.0063345432281494	0.45274714	Yes	
+row_10	NRARP	NOTCH regulated ankyrin repeat protein [Source:HGNC Symbol;Acc:HGNC:33843]	1607	0.9429320096969604	0.4636854	Yes	
+row_11	MESP2	mesoderm posterior bHLH transcription factor 2 [Source:HGNC Symbol;Acc:HGNC:29659]	1626	0.9374324679374695	0.48400804	Yes	
+row_12	EFNB1	ephrin B1 [Source:HGNC Symbol;Acc:HGNC:3226]	2077	0.8073031902313232	0.4760034	Yes	
+row_13	DLL1	delta like canonical Notch ligand 1 [Source:HGNC Symbol;Acc:HGNC:2908]	2078	0.8071408271789551	0.49441126	Yes	
+row_14	RIPPLY3	ripply transcriptional repressor 3 [Source:HGNC Symbol;Acc:HGNC:3047]	2441	0.7226501703262329	0.48964182	Yes	
+row_15	TDRKH	tudor and KH domain containing [Source:HGNC Symbol;Acc:HGNC:11713]	2902	0.6256518363952637	0.47690737	Yes	
+row_16	TBX3	T-box transcription factor 3 [Source:HGNC Symbol;Acc:HGNC:11602]	3039	0.605182945728302	0.48272574	Yes	
+row_17	PTCH1	patched 1 [Source:HGNC Symbol;Acc:HGNC:9585]	3280	0.5639786124229431	0.48149934	Yes	
+row_18	SMAD1	SMAD family member 1 [Source:HGNC Symbol;Acc:HGNC:6767]	3347	0.5531213879585266	0.4902396	Yes	
+row_19	TDRD6	tudor domain containing 6 [Source:HGNC Symbol;Acc:HGNC:21339]	3444	0.5388412475585938	0.49689305	Yes	
+row_20	CTNNB1	catenin beta 1 [Source:HGNC Symbol;Acc:HGNC:2514]	3615	0.5126413106918335	0.49860504	Yes	
+row_21	MEIS1	Meis homeobox 1 [Source:HGNC Symbol;Acc:HGNC:7000]	3726	0.4985240697860718	0.5035172	Yes	
+row_22	MEIS2	Meis homeobox 2 [Source:HGNC Symbol;Acc:HGNC:7001]	4557	0.39978787302970886	0.46391162	No	
+row_23	TDRD7	tudor domain containing 7 [Source:HGNC Symbol;Acc:HGNC:30831]	4666	0.38721001148223877	0.46640256	No	
+row_24	STIL	STIL centriolar assembly protein [Source:HGNC Symbol;Acc:HGNC:10879]	4739	0.3771422207355499	0.47077715	No	
+row_25	HOXD8	homeobox D8 [Source:HGNC Symbol;Acc:HGNC:5139]	4876	0.35981935262680054	0.47099972	No	
+row_26	FRS2	fibroblast growth factor receptor substrate 2 [Source:HGNC Symbol;Acc:HGNC:16971]	4926	0.35445868968963623	0.47620717	No	
+row_27	DOP1B	DOP1 leucine zipper like protein B [Source:HGNC Symbol;Acc:HGNC:1291]	4961	0.34994301199913025	0.48219216	No	
+row_28	SIM2	SIM bHLH transcription factor 2 [Source:HGNC Symbol;Acc:HGNC:10883]	5196	0.3216961622238159	0.4757924	No	
+row_29	PLD6	phospholipase D family member 6 [Source:HGNC Symbol;Acc:HGNC:30447]	5407	0.2985635995864868	0.47027397	No	
+row_30	EPB41L5	erythrocyte membrane protein band 4.1 like 5 [Source:HGNC Symbol;Acc:HGNC:19819]	5549	0.28417253494262695	0.4684778	No	
+row_31	ZBTB16	zinc finger and BTB domain containing 16 [Source:HGNC Symbol;Acc:HGNC:12930]	6175	0.21856269240379333	0.4367732	No	
+row_32	SHH	sonic hedgehog signaling molecule [Source:HGNC Symbol;Acc:HGNC:10848]	7991	0.04516608640551567	0.33125794	No	
+row_33	RIPPLY2	ripply transcriptional repressor 2 [Source:HGNC Symbol;Acc:HGNC:21390]	8059	0.04137389361858368	0.32826844	No	
+row_34	SATB2	SATB homeobox 2 [Source:HGNC Symbol;Acc:HGNC:21637]	8170	0.03162127733230591	0.3225323	No	
+row_35	MEOX2	mesenchyme homeobox 2 [Source:HGNC Symbol;Acc:HGNC:7014]	8243	0.025204062461853027	0.31888053	No	
+row_36	PGAP1	post-GPI attachment to proteins inositol deacylase 1 [Source:HGNC Symbol;Acc:HGNC:25712]	8354	0.016919972375035286	0.3128091	No	
+row_37	OOEP	oocyte expressed protein [Source:HGNC Symbol;Acc:HGNC:21382]	8442	0.008136942982673645	0.30788755	No	
+row_38	TASOR	transcription activation suppressor [Source:HGNC Symbol;Acc:HGNC:30314]	8829	-0.008444130420684814	0.2854209	No	
+row_39	SMAD2	SMAD family member 2 [Source:HGNC Symbol;Acc:HGNC:6768]	8973	-0.019132813438773155	0.27746278	No	
+row_40	SMAD5	SMAD family member 5 [Source:HGNC Symbol;Acc:HGNC:6771]	9314	-0.04679512232542038	0.2585711	No	
+row_41	SMAD4	SMAD family member 4 [Source:HGNC Symbol;Acc:HGNC:6770]	9556	-0.06724797189235687	0.24595742	No	
+row_42	TMED2	transmembrane p24 trafficking protein 2 [Source:HGNC Symbol;Acc:HGNC:16996]	11165	-0.2220848947763443	0.15662844	No	
+row_43	MEIS3	Meis homeobox 3 [Source:HGNC Symbol;Acc:HGNC:29537]	11422	-0.24646781384944916	0.14722157	No	
+row_44	C2CD3	C2 domain containing 3 centriole elongation regulator [Source:HGNC Symbol;Acc:HGNC:24564]	11680	-0.27256500720977783	0.13835116	No	
+row_45	CHRDL1	chordin like 1 [Source:HGNC Symbol;Acc:HGNC:29861]	11827	-0.2893243134021759	0.13637897	No	
+row_46	COBL	cordon-bleu WH2 repeat protein [Source:HGNC Symbol;Acc:HGNC:22199]	12877	-0.4080307185649872	0.084105514	No	
+row_47	BASP1	brain abundant membrane attached signal protein 1 [Source:HGNC Symbol;Acc:HGNC:957]	13011	-0.4220738708972931	0.08592398	No	
+row_48	NRP1	neuropilin 1 [Source:HGNC Symbol;Acc:HGNC:8004]	13376	-0.4602694511413574	0.07505322	No	
+row_49	PCSK6	proprotein convertase subtilisin/kexin type 6 [Source:HGNC Symbol;Acc:HGNC:8569]	13832	-0.517067551612854	0.060135875	No	
+row_50	FGF10	fibroblast growth factor 10 [Source:HGNC Symbol;Acc:HGNC:3666]	14373	-0.6063331961631775	0.042264614	No	
+row_51	MEIS3P1	Meis homeobox 3 pseudogene 1 [Source:HGNC Symbol;Acc:HGNC:7002]	14632	-0.6533112525939941	0.042018898	No	
+row_52	WNT5A	Wnt family member 5A [Source:HGNC Symbol;Acc:HGNC:12784]	15942	-1.0035486221313477	-0.011935727	No	
+row_53	BMP7	bone morphogenetic protein 7 [Source:HGNC Symbol;Acc:HGNC:1074]	16115	-1.089393138885498	0.0028123755	No	
+row_54	MEOX1	mesenchyme homeobox 1 [Source:HGNC Symbol;Acc:HGNC:7013]	16283	-1.1827752590179443	0.019983685	No	
+row_55	SMAD3	SMAD family member 3 [Source:HGNC Symbol;Acc:HGNC:6769]	16309	-1.198386549949646	0.04584681	No	

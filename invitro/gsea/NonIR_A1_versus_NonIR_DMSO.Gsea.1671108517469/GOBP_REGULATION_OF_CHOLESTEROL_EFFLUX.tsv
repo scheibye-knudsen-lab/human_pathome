@@ -1,0 +1,36 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ABCA12	ATP binding cassette subfamily A member 12 [Source:HGNC Symbol;Acc:HGNC:14637]	259	1.5430010557174683	0.05772904	Yes	
+row_1	CES1	carboxylesterase 1 [Source:HGNC Symbol;Acc:HGNC:1863]	342	1.4075875282287598	0.11943671	Yes	
+row_2	LRP1	LDL receptor related protein 1 [Source:HGNC Symbol;Acc:HGNC:6692]	383	1.3603515625	0.18137473	Yes	
+row_3	ABCA1	ATP binding cassette subfamily A member 1 [Source:HGNC Symbol;Acc:HGNC:29]	405	1.335307002067566	0.24324325	Yes	
+row_4	EGF	epidermal growth factor [Source:HGNC Symbol;Acc:HGNC:3229]	463	1.2857742309570312	0.3006604	Yes	
+row_5	APOE	apolipoprotein E [Source:HGNC Symbol;Acc:HGNC:613]	634	1.1571556329727173	0.3453745	Yes	
+row_6	ABCA8	ATP binding cassette subfamily A member 8 [Source:HGNC Symbol;Acc:HGNC:38]	643	1.1538527011871338	0.3994306	Yes	
+row_7	ABCA2	ATP binding cassette subfamily A member 2 [Source:HGNC Symbol;Acc:HGNC:32]	673	1.1332694292068481	0.4512828	Yes	
+row_8	PLTP	phospholipid transfer protein [Source:HGNC Symbol;Acc:HGNC:9093]	676	1.1300325393676758	0.5045651	Yes	
+row_9	CETP	cholesteryl ester transfer protein [Source:HGNC Symbol;Acc:HGNC:1869]	986	0.97479248046875	0.532512	Yes	
+row_10	ABCA5	ATP binding cassette subfamily A member 5 [Source:HGNC Symbol;Acc:HGNC:35]	1285	0.8663409352302551	0.55597895	Yes	
+row_11	PLA2G10	phospholipase A2 group X [Source:HGNC Symbol;Acc:HGNC:9029]	1607	0.7743605971336365	0.5737509	Yes	
+row_12	ABCA3	ATP binding cassette subfamily A member 3 [Source:HGNC Symbol;Acc:HGNC:33]	1894	0.7022218108177185	0.59016603	Yes	
+row_13	ABCG4	ATP binding cassette subfamily G member 4 [Source:HGNC Symbol;Acc:HGNC:13884]	2412	0.6028218865394592	0.5883404	Yes	
+row_14	TTC39B	tetratricopeptide repeat domain 39B [Source:HGNC Symbol;Acc:HGNC:23704]	2893	0.5207887291908264	0.5848076	Yes	
+row_15	RXRA	retinoid X receptor alpha [Source:HGNC Symbol;Acc:HGNC:10477]	3202	0.482225626707077	0.58953696	Yes	
+row_16	ABCG1	ATP binding cassette subfamily G member 1 [Source:HGNC Symbol;Acc:HGNC:73]	3301	0.4675830900669098	0.60588676	Yes	
+row_17	NR1H2	nuclear receptor subfamily 1 group H member 2 [Source:HGNC Symbol;Acc:HGNC:7965]	5083	0.2715117037296295	0.51429623	No	
+row_18	SREBF2	sterol regulatory element binding transcription factor 2 [Source:HGNC Symbol;Acc:HGNC:11290]	5165	0.2634584605693817	0.5219969	No	
+row_19	SIRT1	sirtuin 1 [Source:HGNC Symbol;Acc:HGNC:14929]	5534	0.22714094817638397	0.5111544	No	
+row_20	PTCH1	patched 1 [Source:HGNC Symbol;Acc:HGNC:9585]	6330	0.15497800707817078	0.47186673	No	
+row_21	EEPD1	endonuclease/exonuclease/phosphatase family domain containing 1 [Source:HGNC Symbol;Acc:HGNC:22223]	6557	0.13096776604652405	0.46480513	No	
+row_22	ABCA7	ATP binding cassette subfamily A member 7 [Source:HGNC Symbol;Acc:HGNC:37]	6834	0.10384856164455414	0.4535305	No	
+row_23	CAV1	caveolin 1 [Source:HGNC Symbol;Acc:HGNC:1527]	7710	0.03110859915614128	0.40369892	No	
+row_24	TREM2	triggering receptor expressed on myeloid cells 2 [Source:HGNC Symbol;Acc:HGNC:17761]	8159	0.0	0.3774325	No	
+row_25	NAXE	NAD(P)HX epimerase [Source:HGNC Symbol;Acc:HGNC:18453]	8527	-0.007520503364503384	0.35627052	No	
+row_26	YJEFN3	YjeF N-terminal domain containing 3 [Source:HGNC Symbol;Acc:HGNC:24785]	8635	-0.01617404818534851	0.35076138	No	
+row_27	NR1H3	nuclear receptor subfamily 1 group H member 3 [Source:HGNC Symbol;Acc:HGNC:7966]	8645	-0.016870304942131042	0.35103092	No	
+row_28	APOA1	apolipoprotein A1 [Source:HGNC Symbol;Acc:HGNC:600]	9577	-0.0965535044670105	0.30100864	No	
+row_29	ZDHHC8	zinc finger DHHC-type palmitoyltransferase 8 [Source:HGNC Symbol;Acc:HGNC:18474]	11380	-0.2501996159553528	0.20717981	No	
+row_30	GPS2	G protein pathway suppressor 2 [Source:HGNC Symbol;Acc:HGNC:4550]	12733	-0.3850119709968567	0.14610521	No	
+row_31	SHH	sonic hedgehog signaling molecule [Source:HGNC Symbol;Acc:HGNC:10848]	13116	-0.42087969183921814	0.14359702	No	
+row_32	NFKBIA	NFKB inhibitor alpha [Source:HGNC Symbol;Acc:HGNC:7797]	13559	-0.4693005681037903	0.13985913	No	
+row_33	LAMTOR1	late endosomal/lysosomal adaptor, MAPK and MTOR activator 1 [Source:HGNC Symbol;Acc:HGNC:26068]	13793	-0.4975410997867584	0.14970948	No	
+row_34	PPARG	peroxisome proliferator activated receptor gamma [Source:HGNC Symbol;Acc:HGNC:9236]	15832	-0.9213085174560547	0.073757045	No	

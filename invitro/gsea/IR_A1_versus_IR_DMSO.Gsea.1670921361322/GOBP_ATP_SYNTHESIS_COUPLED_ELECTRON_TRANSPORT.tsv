@@ -1,0 +1,98 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	UQCRHL	ubiquinol-cytochrome c reductase hinge protein like [Source:HGNC Symbol;Acc:HGNC:51714]	1214	0.7958109378814697	-0.056278907	No	
+row_1	TAFAZZIN	tafazzin, phospholipid-lysophospholipid transacylase [Source:HGNC Symbol;Acc:HGNC:11577]	2079	0.6073729395866394	-0.09555155	No	
+row_2	SNCA	synuclein alpha [Source:HGNC Symbol;Acc:HGNC:11138]	2529	0.5345931649208069	-0.11179007	No	
+row_3	COX15	cytochrome c oxidase assembly homolog COX15 [Source:HGNC Symbol;Acc:HGNC:2263]	4442	0.32740533351898193	-0.21806416	No	
+row_4	MT-CO1	mitochondrially encoded cytochrome c oxidase I [Source:HGNC Symbol;Acc:HGNC:7419]	4696	0.30539044737815857	-0.2271349	No	
+row_5	ISCU	iron-sulfur cluster assembly enzyme [Source:HGNC Symbol;Acc:HGNC:29882]	5360	0.24566888809204102	-0.26146933	No	
+row_6	MTCO2P12	MT-CO2 pseudogene 12 [Source:HGNC Symbol;Acc:HGNC:52028]	5737	0.21694181859493256	-0.27946264	No	
+row_7	NDUFA3	NADH:ubiquinone oxidoreductase subunit A3 [Source:HGNC Symbol;Acc:HGNC:7686]	6678	0.13702493906021118	-0.3321663	No	
+row_8	MT-CYB	mitochondrially encoded cytochrome b [Source:HGNC Symbol;Acc:HGNC:7427]	6835	0.12485115975141525	-0.33896795	No	
+row_9	NDUFS1	NADH:ubiquinone oxidoreductase core subunit S1 [Source:HGNC Symbol;Acc:HGNC:7707]	7395	0.07851000130176544	-0.37036648	No	
+row_10	MT-ND5	mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 5 [Source:HGNC Symbol;Acc:HGNC:7461]	7424	0.07551335543394089	-0.37057582	No	
+row_11	MT-ND6	mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 6 [Source:HGNC Symbol;Acc:HGNC:7462]	7820	0.0457804836332798	-0.39294732	No	
+row_12	MT-ND4L	mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 4L [Source:HGNC Symbol;Acc:HGNC:7460]	8279	0.014253342524170876	-0.4196265	No	
+row_13	MT-CO3	mitochondrially encoded cytochrome c oxidase III [Source:HGNC Symbol;Acc:HGNC:7422]	8420	0.00436894316226244	-0.4277815	No	
+row_14	MT-ND2	mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 2 [Source:HGNC Symbol;Acc:HGNC:7456]	8468	0.00142197054810822	-0.4305201	No	
+row_15	MT-ND4	mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 4 [Source:HGNC Symbol;Acc:HGNC:7459]	9075	-0.02956271730363369	-0.46561664	No	
+row_16	MT-ND1	mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 1 [Source:HGNC Symbol;Acc:HGNC:7455]	9241	-0.04346073791384697	-0.47449815	No	
+row_17	SDHA	succinate dehydrogenase complex flavoprotein subunit A [Source:HGNC Symbol;Acc:HGNC:10680]	9365	-0.05354946851730347	-0.48071602	No	
+row_18	NDUFA10	NADH:ubiquinone oxidoreductase subunit A10 [Source:HGNC Symbol;Acc:HGNC:7684]	9986	-0.10022895783185959	-0.5152904	No	
+row_19	MT-CO2	mitochondrially encoded cytochrome c oxidase II [Source:HGNC Symbol;Acc:HGNC:7421]	10243	-0.12032023072242737	-0.52806276	No	
+row_20	NDUFAF1	NADH:ubiquinone oxidoreductase complex assembly factor 1 [Source:HGNC Symbol;Acc:HGNC:18828]	10367	-0.13087527453899384	-0.53280777	No	
+row_21	MT-ND3	mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 3 [Source:HGNC Symbol;Acc:HGNC:7458]	10376	-0.13146540522575378	-0.5307745	No	
+row_22	SDHD	succinate dehydrogenase complex subunit D [Source:HGNC Symbol;Acc:HGNC:10683]	10906	-0.17024323344230652	-0.5586604	No	
+row_23	GHITM	growth hormone inducible transmembrane protein [Source:HGNC Symbol;Acc:HGNC:17281]	11057	-0.18236681818962097	-0.5640135	No	
+row_24	UQCRC2	ubiquinol-cytochrome c reductase core protein 2 [Source:HGNC Symbol;Acc:HGNC:12586]	11488	-0.21703015267848969	-0.58518267	No	
+row_25	NDUFB5	NADH:ubiquinone oxidoreductase subunit B5 [Source:HGNC Symbol;Acc:HGNC:7700]	11690	-0.23443768918514252	-0.592545	No	
+row_26	NDUFS2	NADH:ubiquinone oxidoreductase core subunit S2 [Source:HGNC Symbol;Acc:HGNC:7708]	11713	-0.23638193309307098	-0.5893371	No	
+row_27	AFG1L	AFG1 like ATPase [Source:HGNC Symbol;Acc:HGNC:16411]	12580	-0.3076639771461487	-0.6344361	No	
+row_28	UQCRFS1	ubiquinol-cytochrome c reductase, Rieske iron-sulfur polypeptide 1 [Source:HGNC Symbol;Acc:HGNC:12587]	12609	-0.3110488951206207	-0.6301591	No	
+row_29	DLD	dihydrolipoamide dehydrogenase [Source:HGNC Symbol;Acc:HGNC:2898]	12684	-0.3184415102005005	-0.62844807	No	
+row_30	COQ9	coenzyme Q9 [Source:HGNC Symbol;Acc:HGNC:25302]	12716	-0.321004182100296	-0.62415797	No	
+row_31	NDUFV3	NADH:ubiquinone oxidoreductase subunit V3 [Source:HGNC Symbol;Acc:HGNC:7719]	12728	-0.32234588265419006	-0.61866546	No	
+row_32	COX7A2L	cytochrome c oxidase subunit 7A2 like [Source:HGNC Symbol;Acc:HGNC:2289]	13043	-0.3509940207004547	-0.63045704	No	
+row_33	NDUFV1	NADH:ubiquinone oxidoreductase core subunit V1 [Source:HGNC Symbol;Acc:HGNC:7716]	13580	-0.40937745571136475	-0.6542001	No	
+row_34	NDUFS4	NADH:ubiquinone oxidoreductase subunit S4 [Source:HGNC Symbol;Acc:HGNC:7711]	13761	-0.4287891685962677	-0.65662473	No	
+row_35	COX8C	cytochrome c oxidase subunit 8C [Source:HGNC Symbol;Acc:HGNC:24382]	13961	-0.4467761516571045	-0.65982485	Yes	
+row_36	DNAJC15	DnaJ heat shock protein family (Hsp40) member C15 [Source:HGNC Symbol;Acc:HGNC:20325]	14075	-0.45655545592308044	-0.6577781	Yes	
+row_37	NDUFA8	NADH:ubiquinone oxidoreductase subunit A8 [Source:HGNC Symbol;Acc:HGNC:7692]	14092	-0.45798519253730774	-0.6499962	Yes	
+row_38	COX5A	cytochrome c oxidase subunit 5A [Source:HGNC Symbol;Acc:HGNC:2267]	14126	-0.4615888297557831	-0.64314604	Yes	
+row_39	NDUFA5	NADH:ubiquinone oxidoreductase subunit A5 [Source:HGNC Symbol;Acc:HGNC:7688]	14129	-0.4618050158023834	-0.6344676	Yes	
+row_40	UQCRB	ubiquinol-cytochrome c reductase binding protein [Source:HGNC Symbol;Acc:HGNC:12582]	14160	-0.4653339087963104	-0.6273695	Yes	
+row_41	NDUFC2-KCTD14	NDUFC2-KCTD14 readthrough [Source:HGNC Symbol;Acc:HGNC:42956]	14182	-0.46756014227867126	-0.61969954	Yes	
+row_42	COX7C	cytochrome c oxidase subunit 7C [Source:HGNC Symbol;Acc:HGNC:2292]	14238	-0.47422894835472107	-0.61390316	Yes	
+row_43	NDUFA4	NDUFA4 mitochondrial complex associated [Source:HGNC Symbol;Acc:HGNC:7687]	14239	-0.4742572605609894	-0.60486984	Yes	
+row_44	UQCRC1	ubiquinol-cytochrome c reductase core protein 1 [Source:HGNC Symbol;Acc:HGNC:12585]	14546	-0.5111119747161865	-0.6131409	Yes	
+row_45	NDUFA9	NADH:ubiquinone oxidoreductase subunit A9 [Source:HGNC Symbol;Acc:HGNC:7693]	14664	-0.5288883447647095	-0.60995173	Yes	
+row_46	PINK1	PTEN induced kinase 1 [Source:HGNC Symbol;Acc:HGNC:14581]	14732	-0.5365521311759949	-0.6036744	Yes	
+row_47	DGUOK	deoxyguanosine kinase [Source:HGNC Symbol;Acc:HGNC:2858]	14781	-0.5430245995521545	-0.59615576	Yes	
+row_48	NDUFV2	NADH:ubiquinone oxidoreductase core subunit V2 [Source:HGNC Symbol;Acc:HGNC:7717]	14937	-0.5641913414001465	-0.5945303	Yes	
+row_49	NDUFS3	NADH:ubiquinone oxidoreductase core subunit S3 [Source:HGNC Symbol;Acc:HGNC:7710]	14952	-0.5666524767875671	-0.58456093	Yes	
+row_50	COX4I1	cytochrome c oxidase subunit 4I1 [Source:HGNC Symbol;Acc:HGNC:2265]	14969	-0.5684570074081421	-0.57467484	Yes	
+row_51	UQCRFS1P1	ubiquinol-cytochrome c reductase, Rieske iron-sulfur polypeptide 1 pseudogene 1 [Source:HGNC Symbol;Acc:HGNC:12588]	14983	-0.5705153942108154	-0.56457305	Yes	
+row_52	COX6C	cytochrome c oxidase subunit 6C [Source:HGNC Symbol;Acc:HGNC:2285]	15016	-0.5767849683761597	-0.5554698	Yes	
+row_53	SDHAF2	succinate dehydrogenase complex assembly factor 2 [Source:HGNC Symbol;Acc:HGNC:26034]	15170	-0.6002588868141174	-0.55303967	Yes	
+row_54	NDUFA1	NADH:ubiquinone oxidoreductase subunit A1 [Source:HGNC Symbol;Acc:HGNC:7683]	15280	-0.6224969625473022	-0.5475968	Yes	
+row_55	NDUFA6	NADH:ubiquinone oxidoreductase subunit A6 [Source:HGNC Symbol;Acc:HGNC:7690]	15288	-0.6237484216690063	-0.536128	Yes	
+row_56	UQCC3	ubiquinol-cytochrome c reductase complex assembly factor 3 [Source:HGNC Symbol;Acc:HGNC:34399]	15303	-0.6264206171035767	-0.5250202	Yes	
+row_57	NDUFC2	NADH:ubiquinone oxidoreductase subunit C2 [Source:HGNC Symbol;Acc:HGNC:7706]	15312	-0.628546416759491	-0.5135188	Yes	
+row_58	SDHB	succinate dehydrogenase complex iron sulfur subunit B [Source:HGNC Symbol;Acc:HGNC:10681]	15333	-0.6319501996040344	-0.5026587	Yes	
+row_59	NDUFAB1	NADH:ubiquinone oxidoreductase subunit AB1 [Source:HGNC Symbol;Acc:HGNC:7694]	15371	-0.6375964283943176	-0.49269143	Yes	
+row_60	COX6A1	cytochrome c oxidase subunit 6A1 [Source:HGNC Symbol;Acc:HGNC:2277]	15382	-0.6400578618049622	-0.4810885	Yes	
+row_61	UQCRH	ubiquinol-cytochrome c reductase hinge protein [Source:HGNC Symbol;Acc:HGNC:12590]	15427	-0.650939404964447	-0.471279	Yes	
+row_62	NDUFB9	NADH:ubiquinone oxidoreductase subunit B9 [Source:HGNC Symbol;Acc:HGNC:7704]	15540	-0.6734526753425598	-0.46504208	Yes	
+row_63	NDUFB4	NADH:ubiquinone oxidoreductase subunit B4 [Source:HGNC Symbol;Acc:HGNC:7699]	15544	-0.6739382743835449	-0.45238188	Yes	
+row_64	NDUFB10	NADH:ubiquinone oxidoreductase subunit B10 [Source:HGNC Symbol;Acc:HGNC:7696]	15549	-0.6757568120956421	-0.4397459	Yes	
+row_65	CYC1	cytochrome c1 [Source:HGNC Symbol;Acc:HGNC:2579]	15554	-0.6765102744102478	-0.42709556	Yes	
+row_66	NDUFS5	NADH:ubiquinone oxidoreductase subunit S5 [Source:HGNC Symbol;Acc:HGNC:7712]	15696	-0.70878666639328	-0.42189214	Yes	
+row_67	COX6B1	cytochrome c oxidase subunit 6B1 [Source:HGNC Symbol;Acc:HGNC:2280]	15735	-0.7182523012161255	-0.41044742	Yes	
+row_68	COX7A1	cytochrome c oxidase subunit 7A1 [Source:HGNC Symbol;Acc:HGNC:2287]	15790	-0.7326862215995789	-0.3996693	Yes	
+row_69	NDUFB6	NADH:ubiquinone oxidoreductase subunit B6 [Source:HGNC Symbol;Acc:HGNC:7701]	15892	-0.7554987668991089	-0.39122236	Yes	
+row_70	COX5B	cytochrome c oxidase subunit 5B [Source:HGNC Symbol;Acc:HGNC:2269]	15940	-0.7700185179710388	-0.37932122	Yes	
+row_71	CHCHD2	coiled-coil-helix-coiled-coil-helix domain containing 2 [Source:HGNC Symbol;Acc:HGNC:21645]	15964	-0.7765935063362122	-0.36588264	Yes	
+row_72	NDUFB3	NADH:ubiquinone oxidoreductase subunit B3 [Source:HGNC Symbol;Acc:HGNC:7698]	15986	-0.7806957960128784	-0.3522482	Yes	
+row_73	NDUFS7	NADH:ubiquinone oxidoreductase core subunit S7 [Source:HGNC Symbol;Acc:HGNC:7714]	15995	-0.7830492854118347	-0.33780393	Yes	
+row_74	NDUFB8	NADH:ubiquinone oxidoreductase subunit B8 [Source:HGNC Symbol;Acc:HGNC:7703]	16011	-0.7865127325057983	-0.32370564	Yes	
+row_75	NDUFS6	NADH:ubiquinone oxidoreductase subunit S6 [Source:HGNC Symbol;Acc:HGNC:7713]	16048	-0.7963430881500244	-0.31065583	Yes	
+row_76	UQCR10	ubiquinol-cytochrome c reductase, complex III subunit X [Source:HGNC Symbol;Acc:HGNC:30863]	16102	-0.8083801865577698	-0.2983771	Yes	
+row_77	NDUFA12	NADH:ubiquinone oxidoreductase subunit A12 [Source:HGNC Symbol;Acc:HGNC:23987]	16163	-0.8300155401229858	-0.28609818	Yes	
+row_78	NDUFB7	NADH:ubiquinone oxidoreductase subunit B7 [Source:HGNC Symbol;Acc:HGNC:7702]	16166	-0.8307865858078003	-0.2703916	Yes	
+row_79	PARK7	Parkinsonism associated deglycase [Source:HGNC Symbol;Acc:HGNC:16369]	16178	-0.8349098563194275	-0.2551361	Yes	
+row_80	CDK1	cyclin dependent kinase 1 [Source:HGNC Symbol;Acc:HGNC:1722]	16179	-0.8349764943122864	-0.23923202	Yes	
+row_81	SDHC	succinate dehydrogenase complex subunit C [Source:HGNC Symbol;Acc:HGNC:10682]	16196	-0.8411092758178711	-0.22415265	Yes	
+row_82	UQCR11	ubiquinol-cytochrome c reductase, complex III subunit XI [Source:HGNC Symbol;Acc:HGNC:30862]	16285	-0.8644441962242126	-0.21286559	Yes	
+row_83	NDUFA2	NADH:ubiquinone oxidoreductase subunit A2 [Source:HGNC Symbol;Acc:HGNC:7685]	16307	-0.8694483637809753	-0.19754066	Yes	
+row_84	NDUFA7	NADH:ubiquinone oxidoreductase subunit A7 [Source:HGNC Symbol;Acc:HGNC:7691]	16311	-0.8707960844039917	-0.18113086	Yes	
+row_85	NDUFB2	NADH:ubiquinone oxidoreductase subunit B2 [Source:HGNC Symbol;Acc:HGNC:7697]	16330	-0.8792340159416199	-0.165443	Yes	
+row_86	NDUFC1	NADH:ubiquinone oxidoreductase subunit C1 [Source:HGNC Symbol;Acc:HGNC:7705]	16405	-0.9050482511520386	-0.15255873	Yes	
+row_87	NDUFB1	NADH:ubiquinone oxidoreductase subunit B1 [Source:HGNC Symbol;Acc:HGNC:7695]	16429	-0.9201242327690125	-0.13638625	Yes	
+row_88	NDUFS8	NADH:ubiquinone oxidoreductase core subunit S8 [Source:HGNC Symbol;Acc:HGNC:7715]	16457	-0.938164472579956	-0.12010551	Yes	
+row_89	UQCRQ	ubiquinol-cytochrome c reductase complex III subunit VII [Source:HGNC Symbol;Acc:HGNC:29594]	16477	-0.9463604688644409	-0.10319792	Yes	
+row_90	COX7A2	cytochrome c oxidase subunit 7A2 [Source:HGNC Symbol;Acc:HGNC:2288]	16484	-0.9516486525535583	-0.08542462	Yes	
+row_91	COA6	cytochrome c oxidase assembly factor 6 [Source:HGNC Symbol;Acc:HGNC:18025]	16545	-0.995009183883667	-0.07000301	Yes	
+row_92	COX8A	cytochrome c oxidase subunit 8A [Source:HGNC Symbol;Acc:HGNC:2294]	16557	-1.003902792930603	-0.051528636	Yes	
+row_93	CCNB1	cyclin B1 [Source:HGNC Symbol;Acc:HGNC:1579]	16580	-1.019177794456482	-0.0334106	Yes	
+row_94	COX7B	cytochrome c oxidase subunit 7B [Source:HGNC Symbol;Acc:HGNC:2291]	16594	-1.0272537469863892	-0.014609139	Yes	
+row_95	BID	BH3 interacting domain death agonist [Source:HGNC Symbol;Acc:HGNC:1050]	16697	-1.1132375001907349	5.9293985E-4	Yes	
+row_96	CYCS	cytochrome c, somatic [Source:HGNC Symbol;Acc:HGNC:19986]	16756	-1.1799031496047974	0.01965397	Yes	

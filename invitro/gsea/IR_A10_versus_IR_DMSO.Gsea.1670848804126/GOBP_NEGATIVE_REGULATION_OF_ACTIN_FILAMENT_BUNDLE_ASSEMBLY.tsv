@@ -1,0 +1,31 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ARHGAP6	Rho GTPase activating protein 6 [Source:HGNC Symbol;Acc:HGNC:676]	78	2.762600898742676	0.10471544	Yes	
+row_1	ARHGAP28	Rho GTPase activating protein 28 [Source:HGNC Symbol;Acc:HGNC:25509]	84	2.702225685119629	0.21132122	Yes	
+row_2	CGNL1	cingulin like 1 [Source:HGNC Symbol;Acc:HGNC:25931]	221	2.170555353164673	0.28921604	Yes	
+row_3	S1PR1	sphingosine-1-phosphate receptor 1 [Source:HGNC Symbol;Acc:HGNC:3165]	336	1.8950897455215454	0.35750306	Yes	
+row_4	F11R	F11 receptor [Source:HGNC Symbol;Acc:HGNC:14685]	851	1.3051683902740479	0.37900773	Yes	
+row_5	PRKN	parkin RBR E3 ubiquitin protein ligase [Source:HGNC Symbol;Acc:HGNC:8607]	917	1.2511889934539795	0.42469436	Yes	
+row_6	TACSTD2	tumor associated calcium signal transducer 2 [Source:HGNC Symbol;Acc:HGNC:11530]	1026	1.1906440258026123	0.4654655	Yes	
+row_7	TJP1	tight junction protein 1 [Source:HGNC Symbol;Acc:HGNC:11827]	1264	1.0709457397460938	0.4939403	Yes	
+row_8	RHPN2	rhophilin Rho GTPase binding protein 2 [Source:HGNC Symbol;Acc:HGNC:19974]	1343	1.040631651878357	0.5305354	Yes	
+row_9	DLC1	DLC1 Rho GTPase activating protein [Source:HGNC Symbol;Acc:HGNC:2897]	1852	0.8707861304283142	0.5352078	Yes	
+row_10	SHANK3	SH3 and multiple ankyrin repeat domains 3 [Source:HGNC Symbol;Acc:HGNC:14294]	1974	0.8362274765968323	0.5611964	Yes	
+row_11	INPP5K	inositol polyphosphate-5-phosphatase K [Source:HGNC Symbol;Acc:HGNC:33882]	2413	0.7286530137062073	0.564349	Yes	
+row_12	PIK3R1	phosphoinositide-3-kinase regulatory subunit 1 [Source:HGNC Symbol;Acc:HGNC:8979]	3182	0.5792182087898254	0.54224765	No	
+row_13	ARAP1	ArfGAP with RhoGAP domain, ankyrin repeat and PH domain 1 [Source:HGNC Symbol;Acc:HGNC:16925]	4284	0.430362343788147	0.49473947	No	
+row_14	WAS	WASP actin nucleation promoting factor [Source:HGNC Symbol;Acc:HGNC:12731]	5043	0.34004199504852295	0.46376255	No	
+row_15	PPFIA1	PTPRF interacting protein alpha 1 [Source:HGNC Symbol;Acc:HGNC:9245]	5580	0.2807036340236664	0.4434504	No	
+row_16	ARHGEF18	Rho/Rac guanine nucleotide exchange factor 18 [Source:HGNC Symbol;Acc:HGNC:17090]	5664	0.27090781927108765	0.4493025	No	
+row_17	CORO2B	coronin 2B [Source:HGNC Symbol;Acc:HGNC:2256]	6274	0.2076658457517624	0.42182222	No	
+row_18	WASF2	WASP family member 2 [Source:HGNC Symbol;Acc:HGNC:12733]	6275	0.20766232907772064	0.43003723	No	
+row_19	STMN1	stathmin 1 [Source:HGNC Symbol;Acc:HGNC:6510]	6328	0.20197853446006775	0.43497953	No	
+row_20	RHPN1	rhophilin Rho GTPase binding protein 1 [Source:HGNC Symbol;Acc:HGNC:19973]	7630	0.07711183279752731	0.36177427	No	
+row_21	MYOC	myocilin [Source:HGNC Symbol;Acc:HGNC:7610]	9235	-0.03955940529704094	0.26932362	No	
+row_22	TMEFF2	transmembrane protein with EGF like and two follistatin like domains 2 [Source:HGNC Symbol;Acc:HGNC:11867]	9374	-0.05151345953345299	0.26327285	No	
+row_23	CLASP1	cytoplasmic linker associated protein 1 [Source:HGNC Symbol;Acc:HGNC:17088]	9604	-0.07034268230199814	0.25263315	No	
+row_24	CLASP2	cytoplasmic linker associated protein 2 [Source:HGNC Symbol;Acc:HGNC:17078]	9849	-0.09508940577507019	0.2420932	No	
+row_25	PHLDB2	pleckstrin homology like domain family B member 2 [Source:HGNC Symbol;Acc:HGNC:29573]	11578	-0.2627287209033966	0.151203	No	
+row_26	PAK2	p21 (RAC1) activated kinase 2 [Source:HGNC Symbol;Acc:HGNC:8591]	13552	-0.4792358875274658	0.054517508	No	
+row_27	PFN1	profilin 1 [Source:HGNC Symbol;Acc:HGNC:8881]	16212	-1.1478813886642456	-0.055925343	No	
+row_28	SHANK1	SH3 and multiple ankyrin repeat domains 1 [Source:HGNC Symbol;Acc:HGNC:15474]	16223	-1.1519677639007568	-0.010940142	No	
+row_29	MET	MET proto-oncogene, receptor tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:7029]	16666	-1.5596508979797363	0.024851918	No	

@@ -1,0 +1,106 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PLSCR1	phospholipid scramblase 1 [Source:HGNC Symbol;Acc:HGNC:9092]	1148	1.3976362943649292	-0.049801957	No	
+row_1	MAPK15	mitogen-activated protein kinase 15 [Source:HGNC Symbol;Acc:HGNC:24667]	1224	1.3572850227355957	-0.036947656	No	
+row_2	INCENP	inner centromere protein [Source:HGNC Symbol;Acc:HGNC:6058]	1612	1.1983599662780762	-0.044483542	No	
+row_3	NSMCE2	NSE2 (MMS21) homolog, SMC5-SMC6 complex SUMO ligase [Source:HGNC Symbol;Acc:HGNC:26513]	2242	1.0087823867797852	-0.06867859	No	
+row_4	ESPL1	extra spindle pole bodies like 1, separase [Source:HGNC Symbol;Acc:HGNC:16856]	2872	0.8712896704673767	-0.09462305	No	
+row_5	ARID1B	AT-rich interaction domain 1B [Source:HGNC Symbol;Acc:HGNC:18040]	3069	0.8306115865707397	-0.095593505	No	
+row_6	BCL7A	BAF chromatin remodeling complex subunit BCL7A [Source:HGNC Symbol;Acc:HGNC:1004]	3257	0.7906537055969238	-0.09654252	No	
+row_7	PSMG2	proteasome assembly chaperone 2 [Source:HGNC Symbol;Acc:HGNC:24929]	3411	0.7594199180603027	-0.0958873	No	
+row_8	KLHL22	kelch like family member 22 [Source:HGNC Symbol;Acc:HGNC:25888]	3775	0.6968475580215454	-0.10839136	No	
+row_9	MAD2L1BP	MAD2L1 binding protein [Source:HGNC Symbol;Acc:HGNC:21059]	4467	0.5750144124031067	-0.14175561	No	
+row_10	BRD7	bromodomain containing 7 [Source:HGNC Symbol;Acc:HGNC:14310]	4567	0.5585430860519409	-0.1404772	No	
+row_11	CSNK2A2	casein kinase 2 alpha 2 [Source:HGNC Symbol;Acc:HGNC:2459]	4723	0.5387482643127441	-0.14274748	No	
+row_12	TEX14	testis expressed 14, intercellular bridge forming factor [Source:HGNC Symbol;Acc:HGNC:11737]	4852	0.5191798806190491	-0.1436772	No	
+row_13	DPF2	double PHD fingers 2 [Source:HGNC Symbol;Acc:HGNC:9964]	5456	0.43444526195526123	-0.17364928	No	
+row_14	HECW2	HECT, C2 and WW domain containing E3 ubiquitin protein ligase 2 [Source:HGNC Symbol;Acc:HGNC:29853]	5469	0.4329971373081207	-0.16884641	No	
+row_15	DYNC1LI1	dynein cytoplasmic 1 light intermediate chain 1 [Source:HGNC Symbol;Acc:HGNC:18745]	5786	0.39746686816215515	-0.18239272	No	
+row_16	PHF10	PHD finger protein 10 [Source:HGNC Symbol;Acc:HGNC:18250]	6202	0.3406584560871124	-0.20249017	No	
+row_17	SMARCD3	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 3 [Source:HGNC Symbol;Acc:HGNC:11108]	6203	0.3406521677970886	-0.1981558	No	
+row_18	MAD1L1	mitotic arrest deficient 1 like 1 [Source:HGNC Symbol;Acc:HGNC:6762]	6275	0.33254772424697876	-0.19810447	No	
+row_19	BCL7B	BAF chromatin remodeling complex subunit BCL7B [Source:HGNC Symbol;Acc:HGNC:1005]	6343	0.3242783546447754	-0.19792287	No	
+row_20	ANAPC2	anaphase promoting complex subunit 2 [Source:HGNC Symbol;Acc:HGNC:19989]	6531	0.300494909286499	-0.20510854	No	
+row_21	NUMA1	nuclear mitotic apparatus protein 1 [Source:HGNC Symbol;Acc:HGNC:8059]	6886	0.2537839114665985	-0.22272015	No	
+row_22	MAD2L1	mitotic arrest deficient 2 like 1 [Source:HGNC Symbol;Acc:HGNC:6763]	7120	0.22598962485790253	-0.2335619	No	
+row_23	ZNF207	zinc finger protein 207 [Source:HGNC Symbol;Acc:HGNC:12998]	7133	0.22445574402809143	-0.23141246	No	
+row_24	XRCC3	X-ray repair cross complementing 3 [Source:HGNC Symbol;Acc:HGNC:12830]	7627	0.16760943830013275	-0.25830376	No	
+row_25	SMARCA2	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 2 [Source:HGNC Symbol;Acc:HGNC:11098]	8226	0.10050307214260101	-0.29223046	No	
+row_26	PCID2	PCI domain containing 2 [Source:HGNC Symbol;Acc:HGNC:25653]	8336	0.08752039074897766	-0.2975339	No	
+row_27	BUB3	BUB3 mitotic checkpoint protein [Source:HGNC Symbol;Acc:HGNC:1151]	8604	0.05202607437968254	-0.31259078	No	
+row_28	MAD2L2	mitotic arrest deficient 2 like 2 [Source:HGNC Symbol;Acc:HGNC:6764]	8813	0.023541195318102837	-0.32453662	No	
+row_29	IK	IK cytokine [Source:HGNC Symbol;Acc:HGNC:5958]	9152	-0.0036983019672334194	-0.3443883	No	
+row_30	ARID2	AT-rich interaction domain 2 [Source:HGNC Symbol;Acc:HGNC:18037]	9625	-0.04939526692032814	-0.3715474	No	
+row_31	CDC23	cell division cycle 23 [Source:HGNC Symbol;Acc:HGNC:1724]	9794	-0.06776046752929688	-0.38057575	No	
+row_32	TACC3	transforming acidic coiled-coil containing protein 3 [Source:HGNC Symbol;Acc:HGNC:11524]	9820	-0.07118497043848038	-0.3811418	No	
+row_33	RIOK2	RIO kinase 2 [Source:HGNC Symbol;Acc:HGNC:18999]	10005	-0.09170766174793243	-0.3908074	No	
+row_34	SMARCB1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily b, member 1 [Source:HGNC Symbol;Acc:HGNC:11103]	10026	-0.09410493075847626	-0.39078745	No	
+row_35	CUL3	cullin 3 [Source:HGNC Symbol;Acc:HGNC:2553]	10041	-0.09647425264120102	-0.39038417	No	
+row_36	CDC26	cell division cycle 26 [Source:HGNC Symbol;Acc:HGNC:17839]	10189	-0.11545582860708237	-0.39756933	No	
+row_37	CDK5RAP2	CDK5 regulatory subunit associated protein 2 [Source:HGNC Symbol;Acc:HGNC:18672]	10481	-0.15374940633773804	-0.41274482	No	
+row_38	PBRM1	polybromo 1 [Source:HGNC Symbol;Acc:HGNC:30064]	10522	-0.15903304517269135	-0.41307622	No	
+row_39	PTTG1	PTTG1 regulator of sister chromatid separation, securin [Source:HGNC Symbol;Acc:HGNC:9690]	10789	-0.19343461096286774	-0.42627496	No	
+row_40	CENPE	centromere protein E [Source:HGNC Symbol;Acc:HGNC:1856]	10796	-0.1947581171989441	-0.42415014	No	
+row_41	LCMT1	leucine carboxyl methyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:17557]	10999	-0.22373901307582855	-0.4331955	No	
+row_42	CSNK2A1	casein kinase 2 alpha 1 [Source:HGNC Symbol;Acc:HGNC:2457]	11316	-0.26433607935905457	-0.44843572	No	
+row_43	SMARCC2	SWI/SNF related, matrix associated, actin dependent regulator of chromatin subfamily c member 2 [Source:HGNC Symbol;Acc:HGNC:11105]	11425	-0.2777996063232422	-0.45125926	No	
+row_44	ANAPC7	anaphase promoting complex subunit 7 [Source:HGNC Symbol;Acc:HGNC:17380]	11438	-0.2802831530570984	-0.44839948	No	
+row_45	DPF1	double PHD fingers 1 [Source:HGNC Symbol;Acc:HGNC:20225]	11505	-0.2887955605983734	-0.44861048	No	
+row_46	NCAPH2	non-SMC condensin II complex subunit H2 [Source:HGNC Symbol;Acc:HGNC:25071]	11546	-0.2937319278717041	-0.447228	No	
+row_47	SMARCC1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin subfamily c member 1 [Source:HGNC Symbol;Acc:HGNC:11104]	11715	-0.3177756071090698	-0.45307523	No	
+row_48	SMARCD2	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 2 [Source:HGNC Symbol;Acc:HGNC:11107]	11816	-0.3286229074001312	-0.45478112	No	
+row_49	ANAPC4	anaphase promoting complex subunit 4 [Source:HGNC Symbol;Acc:HGNC:19990]	11964	-0.347940593957901	-0.45900822	No	
+row_50	APC	APC regulator of WNT signaling pathway [Source:HGNC Symbol;Acc:HGNC:583]	11977	-0.3492338955402374	-0.45527112	No	
+row_51	ZW10	zw10 kinetochore protein [Source:HGNC Symbol;Acc:HGNC:13194]	11993	-0.35120537877082825	-0.45168558	No	
+row_52	TPR	translocated promoter region, nuclear basket protein [Source:HGNC Symbol;Acc:HGNC:12017]	12035	-0.35552310943603516	-0.44957575	No	
+row_53	HASPIN	histone H3 associated protein kinase [Source:HGNC Symbol;Acc:HGNC:19682]	12280	-0.39303117990493774	-0.4589397	No	
+row_54	ANAPC1	anaphase promoting complex subunit 1 [Source:HGNC Symbol;Acc:HGNC:19988]	12303	-0.39650869369506836	-0.45518982	No	
+row_55	SMARCD1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 1 [Source:HGNC Symbol;Acc:HGNC:11106]	12371	-0.4054892957210541	-0.45397493	No	
+row_56	SMARCE1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily e, member 1 [Source:HGNC Symbol;Acc:HGNC:11109]	12404	-0.41054847836494446	-0.45063514	No	
+row_57	RB1	RB transcriptional corepressor 1 [Source:HGNC Symbol;Acc:HGNC:9884]	12479	-0.42045858502388	-0.44964185	No	
+row_58	NEK6	NIMA related kinase 6 [Source:HGNC Symbol;Acc:HGNC:7749]	12742	-0.45325276255607605	-0.45929927	No	
+row_59	DUSP1	dual specificity phosphatase 1 [Source:HGNC Symbol;Acc:HGNC:3064]	12774	-0.456453412771225	-0.45531654	No	
+row_60	AURKB	aurora kinase B [Source:HGNC Symbol;Acc:HGNC:11390]	12966	-0.4875556528568268	-0.46035758	No	
+row_61	BUB1	BUB1 mitotic checkpoint serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:1148]	13063	-0.5014943480491638	-0.4596284	No	
+row_62	ANAPC5	anaphase promoting complex subunit 5 [Source:HGNC Symbol;Acc:HGNC:15713]	13316	-0.5392552614212036	-0.46760285	No	
+row_63	CDC27	cell division cycle 27 [Source:HGNC Symbol;Acc:HGNC:1728]	13943	-0.6531775593757629	-0.49614587	Yes	
+row_64	NDC80	NDC80 kinetochore complex component [Source:HGNC Symbol;Acc:HGNC:16909]	13975	-0.6596754193305969	-0.48957738	Yes	
+row_65	NCAPH	non-SMC condensin I complex subunit H [Source:HGNC Symbol;Acc:HGNC:1112]	13996	-0.6629554033279419	-0.4823196	Yes	
+row_66	CENPF	centromere protein F [Source:HGNC Symbol;Acc:HGNC:1857]	14021	-0.6688563227653503	-0.47522217	Yes	
+row_67	CCNB1	cyclin B1 [Source:HGNC Symbol;Acc:HGNC:1579]	14079	-0.6795634627342224	-0.4699313	Yes	
+row_68	CHFR	checkpoint with forkhead and ring finger domains [Source:HGNC Symbol;Acc:HGNC:20455]	14111	-0.6860240697860718	-0.46302757	Yes	
+row_69	GEN1	GEN1 Holliday junction 5' flap endonuclease [Source:HGNC Symbol;Acc:HGNC:26881]	14180	-0.7002924680709839	-0.45812055	Yes	
+row_70	ARID1A	AT-rich interaction domain 1A [Source:HGNC Symbol;Acc:HGNC:11110]	14296	-0.7275024056434631	-0.4556343	Yes	
+row_71	TTK	TTK protein kinase [Source:HGNC Symbol;Acc:HGNC:12401]	14362	-0.7400103211402893	-0.45004532	Yes	
+row_72	FBXO5	F-box protein 5 [Source:HGNC Symbol;Acc:HGNC:13584]	14402	-0.7486044764518738	-0.4428163	Yes	
+row_73	ANAPC11	anaphase promoting complex subunit 11 [Source:HGNC Symbol;Acc:HGNC:14452]	14455	-0.761946439743042	-0.43618286	Yes	
+row_74	RAD21	RAD21 cohesin complex component [Source:HGNC Symbol;Acc:HGNC:9811]	14798	-0.8461337089538574	-0.44555113	Yes	
+row_75	CDT1	chromatin licensing and DNA replication factor 1 [Source:HGNC Symbol;Acc:HGNC:24576]	14868	-0.8610417246818542	-0.43865764	Yes	
+row_76	SMC2	structural maintenance of chromosomes 2 [Source:HGNC Symbol;Acc:HGNC:14011]	15106	-0.9266178607940674	-0.4408203	Yes	
+row_77	USP44	ubiquitin specific peptidase 44 [Source:HGNC Symbol;Acc:HGNC:20064]	15120	-0.9329093098640442	-0.42971557	Yes	
+row_78	ANAPC15	anaphase promoting complex subunit 15 [Source:HGNC Symbol;Acc:HGNC:24531]	15133	-0.937482476234436	-0.41849378	Yes	
+row_79	KNTC1	kinetochore associated 1 [Source:HGNC Symbol;Acc:HGNC:17255]	15192	-0.957309901714325	-0.4097278	Yes	
+row_80	SPC25	SPC25 component of NDC80 kinetochore complex [Source:HGNC Symbol;Acc:HGNC:24031]	15271	-0.9832385778427124	-0.4018094	Yes	
+row_81	BUB1B	BUB1 mitotic checkpoint serine/threonine kinase B [Source:HGNC Symbol;Acc:HGNC:1149]	15442	-1.0389209985733032	-0.39859873	Yes	
+row_82	NUF2	NUF2 component of NDC80 kinetochore complex [Source:HGNC Symbol;Acc:HGNC:14621]	15532	-1.0703681707382202	-0.39021927	Yes	
+row_83	CDC20	cell division cycle 20 [Source:HGNC Symbol;Acc:HGNC:1723]	15584	-1.0904899835586548	-0.37934667	Yes	
+row_84	CDC16	cell division cycle 16 [Source:HGNC Symbol;Acc:HGNC:1720]	15795	-1.1842511892318726	-0.37664172	Yes	
+row_85	NCAPG2	non-SMC condensin II complex subunit G2 [Source:HGNC Symbol;Acc:HGNC:21904]	15895	-1.2278348207473755	-0.36684746	Yes	
+row_86	ATM	ATM serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:795]	15945	-1.2522741556167603	-0.3537986	Yes	
+row_87	SMARCA4	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4 [Source:HGNC Symbol;Acc:HGNC:11100]	15949	-1.2544312477111816	-0.3380142	Yes	
+row_88	ZWILCH	zwilch kinetochore protein [Source:HGNC Symbol;Acc:HGNC:25468]	16165	-1.379177451133728	-0.33312342	Yes	
+row_89	CDC6	cell division cycle 6 [Source:HGNC Symbol;Acc:HGNC:1744]	16188	-1.3884779214859009	-0.31675202	Yes	
+row_90	SMC4	structural maintenance of chromosomes 4 [Source:HGNC Symbol;Acc:HGNC:14013]	16213	-1.4081611633300781	-0.3002479	Yes	
+row_91	CDCA8	cell division cycle associated 8 [Source:HGNC Symbol;Acc:HGNC:14629]	16234	-1.423063039779663	-0.28331873	Yes	
+row_92	PLK1	polo like kinase 1 [Source:HGNC Symbol;Acc:HGNC:9077]	16330	-1.488016128540039	-0.26997846	Yes	
+row_93	ACTL6A	actin like 6A [Source:HGNC Symbol;Acc:HGNC:24124]	16334	-1.4926550388336182	-0.25116298	Yes	
+row_94	SPC24	SPC24 component of NDC80 kinetochore complex [Source:HGNC Symbol;Acc:HGNC:26913]	16345	-1.4996205568313599	-0.23267096	Yes	
+row_95	DLGAP5	DLG associated protein 5 [Source:HGNC Symbol;Acc:HGNC:16864]	16541	-1.708892822265625	-0.22240756	Yes	
+row_96	ZWINT	ZW10 interacting kinetochore protein [Source:HGNC Symbol;Acc:HGNC:13195]	16570	-1.7479883432388306	-0.20181508	Yes	
+row_97	DPF3	double PHD fingers 3 [Source:HGNC Symbol;Acc:HGNC:17427]	16598	-1.7913272380828857	-0.1806123	Yes	
+row_98	TRIP13	thyroid hormone receptor interactor 13 [Source:HGNC Symbol;Acc:HGNC:12307]	16606	-1.8020297288894653	-0.1580959	Yes	
+row_99	BCL7C	BAF chromatin remodeling complex subunit BCL7C [Source:HGNC Symbol;Acc:HGNC:1006]	16661	-1.8917267322540283	-0.13720521	Yes	
+row_100	SPDL1	spindle apparatus coiled-coil protein 1 [Source:HGNC Symbol;Acc:HGNC:26010]	16801	-2.1255500316619873	-0.11834354	Yes	
+row_101	BIRC5	baculoviral IAP repeat containing 5 [Source:HGNC Symbol;Acc:HGNC:593]	16805	-2.130746841430664	-0.091409154	Yes	
+row_102	UBE2C	ubiquitin conjugating enzyme E2 C [Source:HGNC Symbol;Acc:HGNC:15937]	16870	-2.290917158126831	-0.066028	Yes	
+row_103	NCAPG	non-SMC condensin I complex subunit G [Source:HGNC Symbol;Acc:HGNC:24304]	16995	-2.818336248397827	-0.037468445	Yes	
+row_104	ACTB	actin beta [Source:HGNC Symbol;Acc:HGNC:132]	17054	-3.379697561264038	0.0021192688	Yes	

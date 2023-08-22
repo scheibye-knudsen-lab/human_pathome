@@ -1,0 +1,38 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ASIC2	acid sensing ion channel subunit 2 [Source:HGNC Symbol;Acc:HGNC:99]	5	3.0931427478790283	0.1353786	Yes	
+row_1	CST2	cystatin SA [Source:HGNC Symbol;Acc:HGNC:2474]	27	2.56112003326416	0.24648334	Yes	
+row_2	RTP4	receptor transporter protein 4 [Source:HGNC Symbol;Acc:HGNC:23992]	105	1.846057415008545	0.32294026	Yes	
+row_3	SCNN1D	sodium channel epithelial 1 subunit delta [Source:HGNC Symbol;Acc:HGNC:10601]	289	1.3710767030715942	0.37234795	Yes	
+row_4	ITPR3	inositol 1,4,5-trisphosphate receptor type 3 [Source:HGNC Symbol;Acc:HGNC:6182]	895	0.889468252658844	0.37588635	Yes	
+row_5	WNT10B	Wnt family member 10B [Source:HGNC Symbol;Acc:HGNC:12775]	1097	0.8305416703224182	0.4005296	Yes	
+row_6	TAS2R10	taste 2 receptor member 10 [Source:HGNC Symbol;Acc:HGNC:14918]	1358	0.7555660009384155	0.4184246	Yes	
+row_7	ASIC1	acid sensing ion channel subunit 1 [Source:HGNC Symbol;Acc:HGNC:100]	1418	0.7415105104446411	0.44748923	Yes	
+row_8	TAS2R46	taste 2 receptor member 46 [Source:HGNC Symbol;Acc:HGNC:18877]	1495	0.7253629565238953	0.47484875	Yes	
+row_9	TAS2R31	taste 2 receptor member 31 [Source:HGNC Symbol;Acc:HGNC:19113]	1592	0.7044937014579773	0.50012016	Yes	
+row_10	TAS1R3	taste 1 receptor member 3 [Source:HGNC Symbol;Acc:HGNC:15661]	1752	0.6672242879867554	0.5200627	Yes	
+row_11	TAS2R30	taste 2 receptor member 30 [Source:HGNC Symbol;Acc:HGNC:19112]	1857	0.6421307921409607	0.54212964	Yes	
+row_12	TAS2R20	taste 2 receptor member 20 [Source:HGNC Symbol;Acc:HGNC:19109]	2089	0.6064384579658508	0.5551841	Yes	
+row_13	TAS2R19	taste 2 receptor member 19 [Source:HGNC Symbol;Acc:HGNC:19108]	2336	0.5661975741386414	0.56559396	Yes	
+row_14	TAS2R43	taste 2 receptor member 43 [Source:HGNC Symbol;Acc:HGNC:18875]	2606	0.5226250886917114	0.57274395	Yes	
+row_15	TAS2R5	taste 2 receptor member 5 [Source:HGNC Symbol;Acc:HGNC:14912]	2757	0.5019471645355225	0.58596486	Yes	
+row_16	LEF1	lymphoid enhancer binding factor 1 [Source:HGNC Symbol;Acc:HGNC:6551]	3422	0.43083614110946655	0.5659271	Yes	
+row_17	ASIC3	acid sensing ion channel subunit 3 [Source:HGNC Symbol;Acc:HGNC:101]	3441	0.4292772710323334	0.5837006	Yes	
+row_18	GNAT2	G protein subunit alpha transducin 2 [Source:HGNC Symbol;Acc:HGNC:4394]	4250	0.3453051745891571	0.55146754	Yes	
+row_19	TAS2R13	taste 2 receptor member 13 [Source:HGNC Symbol;Acc:HGNC:14919]	4287	0.3423840403556824	0.56437427	Yes	
+row_20	TAS2R4	taste 2 receptor member 4 [Source:HGNC Symbol;Acc:HGNC:14911]	4440	0.32759565114974976	0.5698304	Yes	
+row_21	GNAT1	G protein subunit alpha transducin 1 [Source:HGNC Symbol;Acc:HGNC:4393]	4522	0.31878480315208435	0.5790634	Yes	
+row_22	CALHM3	calcium homeostasis modulator 3 [Source:HGNC Symbol;Acc:HGNC:23458]	4727	0.3035106062889099	0.580414	Yes	
+row_23	TAS2R3	taste 2 receptor member 3 [Source:HGNC Symbol;Acc:HGNC:14910]	4743	0.30259597301483154	0.59280694	Yes	
+row_24	NPY	neuropeptide Y [Source:HGNC Symbol;Acc:HGNC:7955]	6590	0.1470547616481781	0.4910127	No	
+row_25	LCN1	lipocalin 1 [Source:HGNC Symbol;Acc:HGNC:6525]	6707	0.1348544806241989	0.49012575	No	
+row_26	TAS2R50	taste 2 receptor member 50 [Source:HGNC Symbol;Acc:HGNC:18882]	6971	0.11439099162817001	0.47972158	No	
+row_27	GNB1	G protein subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:4396]	7062	0.10739847272634506	0.47915494	No	
+row_28	CD36	CD36 molecule [Source:HGNC Symbol;Acc:HGNC:1663]	7429	0.07527342438697815	0.46099538	No	
+row_29	TAS2R1	taste 2 receptor member 1 [Source:HGNC Symbol;Acc:HGNC:14909]	8520	0.0	0.39708075	No	
+row_30	CST1	cystatin SN [Source:HGNC Symbol;Acc:HGNC:2473]	8745	-0.006488547194749117	0.38423058	No	
+row_31	REEP2	receptor accessory protein 2 [Source:HGNC Symbol;Acc:HGNC:17975]	11666	-0.23256048560142517	0.22321036	No	
+row_32	TAS2R14	taste 2 receptor member 14 [Source:HGNC Symbol;Acc:HGNC:14920]	12335	-0.2891657054424286	0.19672409	No	
+row_33	SCNN1A	sodium channel epithelial 1 subunit alpha [Source:HGNC Symbol;Acc:HGNC:10599]	12912	-0.33822131156921387	0.17778412	No	
+row_34	CST4	cystatin S [Source:HGNC Symbol;Acc:HGNC:2476]	13470	-0.3972318172454834	0.16254659	No	
+row_35	TAS1R1	taste 1 receptor member 1 [Source:HGNC Symbol;Acc:HGNC:14448]	14729	-0.5362823605537415	0.112303376	No	
+row_36	PLCB2	phospholipase C beta 2 [Source:HGNC Symbol;Acc:HGNC:9055]	15132	-0.5946061015129089	0.114811875	No	

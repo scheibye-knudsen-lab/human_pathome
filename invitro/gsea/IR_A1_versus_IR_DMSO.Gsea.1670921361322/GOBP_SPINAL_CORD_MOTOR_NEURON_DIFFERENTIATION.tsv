@@ -1,0 +1,24 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SOX4	SRY-box transcription factor 4 [Source:HGNC Symbol;Acc:HGNC:11200]	145	1.6768325567245483	0.1316215	Yes	
+row_1	LMO4	LIM domain only 4 [Source:HGNC Symbol;Acc:HGNC:6644]	308	1.3393306732177734	0.23404516	Yes	
+row_2	HOXD10	homeobox D10 [Source:HGNC Symbol;Acc:HGNC:5133]	663	0.9893243908882141	0.295973	Yes	
+row_3	TCTN1	tectonic family member 1 [Source:HGNC Symbol;Acc:HGNC:26113]	932	0.8780836462974548	0.3536442	Yes	
+row_4	IFT172	intraflagellar transport 172 [Source:HGNC Symbol;Acc:HGNC:30391]	1364	0.7548691630363464	0.39146948	Yes	
+row_5	ISL1	ISL LIM homeobox 1 [Source:HGNC Symbol;Acc:HGNC:6132]	1366	0.75469970703125	0.45447397	Yes	
+row_6	ISL2	ISL LIM homeobox 2 [Source:HGNC Symbol;Acc:HGNC:18524]	1440	0.7366753816604614	0.5117539	Yes	
+row_7	SCYL3	SCY1 like pseudokinase 3 [Source:HGNC Symbol;Acc:HGNC:19285]	1650	0.688613772392273	0.55704963	Yes	
+row_8	GLI3	GLI family zinc finger 3 [Source:HGNC Symbol;Acc:HGNC:4319]	1662	0.6862204074859619	0.61374605	Yes	
+row_9	PHOX2A	paired like homeobox 2A [Source:HGNC Symbol;Acc:HGNC:691]	3072	0.46695613861083984	0.570213	No	
+row_10	ZC4H2	zinc finger C4H2-type containing [Source:HGNC Symbol;Acc:HGNC:24931]	4154	0.35442018508911133	0.53649366	No	
+row_11	SUFU	SUFU negative regulator of hedgehog signaling [Source:HGNC Symbol;Acc:HGNC:16466]	5439	0.23891706764698029	0.48122916	No	
+row_12	PTCH1	patched 1 [Source:HGNC Symbol;Acc:HGNC:9585]	5472	0.23702667653560638	0.49916038	No	
+row_13	GIGYF2	GRB10 interacting GYF protein 2 [Source:HGNC Symbol;Acc:HGNC:11960]	6143	0.1825457513332367	0.47515923	No	
+row_14	HOXC10	homeobox C10 [Source:HGNC Symbol;Acc:HGNC:5122]	6730	0.13353382050991058	0.45198414	No	
+row_15	CLN8	CLN8 transmembrane ER and ERGIC protein [Source:HGNC Symbol;Acc:HGNC:2079]	6926	0.11862999945878983	0.45047203	No	
+row_16	TBX20	T-box transcription factor 20 [Source:HGNC Symbol;Acc:HGNC:11598]	7328	0.08473220467567444	0.43405804	No	
+row_17	DYNC2H1	dynein cytoplasmic 2 heavy chain 1 [Source:HGNC Symbol;Acc:HGNC:2962]	7469	0.07237797230482101	0.43190348	No	
+row_18	ABT1	activator of basal transcription 1 [Source:HGNC Symbol;Acc:HGNC:17369]	9527	-0.06431174278259277	0.31675947	No	
+row_19	LHX4	LIM homeobox 4 [Source:HGNC Symbol;Acc:HGNC:21734]	11393	-0.2080504298210144	0.22487547	No	
+row_20	SCYL1	SCY1 like pseudokinase 1 [Source:HGNC Symbol;Acc:HGNC:14372]	13670	-0.4206940531730652	0.1266799	No	
+row_21	SHH	sonic hedgehog signaling molecule [Source:HGNC Symbol;Acc:HGNC:10848]	13814	-0.43375852704048157	0.15454672	No	
+row_22	MDGA2	MAM domain containing glycosylphosphatidylinositol anchor 2 [Source:HGNC Symbol;Acc:HGNC:19835]	13962	-0.446776807308197	0.18326698	No	

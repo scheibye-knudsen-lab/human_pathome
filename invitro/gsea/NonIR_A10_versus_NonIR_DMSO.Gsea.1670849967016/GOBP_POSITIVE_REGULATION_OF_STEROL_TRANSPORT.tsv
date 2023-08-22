@@ -1,0 +1,34 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TREM2	triggering receptor expressed on myeloid cells 2 [Source:HGNC Symbol;Acc:HGNC:17761]	9	3.68516206741333	0.115097925	Yes	
+row_1	ABCA12	ATP binding cassette subfamily A member 12 [Source:HGNC Symbol;Acc:HGNC:14637]	123	2.545238733291626	0.18833281	Yes	
+row_2	PLTP	phospholipid transfer protein [Source:HGNC Symbol;Acc:HGNC:9093]	131	2.510516405105591	0.26669234	Yes	
+row_3	ABCA7	ATP binding cassette subfamily A member 7 [Source:HGNC Symbol;Acc:HGNC:37]	256	2.0897412300109863	0.3249907	Yes	
+row_4	APOE	apolipoprotein E [Source:HGNC Symbol;Acc:HGNC:613]	289	2.017303466796875	0.38640958	Yes	
+row_5	LRP1	LDL receptor related protein 1 [Source:HGNC Symbol;Acc:HGNC:6692]	498	1.7224410772323608	0.42825916	Yes	
+row_6	ABCA1	ATP binding cassette subfamily A member 1 [Source:HGNC Symbol;Acc:HGNC:29]	645	1.5839039087295532	0.46939665	Yes	
+row_7	ABCA5	ATP binding cassette subfamily A member 5 [Source:HGNC Symbol;Acc:HGNC:35]	655	1.5719934701919556	0.5181919	Yes	
+row_8	ABCA8	ATP binding cassette subfamily A member 8 [Source:HGNC Symbol;Acc:HGNC:38]	677	1.5541954040527344	0.56572515	Yes	
+row_9	CES1	carboxylesterase 1 [Source:HGNC Symbol;Acc:HGNC:1863]	700	1.5241870880126953	0.6122583	Yes	
+row_10	ABCA3	ATP binding cassette subfamily A member 3 [Source:HGNC Symbol;Acc:HGNC:33]	723	1.5012840032577515	0.6580728	Yes	
+row_11	ABCG4	ATP binding cassette subfamily G member 4 [Source:HGNC Symbol;Acc:HGNC:13884]	1145	1.224997639656067	0.6718278	Yes	
+row_12	ABCA13	ATP binding cassette subfamily A member 13 [Source:HGNC Symbol;Acc:HGNC:14638]	1362	1.1361128091812134	0.69481176	Yes	
+row_13	APOA1	apolipoprotein A1 [Source:HGNC Symbol;Acc:HGNC:600]	2218	0.8701120018959045	0.67198926	No	
+row_14	RXRA	retinoid X receptor alpha [Source:HGNC Symbol;Acc:HGNC:10477]	3007	0.7050058841705322	0.6479142	No	
+row_15	CETP	cholesteryl ester transfer protein [Source:HGNC Symbol;Acc:HGNC:1869]	3307	0.6419510245323181	0.6505276	No	
+row_16	ABCB4	ATP binding cassette subfamily B member 4 [Source:HGNC Symbol;Acc:HGNC:45]	4306	0.48131319880485535	0.607123	No	
+row_17	LIPG	lipase G, endothelial type [Source:HGNC Symbol;Acc:HGNC:6623]	4343	0.476418673992157	0.61996067	No	
+row_18	NR1H3	nuclear receptor subfamily 1 group H member 3 [Source:HGNC Symbol;Acc:HGNC:7966]	4456	0.4633905291557312	0.62793416	No	
+row_19	NR1H2	nuclear receptor subfamily 1 group H member 2 [Source:HGNC Symbol;Acc:HGNC:7965]	5639	0.3150176405906677	0.56852514	No	
+row_20	LDLRAP1	low density lipoprotein receptor adaptor protein 1 [Source:HGNC Symbol;Acc:HGNC:18640]	7125	0.13489465415477753	0.48570165	No	
+row_21	ANXA2	annexin A2 [Source:HGNC Symbol;Acc:HGNC:537]	7151	0.13113316893577576	0.48835048	No	
+row_22	PTCH1	patched 1 [Source:HGNC Symbol;Acc:HGNC:9585]	7759	0.07014122605323792	0.45496675	No	
+row_23	ABCG1	ATP binding cassette subfamily G member 1 [Source:HGNC Symbol;Acc:HGNC:73]	8698	0.0	0.3999779	No	
+row_24	LPCAT3	lysophosphatidylcholine acyltransferase 3 [Source:HGNC Symbol;Acc:HGNC:30244]	9526	-0.08694548904895782	0.35422426	No	
+row_25	ZDHHC8	zinc finger DHHC-type palmitoyltransferase 8 [Source:HGNC Symbol;Acc:HGNC:18474]	9620	-0.09730136394500732	0.35182518	No	
+row_26	EEPD1	endonuclease/exonuclease/phosphatase family domain containing 1 [Source:HGNC Symbol;Acc:HGNC:22223]	10772	-0.21591521799564362	0.29112408	No	
+row_27	NFKBIA	NFKB inhibitor alpha [Source:HGNC Symbol;Acc:HGNC:7797]	11270	-0.27215147018432617	0.2705272	No	
+row_28	SIRT1	sirtuin 1 [Source:HGNC Symbol;Acc:HGNC:14929]	11360	-0.2809147238731384	0.27412367	No	
+row_29	GPS2	G protein pathway suppressor 2 [Source:HGNC Symbol;Acc:HGNC:4550]	11991	-0.35208559036254883	0.2482379	No	
+row_30	SCP2	sterol carrier protein 2 [Source:HGNC Symbol;Acc:HGNC:10606]	12146	-0.36962926387786865	0.25080734	No	
+row_31	CAV1	caveolin 1 [Source:HGNC Symbol;Acc:HGNC:1527]	12712	-0.42846065759658813	0.23112842	No	
+row_32	PPARG	peroxisome proliferator activated receptor gamma [Source:HGNC Symbol;Acc:HGNC:9236]	14987	-0.8116626143455505	0.12328525	No	

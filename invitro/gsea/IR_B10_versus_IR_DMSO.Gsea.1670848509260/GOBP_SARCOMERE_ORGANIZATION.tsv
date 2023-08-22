@@ -1,0 +1,38 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	OBSCN	obscurin, cytoskeletal calmodulin and titin-interacting RhoGEF [Source:HGNC Symbol;Acc:HGNC:15719]	592	1.822283387184143	0.0050156983	No	
+row_1	TNNT1	troponin T1, slow skeletal type [Source:HGNC Symbol;Acc:HGNC:11948]	669	1.7507317066192627	0.038728278	No	
+row_2	CSRP2	cysteine and glycine rich protein 2 [Source:HGNC Symbol;Acc:HGNC:2470]	1396	1.283545970916748	0.024141166	No	
+row_3	MYLK3	myosin light chain kinase 3 [Source:HGNC Symbol;Acc:HGNC:29826]	1832	1.1203030347824097	0.023058517	No	
+row_4	TCAP	titin-cap [Source:HGNC Symbol;Acc:HGNC:11610]	2643	0.9189094305038452	-0.004403839	No	
+row_5	TNNT2	troponin T2, cardiac type [Source:HGNC Symbol;Acc:HGNC:11949]	3326	0.7771709561347961	-0.02745077	No	
+row_6	CAV3	caveolin 3 [Source:HGNC Symbol;Acc:HGNC:1529]	3330	0.7768675088882446	-0.010689613	No	
+row_7	TTN	titin [Source:HGNC Symbol;Acc:HGNC:12403]	4465	0.5753765106201172	-0.06464006	No	
+row_8	PROX1	prospero homeobox 1 [Source:HGNC Symbol;Acc:HGNC:9459]	4520	0.5655803680419922	-0.055475835	No	
+row_9	KLHL41	kelch like family member 41 [Source:HGNC Symbol;Acc:HGNC:16905]	4957	0.5034933686256409	-0.07006465	No	
+row_10	AKAP13	A-kinase anchoring protein 13 [Source:HGNC Symbol;Acc:HGNC:371]	5770	0.39952990412712097	-0.10896766	No	
+row_11	ANKRD23	ankyrin repeat domain 23 [Source:HGNC Symbol;Acc:HGNC:24470]	6003	0.3698742091655731	-0.11450761	No	
+row_12	MYH3	myosin heavy chain 3 [Source:HGNC Symbol;Acc:HGNC:7573]	6612	0.2888014316558838	-0.1438627	No	
+row_13	ACTN2	actinin alpha 2 [Source:HGNC Symbol;Acc:HGNC:164]	6630	0.2868434190750122	-0.13860583	No	
+row_14	MYOZ2	myozenin 2 [Source:HGNC Symbol;Acc:HGNC:1330]	8438	0.07455375790596008	-0.24293798	No	
+row_15	FHOD3	formin homology 2 domain containing 3 [Source:HGNC Symbol;Acc:HGNC:26178]	8460	0.07154001295566559	-0.24260966	No	
+row_16	MYOM2	myomesin 2 [Source:HGNC Symbol;Acc:HGNC:7614]	9505	-0.036813441663980484	-0.30302438	No	
+row_17	CAPN3	calpain 3 [Source:HGNC Symbol;Acc:HGNC:1480]	9590	-0.04597591608762741	-0.30694756	No	
+row_18	SIX4	SIX homeobox 4 [Source:HGNC Symbol;Acc:HGNC:10890]	9887	-0.07632347196340561	-0.3226402	No	
+row_19	CASQ1	calsequestrin 1 [Source:HGNC Symbol;Acc:HGNC:1512]	10401	-0.1442394256591797	-0.34957644	No	
+row_20	PRKAR1A	protein kinase cAMP-dependent type I regulatory subunit alpha [Source:HGNC Symbol;Acc:HGNC:9388]	12030	-0.35499346256256104	-0.43729845	No	
+row_21	KRT19	keratin 19 [Source:HGNC Symbol;Acc:HGNC:6436]	14899	-0.8679072856903076	-0.5865482	No	
+row_22	EDN1	endothelin 1 [Source:HGNC Symbol;Acc:HGNC:3176]	15914	-1.2347538471221924	-0.6190866	Yes	
+row_23	ITGB1	integrin subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:6153]	16232	-1.4212696552276611	-0.6066885	Yes	
+row_24	SRF	serum response factor [Source:HGNC Symbol;Acc:HGNC:11291]	16280	-1.4503153562545776	-0.577825	Yes	
+row_25	FLNC	filamin C [Source:HGNC Symbol;Acc:HGNC:3756]	16382	-1.5288575887680054	-0.55041564	Yes	
+row_26	MYOZ1	myozenin 1 [Source:HGNC Symbol;Acc:HGNC:13752]	16403	-1.5487980842590332	-0.51782185	Yes	
+row_27	CFL2	cofilin 2 [Source:HGNC Symbol;Acc:HGNC:1875]	16533	-1.698862910270691	-0.4883479	Yes	
+row_28	ANKRD1	ankyrin repeat domain 1 [Source:HGNC Symbol;Acc:HGNC:15819]	16749	-2.0143139362335205	-0.45703933	Yes	
+row_29	PLEC	plectin [Source:HGNC Symbol;Acc:HGNC:9069]	16778	-2.0846424102783203	-0.41323233	Yes	
+row_30	MYPN	myopalladin [Source:HGNC Symbol;Acc:HGNC:23246]	16811	-2.1431446075439453	-0.36838442	Yes	
+row_31	WDR1	WD repeat domain 1 [Source:HGNC Symbol;Acc:HGNC:12754]	16887	-2.3481569290161133	-0.3215883	Yes	
+row_32	LDB3	LIM domain binding 3 [Source:HGNC Symbol;Acc:HGNC:15710]	16893	-2.3774290084838867	-0.27004936	Yes	
+row_33	ACTG1	actin gamma 1 [Source:HGNC Symbol;Acc:HGNC:144]	16916	-2.4377455711364746	-0.21819228	Yes	
+row_34	CSRP1	cysteine and glycine rich protein 1 [Source:HGNC Symbol;Acc:HGNC:2469]	17022	-3.036961317062378	-0.15813813	Yes	
+row_35	SYNPO2L	synaptopodin 2 like [Source:HGNC Symbol;Acc:HGNC:23532]	17057	-3.4673211574554443	-0.08453813	Yes	
+row_36	TPM1	tropomyosin 1 [Source:HGNC Symbol;Acc:HGNC:12010]	17079	-3.963653802871704	6.4506964E-4	Yes	

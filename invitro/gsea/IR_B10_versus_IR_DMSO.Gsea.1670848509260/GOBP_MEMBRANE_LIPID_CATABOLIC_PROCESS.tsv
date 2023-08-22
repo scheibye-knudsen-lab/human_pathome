@@ -1,0 +1,35 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ASAH1	N-acylsphingosine amidohydrolase 1 [Source:HGNC Symbol;Acc:HGNC:735]	137	2.7869584560394287	0.07888405	Yes	
+row_1	NEU1	neuraminidase 1 [Source:HGNC Symbol;Acc:HGNC:7758]	199	2.544466972351074	0.15466124	Yes	
+row_2	SMPD2	sphingomyelin phosphodiesterase 2 [Source:HGNC Symbol;Acc:HGNC:11121]	455	1.9782922267913818	0.2014077	Yes	
+row_3	GLA	galactosidase alpha [Source:HGNC Symbol;Acc:HGNC:4296]	629	1.782157063484192	0.24684477	Yes	
+row_4	SMPDL3A	sphingomyelin phosphodiesterase acid like 3A [Source:HGNC Symbol;Acc:HGNC:17389]	661	1.75601065158844	0.29979146	Yes	
+row_5	ACER2	alkaline ceramidase 2 [Source:HGNC Symbol;Acc:HGNC:23675]	769	1.6692965030670166	0.34557816	Yes	
+row_6	SMPDL3B	sphingomyelin phosphodiesterase acid like 3B [Source:HGNC Symbol;Acc:HGNC:21416]	1004	1.4857826232910156	0.37819606	Yes	
+row_7	HEXB	hexosaminidase subunit beta [Source:HGNC Symbol;Acc:HGNC:4879]	1055	1.4524928331375122	0.4205631	Yes	
+row_8	CEL	carboxyl ester lipase [Source:HGNC Symbol;Acc:HGNC:1848]	1084	1.4291760921478271	0.4634928	Yes	
+row_9	SPHK1	sphingosine kinase 1 [Source:HGNC Symbol;Acc:HGNC:11240]	1704	1.1619648933410645	0.4634405	Yes	
+row_10	PPT1	palmitoyl-protein thioesterase 1 [Source:HGNC Symbol;Acc:HGNC:9325]	2126	1.0368496179580688	0.47109446	Yes	
+row_11	NEU4	neuraminidase 4 [Source:HGNC Symbol;Acc:HGNC:21328]	2223	1.0153712034225464	0.4971323	Yes	
+row_12	MGST2	microsomal glutathione S-transferase 2 [Source:HGNC Symbol;Acc:HGNC:7063]	2335	0.9874674081802368	0.52142054	Yes	
+row_13	ACER3	alkaline ceramidase 3 [Source:HGNC Symbol;Acc:HGNC:16066]	2442	0.9652729630470276	0.5453097	Yes	
+row_14	GBA	glucosylceramidase beta [Source:HGNC Symbol;Acc:HGNC:4177]	2480	0.9550637006759644	0.57292575	Yes	
+row_15	HEXA	hexosaminidase subunit alpha [Source:HGNC Symbol;Acc:HGNC:4878]	3153	0.8160279393196106	0.55897766	No	
+row_16	GM2A	GM2 ganglioside activator [Source:HGNC Symbol;Acc:HGNC:4367]	3950	0.6668955087661743	0.53310883	No	
+row_17	GBA3	glucosylceramidase beta 3 (gene/pseudogene) [Source:HGNC Symbol;Acc:HGNC:19069]	4339	0.5986204147338867	0.52903056	No	
+row_18	PRKCD	protein kinase C delta [Source:HGNC Symbol;Acc:HGNC:9399]	5031	0.49328088760375977	0.5039031	No	
+row_19	GBA2	glucosylceramidase beta 2 [Source:HGNC Symbol;Acc:HGNC:18986]	6532	0.30032217502593994	0.42532873	No	
+row_20	FUCA1	alpha-L-fucosidase 1 [Source:HGNC Symbol;Acc:HGNC:4006]	7246	0.21105660498142242	0.39010987	No	
+row_21	SMPD1	sphingomyelin phosphodiesterase 1 [Source:HGNC Symbol;Acc:HGNC:11120]	7883	0.13958539068698883	0.3571763	No	
+row_22	LCT	lactase [Source:HGNC Symbol;Acc:HGNC:6530]	9218	-0.00836794450879097	0.27922893	No	
+row_23	ASAH2	N-acylsphingosine amidohydrolase 2 [Source:HGNC Symbol;Acc:HGNC:18860]	9702	-0.05802932381629944	0.25272185	No	
+row_24	ASAH2B	N-acylsphingosine amidohydrolase 2B [Source:HGNC Symbol;Acc:HGNC:23456]	10489	-0.15460993349552155	0.21146283	No	
+row_25	SMPD3	sphingomyelin phosphodiesterase 3 [Source:HGNC Symbol;Acc:HGNC:14240]	10982	-0.22170358896255493	0.18953255	No	
+row_26	NEU3	neuraminidase 3 [Source:HGNC Symbol;Acc:HGNC:7760]	11008	-0.22520504891872406	0.19509028	No	
+row_27	ACER1	alkaline ceramidase 1 [Source:HGNC Symbol;Acc:HGNC:18356]	11272	-0.25817209482192993	0.1877229	No	
+row_28	GALC	galactosylceramidase [Source:HGNC Symbol;Acc:HGNC:4115]	11974	-0.34897488355636597	0.15750878	No	
+row_29	SMPD4	sphingomyelin phosphodiesterase 4 [Source:HGNC Symbol;Acc:HGNC:32949]	12165	-0.37726953625679016	0.15813543	No	
+row_30	ENPP2	ectonucleotide pyrophosphatase/phosphodiesterase 2 [Source:HGNC Symbol;Acc:HGNC:3357]	12933	-0.48282286524772644	0.12822619	No	
+row_31	NAGA	alpha-N-acetylgalactosaminidase [Source:HGNC Symbol;Acc:HGNC:7631]	13463	-0.5614765286445618	0.114723116	No	
+row_32	SGPL1	sphingosine-1-phosphate lyase 1 [Source:HGNC Symbol;Acc:HGNC:10817]	15531	-1.069467544555664	0.02689432	No	
+row_33	CYP1B1	cytochrome P450 family 1 subfamily B member 1 [Source:HGNC Symbol;Acc:HGNC:2597]	16774	-2.0664775371551514	0.01852618	No	

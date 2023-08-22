@@ -1,0 +1,56 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	DACH1	dachshund family transcription factor 1 [Source:HGNC Symbol;Acc:HGNC:2663]	2023	0.7798951864242554	-0.1058788	No	
+row_1	AICDA	activation induced cytidine deaminase [Source:HGNC Symbol;Acc:HGNC:13203]	5178	0.29533350467681885	-0.2861426	No	
+row_2	BCL6	BCL6 transcription repressor [Source:HGNC Symbol;Acc:HGNC:1001]	7391	0.05680445581674576	-0.4150479	No	
+row_3	INO80	INO80 complex ATPase subunit [Source:HGNC Symbol;Acc:HGNC:26956]	7616	0.03998751565814018	-0.42753667	No	
+row_4	SMARCAL1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a like 1 [Source:HGNC Symbol;Acc:HGNC:11102]	8788	-0.03510572388768196	-0.49569413	No	
+row_5	KAT7	lysine acetyltransferase 7 [Source:HGNC Symbol;Acc:HGNC:17016]	9223	-0.07606005668640137	-0.51991445	No	
+row_6	ATRX	ATRX chromatin remodeler [Source:HGNC Symbol;Acc:HGNC:886]	9450	-0.09595394134521484	-0.5315971	No	
+row_7	WIZ	WIZ zinc finger [Source:HGNC Symbol;Acc:HGNC:30917]	10431	-0.18163534998893738	-0.586125	No	
+row_8	WRNIP1	WRN helicase interacting protein 1 [Source:HGNC Symbol;Acc:HGNC:20876]	10682	-0.20215405523777008	-0.5974639	No	
+row_9	FBH1	F-box DNA helicase 1 [Source:HGNC Symbol;Acc:HGNC:13620]	11016	-0.23050788044929504	-0.6132069	No	
+row_10	CHTF8	chromosome transmission fidelity factor 8 [Source:HGNC Symbol;Acc:HGNC:24353]	11292	-0.2558641731739044	-0.62512696	No	
+row_11	CIZ1	CDKN1A interacting zinc finger protein 1 [Source:HGNC Symbol;Acc:HGNC:16744]	11832	-0.3071400821208954	-0.65169746	No	
+row_12	ZNF830	zinc finger protein 830 [Source:HGNC Symbol;Acc:HGNC:28291]	11896	-0.3133062720298767	-0.65022534	No	
+row_13	LIG3	DNA ligase 3 [Source:HGNC Symbol;Acc:HGNC:6600]	12361	-0.3600139021873474	-0.6715209	No	
+row_14	SSBP1	single stranded DNA binding protein 1 [Source:HGNC Symbol;Acc:HGNC:11317]	12517	-0.3743792176246643	-0.67444134	No	
+row_15	ENDOG	endonuclease G [Source:HGNC Symbol;Acc:HGNC:3346]	12996	-0.41818365454673767	-0.6955987	No	
+row_16	METTL4	methyltransferase 4, N6-adenosine [Source:HGNC Symbol;Acc:HGNC:24726]	13502	-0.4705875813961029	-0.71747625	No	
+row_17	ZMPSTE24	zinc metallopeptidase STE24 [Source:HGNC Symbol;Acc:HGNC:12877]	13691	-0.4905461370944977	-0.7204168	No	
+row_18	POLG2	DNA polymerase gamma 2, accessory subunit [Source:HGNC Symbol;Acc:HGNC:9180]	14140	-0.5475505590438843	-0.7376784	No	
+row_19	DSCC1	DNA replication and sister chromatid cohesion 1 [Source:HGNC Symbol;Acc:HGNC:24453]	14412	-0.5842798948287964	-0.7439442	No	
+row_20	ZRANB3	zinc finger RANBP2-type containing 3 [Source:HGNC Symbol;Acc:HGNC:25249]	14510	-0.5995908975601196	-0.73974365	No	
+row_21	STOML2	stomatin like 2 [Source:HGNC Symbol;Acc:HGNC:14559]	14567	-0.6117173433303833	-0.7329363	No	
+row_22	NBN	nibrin [Source:HGNC Symbol;Acc:HGNC:7652]	14599	-0.616524875164032	-0.7245822	No	
+row_23	CDC7	cell division cycle 7 [Source:HGNC Symbol;Acc:HGNC:1745]	15382	-0.770026683807373	-0.7577781	Yes	
+row_24	SLFN11	schlafen family member 11 [Source:HGNC Symbol;Acc:HGNC:26633]	15521	-0.8008319139480591	-0.7526634	Yes	
+row_25	BLM	BLM RecQ like helicase [Source:HGNC Symbol;Acc:HGNC:1058]	15819	-0.8862659931182861	-0.755472	Yes	
+row_26	TIPIN	TIMELESS interacting protein [Source:HGNC Symbol;Acc:HGNC:30750]	15947	-0.9276963472366333	-0.7476181	Yes	
+row_27	GMNN	geminin DNA replication inhibitor [Source:HGNC Symbol;Acc:HGNC:17493]	16239	-1.0435001850128174	-0.7474798	Yes	
+row_28	DONSON	DNA replication fork stabilization factor DONSON [Source:HGNC Symbol;Acc:HGNC:2993]	16349	-1.1101995706558228	-0.7355577	Yes	
+row_29	BRCA2	BRCA2 DNA repair associated [Source:HGNC Symbol;Acc:HGNC:1101]	16353	-1.1123844385147095	-0.7173773	Yes	
+row_30	FBXO5	F-box protein 5 [Source:HGNC Symbol;Acc:HGNC:13584]	16389	-1.136020302772522	-0.7006853	Yes	
+row_31	PCNA	proliferating cell nuclear antigen [Source:HGNC Symbol;Acc:HGNC:8729]	16464	-1.1850159168243408	-0.6854741	Yes	
+row_32	RFC3	replication factor C subunit 3 [Source:HGNC Symbol;Acc:HGNC:9971]	16485	-1.2163678407669067	-0.66657573	Yes	
+row_33	DBF4	DBF4 zinc finger [Source:HGNC Symbol;Acc:HGNC:17364]	16569	-1.2902462482452393	-0.65015626	Yes	
+row_34	MCM6	minichromosome maintenance complex component 6 [Source:HGNC Symbol;Acc:HGNC:6949]	16667	-1.4204007387161255	-0.6324108	Yes	
+row_35	GINS3	GINS complex subunit 3 [Source:HGNC Symbol;Acc:HGNC:25851]	16775	-1.584933876991272	-0.61253726	Yes	
+row_36	CDK2	cyclin dependent kinase 2 [Source:HGNC Symbol;Acc:HGNC:1771]	16776	-1.5885522365570068	-0.5863232	Yes	
+row_37	E2F8	E2F transcription factor 8 [Source:HGNC Symbol;Acc:HGNC:24727]	16803	-1.6281386613845825	-0.560982	Yes	
+row_38	RFC5	replication factor C subunit 5 [Source:HGNC Symbol;Acc:HGNC:9973]	16816	-1.6529408693313599	-0.53440976	Yes	
+row_39	GINS1	GINS complex subunit 1 [Source:HGNC Symbol;Acc:HGNC:28980]	16832	-1.6940784454345703	-0.5073348	Yes	
+row_40	RFC2	replication factor C subunit 2 [Source:HGNC Symbol;Acc:HGNC:9970]	16863	-1.761759638786316	-0.48002344	Yes	
+row_41	GINS4	GINS complex subunit 4 [Source:HGNC Symbol;Acc:HGNC:28226]	16865	-1.7719227075576782	-0.45084208	Yes	
+row_42	E2F7	E2F transcription factor 7 [Source:HGNC Symbol;Acc:HGNC:23820]	16867	-1.7726354598999023	-0.42164898	Yes	
+row_43	RFC4	replication factor C subunit 4 [Source:HGNC Symbol;Acc:HGNC:9972]	16873	-1.7917454242706299	-0.39237532	Yes	
+row_44	TICRR	TOPBP1 interacting checkpoint and replication regulator [Source:HGNC Symbol;Acc:HGNC:28704]	16884	-1.8606905937194824	-0.36225742	Yes	
+row_45	TIMELESS	timeless circadian regulator [Source:HGNC Symbol;Acc:HGNC:11813]	16937	-2.0200517177581787	-0.33197513	Yes	
+row_46	MCM3	minichromosome maintenance complex component 3 [Source:HGNC Symbol;Acc:HGNC:6945]	16940	-2.025780200958252	-0.29866338	Yes	
+row_47	MCM2	minichromosome maintenance complex component 2 [Source:HGNC Symbol;Acc:HGNC:6944]	16976	-2.1345341205596924	-0.26549402	Yes	
+row_48	DBF4B	DBF4 zinc finger B [Source:HGNC Symbol;Acc:HGNC:17883]	16984	-2.1587908267974854	-0.23028083	Yes	
+row_49	MCM4	minichromosome maintenance complex component 4 [Source:HGNC Symbol;Acc:HGNC:6947]	17008	-2.259875774383545	-0.19433872	Yes	
+row_50	CDT1	chromatin licensing and DNA replication factor 1 [Source:HGNC Symbol;Acc:HGNC:24576]	17011	-2.2737908363342285	-0.1569343	Yes	
+row_51	MCM7	minichromosome maintenance complex component 7 [Source:HGNC Symbol;Acc:HGNC:6950]	17028	-2.3526828289031982	-0.11904982	Yes	
+row_52	MCM5	minichromosome maintenance complex component 5 [Source:HGNC Symbol;Acc:HGNC:6948]	17043	-2.4196484088897705	-0.07994287	Yes	
+row_53	GINS2	GINS complex subunit 2 [Source:HGNC Symbol;Acc:HGNC:24575]	17046	-2.4357593059539795	-0.039865673	Yes	
+row_54	CHTF18	chromosome transmission fidelity factor 18 [Source:HGNC Symbol;Acc:HGNC:18435]	17060	-2.5687801837921143	0.0017609294	Yes	
