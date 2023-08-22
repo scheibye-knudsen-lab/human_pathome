@@ -1,1 +1,5 @@
-# human_pathome
+# The human pathome shows sex specific aging patterns post-development
+
+Little is known about tissue specific changes that occur with aging in humans. Using the description of 33 million histological samples we extract thousands of age- and mortality-associated features from text narratives that we call The Human Pathome (pathoage.com). Notably, we can broadly determine when pathological aging starts, indicating a sexual dimorphism with females aging earlier but slower and males aging later but faster. Using machine learning, we employ unsupervised topic-modelling to identify terms and themes that predict age and mortality. As a proof of principle, we cross reference these terms in PubMed to identify nintedanib as a potential aging intervention and show that nintedanib reduces markers of cellular senescence, reduces pro-fibrotic gene pathways in senescent cells and extends the lifespan of fruit flies. Our findings pave the way for expanded exploitation of population datasets towards discovery of novel aging interventions.
+
+https://www.biorxiv.org/content/10.1101/2023.02.27.530179v1.full
