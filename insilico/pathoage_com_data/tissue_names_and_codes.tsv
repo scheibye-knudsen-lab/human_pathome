@@ -1,0 +1,97 @@
+tissue	name	N	name_en
+T01000	Hud	1422302	Skin
+T03000	Subcutis	137073	Subcutis
+T04000	Mamma	642043	Mammary
+T05000	Hæmatopoietisk og retikuloendotelialt system	2737	Hematopoietic and reticuloendothelial system
+T06000	Knoglemarv	454098	Bone marrow
+T07000	Milt	14193	spleen
+T08000	Lymfeknude	588344	Lymph node
+T09000	Lymfatisk system	2041	Lymphatic system
+T0X000	Blod	318530	Blood
+T10000	Knoglesystem	242284	Skeletal System
+T11000	Knogle (=T10020)	41970	Bone
+T12000	Led	40550	led
+T13000	Skeletmuskulatur	19961	Skeletal muscle
+T14000	Muskulatur på truncus	3273	Musculature of the truncus
+T16000	Bursa	5677	Bursa
+T17000	Sene og seneskede	9546	Late and late
+T1X000	Bløddelsvæv	76942	Soft tissue
+T20000	Respiratoriske system	943207	Respiratory system
+T21000	Næse	103522	Nose
+T22000	Bihule	29415	Sinus
+T23000	Næsesvælgrum	11609	Nasopharynx
+T23000	Rhinopharynx	11609	Rhinopharynx
+T25000	Trachea	12175	Trachea
+T26000	Bronchus	90676	Bronchus
+T27000	Bronkiole	5885	Bronchiole
+T28000	Lunge	177795	Lung
+T29000	Pleura	25499	Pleura
+T30000	Kardiovaskulære system	37457	Cardiovascular system
+T31000	Pericardium	1950	Pericardium
+T32000	Hjerte	27055	Heart
+T34000	Endocardium	2532	Endocardium
+T38000	Mitralklap	1573	Mitral valve
+T39000	Aortaklap	3714	Aortic valve
+T3X000	Perikardievæske og perikardiehule	3368	Pericardial fluid and pericardial cavity
+T40000	Blodkar	61025	Blood vessel
+T41000	Arterie	3947	Artery
+T42000	Aorta	4364	Aorta
+T43000	Koronararterie	1697	Coronary artery
+T44000	Arteria pulmonalis	974	Pulmonary artery
+T45000	Hovedets, halsens og hjernens arterier	37612	Arteries of the head, neck and brain
+T46000	Thorax- og abdominalarterier	1577	Thoracic and abdominal arteries
+T47000	Ekstremitetsarterie	1125	Extremity artery
+T48000	Vene	5858	Vein
+T50000	Fordøjelsessystem	670257	Digestive System
+T51000	Mund	94556	Mouth
+T52000	Læbe	37300	Lip
+T53000	Tunge	45136	Tongue
+T54000	Tand og parodontium	51663	Tooth and periodontium
+T55000	Spytkirtel	75440	salivary gland
+T56000	Lever	156057	Liver
+T57000	Galdeblære	182261	Gall bladder
+T58000	Ekstrahepatisk galdegang	7426	Extrahepatic bile duct
+T59000	Pancreas	29881	Pancreas
+T61000	Tonsil og adenoid	58413	Tonsil and adenoid
+T62000	Esophagus	211166	Esophagus
+T63000	Ventrikel	492121	ventricle
+T64000	Tyndtarm	227830	Small intestine
+T66000	Appendix	226044	Appendix
+T67000	Colon	893585	Colon
+T68000	Rectum	465674	Rectum
+T69000	Anus	62254	Anus
+T71000	Nyre	85244	Kidney
+T72000	Nyrepelvis	9025	renal pelvis
+T73000	Ureter	20786	Ureters
+T74000	Urinblære	250532	Bladder
+T75000	Urethra	36954	Urethra
+T76000	Penis	27528	Penis
+T77000	Prostata og vesicula seminalis	291910	Prostate and seminal vesicles
+T78000	Testis	52505	Testis
+T81000	Vagina	53592	Vagina
+T82000	Uterus	196632	Uterus
+T83000	Cervix uteri	1192565	Cervix uteri
+T84000	Endometrium	1033319	Endometrium
+T85000	Myometrium	96736	Myometrium
+T86000	Tuba, ligament, parametrium og parovariale region	209458	Tuba, ligament, parametrium and parovarian region
+T87000	Ovarium	159303	Ovary
+T88000	Placenta, fosterhinder og navlestreng	67042	Placenta, amniotic membrane and umbilical cord
+T89000	Foster	9414	Fetus
+T90000	Endokrine system	195523	Endocrine system
+T91000	Hypofyse	3698	Pituitary
+T93000	Binyre	11265	adrenal gland
+T96000	Glandula thyroidea	165952	Glandula thyroidea
+T97000	Glandula parathyroidea	17636	Glandula parathyroidea
+T98000	Thymus	4051	Thymus
+TX0000	Nervesystem	183729	Nervous System
+TX6000	Cerebellum	2503	Cerebellum
+TX7000	Medulla oblongata	1404	Medulla oblongata
+TX8000	Kranienerve	894	cranial nerves
+TX9000	Spinal nerve	4765	Spinal nerve
+TXX000	Bulbus oculi	32417	Bulbus oculi
+TXY000	Øre	24148	Ear
+TY1000	Truncus	50691	Truncus
+TY6000	Pelvis	20432	Pelvis
+TY7000	Inguen	11771	The Ingue
+TY8000	Overekstremitet	77895	Upper extremity
+TY9000	Underekstremitet	45878	lower extremity
